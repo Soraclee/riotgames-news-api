@@ -28,8 +28,8 @@ jobs:
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git add data.json
-          git commit -m "Update data.json"
+          git add data/* # Ajoutez tous les fichiers dans le dossier "data"
+          git commit -m "Update data files"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
