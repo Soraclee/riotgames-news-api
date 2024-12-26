@@ -71,17 +71,39 @@ async function scrapePatchNote(url, outputFile) {
 }
 
 // URL et fichiers de sortie pour chaque version (fr, en)
-const urlPatchNoteFr = 'https://www.leagueoflegends.com/fr-fr/news/tags/patch-notes/';
-const urlPatchNoteEn = 'https://www.leagueoflegends.com/en-gb/news/tags/patch-notes/';
 const urlAllNewsFr = 'https://www.leagueoflegends.com/fr-fr/news/';
 const urlAllNewsEn = 'https://www.leagueoflegends.com/en-gb/news/';
+const urlPatchNoteFr = 'https://www.leagueoflegends.com/fr-fr/news/tags/patch-notes/';
+const urlPatchNoteEn = 'https://www.leagueoflegends.com/en-gb/news/tags/patch-notes/';
+const urlGameUpdatesFr = 'https://www.leagueoflegends.com/fr-fr/news/game-updates/';
+const urlGameUpdatesEn = 'https://www.leagueoflegends.com/en-gb/news/game-updates/';
+const urlEsportsFr = 'https://www.leagueoflegends.com/fr-fr/news/esports/';
+const urlEsportsEn = 'https://www.leagueoflegends.com/en-gb/news/esports/';
+const urlDevFr = 'https://www.leagueoflegends.com/fr-fr/news/dev/';
+const urlDevEn = 'https://www.leagueoflegends.com/en-gb/news/dev/';
+const urlLoreFr = 'https://www.leagueoflegends.com/fr-fr/news/lore/';
+const urlLoreEn = 'https://www.leagueoflegends.com/en-gb/news/lore/';
+const urlMediaFr = 'https://www.leagueoflegends.com/fr-fr/news/media/';
+const urlMediaEn = 'https://www.leagueoflegends.com/en-gb/news/media/';
 
 // Lancer les scrapes pour chaque URL
 async function executeScrapes() {
-    await scrapePatchNote(urlPatchNoteFr, 'patchnote-fr.json');
-    await scrapePatchNote(urlPatchNoteEn, 'patchnote-en.json');
+    console.log('Démarrage des scrapes...');
     await scrapePatchNote(urlAllNewsFr, 'allnews-fr.json');
     await scrapePatchNote(urlAllNewsEn, 'allnews-en.json');
+    await scrapePatchNote(urlPatchNoteFr, 'patchnote-fr.json');
+    await scrapePatchNote(urlPatchNoteEn, 'patchnote-en.json');
+    await scrapePatchNote(urlGameUpdatesFr, 'gameupdates-fr.json');
+    await scrapePatchNote(urlGameUpdatesEn, 'gameupdates-en.json');
+    await scrapePatchNote(urlEsportsFr, 'esports-fr.json');
+    await scrapePatchNote(urlEsportsEn, 'esports-en.json');
+    await scrapePatchNote(urlDevFr, 'dev-fr.json');
+    await scrapePatchNote(urlDevEn, 'dev-en.json');
+    await scrapePatchNote(urlLoreFr, 'lore-fr.json');
+    await scrapePatchNote(urlLoreEn, 'lore-en.json');
+    await scrapePatchNote(urlMediaFr, 'media-fr.json');
+    await scrapePatchNote(urlMediaEn, 'media-en.json');
+    console.log('Tous les scrapes sont terminés.');
 }
 
 // Exécution
