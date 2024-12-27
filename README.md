@@ -20,7 +20,7 @@ Dev News :
 
 Esports News :
 
-> English : [https://soraclee.github.io/riotgames-news-api/data/lol/esportsEn.json](https://soraclee.github.io/riotgames-news-api/data/lol/esports-en.json)
+> English : [https://soraclee.github.io/riotgames-news-api/data/lol/esportsEn.json](https://soraclee.github.io/riotgames-news-api/data/lol/esportsEn.json)
 
 > Français : [https://soraclee.github.io/riotgames-news-api/data/lol/esportsFr.json](https://soraclee.github.io/riotgames-news-api/data/lol/esportsFr.json)
 
@@ -70,15 +70,15 @@ Dev News :
 
 Esports News :
 
-> English : [https://soraclee.github.io/riotgames-news-api/data/valorant/esportsEn.json](https://soraclee.github.io/riotgames-news-api/data/valorant/esports-en.json)
+> English : [https://soraclee.github.io/riotgames-news-api/data/valorant/esportsEn.json](https://soraclee.github.io/riotgames-news-api/data/valorant/esportsEn.json)
 
 > Français : [https://soraclee.github.io/riotgames-news-api/data/valorant/esportsFr.json](https://soraclee.github.io/riotgames-news-api/data/valorant/esportsFr.json)
 
 Community News :
 
-> English : [https://soraclee.github.io/riotgames-news-api/data/valorant/communityEn.json](https://soraclee.github.io/riotgames-news-api/data/valorant/community-en.json)
+> English : [https://soraclee.github.io/riotgames-news-api/data/valorant/communityEn.json](https://soraclee.github.io/riotgames-news-api/data/valorant/communityEn.json)
 
-> Français : [https://soraclee.github.io/riotgames-news-api/data/valorant/communityFr.json](https://soraclee.github.io/riotgames-news-api/data/valorant/community-fr.json)
+> Français : [https://soraclee.github.io/riotgames-news-api/data/valorant/communityFr.json](https://soraclee.github.io/riotgames-news-api/data/valorant/communityFr.json)
 
 ## Example Response
 
