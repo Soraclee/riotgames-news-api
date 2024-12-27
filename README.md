@@ -4,49 +4,81 @@ A free API returning League of Legends news.
 
 <sub>**The information is updated automatically every day at 00:00.**</sub>
 
-# API Endpoints
+## API Endpoints (LOL)
 
 All News :
 
-> English : [https://soraclee.github.io/statik-lol-news/data/allnews-en.json](https://soraclee.github.io/statik-lol-news/data/allnews-en.json)
+> English : [https://soraclee.github.io/riotgames-news-api/data/lol/allnews-en.json](https://soraclee.github.io/riotgames-news-api/data/lol/allnews-en.json)
 
-> Français : [https://soraclee.github.io/statik-lol-news/data/allnews-fr.json](https://soraclee.github.io/statik-lol-news/data/allnews-fr.json)
+> Français : [https://soraclee.github.io/riotgames-news-api/data/lol/allnews-fr.json](https://soraclee.github.io/riotgames-news-api/data/lol/allnews-fr.json)
 
 Dev News :
 
-> English : [https://soraclee.github.io/statik-lol-news/data/dev-en.json](https://soraclee.github.io/statik-lol-news/data/dev-en.json)
+> English : [https://soraclee.github.io/riotgames-news-api/data/lol/dev-en.json](https://soraclee.github.io/riotgames-news-api/data/lol/dev-en.json)
 
-> Français : [https://soraclee.github.io/statik-lol-news/data/dev-fr.json](https://soraclee.github.io/statik-lol-news/data/dev-fr.json)
+> Français : [https://soraclee.github.io/riotgames-news-api/data/lol/dev-fr.json](https://soraclee.github.io/riotgames-news-api/data/lol/dev-fr.json)
 
 Esports News :
 
-> English : [https://soraclee.github.io/statik-lol-news/data/esportsnews-en.json](https://soraclee.github.io/statik-lol-news/data/esports-en.json)
+> English : [https://soraclee.github.io/riotgames-news-api/data/lol/esportsnews-en.json](https://soraclee.github.io/riotgames-news-api/data/lol/esports-en.json)
 
-> Français : [https://soraclee.github.io/statik-lol-news/data/esportsnews-fr.json](https://soraclee.github.io/statik-lol-news/data/esports-fr.json)
+> Français : [https://soraclee.github.io/riotgames-news-api/data/lol/esportsnews-fr.json](https://soraclee.github.io/riotgames-news-api/data/lol/esports-fr.json)
 
 Game Updates :
 
-> English : [https://soraclee.github.io/statik-lol-news/data/gameupdates-en.json](https://soraclee.github.io/statik-lol-news/data/gameupdates-en.json)
+> English : [https://soraclee.github.io/riotgames-news-api/data/lol/gameupdates-en.json](https://soraclee.github.io/riotgames-news-api/data/lol/gameupdates-en.json)
 
-> Français : [https://soraclee.github.io/statik-lol-news/data/gameupdates-fr.json](https://soraclee.github.io/statik-lol-news/data/gameupdates-fr.json)
+> Français : [https://soraclee.github.io/riotgames-news-api/data/lol/gameupdates-fr.json](https://soraclee.github.io/riotgames-news-api/data/lol/gameupdates-fr.json)
 
 Lore :
 
-> English : [https://soraclee.github.io/statik-lol-news/data/lore-en.json](https://soraclee.github.io/statik-lol-news/data/lore-en.json)
+> English : [https://soraclee.github.io/riotgames-news-api/data/lol/lore-en.json](https://soraclee.github.io/riotgames-news-api/data/lol/lore-en.json)
 
-> Français : [https://soraclee.github.io/statik-lol-news/data/lore-fr.json](https://soraclee.github.io/statik-lol-news/data/lore-fr.json)
+> Français : [https://soraclee.github.io/riotgames-news-api/data/lol/lore-fr.json](https://soraclee.github.io/riotgames-news-api/data/lol/lore-fr.json)
 
 Media :
 
-> English : [https://soraclee.github.io/statik-lol-news/data/media-en.json](https://soraclee.github.io/statik-lol-news/data/media-en.json)
+> English : [https://soraclee.github.io/riotgames-news-api/data/lol/media-en.json](https://soraclee.github.io/riotgames-news-api/data/lol/media-en.json)
 
-> Français : [https://soraclee.github.io/statik-lol-news/data/media-fr.json](https://soraclee.github.io/statik-lol-news/data/media-fr.json)
+> Français : [https://soraclee.github.io/riotgames-news-api/data/lol/media-fr.json](https://soraclee.github.io/riotgames-news-api/data/lol/media-fr.json)
 
 Patch Notes :
 
-> English : [https://soraclee.github.io/statik-lol-news/data/patchnote-en.json](https://soraclee.github.io/statik-lol-news/data/patchnote-en.json)
+> English : [https://soraclee.github.io/riotgames-news-api/data/lol/patchnote-en.json](https://soraclee.github.io/riotgames-news-api/data/lol/patchnote-en.json)
 
-> Français : [https://soraclee.github.io/statik-lol-news/data/patchnote-fr.json](https://soraclee.github.io/statik-lol-news/data/patchnote-fr.json)
+> Français : [https://soraclee.github.io/riotgames-news-api/data/lol/patchnote-fr.json](https://soraclee.github.io/riotgames-news-api/data/lol/patchnote-fr.json)
+
+## API Endpoints (VALORANT)
+
+All News :
+
+> English : [https://soraclee.github.io/riotgames-news-api/data/valorant/allnews-en.json](https://soraclee.github.io/riotgames-news-api/data/valorant/allnews-en.json)
+
+> Français : [https://soraclee.github.io/riotgames-news-api/data/valorant/allnews-fr.json](https://soraclee.github.io/riotgames-news-api/data/valorant/allnews-fr.json)
+
+Patch Notes :
+
+> English : [https://soraclee.github.io/riotgames-news-api/data/valorant/patchnote-en.json](https://soraclee.github.io/riotgames-news-api/data/valorant/patchnote-en.json)
+
+> Français : [https://soraclee.github.io/riotgames-news-api/data/valorant/patchnote-fr.json](https://soraclee.github.io/riotgames-news-api/data/valorant/patchnote-fr.json)
+
+Dev News :
+
+> English : [https://soraclee.github.io/riotgames-news-api/data/valorant/dev-en.json](https://soraclee.github.io/riotgames-news-api/data/valorant/dev-en.json)
+
+> Français : [https://soraclee.github.io/riotgames-news-api/data/valorant/dev-fr.json](https://soraclee.github.io/riotgames-news-api/data/valorant/dev-fr.json)
+
+Esports News :
+
+> English : [https://soraclee.github.io/riotgames-news-api/data/valorant/esportsnews-en.json](https://soraclee.github.io/riotgames-news-api/data/valorant/esports-en.json)
+
+> Français : [https://soraclee.github.io/riotgames-news-api/data/valorant/esports-fr.json](https://soraclee.github.io/riotgames-news-api/data/valorant/esports-fr.json)
+
+Community News :
+
+> English : [https://soraclee.github.io/riotgames-news-api/data/valorant/communitynews-en.json](https://soraclee.github.io/riotgames-news-api/data/valorant/community-en.json)
+
+> Français : [https://soraclee.github.io/riotgames-news-api/data/valorant/communitynews-fr.json](https://soraclee.github.io/riotgames-news-api/data/valorant/community-fr.json)
 
 ## Example Response
 
