@@ -3,6 +3,7 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
 
+
 // Fonction de délai aléatoire
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
