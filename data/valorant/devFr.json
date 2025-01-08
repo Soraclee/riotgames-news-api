@@ -1,5 +1,67 @@
 [
   {
+    "title": "Bienvenue dans la saison 2025",
+    "publishedAt": "2025-01-07T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=cUnr42sucN"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/52a969ba9bfc59478530177cd848ef6d6ab45e31-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/327426976d8b9c9d05f2fdb4368d5d7f08127dac-1920x1080.jpg",
+      "colors": {
+        "primary": "#5A3D2D",
+        "secondary": "#F9E5DC",
+        "label": "#331A0D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Anna Donlon, studio head, vous accueille chaleureusement dans la 5e année de VALORANT."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "544cdf99-1ae5-4f44-832e-ea95f2e8410d.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "32yRqEFEn6D7GlHXV9hzEC",
+      "publishDate": "2025-01-07T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Comportement des joueurs, équilibrage et anti-triche // Dev Updates",
     "publishedAt": "2024-09-20T16:00:00.000Z",
     "action": {
@@ -4523,67 +4585,6 @@
       "contentId": "articles.bltf4f3c8b5c94225af.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "dJpBm4OmhtpmiAEkDNKqD8",
-      "publishDate": "2020-12-12T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Faire confiance au processus d'équilibrage : données et perspective",
-    "publishedAt": "2020-12-12T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/trust-the-balance-process-data-and-insights/"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/52a969ba9bfc59478530177cd848ef6d6ab45e31-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d3f05520d1ab3c4de16cf6c4fd7fb87d912b6dfc-1920x1080.jpg",
-      "colors": {
-        "primary": "#241213",
-        "secondary": "#F9DCF3",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Retrouvez notre équipe Insights pour une exploration des données en profondeur et découvrez comment nous abordons l'équilibrage à travers l'exemple de Sage."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.bltd1fed6b1f0804548.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "jEln45CgOQD4spzxfFNWMO",
       "publishDate": "2020-12-12T16:00:00.000Z"
     }
   }
