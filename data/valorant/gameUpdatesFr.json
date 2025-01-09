@@ -1,5 +1,66 @@
 [
   {
+    "title": "Tejo : homme de terrain",
+    "publishedAt": "2025-01-08T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/tejo-man-of-action"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/52a969ba9bfc59478530177cd848ef6d6ab45e31-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/39e592e2baec6235bbf0be647bc547e082d86aad-1920x1080.png",
+      "colors": {
+        "primary": "#120D09",
+        "secondary": "#FFFBD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Rien de bien compliqué. Je les débusque. Vous les tuez."
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "a186aaff-14a4-436a-a8fc-d9be563ac48c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "w5Y1buu43ZclY4xZZphnpu",
+      "publishDate": "2025-01-08T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 10.00 de VALORANT",
     "publishedAt": "2025-01-07T14:00:00.000Z",
     "action": {
@@ -56,7 +117,7 @@
     "analytics": {
       "contentId": "96ae8a22-bed9-40d4-99d2-d2a17e00317a.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "AJJDAXmVTF2HnAYqO3Ot3e",
+      "rev": "w5Y1buu43ZclY4xZZqhQ8i",
       "publishDate": "2025-01-07T14:00:00.000Z"
     }
   },
@@ -118,7 +179,7 @@
     "analytics": {
       "contentId": "159cf29b-f8a1-4bde-9ea8-c8b0384f0b0f.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "32yRqEFEn6D7GlHXV9hzEC",
+      "rev": "aLIIQ7Q5L2eXkJOQZE6zxe",
       "publishDate": "2025-01-06T15:00:00.000Z"
     }
   },
@@ -180,7 +241,7 @@
     "analytics": {
       "contentId": "95ec145a-cf9b-4c74-b537-ab4aa9116cc8.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "32yRqEFEn6D7GlHXV9hzEC",
+      "rev": "aLIIQ7Q5L2eXkJOQZE6zxe",
       "publishDate": "2025-01-06T14:00:00.000Z"
     }
   },
@@ -4538,68 +4599,6 @@
       "contentLocale": "fr-fr",
       "rev": "IN03FCy14OOjYlZR33hTLa",
       "publishDate": "2023-06-27T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "CONFRONTATION // Bande-annonce des skins Nouvelles frontières - VALORANT",
-    "publishedAt": "2023-06-26T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=a0nHKvTYTt0"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/52a969ba9bfc59478530177cd848ef6d6ab45e31-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/07c9f06c05b79025044ce9e0bf6a063a03ddaf15-1920x1080.jpg",
-      "colors": {
-        "primary": "#201410",
-        "secondary": "#F9EFDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Rencontre entre l'acier brûlant et le froid de l'espace. Expédiez la vermine tout droit vers le cimetière avec le Phantom, l'Odin, le Marshal, le Sheriff et la hache de mêlée Nouvelles frontières."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt823ee719f6cc2464.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaEHy75",
-      "publishDate": "2023-06-26T15:00:00.000Z"
     }
   }
 ]

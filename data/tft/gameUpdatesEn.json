@@ -1,5 +1,68 @@
 [
   {
+    "title": "Fortune Favors the Hungry | Mini Cinematic - TFT",
+    "publishedAt": "2025-01-09T02:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "7FCOVjRcVWk",
+        "url": "https://www.youtube.com/watch?v=7FCOVjRcVWk"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6ba512e3de90093e1b04d5cb2abfe47fddd7c5b4-1920x1080.jpg",
+      "colors": {
+        "primary": "#323864",
+        "secondary": "#DCF2F9",
+        "label": "#10153F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Chibi Mythmaker Zoe sends Chibi Prestige Porcelain Ezreal on a delicious quest during the new year."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "cd0641fe-be2f-4707-ae41-a8791a3aeda3.en-us",
+      "contentLocale": "en-us",
+      "rev": "w5Y1buu43ZclY4xZZs2tL6",
+      "publishDate": "2025-01-09T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Arcane Warwick Unbound Tactician Spotlight",
     "publishedAt": "2024-12-16T16:00:00.000Z",
     "action": {
@@ -4624,68 +4687,6 @@
       "contentLocale": "en-us",
       "rev": "RgVPW4F7vaUxBWEhHRgAgp",
       "publishDate": "2023-10-31T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Teamfight Tactics patch 13.21 notes",
-    "publishedAt": "2023-10-24T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/teamfight-tactics-patch-13-21-notes/"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e74f78d76ceb52f5f722efe884b36210f203fca0-1280x720.jpg",
-      "colors": {
-        "primary": "#170B0C",
-        "secondary": "#FFE2D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "13.21 is our set Championship patch, meaning we’re making smaller changes, mostly aimed at the units and traits that need a bit of a nudge to shine in the current meta. "
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt4f91e15086937896.en-us",
-      "contentLocale": "en-us",
-      "rev": "lESIXfhUM7GwGlQ32wtLkp",
-      "publishDate": "2023-10-24T18:00:00.000Z"
     }
   }
 ]
