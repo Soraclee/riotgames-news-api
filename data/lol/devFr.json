@@ -2493,6 +2493,69 @@
     }
   },
   {
+    "title": "Dev Update : Bienvenue à Noxus",
+    "publishedAt": "2024-01-08T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "Q1QofM7RMjo",
+        "url": "https://www.youtube.com/watch?v=Q1QofM7RMjo"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8042925bcfda5fa8bcfc35a939641fc774f1175d-1920x1080.jpg",
+      "colors": {
+        "primary": "#1A0D0F",
+        "secondary": "#F9E5DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un aperçu de tout ce qu'il faut savoir sur la première saison de 2025."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "a8179f15-738e-4d44-873f-7da181425ea5.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "tW1iVB3M02HkZ9xlNcYl4E",
+      "publishDate": "2024-01-08T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Résumé : aperçu de la saison 2024",
     "publishedAt": "2024-01-05T16:00:00.000Z",
     "action": {
@@ -4602,68 +4665,6 @@
       "contentId": "articles.blt6a390c5d9e659ed3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "jEln45CgOQD4spzxfDUiM7",
-      "publishDate": "2023-04-28T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Résumé : Dev Update mi-saison, bots et champions",
-    "publishedAt": "2023-04-28T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tl-dw-midseason-bots-champs-dev-update/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0692d62a8aaffd4eb0f369a9de0f2594280ae7df-1920x1080.jpg",
-      "colors": {
-        "primary": "#0B0905",
-        "secondary": "#FFF9D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un bref résumé des projets de Riot Brightmoon, Meddler et Reav3."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt5e9a36f074933937.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "jEln45CgOQD4spzxfEkCjy",
       "publishDate": "2023-04-28T16:00:00.000Z"
     }
   }
