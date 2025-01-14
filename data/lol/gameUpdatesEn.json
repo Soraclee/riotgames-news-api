@@ -1,5 +1,68 @@
 [
   {
+    "title": "Radiant Serpent Sett Launch Trailer",
+    "publishedAt": "2025-01-13T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "2MzSM_lHy2Y",
+        "url": "https://www.youtube.com/watch?v=2MzSM_lHy2Y"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/32e1bf2da4a51db7a6ad7cdbc52b8b2a718014f6-1920x1080.jpg",
+      "colors": {
+        "primary": "#201710",
+        "secondary": "#FCFFD6",
+        "label": "#060606"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Hometown hero, coming through. Fight in top form with Radiant Serpent Sett today."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d422ccc6-19a7-4aa7-a135-1c34d1ee408a.en-us",
+      "contentLocale": "en-us",
+      "rev": "aLIIQ7Q5L2eXkJOQaWSYuK",
+      "publishDate": "2025-01-13T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Spirit Blossom Sett Chibi Champion Showcase",
     "publishedAt": "2025-01-10T14:00:00.000Z",
     "action": {
@@ -497,7 +560,7 @@
     "analytics": {
       "contentId": "5dde154c-a74d-47ac-b050-9a1d1dbc4842.en-us",
       "contentLocale": "en-us",
-      "rev": "tW1iVB3M02HkZ9xlNtnI8R",
+      "rev": "w5Y1buu43ZclY4xZaKZ84i",
       "publishDate": "2025-01-07T19:00:00.000Z"
     }
   },
@@ -817,68 +880,6 @@
     }
   },
   {
-    "title": "Patch 14.24 Notes",
-    "publishedAt": "2024-12-10T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-14-24-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 4131,
-        "width": 8345,
-        "aspectRatio": 2.0200919874122487
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/17073231646b993fe3669494328c13ffa2ab9d92-8345x4131.jpg",
-      "colors": {
-        "primary": "#1D1224",
-        "secondary": "#F9DCF5",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "We’re taking a trip into the Arcane, welcome to 14.24!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "c6edb0a4-a3f4-489c-98b3-d6c775d3ce13.en-us",
-      "contentLocale": "en-us",
-      "rev": "y6qAFx3KEt65PvSAF1CTwG",
-      "publishDate": "2024-12-10T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Teamfight Tactics patch 14.24 notes",
     "publishedAt": "2024-12-10T19:00:00.000Z",
     "action": {
@@ -938,6 +939,68 @@
       "contentId": "dabf61f8-21ff-410b-940c-c199484dc381.en-us",
       "contentLocale": "en-us",
       "rev": "CsJhS699U5wscrFy7YNNFW",
+      "publishDate": "2024-12-10T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 14.24 Notes",
+    "publishedAt": "2024-12-10T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-14-24-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 4131,
+        "width": 8345,
+        "aspectRatio": 2.0200919874122487
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/17073231646b993fe3669494328c13ffa2ab9d92-8345x4131.jpg",
+      "colors": {
+        "primary": "#1D1224",
+        "secondary": "#F9DCF5",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "We’re taking a trip into the Arcane, welcome to 14.24!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "c6edb0a4-a3f4-489c-98b3-d6c775d3ce13.en-us",
+      "contentLocale": "en-us",
+      "rev": "y6qAFx3KEt65PvSAF1CTwG",
       "publishDate": "2024-12-10T19:00:00.000Z"
     }
   },
@@ -2576,6 +2639,68 @@
     }
   },
   {
+    "title": "Ambessa Abilities Rundown",
+    "publishedAt": "2024-10-22T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/ambessa-abilities-rundown"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1133,
+        "width": 1920,
+        "aspectRatio": 1.6946160635481025
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/88cd73f98027db3d39a2bce3caf613c02e329dc0-1920x1133.jpg",
+      "colors": {
+        "primary": "#1F120F",
+        "secondary": "#FFE4D6",
+        "label": "#050505"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Show no mercy with Ambessa in 14.22."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "3e4c2bda-d6fe-4efd-a375-529638a0d8d7.en-us",
+      "contentLocale": "en-us",
+      "rev": "ZxCjdMWwjhy9DmKAIaWcPT",
+      "publishDate": "2024-10-22T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Bridge of Progress: ARAM Trailer",
     "publishedAt": "2024-10-22T15:00:00.000Z",
     "action": {
@@ -2639,12 +2764,13 @@
     }
   },
   {
-    "title": "Ambessa Abilities Rundown",
-    "publishedAt": "2024-10-22T15:00:00.000Z",
+    "title": "Arcane In-Game Preview: Come Play",
+    "publishedAt": "2024-10-16T15:00:00.000Z",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "url": "/en-us/news/game-updates/ambessa-abilities-rundown"
+        "youtubeId": "rR5vyzjGwmk",
+        "url": "https://www.youtube.com/watch?v=rR5vyzjGwmk"
       }
     },
     "product": {
@@ -2672,21 +2798,21 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1133,
+        "height": 1080,
         "width": 1920,
-        "aspectRatio": 1.6946160635481025
+        "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/88cd73f98027db3d39a2bce3caf613c02e329dc0-1920x1133.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9ff86200eed0c2566469e2f5834890df2b0c9050-1920x1080.jpg",
       "colors": {
-        "primary": "#1F120F",
-        "secondary": "#FFE4D6",
-        "label": "#050505"
+        "primary": "#311B18",
+        "secondary": "#F9E6DC",
+        "label": "#020100"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Show no mercy with Ambessa in 14.22."
+      "body": "Arcane’s coming to all of Riot’s games—learn how and when right here."
     },
     "category": {
       "title": "Game Updates",
@@ -2694,10 +2820,10 @@
       "machineName": "game-updates"
     },
     "analytics": {
-      "contentId": "3e4c2bda-d6fe-4efd-a375-529638a0d8d7.en-us",
+      "contentId": "0eb53cde-0730-4cdd-80f7-cba0911303b9.en-us",
       "contentLocale": "en-us",
-      "rev": "ZxCjdMWwjhy9DmKAIaWcPT",
-      "publishDate": "2024-10-22T15:00:00.000Z"
+      "rev": "YN8truRCqnchJPC7V01aNT",
+      "publishDate": "2024-10-16T15:00:00.000Z"
     }
   },
   {
@@ -2759,69 +2885,6 @@
       "contentId": "7762f0fd-984d-4dac-9d48-b889006d9653.en-us",
       "contentLocale": "en-us",
       "rev": "jvX45fVrMTONcXvY2OBaTo",
-      "publishDate": "2024-10-16T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Arcane In-Game Preview: Come Play",
-    "publishedAt": "2024-10-16T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "rR5vyzjGwmk",
-        "url": "https://www.youtube.com/watch?v=rR5vyzjGwmk"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9ff86200eed0c2566469e2f5834890df2b0c9050-1920x1080.jpg",
-      "colors": {
-        "primary": "#311B18",
-        "secondary": "#F9E6DC",
-        "label": "#020100"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Arcane’s coming to all of Riot’s games—learn how and when right here."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "0eb53cde-0730-4cdd-80f7-cba0911303b9.en-us",
-      "contentLocale": "en-us",
-      "rev": "YN8truRCqnchJPC7V01aNT",
       "publishDate": "2024-10-16T15:00:00.000Z"
     }
   },
@@ -4644,69 +4707,6 @@
       "contentLocale": "en-us",
       "rev": "YaKEzcVhnb7P0fmfv4SR7p",
       "publishDate": "2024-07-30T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Aurora Champion Spotlight",
-    "publishedAt": "2024-07-18T18:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "L8Za9xjMg84",
-        "url": "https://www.youtube.com/watch?v=L8Za9xjMg84"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/79f7cfb0a998ea849cafde3a4a6cab835606ab0a-1920x1080.jpg",
-      "colors": {
-        "primary": "#0E1D1D",
-        "secondary": "#DCDCF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Jump down the rabbit hole with the Aurora Champion Spotlight."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "c0567a50-39d1-4dd0-8474-7dbce9694cb5",
-      "contentLocale": "en-us",
-      "rev": "8LlKqJjbNRckfBQsLRMstP",
-      "publishDate": "2024-07-18T18:00:00.000Z"
     }
   }
 ]
