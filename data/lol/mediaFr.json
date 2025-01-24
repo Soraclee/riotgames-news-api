@@ -1,5 +1,68 @@
 [
   {
+    "title": "Musique de Mel",
+    "publishedAt": "2025-01-23T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "ExTq_JH2c1Q",
+        "url": "https://www.youtube.com/watch?v=ExTq_JH2c1Q"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/82a8694ffde5d91cc853ed86e3373427d9a203e3-1920x1080.jpg",
+      "colors": {
+        "primary": "#341A1B",
+        "secondary": "#F9E9DC",
+        "label": "#050101"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le son d'une certitude infaillible. Écoutez la nouvelle musique audacieuse de Mel, Reflet de l'âme."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "ef1c89b3-49f4-4b34-9234-1d253b4f20be.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "pjc0gZ7zw0jnhEKOMzCsBA",
+      "publishDate": "2025-01-23T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Le pont entre les mondes",
     "publishedAt": "2025-01-21T16:00:00.000Z",
     "action": {
@@ -58,7 +121,7 @@
     "analytics": {
       "contentId": "576321ef-2868-4432-8b6f-597cba7bbe99.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "yjuqByVZ1YaJMqC1HLN4vE",
+      "rev": "pjc0gZ7zw0jnhEKOMzCZM4",
       "publishDate": "2025-01-21T16:00:00.000Z"
     }
   },
@@ -4533,69 +4596,6 @@
       "contentLocale": "fr-fr",
       "rev": "bxuuTlbyftRPueMcYQb8IZ",
       "publishDate": "2022-08-10T13:04:09.000Z"
-    }
-  },
-  {
-    "title": "Musique du champion Udyr",
-    "publishedAt": "2022-08-08T10:27:41.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "YLC-CLyaHw4",
-        "url": "https://www.youtube.com/watch?v=YLC-CLyaHw4"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1809,
-        "aspectRatio": 1.675
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4835f3512afb4bd0f260cb928f02127aeceadcc6-1809x1080.jpg",
-      "colors": {
-        "primary": "#2C1E16",
-        "secondary": "#F9F1DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Écoutez le thème officiel d'Udyr et allez voir les premières explorations de sa MVG."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt94df9e64f185b401.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "bxuuTlbyftRPueMcYQb8IZ",
-      "publishDate": "2022-08-08T10:27:41.000Z"
     }
   }
 ]
