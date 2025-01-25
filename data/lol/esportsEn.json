@@ -1,5 +1,68 @@
 [
   {
+    "title": "Into the Arcane Tactician’s Crown Announcement",
+    "publishedAt": "2025-01-24T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/esports/into-the-arcane-tacticians-crown-announcement/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/097752b3439fbeaf4b83602bbf528e4f72af51b5-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8AE9A",
+        "secondary": "#333229",
+        "label": "#AC9465"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Details on event dates, format, prize pool, and more."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "b4a16407-f535-421c-a47e-be8da66f061d.en-us",
+      "contentLocale": "en-us",
+      "rev": "pjc0gZ7zw0jnhEKON8Gcsu",
+      "publishDate": "2025-01-24T15:00:00.000Z"
+    }
+  },
+  {
     "title": "TFT Macao Open Finals Ceremony",
     "publishedAt": "2024-12-17T05:00:00.000Z",
     "action": {
@@ -4659,69 +4722,6 @@
       "contentLocale": "en-us",
       "rev": "qZXvkjig7TQff0ZQAF3dUc",
       "publishDate": "2023-11-19T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "T1 vs WBG | THE GLORY | Finals Tease | Worlds 2023",
-    "publishedAt": "2023-11-19T05:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "3thbqHHbjBg",
-        "url": "https://www.youtube.com/watch?v=3thbqHHbjBg"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/32bc015b3bbe597706d15e1852c8c0461aa209e9-1920x1080.jpg",
-      "colors": {
-        "primary": "#0C0C19",
-        "secondary": "#FFD6D9",
-        "label": "#010101"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Countless hours. Endless nights. The grind has led to this moment. A chance at ultimate glory."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt6b523b437c8f1a10.en-us",
-      "contentLocale": "en-us",
-      "rev": "qZXvkjig7TQff0ZQAF3dUc",
-      "publishDate": "2023-11-19T05:00:00.000Z"
     }
   }
 ]
