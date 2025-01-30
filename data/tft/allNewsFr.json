@@ -1,5 +1,68 @@
 [
   {
+    "title": "Dev Double Up : Tacticiens libérés et chibis",
+    "publishedAt": "2025-01-29T14:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "_6T2ImzHMaY",
+        "url": "https://www.youtube.com/watch?v=_6T2ImzHMaY"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/85acf9176afcffd41219d3bcaa84a79f1f97f29c-1920x1080.jpg",
+      "colors": {
+        "primary": "#281A14",
+        "secondary": "#F9EADC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les devs TFT à Singapour expliquent comment ils créent des Tacticiens et fêtent l'année du serpent."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "0ce49509-c3c6-4c53-a834-b1833ee6571c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Oj1pu7KEKfAbSWWXOdRUyq",
+      "publishDate": "2025-01-29T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation de Jhin démiurge cosmique libéré",
     "publishedAt": "2025-01-24T19:00:00.000Z",
     "action": {
@@ -58,7 +121,7 @@
     "analytics": {
       "contentId": "0854e848-deec-4377-bf89-1c9de8ef04a8.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "ZuGJZYV6U1kQFQ9ve01Bk7",
+      "rev": "u5eQTH26jhyR3oUltHpn8q",
       "publishDate": "2025-01-24T19:00:00.000Z"
     }
   },
@@ -120,7 +183,7 @@
     "analytics": {
       "contentId": "0090a672-16e4-426d-98cb-dff829d95969.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "pjc0gZ7zw0jnhEKON8cHSq",
+      "rev": "Oj1pu7KEKfAbSWWXOdRUyq",
       "publishDate": "2025-01-24T15:00:00.000Z"
     }
   },
@@ -183,7 +246,7 @@
     "analytics": {
       "contentId": "fd2c7c66-5d32-49a9-bf56-514dae1ed354.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "ZuGJZYV6U1kQFQ9ve01Bk7",
+      "rev": "Oj1pu7KEKfAbSWWXOdRUyq",
       "publishDate": "2025-01-24T14:00:00.000Z"
     }
   },
@@ -246,7 +309,7 @@
     "analytics": {
       "contentId": "898c7281-0518-4be6-90bc-be598f0ee27d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "ZuGJZYV6U1kQFQ9ve01Bk7",
+      "rev": "Oj1pu7KEKfAbSWWXOdRUyq",
       "publishDate": "2025-01-23T19:00:00.000Z"
     }
   },
@@ -309,7 +372,7 @@
     "analytics": {
       "contentId": "f89769da-afb0-4864-a787-a74427e72702.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "ZuGJZYV6U1kQFQ9ve01Bk7",
+      "rev": "Oj1pu7KEKfAbSWWXOdRUyq",
       "publishDate": "2025-01-23T14:00:00.000Z"
     }
   },
@@ -601,7 +664,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6ba512e3de90093e1b04d5cb2abfe47fddd7c5b4-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6ba512e3de90093e1b04d5cb2abfe47fddd7c5b4-1920x1080.jpg",
       "colors": {
         "primary": "#323864",
         "secondary": "#DCF2F9",
@@ -4631,69 +4694,6 @@
       "contentLocale": "fr-fr",
       "rev": "2eqiUp79DxBCItwrHsUbv7",
       "publishDate": "2024-08-27T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation du champion chibi Lulu",
-    "publishedAt": "2024-08-27T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=v7r2atBhAAk"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ac93c06f740a03e817b121630ad0d08d1617b9ae-1920x1080.jpg",
-      "colors": {
-        "primary": "#433922",
-        "secondary": "#F9EBDC",
-        "label": "#171206"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Ça avait un goût violet... et pétillant ! La magie de Lulu chibi dans la Convergence !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "44f9385b-544a-4575-91c3-8d7fe020fa97",
-      "contentLocale": "fr-fr",
-      "rev": "AE3hjGWNkNE6aGQMMhBiIp",
-      "publishDate": "2024-08-27T16:00:00.000Z"
     }
   }
 ]

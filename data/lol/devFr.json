@@ -1,5 +1,68 @@
 [
   {
+    "title": "Dev Double Up : Tacticiens libérés et chibis",
+    "publishedAt": "2025-01-29T14:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "_6T2ImzHMaY",
+        "url": "https://www.youtube.com/watch?v=_6T2ImzHMaY"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/85acf9176afcffd41219d3bcaa84a79f1f97f29c-1920x1080.jpg",
+      "colors": {
+        "primary": "#281A14",
+        "secondary": "#F9EADC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les devs TFT à Singapour expliquent comment ils créent des Tacticiens et fêtent l'année du serpent."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "70d36cc4-fcee-43c2-8262-aad9410cb7b9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "K4nrWcFKPwBYuiR3kToI8W",
+      "publishDate": "2025-01-29T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Essences bleues et XP de compte",
     "publishedAt": "2025-01-15T16:00:00.000Z",
     "action": {
@@ -4603,68 +4666,6 @@
       "contentId": "articles.blt57a9953db5a043ab.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tG8aRZvgYHVPamBbJHNKP7",
-      "publishDate": "2023-04-28T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : Amélioration des bots",
-    "publishedAt": "2023-04-28T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-leveling-up-bots/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4dea123d074fbfecb9a1e3d7d9ee9d4a23cbee08-1920x1080.jpg",
-      "colors": {
-        "primary": "#4D3F27",
-        "secondary": "#F9F4DC",
-        "label": "#231909"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Si vous ne pouvez pas aimer votre bot, comment arriverez-vous à aimer celui des autres ?"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt88b0e5410e73c3b8.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "IN03FCy14OOjYlZR30YWUa",
       "publishDate": "2023-04-28T16:00:00.000Z"
     }
   }
