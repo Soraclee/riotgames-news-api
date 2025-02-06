@@ -1,5 +1,69 @@
 [
   {
+    "title": "Présentation des momies tristes chibis",
+    "publishedAt": "2025-02-05T14:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "oPcEAAtd_Hg",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=oPcEAAtd_Hg"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/049fbaae790c59cf3dd7f9d48fc93f033fc27823-1920x1080.jpg",
+      "colors": {
+        "primary": "#5C4F2E",
+        "secondary": "#E4F9DC",
+        "label": "#352A0D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Voulez-vous être leur ami ? Amumu chibi et Amumu fêtard chibi arrivent dans le patch 13.5 de TFT ! "
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "bd05ebec-7d9c-4038-8dee-7ca2488f5963.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "xPMcyXAfMlBvNZkGC3lTY7",
+      "publishDate": "2025-02-05T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 13.5 de Teamfight Tactics (2025)",
     "publishedAt": "2025-02-04T19:00:00.000Z",
     "action": {
@@ -120,7 +184,7 @@
     "analytics": {
       "contentId": "e021caae-4813-4bed-a67e-1d67e5ce4c77.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "PgOVk8o0lOm5VJulXIYKbI",
+      "rev": "WSq54hcEfYnPibD6CFW4n1",
       "publishDate": "2025-02-04T19:00:00.000Z"
     }
   },
@@ -182,7 +246,7 @@
     "analytics": {
       "contentId": "e72ea31d-601c-4651-b580-4514a34c22fa.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "PgOVk8o0lOm5VJulXH9NZk",
+      "rev": "lljV5Ea46R5tBblKewxVPW",
       "publishDate": "2025-02-04T17:30:00.000Z"
     }
   },
@@ -753,68 +817,6 @@
     }
   },
   {
-    "title": "Notes de patch 25.S1.2",
-    "publishedAt": "2025-01-22T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-s1-2-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/af7173f343e6f253fb19efaf7f30ae8c095021ca-1920x1080.jpg",
-      "colors": {
-        "primary": "#0F1E1E",
-        "secondary": "#D6FFE6",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Prosternez-vous devant le patch 25.S1.2 ! 👑"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "096fc010-0e93-43db-9776-ec7ae9dc9773.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "K4nrWcFKPwBYuiR3kJ9ieq",
-      "publishDate": "2025-01-22T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Notes de patch 13.4 de Teamfight Tactics (2025)",
     "publishedAt": "2025-01-22T19:00:00.000Z",
     "action": {
@@ -874,6 +876,68 @@
       "contentId": "7dbe5d97-93ea-4b2d-a2aa-7ab137f032a0.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "pjc0gZ7zw0jnhEKOMp2Ym0",
+      "publishDate": "2025-01-22T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.S1.2",
+    "publishedAt": "2025-01-22T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-s1-2-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/af7173f343e6f253fb19efaf7f30ae8c095021ca-1920x1080.jpg",
+      "colors": {
+        "primary": "#0F1E1E",
+        "secondary": "#D6FFE6",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Prosternez-vous devant le patch 25.S1.2 ! 👑"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "096fc010-0e93-43db-9776-ec7ae9dc9773.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "K4nrWcFKPwBYuiR3kJ9ieq",
       "publishDate": "2025-01-22T19:00:00.000Z"
     }
   },
@@ -1664,7 +1728,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6ba512e3de90093e1b04d5cb2abfe47fddd7c5b4-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6ba512e3de90093e1b04d5cb2abfe47fddd7c5b4-1920x1080.jpg",
       "colors": {
         "primary": "#323864",
         "secondary": "#DCF2F9",
@@ -1987,7 +2051,7 @@
     "analytics": {
       "contentId": "4856a6f0-14dd-40d7-892b-a46035801674.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "yjuqByVZ1YaJMqC1HLN4vE",
+      "rev": "lljV5Ea46R5tBblKewxVPW",
       "publishDate": "2025-01-07T16:00:00.000Z"
     }
   },
@@ -3869,6 +3933,131 @@
     }
   },
   {
+    "title": "/dev : les saisons en 2025",
+    "publishedAt": "2024-11-25T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-seasons-in-2025"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e19e610a76043bfff488716050d4a5533d20bfbe-1920x1080.jpg",
+      "colors": {
+        "primary": "#221911",
+        "secondary": "#F9F1DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Voici ce que vous devez savoir sur les saisons en 2025."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "4968e4b2-66ec-4f59-a352-0092ad20ff72.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UPIPX87Xr8dUQrGWE8HjwJ",
+      "publishDate": "2024-11-25T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Dev Update : saison 1, gameplay et réinitialisations",
+    "publishedAt": "2024-11-25T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "iNFmwGaSjKA",
+        "url": "https://www.youtube.com/watch?v=iNFmwGaSjKA"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/64076972da6217c06fcc576f34e310953e79ca5e-1280x720.jpg",
+      "colors": {
+        "primary": "#1F1610",
+        "secondary": "#DCF9EF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les développeurs révèlent la première saison, le gameplay, les réinitialisations de rangs, et plus."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "9e8104a5-045f-4505-915b-99a9347ff913.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UPIPX87Xr8dUQrGWE8HjwJ",
+      "publishDate": "2024-11-25T16:00:00.000Z"
+    }
+  },
+  {
     "title": "/dev : Aperçu du gameplay de la saison 1 2025",
     "publishedAt": "2024-11-25T16:00:00.000Z",
     "action": {
@@ -4113,131 +4302,6 @@
       "contentId": "6cb14a5e-fc7d-40a6-a5fa-dec974c85529.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "ZhxRwgWPklJwoe04laphCB",
-      "publishDate": "2024-11-25T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : les saisons en 2025",
-    "publishedAt": "2024-11-25T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-seasons-in-2025"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e19e610a76043bfff488716050d4a5533d20bfbe-1920x1080.jpg",
-      "colors": {
-        "primary": "#221911",
-        "secondary": "#F9F1DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Voici ce que vous devez savoir sur les saisons en 2025."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "4968e4b2-66ec-4f59-a352-0092ad20ff72.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "UPIPX87Xr8dUQrGWE8HjwJ",
-      "publishDate": "2024-11-25T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Dev Update : saison 1, gameplay et réinitialisations",
-    "publishedAt": "2024-11-25T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "iNFmwGaSjKA",
-        "url": "https://www.youtube.com/watch?v=iNFmwGaSjKA"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/64076972da6217c06fcc576f34e310953e79ca5e-1280x720.jpg",
-      "colors": {
-        "primary": "#1F1610",
-        "secondary": "#DCF9EF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les développeurs révèlent la première saison, le gameplay, les réinitialisations de rangs, et plus."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "9e8104a5-045f-4505-915b-99a9347ff913.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "UPIPX87Xr8dUQrGWE8HjwJ",
       "publishDate": "2024-11-25T16:00:00.000Z"
     }
   },
@@ -4617,69 +4681,6 @@
       "contentLocale": "fr-fr",
       "rev": "MBEnA07qAFzHqjXn9sMnTS",
       "publishDate": "2024-11-20T22:00:00.000Z"
-    }
-  },
-  {
-    "title": "Teamfight Tactics: Into the Arcane",
-    "publishedAt": "2024-11-20T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/set-overview/teamfight-tactics-into-the-arcane/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/872ec276015173bbffe41bca81ed38f8f1862e09-1920x1080.jpg",
-      "colors": {
-        "primary": "#3A2243",
-        "secondary": "#F9DCEB",
-        "label": "#130617"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Rejouez les batailles épiques d'Arcane et réécrivez vos histoires préférées dans le nouveau set de TFT."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "298e4189-82dd-4392-be9c-62fd67a8e55f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "M9ubGcWQE0MDDhKJQp01BD",
-      "publishDate": "2024-11-20T16:00:00.000Z"
     }
   }
 ]
