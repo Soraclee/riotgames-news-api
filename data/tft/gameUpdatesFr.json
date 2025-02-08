@@ -59,7 +59,7 @@
     "analytics": {
       "contentId": "aaff716e-e5dc-484a-9aac-63c276cb9e5a.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "xPMcyXAfMlBvNZkGC3n50x",
+      "rev": "ZgtUIZT5BuNrDFi8ooO6oj",
       "publishDate": "2025-02-05T14:00:00.000Z"
     }
   },
@@ -132,6 +132,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "xwtV_3Xq4yI",
+        "videoLengthInSeconds": 48,
         "url": "https://www.youtube.com/watch?v=xwtV_3Xq4yI"
       }
     },
@@ -184,7 +185,7 @@
     "analytics": {
       "contentId": "0854e848-deec-4377-bf89-1c9de8ef04a8.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "u5eQTH26jhyR3oUltHpn8q",
+      "rev": "ZgtUIZT5BuNrDFi8ooO6oj",
       "publishDate": "2025-01-24T19:00:00.000Z"
     }
   },
@@ -248,7 +249,7 @@
     "analytics": {
       "contentId": "fd2c7c66-5d32-49a9-bf56-514dae1ed354.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "xPMcyXAfMlBvNZkGC3lxYV",
+      "rev": "ZgtUIZT5BuNrDFi8ooO6oj",
       "publishDate": "2025-01-24T14:00:00.000Z"
     }
   },
@@ -312,7 +313,7 @@
     "analytics": {
       "contentId": "898c7281-0518-4be6-90bc-be598f0ee27d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "xPMcyXAfMlBvNZkGC3lxYV",
+      "rev": "ZgtUIZT5BuNrDFi8ooO6oj",
       "publishDate": "2025-01-23T19:00:00.000Z"
     }
   },
@@ -323,6 +324,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "WjolsG1wH1o",
+        "videoLengthInSeconds": 56,
         "url": "https://www.youtube.com/watch?v=WjolsG1wH1o"
       }
     },
@@ -375,7 +377,7 @@
     "analytics": {
       "contentId": "f89769da-afb0-4864-a787-a74427e72702.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "r5J2fgkVFZPy5cerXcp9if",
+      "rev": "ZgtUIZT5BuNrDFi8ooO6oj",
       "publishDate": "2025-01-23T14:00:00.000Z"
     }
   },
@@ -2321,6 +2323,68 @@
     }
   },
   {
+    "title": "Notes de patch 14.20 de Teamfight Tactics",
+    "publishedAt": "2024-10-08T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-14-20-notes/"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/306c1f627dd1108522008d811b511e415dbdc9ab-1280x720.jpg",
+      "colors": {
+        "primary": "#4D2739",
+        "secondary": "#F9F2DC",
+        "label": "#230915"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le patch 14.20 apporte de nombreux buffs pour les champions qui manquent de puissance magique. Il apporte aussi des nerfs pour plusieurs de nos optimisations qui sèment la pagaille !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "eca5e519-ede3-4d57-90f8-6d88664d6c59.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "JriWOQOSuSgSO7JWARD2nN",
+      "publishDate": "2024-10-08T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 14.10 de Teamfight Tactics",
     "publishedAt": "2024-05-14T18:00:00.000Z",
     "action": {
@@ -2696,69 +2760,6 @@
     }
   },
   {
-    "title": "Présentation de Morgana chibi",
-    "publishedAt": "2024-03-20T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "cIYTbrmKAKs",
-        "url": "https://www.youtube.com/watch?v=cIYTbrmKAKs"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/c7f59c91ee493135a2104e79b44cd78ee34f17d7-1920x1080.jpg",
-      "colors": {
-        "primary": "#583C2C",
-        "secondary": "#F9E9DC",
-        "label": "#301A0C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Morgana chibi et Morgana impératrice majestueuse chibi rejoignent TFT dans le patch 14.6 !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltc6a88fc6edbb90ae.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "4RCH5i0Wdm95IeJMKxdNwf",
-      "publishDate": "2024-03-20T16:00:00.000Z"
-    }
-  },
-  {
     "title": "TFT : Légendes des encres",
     "publishedAt": "2024-03-20T16:00:00.000Z",
     "action": {
@@ -2816,6 +2817,69 @@
     },
     "analytics": {
       "contentId": "articles.bltc74b384ba41612b6.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "4RCH5i0Wdm95IeJMKxdNwf",
+      "publishDate": "2024-03-20T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Présentation de Morgana chibi",
+    "publishedAt": "2024-03-20T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "cIYTbrmKAKs",
+        "url": "https://www.youtube.com/watch?v=cIYTbrmKAKs"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/c7f59c91ee493135a2104e79b44cd78ee34f17d7-1920x1080.jpg",
+      "colors": {
+        "primary": "#583C2C",
+        "secondary": "#F9E9DC",
+        "label": "#301A0C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Morgana chibi et Morgana impératrice majestueuse chibi rejoignent TFT dans le patch 14.6 !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "articles.bltc6a88fc6edbb90ae.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "4RCH5i0Wdm95IeJMKxdNwf",
       "publishDate": "2024-03-20T16:00:00.000Z"
@@ -4622,68 +4686,6 @@
       "contentLocale": "fr-fr",
       "rev": "jEln45CgOQD4spzxfEB6Yp",
       "publishDate": "2023-09-12T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 13.17 de Teamfight Tactics",
-    "publishedAt": "2023-08-29T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-13-17-notes/"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ed63eee588340247d5a2372e45e33c125a06d323-1280x720.jpg",
-      "colors": {
-        "primary": "#0E1C1C",
-        "secondary": "#D6FFE6",
-        "label": "#030303"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le 13.17 est le dernier patch avant Nouveaux horizons : découvrez nos refontes et équilibrages !\n"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltf4c82e8b8378aea0.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "lESIXfhUM7GwGlQ32wxMUl",
-      "publishDate": "2023-08-29T18:00:00.000Z"
     }
   }
 ]
