@@ -67,6 +67,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "nmS0qfhn-tQ",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=nmS0qfhn-tQ"
       }
     },
@@ -800,6 +801,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "_rkjqAoOYNU",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=_rkjqAoOYNU"
       }
     },
@@ -1045,6 +1047,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "R6amXPHo1DE",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=R6amXPHo1DE"
       }
     },
@@ -1351,6 +1354,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "sX5j1xz_2tQ",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=sX5j1xz_2tQ"
       }
     },
@@ -1779,6 +1783,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "UPLgACUv8iI",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=UPLgACUv8iI"
       }
     },
@@ -1902,6 +1907,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "L-XG9Y2w2Hg",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=L-XG9Y2w2Hg"
       }
     },
@@ -2391,6 +2397,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "LBNf0saJNyI",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=LBNf0saJNyI"
       }
     },
@@ -2575,6 +2582,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "sUeEL-1V8AA",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=sUeEL-1V8AA"
       }
     },
@@ -2814,68 +2822,6 @@
     }
   },
   {
-    "title": "/dev diary - Regional Closed Beta",
-    "publishedAt": "2020-09-15T18:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "fV73FM1QBkA",
-        "url": "https://www.youtube.com/watch?v=fV73FM1QBkA"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
-        "colors": {
-          "primary": "#2ed5ff",
-          "secondary": "#D6F5FF",
-          "label": "#0A0A0A"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b8f67ac0bcf674c1b0f1b15ea17cb7676d829e5b-1280x720.jpg",
-      "colors": {
-        "primary": "#1A1A33",
-        "secondary": "#F9E1DC",
-        "label": "#010104"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "We’re kicking off the Regional Closed Beta, giving you a detailed look at the ranked system, and serving some hot-off-the-press updates about in-game content, gameplay, and new champions."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt1a3b818d23fa43db.en-us",
-      "contentLocale": "en-us",
-      "rev": "V7hUJb5ScZMSQ02ZsKcaSd",
-      "publishDate": "2020-09-15T18:00:00.000Z"
-    }
-  },
-  {
     "title": "Wild Rift Real Talk - September 15 2020",
     "publishedAt": "2020-09-15T18:00:00.000Z",
     "action": {
@@ -2937,12 +2883,76 @@
     }
   },
   {
+    "title": "/dev diary - Regional Closed Beta",
+    "publishedAt": "2020-09-15T18:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "fV73FM1QBkA",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=fV73FM1QBkA"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
+        "colors": {
+          "primary": "#2ed5ff",
+          "secondary": "#D6F5FF",
+          "label": "#0A0A0A"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b8f67ac0bcf674c1b0f1b15ea17cb7676d829e5b-1280x720.jpg",
+      "colors": {
+        "primary": "#1A1A33",
+        "secondary": "#F9E1DC",
+        "label": "#010104"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "We’re kicking off the Regional Closed Beta, giving you a detailed look at the ranked system, and serving some hot-off-the-press updates about in-game content, gameplay, and new champions."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.blt1a3b818d23fa43db.en-us",
+      "contentLocale": "en-us",
+      "rev": "V7hUJb5ScZMSQ02ZsKcaSd",
+      "publishDate": "2020-09-15T18:00:00.000Z"
+    }
+  },
+  {
     "title": "/dev diary - Gameplay Reveal",
     "publishedAt": "2020-05-29T18:00:00.000Z",
     "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "_PtHQvjlbKw",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=_PtHQvjlbKw"
       }
     },
@@ -3005,6 +3015,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "iVIvP0oq6_8",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=iVIvP0oq6_8"
       }
     },

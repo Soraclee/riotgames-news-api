@@ -6,6 +6,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "roYxG4LWSVg",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=roYxG4LWSVg"
       }
     },
@@ -69,6 +70,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "oqjPxFmmJAM",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=oqjPxFmmJAM"
       }
     },
@@ -132,6 +134,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "SntExLBj-gg",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=SntExLBj-gg"
       }
     },
@@ -195,6 +198,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "xE4FWQBG8Bw",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=xE4FWQBG8Bw"
       }
     },
@@ -3827,6 +3831,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "QsGfJT143WE",
+        "videoLengthInSeconds": 1197,
         "url": "https://www.youtube.com/watch?v=QsGfJT143WE"
       }
     },
@@ -3947,6 +3952,68 @@
     }
   },
   {
+    "title": "Prime Gaming Subscription Perks",
+    "publishedAt": "2021-10-27T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/community/prime-gaming-subscription-perks/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2b76716981c3e7f741066aea987e38ab06c1f136-1920x1080.jpg",
+      "colors": {
+        "primary": "#0C0F18",
+        "secondary": "#EAD6FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "We're leveling up the perks League players get for being Amazon Prime members."
+    },
+    "category": {
+      "title": "Community",
+      "description": "From featured streamers to community creations, see what's new in the neighborhood.",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "articles.blt149ddce8a787c4ed.en-us",
+      "contentLocale": "en-us",
+      "rev": "tG8aRZvgYHVPamBbJHLWWL",
+      "publishDate": "2021-10-27T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Free RP & more with Prime: Oct 27 - Nov 30",
     "publishedAt": "2021-10-27T16:00:00.000Z",
     "action": {
@@ -4004,68 +4071,6 @@
     },
     "analytics": {
       "contentId": "articles.blt6841cc2691dd0038.en-us",
-      "contentLocale": "en-us",
-      "rev": "tG8aRZvgYHVPamBbJHLWWL",
-      "publishDate": "2021-10-27T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Prime Gaming Subscription Perks",
-    "publishedAt": "2021-10-27T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/community/prime-gaming-subscription-perks/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2b76716981c3e7f741066aea987e38ab06c1f136-1920x1080.jpg",
-      "colors": {
-        "primary": "#0C0F18",
-        "secondary": "#EAD6FF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "We're leveling up the perks League players get for being Amazon Prime members."
-    },
-    "category": {
-      "title": "Community",
-      "description": "From featured streamers to community creations, see what's new in the neighborhood.",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "articles.blt149ddce8a787c4ed.en-us",
       "contentLocale": "en-us",
       "rev": "tG8aRZvgYHVPamBbJHLWWL",
       "publishDate": "2021-10-27T16:00:00.000Z"
@@ -4204,6 +4209,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "DZDq_kJpDUc",
+        "videoLengthInSeconds": 156,
         "url": "https://www.youtube.com/watch?v=DZDq_kJpDUc"
       }
     },

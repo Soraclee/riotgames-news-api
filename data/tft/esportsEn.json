@@ -130,6 +130,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "WTXErU9aYz0",
+        "videoLengthInSeconds": 463,
         "url": "https://www.youtube.com/watch?v=WTXErU9aYz0"
       }
     },
@@ -162,7 +163,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080.jpg",
       "colors": {
         "primary": "#29254A",
         "secondary": "#F3DCF9",
@@ -319,6 +320,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "6X7w9Ug8J0M",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=6X7w9Ug8J0M"
       }
     },
@@ -382,6 +384,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "RRcLAEu8QlY",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=RRcLAEu8QlY"
       }
     },
@@ -507,6 +510,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "s-AbKva6lNQ",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=s-AbKva6lNQ"
       }
     },
@@ -632,6 +636,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "UlmPxCoy89g",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=UlmPxCoy89g"
       }
     },
@@ -695,6 +700,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "Z6k59Wkvs7g",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=Z6k59Wkvs7g"
       }
     },
@@ -1379,6 +1385,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "DCQ_DJSVhdI",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=DCQ_DJSVhdI"
       }
     },
@@ -1433,68 +1440,6 @@
       "contentLocale": "en-us",
       "rev": "RgVPW4F7vaUxBWEhHRfFCd",
       "publishDate": "2024-03-27T20:00:00.000Z"
-    }
-  },
-  {
-    "title": "Rebuilding the Path to Pro in TFT",
-    "publishedAt": "2024-03-13T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/esports/rebuilding-the-path-to-pro-in-tft/"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a7b4a0c17a09d5d349c4c7328abffaa41a6b6f52-1920x1080.jpg",
-      "colors": {
-        "primary": "#453FB8",
-        "secondary": "#2A2933",
-        "label": "#312F58"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Paving the future of competitive TFT in Set 11 and beyond."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt9e78f2621978420a.en-us",
-      "contentLocale": "en-us",
-      "rev": "lESIXfhUM7GwGlQ32sKkaZ",
-      "publishDate": "2024-03-13T15:00:00.000Z"
     }
   },
   {
@@ -1556,6 +1501,68 @@
       "contentId": "articles.blt3a0c73e8b3ff225f.en-us",
       "contentLocale": "en-us",
       "rev": "jEln45CgOQD4spzxfCaoLw",
+      "publishDate": "2024-03-13T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Rebuilding the Path to Pro in TFT",
+    "publishedAt": "2024-03-13T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/esports/rebuilding-the-path-to-pro-in-tft/"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a7b4a0c17a09d5d349c4c7328abffaa41a6b6f52-1920x1080.jpg",
+      "colors": {
+        "primary": "#453FB8",
+        "secondary": "#2A2933",
+        "label": "#312F58"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Paving the future of competitive TFT in Set 11 and beyond."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blt9e78f2621978420a.en-us",
+      "contentLocale": "en-us",
+      "rev": "lESIXfhUM7GwGlQ32sKkaZ",
       "publishDate": "2024-03-13T15:00:00.000Z"
     }
   },
@@ -2062,6 +2069,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "02KoKvzfRQE",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=02KoKvzfRQE"
       }
     },
@@ -2685,6 +2693,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "VKexuYYVCG4",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=VKexuYYVCG4"
       }
     },
@@ -2810,6 +2819,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "VBBZmLZUHnE",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=VBBZmLZUHnE"
       }
     },
@@ -3183,6 +3193,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "_kYtm2CD3fk",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=_kYtm2CD3fk"
       }
     },
@@ -3556,6 +3567,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "FvcotbxR-xc",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=FvcotbxR-xc"
       }
     },
@@ -3930,6 +3942,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "Vg_QOYb2Ij0",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=Vg_QOYb2Ij0"
       }
     },
@@ -3993,6 +4006,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "_qQuNxg8PNE",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=_qQuNxg8PNE"
       }
     },
@@ -4366,6 +4380,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "nHpwuSXYBpM",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=nHpwuSXYBpM"
       }
     },
