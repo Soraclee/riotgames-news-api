@@ -192,6 +192,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "mM5_Ym-1irc",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=mM5_Ym-1irc"
       }
     },
@@ -224,7 +225,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080.jpg",
       "colors": {
         "primary": "#29254A",
         "secondary": "#F3DCF9",
@@ -381,6 +382,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "E9eDIywdCEE",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=E9eDIywdCEE"
       }
     },
@@ -506,6 +508,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "aRMSMHpluKA",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=aRMSMHpluKA"
       }
     },
@@ -631,6 +634,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "gFkzCU0y1Ck",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=gFkzCU0y1Ck"
       }
     },
@@ -1068,6 +1072,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "f6_krKx1xQQ",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=f6_krKx1xQQ"
       }
     },
@@ -1255,6 +1260,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "y04r740NS34",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=y04r740NS34"
       }
     },
@@ -1504,6 +1510,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "4496J-Cif7E",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=4496J-Cif7E"
       }
     },
@@ -1691,6 +1698,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "GDuztyUer0I",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=GDuztyUer0I"
       }
     },
@@ -1935,68 +1943,6 @@
     }
   },
   {
-    "title": "Règles du tournoi de TFT Global",
-    "publishedAt": "2023-08-11T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/esports/tft-global-tournament-rules/"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/82d66f52f1bddb55faea0df14ac7b19d29ffb426-1920x1080.jpg",
-      "colors": {
-        "primary": "#86A0B8",
-        "secondary": "#2A2933",
-        "label": "#43617C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Règles officielles des événements mondiaux de TFT."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt56edbeec32fb8337.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "lS1Ty4LAywj5knEG1njQdN",
-      "publishDate": "2023-08-11T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Vous voulez assister au TFT Vegas Open ?",
     "publishedAt": "2023-08-11T15:00:00.000Z",
     "action": {
@@ -2055,6 +2001,68 @@
       "contentId": "articles.blt81614561e162caf5.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "kRa0sLdvlB8lPXh7mw1I6n",
+      "publishDate": "2023-08-11T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Règles du tournoi de TFT Global",
+    "publishedAt": "2023-08-11T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/esports/tft-global-tournament-rules/"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/82d66f52f1bddb55faea0df14ac7b19d29ffb426-1920x1080.jpg",
+      "colors": {
+        "primary": "#86A0B8",
+        "secondary": "#2A2933",
+        "label": "#43617C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Règles officielles des événements mondiaux de TFT."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blt56edbeec32fb8337.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "lS1Ty4LAywj5knEG1njQdN",
       "publishDate": "2023-08-11T15:00:00.000Z"
     }
   },
@@ -2190,6 +2198,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "0k6se3AY4u8",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=0k6se3AY4u8"
       }
     },
@@ -2560,69 +2569,6 @@
     }
   },
   {
-    "title": "Le Championnat L’Attaque des monstres !",
-    "publishedAt": "2023-05-16T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "kngY9mgg7EY",
-        "url": "https://www.youtube.com/watch?v=kngY9mgg7EY"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bd4ccaefd688ca8c7ba3ee5432a67f987bdc7e51-1920x1080.jpg",
-      "colors": {
-        "primary": "#AA4AB8",
-        "secondary": "#292D33",
-        "label": "#3A213D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Préparez-vous pour le plus grand affrontement culinaire jamais vu à Spatulopolis pendant le Championnat L’Attaque des monstres !\n\n"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blta07c5140631c4056.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "4RCH5i0Wdm95IeJMKxdLUl",
-      "publishDate": "2023-05-16T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Présentation du championnat TFT L'Attaque des monstres !",
     "publishedAt": "2023-05-16T15:00:00.000Z",
     "action": {
@@ -2685,12 +2631,77 @@
     }
   },
   {
+    "title": "Le Championnat L’Attaque des monstres !",
+    "publishedAt": "2023-05-16T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "kngY9mgg7EY",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=kngY9mgg7EY"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bd4ccaefd688ca8c7ba3ee5432a67f987bdc7e51-1920x1080.jpg",
+      "colors": {
+        "primary": "#AA4AB8",
+        "secondary": "#292D33",
+        "label": "#3A213D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Préparez-vous pour le plus grand affrontement culinaire jamais vu à Spatulopolis pendant le Championnat L’Attaque des monstres !\n\n"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blta07c5140631c4056.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "4RCH5i0Wdm95IeJMKxdLUl",
+      "publishDate": "2023-05-16T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Championnat L'Attaque des monstres ! | Faire ses prédictions Pick'em",
     "publishedAt": "2023-05-15T15:00:00.000Z",
     "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "tpfEc012e_4",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=tpfEc012e_4"
       }
     },
@@ -3318,6 +3329,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "bH-waX4aHUs",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=bH-waX4aHUs"
       }
     },
@@ -3629,6 +3641,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "ntNiLlWaKHo",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=ntNiLlWaKHo"
       }
     },
@@ -4003,6 +4016,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "Vg_QOYb2Ij0",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=Vg_QOYb2Ij0"
       }
     },
@@ -4066,6 +4080,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "d0y1HGehD8I",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=d0y1HGehD8I"
       }
     },
@@ -4439,6 +4454,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "nHpwuSXYBpM",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=nHpwuSXYBpM"
       }
     },
@@ -4627,6 +4643,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "V-mh7we1QmA",
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=V-mh7we1QmA"
       }
     },
