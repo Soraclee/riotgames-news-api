@@ -1,5 +1,67 @@
 [
   {
+    "title": "LTA Finals Block Party Connected by AT&T",
+    "publishedAt": "2025-02-13T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/en-us/news/lta-finals-block-party-connected-by-att"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/342ff839af1036b3160fba6af2a64bc1897d7021-1920x1080.jpg",
+      "colors": {
+        "primary": "#1F1110",
+        "secondary": "#F9EDDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Featuring team booths, yummy treats, and more at the Riot Games Studio in Los Angeles!"
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "420a959e-beee-4876-a900-d285acba0572.en-us",
+      "contentLocale": "en-us",
+      "rev": "9gPdGSHw0k5ASd7PT8q3Vx",
+      "publishDate": "2025-02-13T18:00:00.000Z"
+    }
+  },
+  {
     "title": "First Stand Tournament Ticket Sales",
     "publishedAt": "2025-02-07T02:00:00.000Z",
     "action": {
@@ -3426,14 +3488,13 @@
     }
   },
   {
-    "title": "Best Role in League of Legends? | The Dive",
+    "title": "LCS Spring Playoffs Begin 3/14 at 1PM PT / 4PM ET!",
     "publishedAt": "2024-03-11T22:00:00.000Z",
     "action": {
-      "type": "youtube_video",
+      "type": "weblink",
       "payload": {
-        "youtubeId": "Z6qXEMTqI_k",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=Z6qXEMTqI_k"
+        "isExternal": true,
+        "url": "https://lolesports.com/schedule?leagues=lcs"
       }
     },
     "product": {
@@ -3465,17 +3526,17 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/138d527e7149a175f78b0b3931fe2f07d266f212-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9463c1f71c32fe481c7725827ae552e0624bb0a0-1920x1080.jpg",
       "colors": {
-        "primary": "#391C32",
-        "secondary": "#F9DCDC",
-        "label": "#0B0309"
+        "primary": "#000000",
+        "secondary": "#FFF6D6",
+        "label": "#000000"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Azael, Kobe, and Meteos cover 14.5 updates and more! | The Dive"
+      "body": "Week one of the LCS Spring Playoffs are 3/14 - 3/17 at 1PM PT / 4PM ET! Click here for the schedule!"
     },
     "category": {
       "title": "Esports",
@@ -3483,7 +3544,7 @@
       "machineName": "esports"
     },
     "analytics": {
-      "contentId": "articles.blt2d3383acc197f65d.en-us",
+      "contentId": "articles.blt9260f4b85e5658ad.en-us",
       "contentLocale": "en-us",
       "rev": "qZXvkjig7TQff0ZQAF3dUc",
       "publishDate": "2024-03-11T22:00:00.000Z"
@@ -3554,13 +3615,14 @@
     }
   },
   {
-    "title": "LCS Spring Playoffs Begin 3/14 at 1PM PT / 4PM ET!",
+    "title": "Best Role in League of Legends? | The Dive",
     "publishedAt": "2024-03-11T22:00:00.000Z",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "isExternal": true,
-        "url": "https://lolesports.com/schedule?leagues=lcs"
+        "youtubeId": "Z6qXEMTqI_k",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=Z6qXEMTqI_k"
       }
     },
     "product": {
@@ -3592,17 +3654,17 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9463c1f71c32fe481c7725827ae552e0624bb0a0-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/138d527e7149a175f78b0b3931fe2f07d266f212-1920x1080.jpg",
       "colors": {
-        "primary": "#000000",
-        "secondary": "#FFF6D6",
-        "label": "#000000"
+        "primary": "#391C32",
+        "secondary": "#F9DCDC",
+        "label": "#0B0309"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Week one of the LCS Spring Playoffs are 3/14 - 3/17 at 1PM PT / 4PM ET! Click here for the schedule!"
+      "body": "Azael, Kobe, and Meteos cover 14.5 updates and more! | The Dive"
     },
     "category": {
       "title": "Esports",
@@ -3610,7 +3672,7 @@
       "machineName": "esports"
     },
     "analytics": {
-      "contentId": "articles.blt9260f4b85e5658ad.en-us",
+      "contentId": "articles.blt2d3383acc197f65d.en-us",
       "contentLocale": "en-us",
       "rev": "qZXvkjig7TQff0ZQAF3dUc",
       "publishDate": "2024-03-11T22:00:00.000Z"
@@ -3936,70 +3998,6 @@
     }
   },
   {
-    "title": "The Dive is Back as Patch 14.2 Hits the LCS!",
-    "publishedAt": "2024-01-30T18:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "Audbw5zat8I",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=Audbw5zat8I"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4e149b268f6b014bb9bc32a6829f67613e8bf565-1920x1080.jpg",
-      "colors": {
-        "primary": "#3D2E1E",
-        "secondary": "#F9E6DC",
-        "label": "#100A04"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Meteos, Azael, and Kobe talk all things LCS as Patch 14.2 hits the league this weekend!"
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltfaec36687b7eafb0.en-us",
-      "contentLocale": "en-us",
-      "rev": "qZXvkjig7TQff0ZQAF3dUc",
-      "publishDate": "2024-01-30T18:00:00.000Z"
-    }
-  },
-  {
     "title": "LCS Jungler Tier Lists | The Dive",
     "publishedAt": "2024-01-30T18:00:00.000Z",
     "action": {
@@ -4058,6 +4056,70 @@
     },
     "analytics": {
       "contentId": "articles.blt6bf4a958da4b4994.en-us",
+      "contentLocale": "en-us",
+      "rev": "qZXvkjig7TQff0ZQAF3dUc",
+      "publishDate": "2024-01-30T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "The Dive is Back as Patch 14.2 Hits the LCS!",
+    "publishedAt": "2024-01-30T18:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "Audbw5zat8I",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=Audbw5zat8I"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4e149b268f6b014bb9bc32a6829f67613e8bf565-1920x1080.jpg",
+      "colors": {
+        "primary": "#3D2E1E",
+        "secondary": "#F9E6DC",
+        "label": "#100A04"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Meteos, Azael, and Kobe talk all things LCS as Patch 14.2 hits the league this weekend!"
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.bltfaec36687b7eafb0.en-us",
       "contentLocale": "en-us",
       "rev": "qZXvkjig7TQff0ZQAF3dUc",
       "publishDate": "2024-01-30T18:00:00.000Z"
@@ -4698,70 +4760,6 @@
       "contentLocale": "en-us",
       "rev": "qZXvkjig7TQff0ZQAF3dUc",
       "publishDate": "2023-12-12T23:00:00.000Z"
-    }
-  },
-  {
-    "title": "Moments & Memories | Worlds 2023",
-    "publishedAt": "2023-11-28T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "HPFBmpY8E6g",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=HPFBmpY8E6g"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/046cf4173643f529fe8dba1ebd1ff5710ce9a1f1-1920x1080.jpg",
-      "colors": {
-        "primary": "#9C9AB8",
-        "secondary": "#292B33",
-        "label": "#302E55"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "The grind of 2023 is over. The glory belongs to T1. Relive the unparalleled story of Worlds 2023."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltf12e4182d34a2005.en-us",
-      "contentLocale": "en-us",
-      "rev": "qZXvkjig7TQff0ZQAF453A",
-      "publishDate": "2023-11-28T16:00:00.000Z"
     }
   }
 ]
