@@ -1,5 +1,69 @@
 [
   {
+    "title": "Présentation d'Aatrox lune de sang chibi",
+    "publishedAt": "2025-02-20T14:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "I5QjmzjlfLQ",
+        "videoLengthInSeconds": 39,
+        "url": "https://www.youtube.com/watch?v=I5QjmzjlfLQ"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b8e20d66c43ff22cb8219bef86b88df62a824456-1920x1080.jpg",
+      "colors": {
+        "primary": "#49253B",
+        "secondary": "#DCEAF9",
+        "label": "#1E0816"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Apocalyptique, mais adorable ! Aatrox lune de sang chibi débarque dans le patch TFT13.5."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "c1bbaa59-bb22-471b-94c8-955dd28d3671.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "owsRDYK97YIrmlquh1Gnmu",
+      "publishDate": "2025-02-20T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 13.6 de Teamfight Tactics (2025)",
     "publishedAt": "2025-02-19T19:00:00.000Z",
     "action": {
@@ -57,7 +121,7 @@
     "analytics": {
       "contentId": "1ad103b8-d505-4dd8-a5b4-f28838783ef0.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "migwtNgFHTMRSJnXl9HeUw",
+      "rev": "owsRDYK97YIrmlquh1FeDo",
       "publishDate": "2025-02-19T19:00:00.000Z"
     }
   },
@@ -121,7 +185,7 @@
     "analytics": {
       "contentId": "aaff716e-e5dc-484a-9aac-63c276cb9e5a.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "migwtNgFHTMRSJnXl9HNcE",
+      "rev": "owsRDYK97YIrmlquh1GJk0",
       "publishDate": "2025-02-05T14:00:00.000Z"
     }
   },
@@ -4649,68 +4713,6 @@
       "contentLocale": "fr-fr",
       "rev": "4RCH5i0Wdm95IeJMKxdNsC",
       "publishDate": "2023-09-18T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 13.18 de Teamfight Tactics",
-    "publishedAt": "2023-09-12T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-13-18-notes/"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/907f31a4dac00b9a360598ca9064769a92391550-1280x720.jpg",
-      "colors": {
-        "primary": "#A1A9B8",
-        "secondary": "#293033",
-        "label": "#354763"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Faites voile vers le dernier ensemble de mi-parcours de TFT, Nouveaux horizons, qui inclut les nouvelles régions de Bilgewater et d'Ixtal. Il apporte également des petites légendes inspirées de Naafiri ainsi qu'Irelia chibi."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt3de5593c0edecc04.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "2eqiUp79DxBCItwrHsRKI7",
-      "publishDate": "2023-09-12T18:00:00.000Z"
     }
   }
 ]
