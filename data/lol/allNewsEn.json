@@ -126,6 +126,68 @@
     }
   },
   {
+    "title": "Patch 25.04 Notes",
+    "publishedAt": "2025-02-19T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-04-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/240905f2b3342fe593d5253ebbae24e889810951-1920x1080.jpg",
+      "colors": {
+        "primary": "#0B1116",
+        "secondary": "#D6FFEF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Lock in for the last patch of Act 1!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "93b8f5c4-38b5-4b66-a546-551320f4a39a.en-us",
+      "contentLocale": "en-us",
+      "rev": "owsRDYK97YIrmlquh2h4Lw",
+      "publishDate": "2025-02-19T19:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 13.6 notes (2025)",
     "publishedAt": "2025-02-19T19:00:00.000Z",
     "action": {
@@ -189,75 +251,13 @@
     }
   },
   {
-    "title": "Patch 25.04 Notes",
-    "publishedAt": "2025-02-19T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-04-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/240905f2b3342fe593d5253ebbae24e889810951-1920x1080.jpg",
-      "colors": {
-        "primary": "#0B1116",
-        "secondary": "#D6FFEF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Lock in for the last patch of Act 1!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "93b8f5c4-38b5-4b66-a546-551320f4a39a.en-us",
-      "contentLocale": "en-us",
-      "rev": "owsRDYK97YIrmlquh2h4Lw",
-      "publishDate": "2025-02-19T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Exalted Skin: Sahn-Uzal Mordekaiser",
     "publishedAt": "2025-02-19T16:00:00.000Z",
     "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "8Db2VvojeKQ",
-        "videoLengthInSeconds": 129,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=8Db2VvojeKQ"
       }
     },
@@ -377,12 +377,12 @@
     }
   },
   {
-    "title": "/dev: How the Season 1 Changes Landed",
+    "title": "/dev: Arena - the Grand Reckoning",
     "publishedAt": "2025-02-07T16:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/en-us/news/dev/dev-how-the-season-1-changes-landed"
+        "url": "/en-us/news/dev/dev-arena-the-grand-reckoning"
       }
     },
     "product": {
@@ -410,21 +410,21 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1080,
-        "width": 1800,
-        "aspectRatio": 1.6666666666666667
+        "height": 1096,
+        "width": 1751,
+        "aspectRatio": 1.5976277372262773
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8c95e57763aba7e8cc31cac5678c069c588010b5-1800x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/27fd1033cf923429f0811e355402aecfb00d00cb-1751x1096.jpg",
       "colors": {
-        "primary": "#4A3525",
-        "secondary": "#F9F1DC",
-        "label": "#201208"
+        "primary": "#361F1B",
+        "secondary": "#DCF8F9",
+        "label": "#080302"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Reflections on the impacts of the Season 1 Changes"
+      "body": "What to expect in Arena’s Act 2 debut."
     },
     "category": {
       "title": "Dev",
@@ -432,9 +432,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "cb41c475-fcfb-4df9-91ac-7691778d88e4.en-us",
+      "contentId": "9fb191af-7234-4346-8bfe-6e45693b63cf.en-us",
       "contentLocale": "en-us",
-      "rev": "QHyu7w0m0kaW857xXVUhVD",
+      "rev": "2MF5quHrNH5cDEsLyBeojm",
       "publishDate": "2025-02-07T16:00:00.000Z"
     }
   },
@@ -502,12 +502,12 @@
     }
   },
   {
-    "title": "/dev: Arena - the Grand Reckoning",
+    "title": "/dev: How the Season 1 Changes Landed",
     "publishedAt": "2025-02-07T16:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/en-us/news/dev/dev-arena-the-grand-reckoning"
+        "url": "/en-us/news/dev/dev-how-the-season-1-changes-landed"
       }
     },
     "product": {
@@ -535,21 +535,21 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1096,
-        "width": 1751,
-        "aspectRatio": 1.5976277372262773
+        "height": 1080,
+        "width": 1800,
+        "aspectRatio": 1.6666666666666667
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/27fd1033cf923429f0811e355402aecfb00d00cb-1751x1096.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8c95e57763aba7e8cc31cac5678c069c588010b5-1800x1080.jpg",
       "colors": {
-        "primary": "#361F1B",
-        "secondary": "#DCF8F9",
-        "label": "#080302"
+        "primary": "#4A3525",
+        "secondary": "#F9F1DC",
+        "label": "#201208"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "What to expect in Arena’s Act 2 debut."
+      "body": "Reflections on the impacts of the Season 1 Changes"
     },
     "category": {
       "title": "Dev",
@@ -557,9 +557,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "9fb191af-7234-4346-8bfe-6e45693b63cf.en-us",
+      "contentId": "cb41c475-fcfb-4df9-91ac-7691778d88e4.en-us",
       "contentLocale": "en-us",
-      "rev": "2MF5quHrNH5cDEsLy9Yq2H",
+      "rev": "QHyu7w0m0kaW857xXVUhVD",
       "publishDate": "2025-02-07T16:00:00.000Z"
     }
   },
@@ -690,68 +690,6 @@
     }
   },
   {
-    "title": "Patch 2025.S1.3 Notes",
-    "publishedAt": "2025-02-04T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-2025-s1-3-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9bb5312947d3a80179899c58e16d38482704c327-1920x1080.jpg",
-      "colors": {
-        "primary": "#111B22",
-        "secondary": "#F9F3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Time to feast on Patch 25.S1.3."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "e021caae-4813-4bed-a67e-1d67e5ce4c77.en-us",
-      "contentLocale": "en-us",
-      "rev": "r5J2fgkVFZPy5cerXdBKpx",
-      "publishDate": "2025-02-04T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Teamfight Tactics patch 13.5 notes (2025)",
     "publishedAt": "2025-02-04T19:00:00.000Z",
     "action": {
@@ -811,6 +749,68 @@
       "contentId": "60d4b647-8e5a-41f7-a37d-e8df1b4721ef.en-us",
       "contentLocale": "en-us",
       "rev": "wQOrjoHuer7XQQg8uId1I0",
+      "publishDate": "2025-02-04T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 2025.S1.3 Notes",
+    "publishedAt": "2025-02-04T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-2025-s1-3-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9bb5312947d3a80179899c58e16d38482704c327-1920x1080.jpg",
+      "colors": {
+        "primary": "#111B22",
+        "secondary": "#F9F3DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Time to feast on Patch 25.S1.3."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "e021caae-4813-4bed-a67e-1d67e5ce4c77.en-us",
+      "contentLocale": "en-us",
+      "rev": "r5J2fgkVFZPy5cerXdBKpx",
       "publishDate": "2025-02-04T19:00:00.000Z"
     }
   },
@@ -1009,7 +1009,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "KLC6Rs0ft1Q",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 47,
         "url": "https://www.youtube.com/watch?v=KLC6Rs0ft1Q"
       }
     },
@@ -1193,7 +1193,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "YnHOS-sVJr4",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 43,
         "url": "https://www.youtube.com/watch?v=YnHOS-sVJr4"
       }
     },
@@ -1321,7 +1321,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "sHIdAWjfTEE",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 204,
         "url": "https://www.youtube.com/watch?v=sHIdAWjfTEE"
       }
     },
@@ -1884,6 +1884,63 @@
     }
   },
   {
+    "title": "LoL Esports Twitch Subscriptions",
+    "publishedAt": "2025-01-15T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/en-us/news/lol-esports-twitch-subscriptions"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0f8d7762063bbe828c0c8b7a2de8aba72c51ff55-1600x900.jpg",
+      "colors": {
+        "primary": "#020404",
+        "secondary": "#D6FBFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Offering more ways to engage with and support LoL Esports regional broadcasts"
+    },
+    "analytics": {
+      "contentId": "6adf9a9c-bca1-40e6-8491-e6fb974b3584.en-us",
+      "contentLocale": "en-us",
+      "rev": "whpRLkwvxva49hcLZ7jvli",
+      "publishDate": "2025-01-15T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Blue Essence and Account XP Update",
     "publishedAt": "2025-01-15T16:00:00.000Z",
     "action": {
@@ -1942,63 +1999,6 @@
       "contentId": "5b508705-48ac-4dbc-8ea7-a276299d95cc.en-us",
       "contentLocale": "en-us",
       "rev": "kALBwL7IUKvp74W4IWpg63",
-      "publishDate": "2025-01-15T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "LoL Esports Twitch Subscriptions",
-    "publishedAt": "2025-01-15T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/en-us/news/lol-esports-twitch-subscriptions"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 900,
-        "width": 1600,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0f8d7762063bbe828c0c8b7a2de8aba72c51ff55-1600x900.jpg",
-      "colors": {
-        "primary": "#020404",
-        "secondary": "#D6FBFF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Offering more ways to engage with and support LoL Esports regional broadcasts"
-    },
-    "analytics": {
-      "contentId": "6adf9a9c-bca1-40e6-8491-e6fb974b3584.en-us",
-      "contentLocale": "en-us",
-      "rev": "whpRLkwvxva49hcLZ7jvli",
       "publishDate": "2025-01-15T16:00:00.000Z"
     }
   },
@@ -2621,64 +2621,6 @@
     }
   },
   {
-    "title": "First Stand Tournament | Format Explainer",
-    "publishedAt": "2025-01-08T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=iPMDoZ30rT0"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 4500,
-        "width": 8000,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a3ac0e8ba576e8a3e4ed4f3399d2d8a1cf344482-8000x4500.png",
-      "colors": {
-        "primary": "#241215",
-        "secondary": "#FFE3D6",
-        "label": "#090909"
-      },
-      "mimeType": "image/png"
-    },
-    "description": {
-      "type": "html",
-      "body": "Here is everything you need to know about the First Stand Tournament format."
-    },
-    "analytics": {
-      "contentId": "eca78847-e8f7-4807-aa55-896bdc4e2065.en-us",
-      "contentLocale": "en-us",
-      "rev": "tW1iVB3M02HkZ9xlNFpzxm",
-      "publishDate": "2025-01-08T16:00:00.000Z"
-    }
-  },
-  {
     "title": "LoL Esports in 2025",
     "publishedAt": "2025-01-08T16:00:00.000Z",
     "action": {
@@ -2736,12 +2678,13 @@
     }
   },
   {
-    "title": "Patch 25.S1.1 Notes",
-    "publishedAt": "2025-01-07T19:00:00.000Z",
+    "title": "First Stand Tournament | Format Explainer",
+    "publishedAt": "2025-01-08T16:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/en-us/news/game-updates/patch-25-s1-1-notes"
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=iPMDoZ30rT0"
       }
     },
     "product": {
@@ -2769,32 +2712,27 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1080,
-        "width": 1920,
+        "height": 4500,
+        "width": 8000,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7b02ecb258c88555b1be863f693f4fa8e985e48-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a3ac0e8ba576e8a3e4ed4f3399d2d8a1cf344482-8000x4500.png",
       "colors": {
-        "primary": "#1C0E13",
-        "secondary": "#F7FFD6",
-        "label": "#030303"
+        "primary": "#241215",
+        "secondary": "#FFE3D6",
+        "label": "#090909"
       },
-      "mimeType": "image/jpeg"
+      "mimeType": "image/png"
     },
     "description": {
       "type": "html",
-      "body": "Welcome to Noxus and Season 1!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
+      "body": "Here is everything you need to know about the First Stand Tournament format."
     },
     "analytics": {
-      "contentId": "5dde154c-a74d-47ac-b050-9a1d1dbc4842.en-us",
+      "contentId": "eca78847-e8f7-4807-aa55-896bdc4e2065.en-us",
       "contentLocale": "en-us",
-      "rev": "w5Y1buu43ZclY4xZaKZ84i",
-      "publishDate": "2025-01-07T19:00:00.000Z"
+      "rev": "tW1iVB3M02HkZ9xlNFpzxm",
+      "publishDate": "2025-01-08T16:00:00.000Z"
     }
   },
   {
@@ -2861,6 +2799,68 @@
     }
   },
   {
+    "title": "Patch 25.S1.1 Notes",
+    "publishedAt": "2025-01-07T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-s1-1-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7b02ecb258c88555b1be863f693f4fa8e985e48-1920x1080.jpg",
+      "colors": {
+        "primary": "#1C0E13",
+        "secondary": "#F7FFD6",
+        "label": "#030303"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Welcome to Noxus and Season 1!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "5dde154c-a74d-47ac-b050-9a1d1dbc4842.en-us",
+      "contentLocale": "en-us",
+      "rev": "w5Y1buu43ZclY4xZaKZ84i",
+      "publishDate": "2025-01-07T19:00:00.000Z"
+    }
+  },
+  {
     "title": "Welcome to Noxus",
     "publishedAt": "2025-01-07T16:00:00.000Z",
     "action": {
@@ -2919,7 +2919,7 @@
     "analytics": {
       "contentId": "4856a6f0-14dd-40d7-892b-a46035801674.en-us",
       "contentLocale": "en-us",
-      "rev": "wQOrjoHuer7XQQg8uIjjaS",
+      "rev": "2MF5quHrNH5cDEsLyBeojm",
       "publishDate": "2025-01-07T16:00:00.000Z"
     }
   },
@@ -3688,68 +3688,6 @@
     }
   },
   {
-    "title": "Patch 14.24 Notes",
-    "publishedAt": "2024-12-10T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-14-24-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 4131,
-        "width": 8345,
-        "aspectRatio": 2.0200919874122487
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/17073231646b993fe3669494328c13ffa2ab9d92-8345x4131.jpg",
-      "colors": {
-        "primary": "#1D1224",
-        "secondary": "#F9DCF5",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "We’re taking a trip into the Arcane, welcome to 14.24!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "c6edb0a4-a3f4-489c-98b3-d6c775d3ce13.en-us",
-      "contentLocale": "en-us",
-      "rev": "y6qAFx3KEt65PvSAF1CTwG",
-      "publishDate": "2024-12-10T19:00:00.000Z"
-    }
-  },
-  {
     "title": "TFT Macao Open | Format Explainer",
     "publishedAt": "2024-12-10T19:00:00.000Z",
     "action": {
@@ -3810,6 +3748,68 @@
       "contentId": "1343c2a8-6fa0-4146-8843-867b14109fb7.en-us",
       "contentLocale": "en-us",
       "rev": "CsJhS699U5wscrFy7YLV5B",
+      "publishDate": "2024-12-10T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 14.24 Notes",
+    "publishedAt": "2024-12-10T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-14-24-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 4131,
+        "width": 8345,
+        "aspectRatio": 2.0200919874122487
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/17073231646b993fe3669494328c13ffa2ab9d92-8345x4131.jpg",
+      "colors": {
+        "primary": "#1D1224",
+        "secondary": "#F9DCF5",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "We’re taking a trip into the Arcane, welcome to 14.24!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "c6edb0a4-a3f4-489c-98b3-d6c775d3ce13.en-us",
+      "contentLocale": "en-us",
+      "rev": "y6qAFx3KEt65PvSAF1CTwG",
       "publishDate": "2024-12-10T19:00:00.000Z"
     }
   },

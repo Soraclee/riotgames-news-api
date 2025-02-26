@@ -390,7 +390,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "BeUJjLrNCk4",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 42,
         "url": "https://www.youtube.com/watch?v=BeUJjLrNCk4"
       }
     },
@@ -454,7 +454,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "pqCMY51xKmY",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 52,
         "url": "https://www.youtube.com/watch?v=pqCMY51xKmY"
       }
     },
@@ -582,7 +582,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "2kaTuAqeHyQ",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 105,
         "url": "https://www.youtube.com/watch?v=2kaTuAqeHyQ"
       }
     },
@@ -774,7 +774,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "etSG_TEJs_g",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 44,
         "url": "https://www.youtube.com/watch?v=etSG_TEJs_g"
       }
     },
@@ -902,7 +902,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "y2e47C7pJ88",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 123,
         "url": "https://www.youtube.com/watch?v=y2e47C7pJ88"
       }
     },
@@ -966,7 +966,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "umZ4GBpybFU",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 43,
         "url": "https://www.youtube.com/watch?v=umZ4GBpybFU"
       }
     },
@@ -1152,6 +1152,70 @@
     }
   },
   {
+    "title": "Tempête en approche | Teamfight Tactics",
+    "publishedAt": "2022-06-20T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "hwBpaJuLWEs",
+        "videoLengthInSeconds": 81,
+        "url": "https://www.youtube.com/watch?v=hwBpaJuLWEs"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b916733f3aedb9f41c537a68bd7a57bd7cbc6642-1920x1080.jpg",
+      "colors": {
+        "primary": "#2B4355",
+        "secondary": "#F9DCF9",
+        "label": "#0B1F2D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Lorsque Pingouin rencontre un mystérieux escrimeur, il doit compter sur l'aide d'un nouvel ami dragon."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "articles.blt10af5abdbc9d7c88.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "xuZL20aPaBsXnexenDQTBh",
+      "publishDate": "2022-06-20T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Dragon Drill : 복덕방 (avec Northfacegawd) | Teamfight Tactics",
     "publishedAt": "2022-06-20T15:00:00.000Z",
     "action": {
@@ -1215,77 +1279,13 @@
     }
   },
   {
-    "title": "Tempête en approche | Teamfight Tactics",
-    "publishedAt": "2022-06-20T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "hwBpaJuLWEs",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=hwBpaJuLWEs"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b916733f3aedb9f41c537a68bd7a57bd7cbc6642-1920x1080.jpg",
-      "colors": {
-        "primary": "#2B4355",
-        "secondary": "#F9DCF9",
-        "label": "#0B1F2D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Lorsque Pingouin rencontre un mystérieux escrimeur, il doit compter sur l'aide d'un nouvel ami dragon."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt10af5abdbc9d7c88.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "xuZL20aPaBsXnexenDQTBh",
-      "publishDate": "2022-06-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Le savoir, c'est le pouvoir ! | Teamfight Tactics",
     "publishedAt": "2022-06-07T15:00:00.000Z",
     "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "0i6yWlbKoz4",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 148,
         "url": "https://www.youtube.com/watch?v=0i6yWlbKoz4"
       }
     },
@@ -1477,7 +1477,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "MTNQRu3BsiA",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 56,
         "url": "https://www.youtube.com/watch?v=MTNQRu3BsiA"
       }
     },
@@ -1541,7 +1541,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "Edh1RS93_EQ",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 197,
         "url": "https://www.youtube.com/watch?v=Edh1RS93_EQ"
       }
     },
@@ -1605,7 +1605,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "zxh7LCpBqNA",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 107,
         "url": "https://www.youtube.com/watch?v=zxh7LCpBqNA"
       }
     },
@@ -1669,7 +1669,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "290Z8sMuoT0",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 90,
         "url": "https://www.youtube.com/watch?v=290Z8sMuoT0"
       }
     },
@@ -1733,7 +1733,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "Byiqt1J2zqo",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 102,
         "url": "https://www.youtube.com/watch?v=Byiqt1J2zqo"
       }
     },
@@ -1791,77 +1791,13 @@
     }
   },
   {
-    "title": "La montée de la Ruine | Cinématique de lancement de Jugement - Teamfight Tactics",
-    "publishedAt": "2021-04-27T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "cMII-eV_xjw",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=cMII-eV_xjw"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/61cbdb470a72258253d581a1a2b3d3f5f31f3874-1920x1080.jpg",
-      "colors": {
-        "primary": "#1C100E",
-        "secondary": "#FFD9D6",
-        "label": "#030303"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "L'équilibre est rompu et la Brume arrive."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt1836aa0805349b04.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "4moR0BOIPL5mX5KmRN7uDk",
-      "publishDate": "2021-04-27T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Présentation de l'ensemble Jugement | Teamfight Tactics",
     "publishedAt": "2021-04-27T15:00:00.000Z",
     "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "Y3mzyhVNkNs",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 277,
         "url": "https://www.youtube.com/watch?v=Y3mzyhVNkNs"
       }
     },
@@ -1919,13 +1855,77 @@
     }
   },
   {
+    "title": "La montée de la Ruine | Cinématique de lancement de Jugement - Teamfight Tactics",
+    "publishedAt": "2021-04-27T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "cMII-eV_xjw",
+        "videoLengthInSeconds": 140,
+        "url": "https://www.youtube.com/watch?v=cMII-eV_xjw"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/61cbdb470a72258253d581a1a2b3d3f5f31f3874-1920x1080.jpg",
+      "colors": {
+        "primary": "#1C100E",
+        "secondary": "#FFD9D6",
+        "label": "#030303"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'équilibre est rompu et la Brume arrive."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "articles.blt1836aa0805349b04.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "4moR0BOIPL5mX5KmRN7uDk",
+      "publishDate": "2021-04-27T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Lunar Beats (ft. DJ Ox) | Teamfight Tactics",
     "publishedAt": "2021-01-19T16:00:00.000Z",
     "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "p2RIWx1JOQ8",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 218,
         "url": "https://www.youtube.com/watch?v=p2RIWx1JOQ8"
       }
     },
@@ -1989,7 +1989,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "U8i7MOPUKII",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 42,
         "url": "https://www.youtube.com/watch?v=U8i7MOPUKII"
       }
     },
@@ -2053,7 +2053,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "L4WaGDht2SA",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 100,
         "url": "https://www.youtube.com/watch?v=L4WaGDht2SA"
       }
     },
