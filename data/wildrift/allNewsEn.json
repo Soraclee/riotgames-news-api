@@ -1,5 +1,68 @@
 [
   {
+    "title": "Corki Rework",
+    "publishedAt": "2025-03-06T00:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "Vo3F64n3Ynk",
+        "videoLengthInSeconds": 106,
+        "url": "https://www.youtube.com/watch?v=Vo3F64n3Ynk"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
+        "colors": {
+          "primary": "#2ed5ff",
+          "secondary": "#D6F5FF",
+          "label": "#0A0A0A"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/cd606006da0a4938e758e682691710068c74e855-1920x1080.jpg",
+      "colors": {
+        "primary": "#160F1F",
+        "secondary": "#D6EBFF",
+        "label": "#050505"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Polish up those goggles and strap in, because new and improved #Corki takes off on March 6th UTC!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "e5075273-a2d4-4458-b180-a7946fbf533d.en-us",
+      "contentLocale": "en-us",
+      "rev": "01qWK57yIzM1sJv8wKR1Oy",
+      "publishDate": "2025-03-06T00:00:00.000Z"
+    }
+  },
+  {
     "title": "Wild Rift Patch Notes 6.0c",
     "publishedAt": "2025-02-19T17:00:00.000Z",
     "action": {
@@ -4592,69 +4655,6 @@
       "contentLocale": "en-us",
       "rev": "lESIXfhUM7GwGlQ32xdagV",
       "publishDate": "2023-11-22T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Arena Mode Trailer",
-    "publishedAt": "2023-11-17T01:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "uWE-JsfY0yc",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=uWE-JsfY0yc"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
-        "colors": {
-          "primary": "#2ed5ff",
-          "secondary": "#D6F5FF",
-          "label": "#0A0A0A"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c96c489d7ac1f77d77c21b82c02f2a093b3c5ef0-1920x1080.jpg",
-      "colors": {
-        "primary": "#222142",
-        "secondary": "#DCEFF9",
-        "label": "#060616"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Two is better than one! Win the ultimate battle bonanza by teaming up with your buddy NOW!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt961a5c7c083a81cd.en-us",
-      "contentLocale": "en-us",
-      "rev": "kdgc7UFRhHqFdI6LqNtvOK",
-      "publishDate": "2023-11-17T01:00:00.000Z"
     }
   }
 ]

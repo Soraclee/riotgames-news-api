@@ -1,5 +1,68 @@
 [
   {
+    "title": "Refonte de Corki",
+    "publishedAt": "2025-03-06T00:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "ME_Hc2gNLug",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=ME_Hc2gNLug"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
+        "colors": {
+          "primary": "#2ed5ff",
+          "secondary": "#D6F5FF",
+          "label": "#0A0A0A"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/cd606006da0a4938e758e682691710068c74e855-1920x1080.jpg",
+      "colors": {
+        "primary": "#160F1F",
+        "secondary": "#D6EBFF",
+        "label": "#050505"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Enfilez vos lunettes et préparez-vous au décollage, car le nouveau #Corki déboule le 6 mars CET !"
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "e5075273-a2d4-4458-b180-a7946fbf533d.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "01qWK57yIzM1sJv8wKQx7e",
+      "publishDate": "2025-03-06T00:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 6.0c de Wild Rift",
     "publishedAt": "2025-02-19T17:00:00.000Z",
     "action": {
@@ -4589,67 +4652,6 @@
       "contentLocale": "fr-fr",
       "rev": "kdgc7UFRhHqFdI6LqNrT4i",
       "publishDate": "2023-10-07T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Célébration du troisième anniversaire mondial de Wild Rift",
-    "publishedAt": "2023-10-05T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-third-year-global-anniversary-celebrations/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
-        "colors": {
-          "primary": "#2ed5ff",
-          "secondary": "#D6F5FF",
-          "label": "#0A0A0A"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6e21e19fc9912cc8fa912f697b97bcdeb9e8cc66-1920x1080.jpg",
-      "colors": {
-        "primary": "#B85737",
-        "secondary": "#333029",
-        "label": "#32211B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "On se prépare pour notre anniversaire mondial et on a hâte de le fêter avec vous ! Pour commencer, la galerie Pic de puissance est maintenant disponible ! Envoyez vos créations pour obtenir des récompenses d’anniversaire ! Découvrez toutes les autres célébrations et tous les autres cadeaux qu’on vous réserve ! "
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltb6362a68e9ef7d05.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "kdgc7UFRhHqFdI6LqNtE3M",
-      "publishDate": "2023-10-05T19:00:00.000Z"
     }
   }
 ]
