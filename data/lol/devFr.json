@@ -1,12 +1,12 @@
 [
   {
-    "title": "Dev Update : coffres Hextech, champions et autres",
-    "publishedAt": "2025-02-26T16:00:00.000Z",
+    "title": "/Dev TFT : Leçons Into the Arcane",
+    "publishedAt": "2025-03-10T16:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
         "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=f2LAfBcMvtM"
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/dev/dev-tft-into-the-arcane-learnings"
       }
     },
     "product": {
@@ -34,21 +34,21 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 720,
-        "width": 1280,
+        "height": 1080,
+        "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b50e4483606b26234e2b9b2d4ab0c764146b65a3-1280x720.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7d6799d60e7029c4aa6a1d168ce7560b15ce5adf-1920x1080.jpg",
       "colors": {
-        "primary": "#201910",
-        "secondary": "#FFEED6",
-        "label": "#060606"
+        "primary": "#3A2243",
+        "secondary": "#F9DCEB",
+        "label": "#130617"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Pabro et Meddler parlent coffres Hextech, acquisition des champions, skins exaltés et plus."
+      "body": "Quelques réflexions sur le set Into the Arcane (et plus) avec Riot Mort, Riot Xtna et d'autres."
     },
     "category": {
       "title": "Dev",
@@ -56,10 +56,10 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "03fac73a-4b62-4f2c-9b54-b9e8dc6c971a.fr-fr",
+      "contentId": "259bff97-725d-4949-884b-c112958cb0bc.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "FgKLv6ZFErjD8NvueWcSmm",
-      "publishDate": "2025-02-26T16:00:00.000Z"
+      "rev": "bJ2czZMQxnU8gTVkaykC3a",
+      "publishDate": "2025-03-10T16:00:00.000Z"
     }
   },
   {
@@ -121,6 +121,69 @@
       "contentId": "cd3136d8-e51c-4f17-94f5-b706e969bf16.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "cSBh20mACYIQnKMEb9UbKj",
+      "publishDate": "2025-02-26T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Dev Update : coffres Hextech, champions et autres",
+    "publishedAt": "2025-02-26T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=f2LAfBcMvtM"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b50e4483606b26234e2b9b2d4ab0c764146b65a3-1280x720.jpg",
+      "colors": {
+        "primary": "#201910",
+        "secondary": "#FFEED6",
+        "label": "#060606"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Pabro et Meddler parlent coffres Hextech, acquisition des champions, skins exaltés et plus."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "03fac73a-4b62-4f2c-9b54-b9e8dc6c971a.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "FgKLv6ZFErjD8NvueWcSmm",
       "publishDate": "2025-02-26T16:00:00.000Z"
     }
   },
@@ -563,68 +626,6 @@
     }
   },
   {
-    "title": "Résumé : saison 1, aperçu du gameplay et plus",
-    "publishedAt": "2024-11-25T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tldw-season-1-reveal-gameplay-preview-more"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7aa7cb386d6d62b0d85f14e2ea432508aa425879-1920x1080.jpg",
-      "colors": {
-        "primary": "#1A1D33",
-        "secondary": "#DCF6F9",
-        "label": "#010104"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un résumé des nouveautés concernant les champions, la saison 1, le gameplay, et plus encore."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "aede617c-f4d2-4ba5-8307-4f89e7aff7ce.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "YN8truRCqnchJPC7V0Viah",
-      "publishDate": "2024-11-25T16:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev : Aperçu du gameplay de la saison 1 2025",
     "publishedAt": "2024-11-25T16:00:00.000Z",
     "action": {
@@ -809,6 +810,68 @@
       "contentId": "4968e4b2-66ec-4f59-a352-0092ad20ff72.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "UPIPX87Xr8dUQrGWE8HjwJ",
+      "publishDate": "2024-11-25T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Résumé : saison 1, aperçu du gameplay et plus",
+    "publishedAt": "2024-11-25T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/tldw-season-1-reveal-gameplay-preview-more"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7aa7cb386d6d62b0d85f14e2ea432508aa425879-1920x1080.jpg",
+      "colors": {
+        "primary": "#1A1D33",
+        "secondary": "#DCF6F9",
+        "label": "#010104"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un résumé des nouveautés concernant les champions, la saison 1, le gameplay, et plus encore."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "aede617c-f4d2-4ba5-8307-4f89e7aff7ce.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "YN8truRCqnchJPC7V0Viah",
       "publishDate": "2024-11-25T16:00:00.000Z"
     }
   },
@@ -1442,68 +1505,6 @@
     }
   },
   {
-    "title": "/dev : L'avenir des modes Arena et Swarm",
-    "publishedAt": "2024-09-23T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-looking-forward-for-arena-and-swarm"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f8703c9fe3cc2bfde0a592a5ae856a162f8af5af-1920x1080.jpg",
-      "colors": {
-        "primary": "#552B2B",
-        "secondary": "#EBDCF9",
-        "label": "#2D0B0B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Présentation des projets pour les modes Arena et Swarm"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "e3158df5-e8b5-4481-bc85-fc0fe98f6c62.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "YWHkZRhDz94HWGkESrM3Hz",
-      "publishDate": "2024-09-23T15:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev : Exploration de la MID de Teemo",
     "publishedAt": "2024-09-23T15:00:00.000Z",
     "action": {
@@ -1566,6 +1567,68 @@
     }
   },
   {
+    "title": "/dev : L'avenir des modes Arena et Swarm",
+    "publishedAt": "2024-09-23T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-looking-forward-for-arena-and-swarm"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f8703c9fe3cc2bfde0a592a5ae856a162f8af5af-1920x1080.jpg",
+      "colors": {
+        "primary": "#552B2B",
+        "secondary": "#EBDCF9",
+        "label": "#2D0B0B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Présentation des projets pour les modes Arena et Swarm"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "e3158df5-e8b5-4481-bc85-fc0fe98f6c62.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "YWHkZRhDz94HWGkESrM3Hz",
+      "publishDate": "2024-09-23T15:00:00.000Z"
+    }
+  },
+  {
     "title": "/dev : Changements de gameplay du 3e segment 2024",
     "publishedAt": "2024-09-10T17:00:00.000Z",
     "action": {
@@ -1613,7 +1676,7 @@
     },
     "description": {
       "type": "html",
-      "body": "Explorons les changements du 3e segment.\n\n"
+      "body": "Explorons les changements du 3e segment."
     },
     "category": {
       "title": "Dev",
@@ -1691,6 +1754,130 @@
     }
   },
   {
+    "title": "Résumé : Honneur, skins et plus encore",
+    "publishedAt": "2024-08-22T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/tldw-honoring-opponents-skin-themes-more"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1125,
+        "width": 1920,
+        "aspectRatio": 1.7066666666666668
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/550f6e0a0c119792c7f476a4478b202737450158-1920x1125.jpg",
+      "colors": {
+        "primary": "#B88C60",
+        "secondary": "#332B29",
+        "label": "#3A2C1F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un aperçu des réponses de Meddler et Pabro aux questions des joueurs sur l'honneur, les skins…"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "faeda984-37dd-4eaa-b477-165959804e58",
+      "contentLocale": "fr-fr",
+      "rev": "m8xt6aEW5HgObqk4ILKyqI",
+      "publishDate": "2024-08-22T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev : Rétrospection Vanguard x LoL",
+    "publishedAt": "2024-08-22T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-vanguard-x-lol-retrospective"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bc6914f7d2cfdd2de7a506ece8042431d7d9fafd-1920x1080.jpg",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#D6EFFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "À quel point le système d'anti-triche est-il efficace jusqu'à présent ?"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "06c1d5c3-7d8f-4a34-82e0-6ca8e7d0fa48",
+      "contentLocale": "fr-fr",
+      "rev": "2eqiUp79DxBCItwrHruaq7",
+      "publishDate": "2024-08-22T15:00:00.000Z"
+    }
+  },
+  {
     "title": "/dev : systèmes liés aux comportements et Honneur",
     "publishedAt": "2024-08-22T15:00:00.000Z",
     "action": {
@@ -1747,68 +1934,6 @@
     },
     "analytics": {
       "contentId": "c0470cca-2ba4-4d04-906a-a34c5e6acfc4",
-      "contentLocale": "fr-fr",
-      "rev": "2eqiUp79DxBCItwrHruaq7",
-      "publishDate": "2024-08-22T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : Rétrospection Vanguard x LoL ",
-    "publishedAt": "2024-08-22T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-vanguard-x-lol-retrospective"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bc6914f7d2cfdd2de7a506ece8042431d7d9fafd-1920x1080.jpg",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#D6EFFF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "À quel point le système d'anti-triche est-il efficace jusqu'à présent ?"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "06c1d5c3-7d8f-4a34-82e0-6ca8e7d0fa48",
       "contentLocale": "fr-fr",
       "rev": "2eqiUp79DxBCItwrHruaq7",
       "publishDate": "2024-08-22T15:00:00.000Z"
@@ -1873,68 +1998,6 @@
       "contentId": "7eb7a33c-97bd-4d87-800b-f5510527947b",
       "contentLocale": "fr-fr",
       "rev": "2eqiUp79DxBCItwrHruaq7",
-      "publishDate": "2024-08-22T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Résumé : Honneur, skins et plus encore",
-    "publishedAt": "2024-08-22T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tldw-honoring-opponents-skin-themes-more"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1125,
-        "width": 1920,
-        "aspectRatio": 1.7066666666666668
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/550f6e0a0c119792c7f476a4478b202737450158-1920x1125.jpg",
-      "colors": {
-        "primary": "#B88C60",
-        "secondary": "#332B29",
-        "label": "#3A2C1F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un aperçu des réponses de Meddler et Pabro aux questions des joueurs sur l'honneur, les skins…"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "faeda984-37dd-4eaa-b477-165959804e58",
-      "contentLocale": "fr-fr",
-      "rev": "m8xt6aEW5HgObqk4ILKyqI",
       "publishDate": "2024-08-22T15:00:00.000Z"
     }
   },
@@ -2375,6 +2438,68 @@
     }
   },
   {
+    "title": "Changements des récompenses de classement en 2024",
+    "publishedAt": "2024-04-08T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-ranked-rewards-in-2024/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/945dafab1fec92b5fd5a9cb0f582284e8872d887-1920x1080.jpg",
+      "colors": {
+        "primary": "#3F2244",
+        "secondary": "#F9E1DC",
+        "label": "#160618"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Informations détaillées à propos des changements des récompenses de classement en 2024"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.bltc6d3a9773afbf47c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "RIpKXTkqwHOEY4MEaIIaU7",
+      "publishDate": "2024-04-08T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Dev Update : Arena, Lee Sin et aperçu du mode PvE",
     "publishedAt": "2024-04-08T15:00:00.000Z",
     "action": {
@@ -2435,68 +2560,6 @@
       "contentId": "articles.blte04053218b76cdcb.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "5oZd24h28sxsR5vy6hZK8d",
-      "publishDate": "2024-04-08T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Changements des récompenses de classement en 2024",
-    "publishedAt": "2024-04-08T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-ranked-rewards-in-2024/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/945dafab1fec92b5fd5a9cb0f582284e8872d887-1920x1080.jpg",
-      "colors": {
-        "primary": "#3F2244",
-        "secondary": "#F9E1DC",
-        "label": "#160618"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Informations détaillées à propos des changements des récompenses de classement en 2024"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.bltc6d3a9773afbf47c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaIIaU7",
       "publishDate": "2024-04-08T15:00:00.000Z"
     }
   },
@@ -2689,6 +2752,68 @@
     }
   },
   {
+    "title": "/dev : Nouvelle IA des bots dans le patch 14.6",
+    "publishedAt": "2024-02-29T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-new-bot-ai-oh-my-coming-14-6/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 4102,
+        "width": 7000,
+        "aspectRatio": 1.7064846416382253
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b2598cc854b921d1d9a1155b793b80c9a880a6bc-7000x4102.jpg",
+      "colors": {
+        "primary": "#10080B",
+        "secondary": "#FFD6D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Nouveaux bots Coop vs IA"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.blt8ddddfdd515fcfe6.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "wqQE3hWIWpUAV3VUi6Qiuy",
+      "publishDate": "2024-02-29T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Dev Update : gameplay, Vanguard & cie",
     "publishedAt": "2024-02-29T16:00:00.000Z",
     "action": {
@@ -2753,130 +2878,6 @@
     }
   },
   {
-    "title": "/dev : Nouvelle IA des bots dans le patch 14.6",
-    "publishedAt": "2024-02-29T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-new-bot-ai-oh-my-coming-14-6/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 4102,
-        "width": 7000,
-        "aspectRatio": 1.7064846416382253
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b2598cc854b921d1d9a1155b793b80c9a880a6bc-7000x4102.jpg",
-      "colors": {
-        "primary": "#10080B",
-        "secondary": "#FFD6D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Nouveaux bots Coop vs IA"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt8ddddfdd515fcfe6.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wqQE3hWIWpUAV3VUi6Qiuy",
-      "publishDate": "2024-02-29T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Résumé Dev Update : gameplay, Vanguard & cie",
-    "publishedAt": "2024-02-29T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tl-dw-gameplay-vanguard-more-dev-update/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d-1920x1080.jpg",
-      "colors": {
-        "primary": "#161020",
-        "secondary": "#DCECF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un bref résumé des annonces de Riot Brightmoon, Pupulasers et Phroxzon.\n"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt711de2505b35a26d.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "IN03FCy14OOjYlZR2zVifa",
-      "publishDate": "2024-02-29T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Skins prestige/fantastiques à venir : févr. 2024",
     "publishedAt": "2024-02-29T16:00:00.000Z",
     "action": {
@@ -2935,6 +2936,68 @@
       "contentId": "articles.bltb6fcc69c0a5972af.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "jEln45CgOQD4spzxfEkCjy",
+      "publishDate": "2024-02-29T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Résumé Dev Update : gameplay, Vanguard & cie",
+    "publishedAt": "2024-02-29T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/tl-dw-gameplay-vanguard-more-dev-update/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d-1920x1080.jpg",
+      "colors": {
+        "primary": "#161020",
+        "secondary": "#DCECF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un bref résumé des annonces de Riot Brightmoon, Pupulasers et Phroxzon."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.blt711de2505b35a26d.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "IN03FCy14OOjYlZR2zVifa",
       "publishDate": "2024-02-29T16:00:00.000Z"
     }
   },
@@ -3561,6 +3624,68 @@
     }
   },
   {
+    "title": "Mode Partie rapide",
+    "publishedAt": "2023-10-12T17:30:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/quickplay-mode/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9fa26e453914f8a28852ff311f18fc3525ff91dc-1920x1080.jpg",
+      "colors": {
+        "primary": "#391C34",
+        "secondary": "#DCF3F9",
+        "label": "#0B030A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Tout ce qu'il faut savoir sur les Parties rapides, le mode qui remplace le mode Aveugle."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.bltd1334b7e52b2ad8d.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "wqQE3hWIWpUAV3VUi6Q5B0",
+      "publishDate": "2023-10-12T17:30:00.000Z"
+    }
+  },
+  {
     "title": "Dev Update : Champions, univers et plus",
     "publishedAt": "2023-10-12T17:30:00.000Z",
     "action": {
@@ -3621,68 +3746,6 @@
       "contentId": "articles.bltb75aa81b7137b443.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "BMNrGLgwKDF4EjlAoVDgZ8",
-      "publishDate": "2023-10-12T17:30:00.000Z"
-    }
-  },
-  {
-    "title": "Mode Partie rapide",
-    "publishedAt": "2023-10-12T17:30:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/quickplay-mode/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9fa26e453914f8a28852ff311f18fc3525ff91dc-1920x1080.jpg",
-      "colors": {
-        "primary": "#391C34",
-        "secondary": "#DCF3F9",
-        "label": "#0B030A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Tout ce qu'il faut savoir sur les Parties rapides, le mode qui remplace le mode Aveugle."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.bltd1334b7e52b2ad8d.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wqQE3hWIWpUAV3VUi6Q5B0",
       "publishDate": "2023-10-12T17:30:00.000Z"
     }
   },
@@ -3935,6 +3998,68 @@
     }
   },
   {
+    "title": "/dev : Nouveau calendrier du mode classé",
+    "publishedAt": "2023-08-28T18:30:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-ranked-schedule-changes/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5f76eed9cf133f138ff18203aafed39b0e7d683c-1920x1080.jpg",
+      "colors": {
+        "primary": "#452330",
+        "secondary": "#DCF9F7",
+        "label": "#1A060E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Pourquoi LoL se divise en trois segments classés et les conséquences sur le reste de l'année."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.bltca29b849606cbfad.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "5oZd24h28sxsR5vy6hZK8d",
+      "publishDate": "2023-08-28T18:30:00.000Z"
+    }
+  },
+  {
     "title": "Dev Update : présaison et mode classé",
     "publishedAt": "2023-08-28T18:30:00.000Z",
     "action": {
@@ -3993,68 +4118,6 @@
     },
     "analytics": {
       "contentId": "articles.blt1ff2f4890bfe3161.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "5oZd24h28sxsR5vy6hZK8d",
-      "publishDate": "2023-08-28T18:30:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : Nouveau calendrier du mode classé",
-    "publishedAt": "2023-08-28T18:30:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-ranked-schedule-changes/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5f76eed9cf133f138ff18203aafed39b0e7d683c-1920x1080.jpg",
-      "colors": {
-        "primary": "#452330",
-        "secondary": "#DCF9F7",
-        "label": "#1A060E"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Pourquoi LoL se divise en trois segments classés et les conséquences sur le reste de l'année."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.bltca29b849606cbfad.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "5oZd24h28sxsR5vy6hZK8d",
       "publishDate": "2023-08-28T18:30:00.000Z"
@@ -4619,68 +4682,6 @@
       "contentId": "articles.bltdb1b6346fb8798f2.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "bxuuTlbyftRPueMcYQe3vh",
-      "publishDate": "2023-06-08T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Résumé Dev Update : Clash, parties classées et skins",
-    "publishedAt": "2023-06-08T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tl-dw-clash-ranked-skins-dev-update/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 896,
-        "width": 1600,
-        "aspectRatio": 1.7857142857142858
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e977e8e2aa20366066b083c414f2353161e51fc4-1600x896.jpg",
-      "colors": {
-        "primary": "#B8705F",
-        "secondary": "#33292C",
-        "label": "#311F1A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un résumé rapide de Riot Brightmoon, Meddler et 100 pc nuggets."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt2ca65857f8b19224.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "IN03FCy14OOjYlZR30YWUa",
       "publishDate": "2023-06-08T15:00:00.000Z"
     }
   }
