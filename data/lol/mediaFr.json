@@ -1,5 +1,69 @@
 [
   {
+    "title": "Cinématique du set Cyber City",
+    "publishedAt": "2025-03-14T13:30:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "cD34_lIYKco",
+        "videoLengthInSeconds": 160,
+        "url": "https://www.youtube.com/watch?v=cD34_lIYKco"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/66070f9c6846af12921309bf0ee553588990c86e-1920x1080.jpg",
+      "colors": {
+        "primary": "#262513",
+        "secondary": "#D6FFE0",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Regardez À toute vitesse dès maintenant"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "6967a36f-a68e-4c0d-9e0b-2ff8df1f2f54.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "zLqbGSDWQtuCHFE156ZCEZ",
+      "publishDate": "2025-03-14T13:30:00.000Z"
+    }
+  },
+  {
     "title": "Musique de Mel",
     "publishedAt": "2025-01-23T16:00:00.000Z",
     "action": {
@@ -4595,70 +4659,6 @@
       "contentLocale": "fr-fr",
       "rev": "aTsF1lrk733vX3pv2YTVmC",
       "publishDate": "2022-08-11T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Jouer Varus avec Combattants | Conseils tactiques",
-    "publishedAt": "2022-08-10T13:04:09.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "Nb4nI16cLCc",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=Nb4nI16cLCc"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a8b92ea5ab66eb26f19a910b730d113ce2fd02c8-1920x1080.jpg",
-      "colors": {
-        "primary": "#7F87B8",
-        "secondary": "#292B33",
-        "label": "#393F69"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Associez la puissance des Viftireurs avec celle des Combattants pour l'emporter !"
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blteee61c77fd7911ae.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "bxuuTlbyftRPueMcYQb8IZ",
-      "publishDate": "2022-08-10T13:04:09.000Z"
     }
   }
 ]
