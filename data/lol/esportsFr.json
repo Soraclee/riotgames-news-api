@@ -1,5 +1,67 @@
 [
   {
+    "title": "Fearless Draft en 2025",
+    "publishedAt": "2025-03-16T06:30:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/fearless-draft-takes-over-2025"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e4fb0dac45804fd6c96ef1bf20224537598824dd-1600x900.jpg",
+      "colors": {
+        "primary": "#25444A",
+        "secondary": "#F9E5DC",
+        "label": "#081C20"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "LoL Esports met l'adaptabilité à l'honneur dès le segment 2"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "68e963cb-43d8-4938-a3a9-144369073619.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "zLqbGSDWQtuCHFE15D67RH",
+      "publishDate": "2025-03-16T06:30:00.000Z"
+    }
+  },
+  {
     "title": "TFT Into The Arcane - Temps forts régionaux",
     "publishedAt": "2025-03-13T14:00:00.000Z",
     "action": {
@@ -4637,70 +4699,6 @@
       "contentLocale": "fr-fr",
       "rev": "tG8aRZvgYHVPamBbJHKM97",
       "publishDate": "2024-01-31T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Fill The Grid | LEC Pop Quiz | 2024 Winter",
-    "publishedAt": "2024-01-26T14:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "dzCVnO9uEjU",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=dzCVnO9uEjU"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/abaed6ddb9fb776011a8b95894c553c9e63c6abf-1920x1080.jpg",
-      "colors": {
-        "primary": "#29514D",
-        "secondary": "#EDDCF9",
-        "label": "#0A2825"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "We tested our LEC players with some questions that made them think outside the box… or grid? These were some of their answers."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blte21843305cd081a8.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHKM97",
-      "publishDate": "2024-01-26T14:00:00.000Z"
     }
   }
 ]
