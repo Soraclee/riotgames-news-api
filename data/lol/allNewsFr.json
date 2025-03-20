@@ -1,11 +1,11 @@
 [
   {
-    "title": "Mise à jour des boutiques",
-    "publishedAt": "2025-03-18T18:00:00.000Z",
+    "title": "La Main du démon",
+    "publishedAt": "2025-03-19T19:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/fr-fr/news/dev/the-shops-update"
+        "url": "/fr-fr/news/game-updates/the-demons-hand"
       }
     },
     "product": {
@@ -37,17 +37,143 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7e67efcbe98ba24cabf0d86d5d1cc322f5e10eae-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/c1d132c1a5f1835b1836e91a54b042c367348b61-1920x1080.jpg",
       "colors": {
-        "primary": "#47264B",
-        "secondary": "#F9DCE8",
-        "label": "#1F0821"
+        "primary": "#5A452D",
+        "secondary": "#F9F9DC",
+        "label": "#33210D"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Mise à jour de la boutique fantastique, de Votre Boutique et du Bazar des essences"
+      "body": "Mini-jeu sur le thème de Noxus"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "19e809c4-b0cc-4c4a-9fcb-c7487252cd74.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
+      "publishDate": "2025-03-19T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Mise à jour du mode Double Up",
+    "publishedAt": "2025-03-19T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/double-up-upgraded"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3520949ab635f14b7da7847bb714547c34a4825f-1920x1080.jpg",
+      "colors": {
+        "primary": "#B89D93",
+        "secondary": "#332933",
+        "label": "#5F3F33"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Double Up devient un mode permanent de TFT."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "a1da1eb4-3575-4bdd-8bbf-ec2c98d7883a.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "HvvwZlkVCRUwIRz2p0ZpS2",
+      "publishDate": "2025-03-19T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Nouveau palier de compétition pour TFT Esports",
+    "publishedAt": "2025-03-19T15:30:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/dev/introducing-a-new-tier-1-circuit-for-tft-esports/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/305770d505177a16698af5131fc54eef5f5bbb72-1600x900.jpg",
+      "colors": {
+        "primary": "#2A2E54",
+        "secondary": "#DCE5F9",
+        "label": "#0B0E2C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un niveau de compétition supplémentaire pour les joueurs les plus performants."
     },
     "category": {
       "title": "Dev",
@@ -55,9 +181,198 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "284de0f1-9417-4e1e-ab33-909672bac80d.fr-fr",
+      "contentId": "05d4eb41-015f-4158-8ef3-b0fba30a01f5.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "2CBQQwFWRlx9tTg4TJro7V",
+      "rev": "HvvwZlkVCRUwIRz2p0Rrqq",
+      "publishDate": "2025-03-19T15:30:00.000Z"
+    }
+  },
+  {
+    "title": "Dishsoap remporte la Tactician's Crown !",
+    "publishedAt": "2025-03-19T14:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/esports/dishsoap-claims-the-tacticians-crown/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/52f6728009a0496c4b988ff5660cf078f9d1d77d-1600x900.jpg",
+      "colors": {
+        "primary": "#2C5854",
+        "secondary": "#DCF4F9",
+        "label": "#0C302D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le set Into the Arcane vient de se terminer."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "77063875-75d3-4126-be80-d207686a2c4f.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "HvvwZlkVCRUwIRz2p06ViI",
+      "publishDate": "2025-03-19T14:00:00.000Z"
+    }
+  },
+  {
+    "title": "Présentation de Teemo abeille chibi",
+    "publishedAt": "2025-03-19T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "jaQxHVnbK-I",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=jaQxHVnbK-I"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/912eb27475e1b49a5cd1536986dd618690c5e033-1920x1080.jpg",
+      "colors": {
+        "primary": "#625531",
+        "secondary": "#F9F5DC",
+        "label": "#3C300F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Si vous touchez à son miel, Teemo abeille chibi vous piquera ! Il fait le buzz dans le patch 13.8."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "498d96b2-6c45-411c-883a-9d572af97b41.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "HvvwZlkVCRUwIRz2ozv6qb",
+      "publishDate": "2025-03-19T13:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.06",
+    "publishedAt": "2025-03-18T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-06-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/44146f88d45d9556fca43aaa72993a9a22349f82-1920x1080.jpg",
+      "colors": {
+        "primary": "#4A254A",
+        "secondary": "#F9DDDC",
+        "label": "#200820"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "PATCH 25.06 DÉTECTÉ ! À LIRE POUR PLUS DE DÉTAILS !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "861a530f-ad9e-42f3-8b64-a9e78c63a6b5.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "l7Wtp1RWy1i0rjy7fz7K1g",
       "publishDate": "2025-03-18T18:00:00.000Z"
     }
   },
@@ -125,12 +440,12 @@
     }
   },
   {
-    "title": "Notes de patch 25.06",
+    "title": "Mise à jour des boutiques",
     "publishedAt": "2025-03-18T18:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-06-notes"
+        "url": "/fr-fr/news/dev/the-shops-update"
       }
     },
     "product": {
@@ -162,27 +477,27 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/44146f88d45d9556fca43aaa72993a9a22349f82-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7e67efcbe98ba24cabf0d86d5d1cc322f5e10eae-1920x1080.jpg",
       "colors": {
-        "primary": "#4A254A",
-        "secondary": "#F9DDDC",
-        "label": "#200820"
+        "primary": "#47264B",
+        "secondary": "#F9DCE8",
+        "label": "#1F0821"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "PATCH 25.06 DÉTECTÉ ! À LIRE POUR PLUS DE DÉTAILS !"
+      "body": "Mise à jour de la boutique fantastique, de Votre Boutique et du Bazar des essences"
     },
     "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
     },
     "analytics": {
-      "contentId": "861a530f-ad9e-42f3-8b64-a9e78c63a6b5.fr-fr",
+      "contentId": "284de0f1-9417-4e1e-ab33-909672bac80d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "l7Wtp1RWy1i0rjy7fz7K1g",
+      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
       "publishDate": "2025-03-18T18:00:00.000Z"
     }
   },
@@ -372,7 +687,7 @@
     "analytics": {
       "contentId": "13de40c1-2ce4-41fd-b67a-2bde11a9d9b0.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "gac8Pitl2SKMMNyPBO8RUu",
+      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
       "publishDate": "2025-03-17T15:00:00.000Z"
     }
   },
@@ -876,7 +1191,7 @@
     "analytics": {
       "contentId": "0462da16-1113-4b4f-bd66-98582a99d9de.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "O0syOADLMvCWbGv9huxqob",
+      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
       "publishDate": "2025-03-10T12:00:00.000Z"
     }
   },
@@ -1257,7 +1572,7 @@
     "analytics": {
       "contentId": "41f691d8-5047-4aed-b2ff-9dec6141fc9e.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "O0syOADLMvCWbGv9huxqob",
+      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
       "publishDate": "2025-03-05T16:00:00.000Z"
     }
   },
@@ -4392,319 +4707,8 @@
     "analytics": {
       "contentId": "4856a6f0-14dd-40d7-892b-a46035801674.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "O0syOADLMvCWbGv9huxqob",
+      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
       "publishDate": "2025-01-07T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Cérémonie de la finale du TFT Macao Open",
-    "publishedAt": "2024-12-17T05:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "mM5_Ym-1irc",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=mM5_Ym-1irc"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080.jpg",
-      "colors": {
-        "primary": "#29254A",
-        "secondary": "#F3DCF9",
-        "label": "#0A0820"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Regarder maintenant"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "0514347d-750d-4af0-ad51-71f91d890e4f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "Qw0TwPQaQ8aBM3BST8VUQr",
-      "publishDate": "2024-12-17T05:00:00.000Z"
-    }
-  },
-  {
-    "title": "Récap' de l'événement | TFT Macao Open",
-    "publishedAt": "2024-12-17T04:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=_HmwQ3k-WJM"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 540,
-        "width": 960,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/09a2d1e1c35d1dbf49da5965270ce7fbdc72eb8d-960x540.jpg",
-      "colors": {
-        "primary": "#653345",
-        "secondary": "#DCF9EF",
-        "label": "#401021"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Merci ! Vous avez fait du TFT Macao Open un événement magique et inoubliable ! On se retrouve à Paris l'année prochaine (!!!), mais avant ça, un peu de repos bien mérité ! Et n'oubliez pas de faire chauffer les relances sur Into the Arcane !"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "55110ef5-0b96-491b-9810-aa4261915992.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "KFPdjtNswOAQxKeneH2bcN",
-      "publishDate": "2024-12-17T04:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation du segment d’hiver du LEC 2025",
-    "publishedAt": "2024-12-16T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/fr-fr/news/2025-lec-winter-split-primer"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 900,
-        "width": 1600,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e81580b8cf7e05eba0a36e09fd0ca3bee9fcc208-1600x900.jpg",
-      "colors": {
-        "primary": "#273E4D",
-        "secondary": "#DCF5F9",
-        "label": "#091923"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Voici tout ce que vous devez savoir à propos du segment d’hiver du LEC 2025, dont son format, ses dates clés et l’ouverture de la billetterie."
-    },
-    "analytics": {
-      "contentId": "fea86393-8d69-4977-a562-b432fd54c2ca.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "KFPdjtNswOAQxKeneF4aC3",
-      "publishDate": "2024-12-16T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Ce qui vous attend en 2025 | Présentation de la feuille de route TFT",
-    "publishedAt": "2024-12-15T10:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=MyDqlkD8zXY"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9be99173d4ffdbe2f83cc60e721dea2567db6733-1920x1080.jpg",
-      "colors": {
-        "primary": "#0E0807",
-        "secondary": "#D6EEFF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "2024 a été l'année la plus folle pour TFT ! Et ce n'est que le début ! Christina et Peter sont venus faire le point sur nos réussites et les leçons tirées de l'année, et vous présenter ce qui vous attend dans la Convergence en 2025."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "c26be0cf-2834-4911-a443-be44dcc1da49.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "KFPdjtNswOAQxKene35h9m",
-      "publishDate": "2024-12-15T10:00:00.000Z"
-    }
-  },
-  {
-    "title": "Musique de Viktor",
-    "publishedAt": "2024-12-12T18:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "Mr7ivVzWWlI",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=Mr7ivVzWWlI"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9dbd2ceaf71d7a81f23cc05772ea72fdbe6af789-1280x720.jpg",
-      "colors": {
-        "primary": "#1D2D3A",
-        "secondary": "#F9F0DC",
-        "label": "#03080C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Ce monde connaîtra la grandeur. Écoutez la musique officielle de Viktor, Héraut de l'arcane."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "5d2e0356-dbd9-457e-b708-ef397003da96.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tW1iVB3M02HkZ9xlNZohFF",
-      "publishDate": "2024-12-12T18:00:00.000Z"
     }
   }
 ]

@@ -1,5 +1,68 @@
 [
   {
+    "title": "Introducing a New Tier 1 Circuit for TFT Esports",
+    "publishedAt": "2025-03-19T15:30:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/dev/introducing-a-new-tier-1-circuit-for-tft-esports/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/305770d505177a16698af5131fc54eef5f5bbb72-1600x900.jpg",
+      "colors": {
+        "primary": "#2A2E54",
+        "secondary": "#DCE5F9",
+        "label": "#0B0E2C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "An additional layer of competition for our most dominant players"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "05d4eb41-015f-4158-8ef3-b0fba30a01f5.en-us",
+      "contentLocale": "en-us",
+      "rev": "HvvwZlkVCRUwIRz2p0Rrqq",
+      "publishDate": "2025-03-19T15:30:00.000Z"
+    }
+  },
+  {
     "title": "The Shops Update",
     "publishedAt": "2025-03-18T18:00:00.000Z",
     "action": {
@@ -57,7 +120,7 @@
     "analytics": {
       "contentId": "284de0f1-9417-4e1e-ab33-909672bac80d.en-us",
       "contentLocale": "en-us",
-      "rev": "2CBQQwFWRlx9tTg4TJvWsl",
+      "rev": "2CBQQwFWRlx9tTg4TOSFT9",
       "publishDate": "2025-03-18T18:00:00.000Z"
     }
   },
@@ -4628,68 +4691,6 @@
       "contentLocale": "en-us",
       "rev": "qZXvkjig7TQff0ZQAF4hXc",
       "publishDate": "2023-09-14T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Champion Insights: Briar",
-    "publishedAt": "2023-08-30T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/champion-insights-briar/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/967bced21ad75cbeda9e7f2c9e4f6d633150049c-1280x720.jpg",
-      "colors": {
-        "primary": "#170B0B",
-        "secondary": "#FFD6D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Thirsty for blood, hungry for life."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt20c2ebcb10476a16.en-us",
-      "contentLocale": "en-us",
-      "rev": "jEln45CgOQD4spzxfDFL6z",
-      "publishDate": "2023-08-30T15:00:00.000Z"
     }
   }
 ]
