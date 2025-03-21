@@ -1,5 +1,131 @@
 [
   {
+    "title": "Ma Meilleure Ennemie",
+    "publishedAt": "2025-03-20T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "j-RpvIuazmc",
+        "videoLengthInSeconds": 169,
+        "url": "https://www.youtube.com/watch?v=j-RpvIuazmc"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/310dfaabcadae6b87e6ab7da647470beb8053b6a-1920x1080.jpg",
+      "colors": {
+        "primary": "#181D2F",
+        "secondary": "#DCF5F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Clip officiel de « Ma Meilleure Ennemie » de Stromae et Pomme tirée de la BO de la saison 2 d'Arcane"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "2721b26a-c740-4d5d-bec9-266612ff0a10.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "DgoKVhO4vj9NHi8b0AxlYC",
+      "publishDate": "2025-03-20T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Découvrez le lieu qui accueillera le MSI 2025 !",
+    "publishedAt": "2025-03-20T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/announcing-the-msi-2025-venue"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/de19e3be205b6ee583e71a4a8c6b084b79ef208e-1600x900.jpg",
+      "colors": {
+        "primary": "#1A0D0E",
+        "secondary": "#FFF2D6",
+        "label": "#010101"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'événement aura lieu au Pacific Coliseum à Vancouver"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "56de3e4b-aa7e-4c24-86d0-e9af7af2b314.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "DgoKVhO4vj9NHi8b0Ar1eK",
+      "publishDate": "2025-03-20T15:00:00.000Z"
+    }
+  },
+  {
     "title": "La Main du démon",
     "publishedAt": "2025-03-19T19:00:00.000Z",
     "action": {
@@ -57,7 +183,7 @@
     "analytics": {
       "contentId": "19e809c4-b0cc-4c4a-9fcb-c7487252cd74.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
+      "rev": "DgoKVhO4vj9NHi8b0Axfl2",
       "publishDate": "2025-03-19T19:00:00.000Z"
     }
   },
@@ -497,7 +623,7 @@
     "analytics": {
       "contentId": "284de0f1-9417-4e1e-ab33-909672bac80d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
+      "rev": "DgoKVhO4vj9NHi8b0Axfl2",
       "publishDate": "2025-03-18T18:00:00.000Z"
     }
   },
@@ -687,7 +813,7 @@
     "analytics": {
       "contentId": "13de40c1-2ce4-41fd-b67a-2bde11a9d9b0.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
+      "rev": "DgoKVhO4vj9NHi8b0Axfl2",
       "publishDate": "2025-03-17T15:00:00.000Z"
     }
   },
@@ -1191,7 +1317,7 @@
     "analytics": {
       "contentId": "0462da16-1113-4b4f-bd66-98582a99d9de.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
+      "rev": "DgoKVhO4vj9NHi8b0Axfl2",
       "publishDate": "2025-03-10T12:00:00.000Z"
     }
   },
@@ -1641,68 +1767,6 @@
     }
   },
   {
-    "title": "Notes de patch 25.05",
-    "publishedAt": "2025-03-04T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-05-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7b02ecb258c88555b1be863f693f4fa8e985e48-1920x1080.jpg",
-      "colors": {
-        "primary": "#1C0E13",
-        "secondary": "#F7FFD6",
-        "label": "#030303"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un nouveau concurrent entre dans l'arène !⚔️Voilà le patch 25.05 !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "9e529228-3c45-476d-8185-7342d539312f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "FgKLv6ZFErjD8NvueZLBuM",
-      "publishDate": "2025-03-04T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Notes de patch 13.7 de Teamfight Tactics (2025)",
     "publishedAt": "2025-03-04T19:00:00.000Z",
     "action": {
@@ -1762,6 +1826,68 @@
       "contentId": "d605b113-c552-440d-955c-0015d36e7600.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "2uHu1uRwbvVt3HHDXuiFcq",
+      "publishDate": "2025-03-04T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.05",
+    "publishedAt": "2025-03-04T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-05-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7b02ecb258c88555b1be863f693f4fa8e985e48-1920x1080.jpg",
+      "colors": {
+        "primary": "#1C0E13",
+        "secondary": "#F7FFD6",
+        "label": "#030303"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un nouveau concurrent entre dans l'arène !⚔️Voilà le patch 25.05 !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "9e529228-3c45-476d-8185-7342d539312f.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "FgKLv6ZFErjD8NvueZLBuM",
       "publishDate": "2025-03-04T19:00:00.000Z"
     }
   },
@@ -1955,68 +2081,6 @@
     }
   },
   {
-    "title": "/dev : coffres Hextech, champions et autres",
-    "publishedAt": "2025-02-26T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-hextech-chests-getting-champs-more"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/aa86719d31bca0b77ba04f3095b292beb9e1dfda-1920x1080.jpg",
-      "colors": {
-        "primary": "#1F130F",
-        "secondary": "#FFDED6",
-        "label": "#050505"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Plus d'infos sur notre dernier Dev Update sur les coffres Hextech, les champions et plus encore !"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "cd3136d8-e51c-4f17-94f5-b706e969bf16.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "cSBh20mACYIQnKMEb9UbKj",
-      "publishDate": "2025-02-26T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Dev Update : coffres Hextech, champions et autres",
     "publishedAt": "2025-02-26T16:00:00.000Z",
     "action": {
@@ -2076,6 +2140,68 @@
       "contentId": "03fac73a-4b62-4f2c-9b54-b9e8dc6c971a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "FgKLv6ZFErjD8NvueWcSmm",
+      "publishDate": "2025-02-26T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev : coffres Hextech, champions et autres",
+    "publishedAt": "2025-02-26T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-hextech-chests-getting-champs-more"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/aa86719d31bca0b77ba04f3095b292beb9e1dfda-1920x1080.jpg",
+      "colors": {
+        "primary": "#1F130F",
+        "secondary": "#FFDED6",
+        "label": "#050505"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Plus d'infos sur notre dernier Dev Update sur les coffres Hextech, les champions et plus encore !"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "cd3136d8-e51c-4f17-94f5-b706e969bf16.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "cSBh20mACYIQnKMEb9UbKj",
       "publishDate": "2025-02-26T16:00:00.000Z"
     }
   },
@@ -3845,63 +3971,6 @@
     }
   },
   {
-    "title": "Abonnements Twitch LoL Esports",
-    "publishedAt": "2025-01-15T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/fr-fr/news/lol-esports-twitch-subscriptions"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 900,
-        "width": 1600,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0f8d7762063bbe828c0c8b7a2de8aba72c51ff55-1600x900.jpg",
-      "colors": {
-        "primary": "#020404",
-        "secondary": "#D6FBFF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "De nouvelles manières de participer et soutenir les diffusions régionales LoL Esports"
-    },
-    "analytics": {
-      "contentId": "6adf9a9c-bca1-40e6-8491-e6fb974b3584.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "UCe181y7ND8VpGNVLGI5u9",
-      "publishDate": "2025-01-15T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Essences bleues et XP de compte",
     "publishedAt": "2025-01-15T16:00:00.000Z",
     "action": {
@@ -3960,6 +4029,63 @@
       "contentId": "5b508705-48ac-4dbc-8ea7-a276299d95cc.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "yjuqByVZ1YaJMqC1HLN4vE",
+      "publishDate": "2025-01-15T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Abonnements Twitch LoL Esports",
+    "publishedAt": "2025-01-15T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/lol-esports-twitch-subscriptions"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0f8d7762063bbe828c0c8b7a2de8aba72c51ff55-1600x900.jpg",
+      "colors": {
+        "primary": "#020404",
+        "secondary": "#D6FBFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "De nouvelles manières de participer et soutenir les diffusions régionales LoL Esports"
+    },
+    "analytics": {
+      "contentId": "6adf9a9c-bca1-40e6-8491-e6fb974b3584.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UCe181y7ND8VpGNVLGI5u9",
       "publishDate": "2025-01-15T16:00:00.000Z"
     }
   },
@@ -4092,68 +4218,6 @@
     }
   },
   {
-    "title": "Détails des compétences de Mel",
-    "publishedAt": "2025-01-09T20:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/mel-abilities-rundown"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8838680e18d131c3336681466b24c8354b83b68c-1280x720.jpg",
-      "colors": {
-        "primary": "#301819",
-        "secondary": "#F9E9DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Surveillez les alentours et préparez-vous à toute éventualité avec Mel."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "76c5f154-ca9b-479c-88c1-12551ff5b987.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "aLIIQ7Q5L2eXkJOQZWbLyO",
-      "publishDate": "2025-01-09T20:00:00.000Z"
-    }
-  },
-  {
     "title": "Focus sur Mel",
     "publishedAt": "2025-01-09T20:00:00.000Z",
     "action": {
@@ -4214,6 +4278,68 @@
       "contentId": "b682fb4c-c062-490f-a781-f86f0e358026.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "OguXAGTr5feE6t2YdGu9CZ",
+      "publishDate": "2025-01-09T20:00:00.000Z"
+    }
+  },
+  {
+    "title": "Détails des compétences de Mel",
+    "publishedAt": "2025-01-09T20:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/mel-abilities-rundown"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8838680e18d131c3336681466b24c8354b83b68c-1280x720.jpg",
+      "colors": {
+        "primary": "#301819",
+        "secondary": "#F9E9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Surveillez les alentours et préparez-vous à toute éventualité avec Mel."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "76c5f154-ca9b-479c-88c1-12551ff5b987.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "aLIIQ7Q5L2eXkJOQZWbLyO",
       "publishDate": "2025-01-09T20:00:00.000Z"
     }
   },
@@ -4583,132 +4709,6 @@
       "contentLocale": "fr-fr",
       "rev": "V37xxuv44z9nRlMZdSTihv",
       "publishDate": "2025-01-07T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 13.3 de Teamfight Tactics (2025)",
-    "publishedAt": "2025-01-07T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-13-3-notes-2025/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/088102436ffdcf60c480a429835b1a2f35b537bd-1920x1080.jpg",
-      "colors": {
-        "primary": "#1F1F3E",
-        "secondary": "#F9E6DC",
-        "label": "#040411"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Et nous revoilà pour le premier (petit) patch de l'année ! Nous améliorons ici les rencontres de début de partie et le carrousel, et nous préparons le terrain pour les changements majeurs du prochain patch."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "17b78eba-0185-4530-ab60-949386fcb0df.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "AJJDAXmVTF2HnAYqO51jc6",
-      "publishDate": "2025-01-07T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Bienvenue à Noxus",
-    "publishedAt": "2025-01-07T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=I76wvt0aEE4"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/46e55b70c3d4033b2222cfb8d8115720c55935fb-1920x1080.jpg",
-      "colors": {
-        "primary": "#231117",
-        "secondary": "#FFD6DB",
-        "label": "#080808"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Une seule question se pose. Êtes-vous assez fort ?"
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "4856a6f0-14dd-40d7-892b-a46035801674.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
-      "publishDate": "2025-01-07T16:00:00.000Z"
     }
   }
 ]
