@@ -1,5 +1,69 @@
 [
   {
+    "title": "Flash info",
+    "publishedAt": "2025-03-22T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "BT9WtnQcJVU",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=BT9WtnQcJVU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/563c1ea5e57faa92138dfe8f5fbf115c0957c18e-1920x1080.jpg",
+      "colors": {
+        "primary": "#292243",
+        "secondary": "#F9E2DC",
+        "label": "#0A0617"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "DERNIÈRE MINUTE : Janna miss météo chibi est partie dans une aventure houleuse !"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "e8eeef6a-0e2f-4715-84ae-fec7ffb365b8.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "DgoKVhO4vj9NHi8b0FVPLE",
+      "publishDate": "2025-03-22T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Ma Meilleure Ennemie",
     "publishedAt": "2025-03-20T16:00:00.000Z",
     "action": {
@@ -4594,70 +4658,6 @@
       "contentLocale": "fr-fr",
       "rev": "ja9Zsf51p979tL8WxpWEF4",
       "publishDate": "2022-08-25T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Arcane : Combler le fossé | 3e partie",
-    "publishedAt": "2022-08-18T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "Qd1rOtu4SMI",
-        "videoLengthInSeconds": 1833,
-        "url": "https://www.youtube.com/watch?v=Qd1rOtu4SMI"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1895,
-        "width": 3375,
-        "aspectRatio": 1.7810026385224274
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/81c48c6bd2c34b95c9575121b24da3c907ce2acc-3375x1895.jpg",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#FFF1D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Du papier à la post-production, découvrez comment Fortiche a capturé le cœur et l'âme d'Arcane à l'écran."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt63af6858aa54c3a5.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "aTsF1lrk733vX3pv2YTVmC",
-      "publishDate": "2022-08-18T15:00:00.000Z"
     }
   }
 ]
