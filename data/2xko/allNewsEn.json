@@ -37,7 +37,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0fa4bd3cfde36bdea468396fa4d5cad8da0f8805-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0fa4bd3cfde36bdea468396fa4d5cad8da0f8805-1920x1080.jpg",
       "colors": {
         "primary": "#432231",
         "secondary": "#F9E8DC",
@@ -100,7 +100,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/2609709a47cd8ebfdd679ed421a0554dccefbfdf-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2609709a47cd8ebfdd679ed421a0554dccefbfdf-1920x1080.jpg",
       "colors": {
         "primary": "#63325A",
         "secondary": "#F9DCE9",
@@ -222,7 +222,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/78713d381f2840e84ff24de1b56845d06a7cb040-1920x1080.png",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/78713d381f2840e84ff24de1b56845d06a7cb040-1920x1080.png",
       "colors": {
         "primary": "#58382C",
         "secondary": "#F9EBDC",
@@ -409,7 +409,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6fbf13ec49ba939eddba773d34b35665e2e48966-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6fbf13ec49ba939eddba773d34b35665e2e48966-1920x1080.jpg",
       "colors": {
         "primary": "#B89C8F",
         "secondary": "#332929",
@@ -430,69 +430,6 @@
       "contentLocale": "en-us",
       "rev": "whpRLkwvxva49hcLZfLTjC",
       "publishDate": "2024-07-09T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "What is 2XKO Alpha Lab? - Dev Q&A w/ Sajam",
-    "publishedAt": "2024-06-26T20:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "nfUQNqEllIg",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=nfUQNqEllIg"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/414ca6b2702ba27b17618116252535ec1bba2af1-1920x1080.jpg",
-      "colors": {
-        "primary": "#1C162D",
-        "secondary": "#F9DCE4",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Devs sit down with Sajam to discuss the upcoming Alpha Lab playtest."
-    },
-    "category": {
-      "title": "Game Updates",
-      "machineName": "2xko_game_updates"
-    },
-    "analytics": {
-      "contentId": "50f6de64-dceb-45b1-9317-d5dbc00ad315",
-      "contentLocale": "en-us",
-      "rev": "whpRLkwvxva49hcLZfLTjC",
-      "publishDate": "2024-06-26T20:00:00.000Z"
     }
   },
   {
@@ -553,6 +490,69 @@
       "contentId": "b712afa0-10de-4021-9ce2-8dc946c34a51",
       "contentLocale": "en-us",
       "rev": "r5J2fgkVFZPy5cerXcnMNE",
+      "publishDate": "2024-06-26T20:00:00.000Z"
+    }
+  },
+  {
+    "title": "What is 2XKO Alpha Lab? - Dev Q&A w/ Sajam",
+    "publishedAt": "2024-06-26T20:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "nfUQNqEllIg",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=nfUQNqEllIg"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/414ca6b2702ba27b17618116252535ec1bba2af1-1920x1080.jpg",
+      "colors": {
+        "primary": "#1C162D",
+        "secondary": "#F9DCE4",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Devs sit down with Sajam to discuss the upcoming Alpha Lab playtest."
+    },
+    "category": {
+      "title": "Game Updates",
+      "machineName": "2xko_game_updates"
+    },
+    "analytics": {
+      "contentId": "50f6de64-dceb-45b1-9317-d5dbc00ad315",
+      "contentLocale": "en-us",
+      "rev": "whpRLkwvxva49hcLZfLTjC",
       "publishDate": "2024-06-26T20:00:00.000Z"
     }
   },
@@ -807,68 +807,6 @@
     }
   },
   {
-    "title": "2XKO Social Art",
-    "publishedAt": "2024-03-11T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.riotgames.com/en/news/2xko-wallpapers-social-kit"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d951af99ecd063eae46aa235d7fd5f43498d9d8b-1920x1080.jpg",
-      "colors": {
-        "primary": "#404623",
-        "secondary": "#F2F9DC",
-        "label": "#171B07"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Show off some 2XKO flair on social media with a free art kit."
-    },
-    "category": {
-      "title": "Community",
-      "machineName": "2xko_community"
-    },
-    "analytics": {
-      "contentId": "d937c3bf-310d-4df2-a152-3aef1b293c15",
-      "contentLocale": "en-us",
-      "rev": "etbaRJcyRvzwy2RfQNJ3mL",
-      "publishDate": "2024-03-11T15:00:00.000Z"
-    }
-  },
-  {
     "title": "2024 In Preview",
     "publishedAt": "2024-03-11T15:00:00.000Z",
     "action": {
@@ -925,6 +863,68 @@
     },
     "analytics": {
       "contentId": "0c56d5f0-6901-4f0c-b593-9bb1d82de5d6",
+      "contentLocale": "en-us",
+      "rev": "etbaRJcyRvzwy2RfQNJ3mL",
+      "publishDate": "2024-03-11T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "2XKO Social Art",
+    "publishedAt": "2024-03-11T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.riotgames.com/en/news/2xko-wallpapers-social-kit"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d951af99ecd063eae46aa235d7fd5f43498d9d8b-1920x1080.jpg",
+      "colors": {
+        "primary": "#404623",
+        "secondary": "#F2F9DC",
+        "label": "#171B07"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Show off some 2XKO flair on social media with a free art kit."
+    },
+    "category": {
+      "title": "Community",
+      "machineName": "2xko_community"
+    },
+    "analytics": {
+      "contentId": "d937c3bf-310d-4df2-a152-3aef1b293c15",
       "contentLocale": "en-us",
       "rev": "etbaRJcyRvzwy2RfQNJ3mL",
       "publishDate": "2024-03-11T15:00:00.000Z"
@@ -1033,7 +1033,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f97ff32ffafc15c70345de0c921b1098f02198ab-1920x1080.png",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f97ff32ffafc15c70345de0c921b1098f02198ab-1920x1080.png",
       "colors": {
         "primary": "#0A0506",
         "secondary": "#D6FCFF",
@@ -1160,7 +1160,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b93f3aa1f5aa9ee485ccf295af30d36ca2e6059b-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b93f3aa1f5aa9ee485ccf295af30d36ca2e6059b-1920x1080.jpg",
       "colors": {
         "primary": "#221428",
         "secondary": "#F1DCF9",
@@ -1181,69 +1181,6 @@
       "contentLocale": "en-us",
       "rev": "whpRLkwvxva49hcLZfLTjC",
       "publishDate": "2024-03-11T13:00:46.401Z"
-    }
-  },
-  {
-    "title": "How to Play 2XKO (2023)",
-    "publishedAt": "2024-03-11T13:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "cuympmzTzro",
-        "videoLengthInSeconds": 360,
-        "url": "https://www.youtube.com/watch?v=cuympmzTzro"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/39656e024b8cb37af41d353c49c4a9b578f61575-1920x1080.jpg",
-      "colors": {
-        "primary": "#1D0E0E",
-        "secondary": "#FFF7D6",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A helpful overview of 2XKO’s basic combos, defensive options, tag mechanics, and fuse system."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "2xko_dev"
-    },
-    "analytics": {
-      "contentId": "776bbb0b-c2a6-47cd-aa4c-862a8afae14d",
-      "contentLocale": "en-us",
-      "rev": "oOylPWK65J0ej1lvdcnxVH",
-      "publishDate": "2024-03-11T13:00:00.000Z"
     }
   },
   {
@@ -1311,6 +1248,69 @@
     }
   },
   {
+    "title": "How to Play 2XKO (2023)",
+    "publishedAt": "2024-03-11T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "cuympmzTzro",
+        "videoLengthInSeconds": 360,
+        "url": "https://www.youtube.com/watch?v=cuympmzTzro"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/39656e024b8cb37af41d353c49c4a9b578f61575-1920x1080.jpg",
+      "colors": {
+        "primary": "#1D0E0E",
+        "secondary": "#FFF7D6",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A helpful overview of 2XKO’s basic combos, defensive options, tag mechanics, and fuse system."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "2xko_dev"
+    },
+    "analytics": {
+      "contentId": "776bbb0b-c2a6-47cd-aa4c-862a8afae14d",
+      "contentLocale": "en-us",
+      "rev": "oOylPWK65J0ej1lvdcnxVH",
+      "publishDate": "2024-03-11T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Year in Preview 2024",
     "publishedAt": "2024-03-11T13:00:00.000Z",
     "action": {
@@ -1350,7 +1350,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/01ea22a1111ac7a25ba10e4a4767360623e995a9-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/01ea22a1111ac7a25ba10e4a4767360623e995a9-1920x1080.jpg",
       "colors": {
         "primary": "#3D2E1E",
         "secondary": "#EBF9DC",
