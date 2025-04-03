@@ -1,5 +1,69 @@
 [
   {
+    "title": "Bande-son originale Cyber City",
+    "publishedAt": "2025-04-02T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "2IB8BkKo0UQ",
+        "videoLengthInSeconds": 836,
+        "url": "https://www.youtube.com/watch?v=2IB8BkKo0UQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/20ca249ef19e0dcdddcd5a1d54f48067edfc4495-1920x1080.jpg",
+      "colors": {
+        "primary": "#1E2E3C",
+        "secondary": "#DCDCF9",
+        "label": "#040A0F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Tacticiens, nous devons conquérir le top 4. Explorez Cyber City avec la bande-son originale !"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "29d2bb96-b603-4a57-b9d0-c5ed5786cf7d.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "QlYo5IHQ9wz2v0F6k68o1G",
+      "publishDate": "2025-04-02T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Flash info",
     "publishedAt": "2025-03-22T15:00:00.000Z",
     "action": {
@@ -123,7 +187,7 @@
     "analytics": {
       "contentId": "2721b26a-c740-4d5d-bec9-266612ff0a10.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "DgoKVhO4vj9NHi8b0K6rwy",
+      "rev": "8QRzT8YuZEmTpSBtJx6tx2",
       "publishDate": "2025-03-20T16:00:00.000Z"
     }
   },
@@ -4594,70 +4658,6 @@
       "contentLocale": "fr-fr",
       "rev": "bxuuTlbyftRPueMcYQb8IZ",
       "publishDate": "2022-08-26T12:43:45.000Z"
-    }
-  },
-  {
-    "title": "Arcane : Combler le fossé | 4e partie",
-    "publishedAt": "2022-08-25T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "m-MtIYImERI",
-        "videoLengthInSeconds": 1753,
-        "url": "https://www.youtube.com/watch?v=m-MtIYImERI"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b2dbf95f3463faa71d42b26fe65f245e241606b5-1920x1080.jpg",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#D6DEFF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Des talents musicaux de renom, issus de tous les horizons, se mobilisent pour sonoriser le monde d'Arcane."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt7cdb217484157dc9.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ja9Zsf51p979tL8WxpWEF4",
-      "publishDate": "2022-08-25T15:00:00.000Z"
     }
   }
 ]
