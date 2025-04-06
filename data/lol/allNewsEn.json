@@ -1,5 +1,68 @@
 [
   {
+    "title": "Rainbow Lux Hat",
+    "publishedAt": "2025-04-05T21:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://merch.riotgames.com/product/rainbow-lux-hat/?utm_source=lol&utm_medium=newsfeed&utm_campaign=aprilfools25"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7d3b4d6dd11d6f75fd804862604baf7adf7827b5-1920x1080.jpg",
+      "colors": {
+        "primary": "#B89E73",
+        "secondary": "#2F2933",
+        "label": "#352C1D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Capture those spontaneous moments of spontaneous, colorful, brilliance in our Rainbow Lux Hat!"
+    },
+    "category": {
+      "title": "Merch",
+      "description": "Browse official merchandise and shop the latest collections in store.",
+      "machineName": "merch"
+    },
+    "analytics": {
+      "contentId": "167b8317-2ca4-4f04-8314-18daf3e676de.en-us",
+      "contentLocale": "en-us",
+      "rev": "8QRzT8YuZEmTpSBtKG7ts0",
+      "publishDate": "2025-04-05T21:00:00.000Z"
+    }
+  },
+  {
     "title": "Pizza Delivery Sivir Tee",
     "publishedAt": "2025-04-03T21:00:00.000Z",
     "action": {
@@ -2203,7 +2266,7 @@
     "analytics": {
       "contentId": "7b5238b4-4bec-4914-90df-f6fd437e604e.en-us",
       "contentLocale": "en-us",
-      "rev": "4ix1AryvLQI7KTR1GLvHSK",
+      "rev": "8QRzT8YuZEmTpSBtKGV24m",
       "publishDate": "2025-03-07T20:00:00.000Z"
     }
   },
@@ -2267,7 +2330,7 @@
     "analytics": {
       "contentId": "10945d61-c952-461a-b300-c37662cdf5f7.en-us",
       "contentLocale": "en-us",
-      "rev": "4ix1AryvLQI7KTR1GLvHSK",
+      "rev": "8QRzT8YuZEmTpSBtKGV24m",
       "publishDate": "2025-03-07T14:56:29Z"
     }
   },
@@ -2331,7 +2394,7 @@
     "analytics": {
       "contentId": "dd4fb653-207a-4dc7-ba05-cacfa777cbe7.en-us",
       "contentLocale": "en-us",
-      "rev": "4ix1AryvLQI7KTR1GLvHSK",
+      "rev": "8QRzT8YuZEmTpSBtKGV24m",
       "publishDate": "2025-03-06T16:51:44Z"
     }
   },
@@ -3280,68 +3343,6 @@
     }
   },
   {
-    "title": "/dev: How the Season 1 Changes Landed",
-    "publishedAt": "2025-02-07T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-how-the-season-1-changes-landed"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1800,
-        "aspectRatio": 1.6666666666666667
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8c95e57763aba7e8cc31cac5678c069c588010b5-1800x1080.jpg",
-      "colors": {
-        "primary": "#4A3525",
-        "secondary": "#F9F1DC",
-        "label": "#201208"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Reflections on the impacts of the Season 1 Changes"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "cb41c475-fcfb-4df9-91ac-7691778d88e4.en-us",
-      "contentLocale": "en-us",
-      "rev": "QHyu7w0m0kaW857xXVUhVD",
-      "publishDate": "2025-02-07T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Dev Update: Season One Check-in",
     "publishedAt": "2025-02-07T16:00:00.000Z",
     "action": {
@@ -3401,6 +3402,68 @@
       "contentId": "3a02a729-e97d-4ccd-a35c-4e89237a36a5.en-us",
       "contentLocale": "en-us",
       "rev": "migwtNgFHTMRSJnXl8esV0",
+      "publishDate": "2025-02-07T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev: How the Season 1 Changes Landed",
+    "publishedAt": "2025-02-07T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-how-the-season-1-changes-landed"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1800,
+        "aspectRatio": 1.6666666666666667
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8c95e57763aba7e8cc31cac5678c069c588010b5-1800x1080.jpg",
+      "colors": {
+        "primary": "#4A3525",
+        "secondary": "#F9F1DC",
+        "label": "#201208"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Reflections on the impacts of the Season 1 Changes"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "cb41c475-fcfb-4df9-91ac-7691778d88e4.en-us",
+      "contentLocale": "en-us",
+      "rev": "QHyu7w0m0kaW857xXVUhVD",
       "publishDate": "2025-02-07T16:00:00.000Z"
     }
   },
@@ -3593,68 +3656,6 @@
     }
   },
   {
-    "title": "Patch 2025.S1.3 Notes",
-    "publishedAt": "2025-02-04T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-2025-s1-3-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9bb5312947d3a80179899c58e16d38482704c327-1920x1080.jpg",
-      "colors": {
-        "primary": "#111B22",
-        "secondary": "#F9F3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Time to feast on Patch 25.S1.3."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "e021caae-4813-4bed-a67e-1d67e5ce4c77.en-us",
-      "contentLocale": "en-us",
-      "rev": "r5J2fgkVFZPy5cerXdBKpx",
-      "publishDate": "2025-02-04T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Teamfight Tactics patch 13.5 notes (2025)",
     "publishedAt": "2025-02-04T19:00:00.000Z",
     "action": {
@@ -3714,6 +3715,68 @@
       "contentId": "60d4b647-8e5a-41f7-a37d-e8df1b4721ef.en-us",
       "contentLocale": "en-us",
       "rev": "wQOrjoHuer7XQQg8uId1I0",
+      "publishDate": "2025-02-04T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 2025.S1.3 Notes",
+    "publishedAt": "2025-02-04T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-2025-s1-3-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9bb5312947d3a80179899c58e16d38482704c327-1920x1080.jpg",
+      "colors": {
+        "primary": "#111B22",
+        "secondary": "#F9F3DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Time to feast on Patch 25.S1.3."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "e021caae-4813-4bed-a67e-1d67e5ce4c77.en-us",
+      "contentLocale": "en-us",
+      "rev": "r5J2fgkVFZPy5cerXdBKpx",
       "publishDate": "2025-02-04T19:00:00.000Z"
     }
   },
@@ -4409,68 +4472,6 @@
     }
   },
   {
-    "title": "Patch 25.S1.2 Notes",
-    "publishedAt": "2025-01-22T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-s1-2-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/af7173f343e6f253fb19efaf7f30ae8c095021ca-1920x1080.jpg",
-      "colors": {
-        "primary": "#0F1E1E",
-        "secondary": "#D6FFE6",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Bow down to Patch 25.S1.2 👑"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "096fc010-0e93-43db-9776-ec7ae9dc9773.en-us",
-      "contentLocale": "en-us",
-      "rev": "pjc0gZ7zw0jnhEKOMp1lTw",
-      "publishDate": "2025-01-22T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Teamfight Tactics patch 13.4 notes (2025)",
     "publishedAt": "2025-01-22T19:00:00.000Z",
     "action": {
@@ -4530,6 +4531,68 @@
       "contentId": "7dbe5d97-93ea-4b2d-a2aa-7ab137f032a0.en-us",
       "contentLocale": "en-us",
       "rev": "pjc0gZ7zw0jnhEKOMp1UgC",
+      "publishDate": "2025-01-22T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 25.S1.2 Notes",
+    "publishedAt": "2025-01-22T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-s1-2-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/af7173f343e6f253fb19efaf7f30ae8c095021ca-1920x1080.jpg",
+      "colors": {
+        "primary": "#0F1E1E",
+        "secondary": "#D6FFE6",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Bow down to Patch 25.S1.2 👑"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "096fc010-0e93-43db-9776-ec7ae9dc9773.en-us",
+      "contentLocale": "en-us",
+      "rev": "pjc0gZ7zw0jnhEKOMp1lTw",
       "publishDate": "2025-01-22T19:00:00.000Z"
     }
   },
@@ -4658,69 +4721,6 @@
       "contentLocale": "en-us",
       "rev": "nsxTqRv7yl9rbYA81Q4Biz",
       "publishDate": "2025-01-17T22:00:00.000Z"
-    }
-  },
-  {
-    "title": "Support LA Wildfire Relief",
-    "publishedAt": "2025-01-16T22:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.riotgames.com/en/news/la-wildfire-fundraiser"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ff99418eadc11270c02bec86ce1d2f4e22cf3903-1920x1080.jpg",
-      "colors": {
-        "primary": "#2F2018",
-        "secondary": "#F9F3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "From Jan 23 - Feb 5, all of Riot’s proceeds from Firefighter Tristana, plus a 3x match, will go to the Riot Games Social Impact Fund."
-    },
-    "category": {
-      "title": "Riot Games",
-      "description": "The latest announcements from the studio that makes League.",
-      "machineName": "riot_games"
-    },
-    "analytics": {
-      "contentId": "240030f3-bca8-4b6b-b163-14a665d4bcd3.en-us",
-      "contentLocale": "en-us",
-      "rev": "kK4y2oIfEZ0KFwn97gaHOU",
-      "publishDate": "2025-01-16T22:00:00.000Z"
     }
   }
 ]
