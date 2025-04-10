@@ -133,7 +133,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "hUVgPTXeoZs",
-        "videoLengthInSeconds": 41,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=hUVgPTXeoZs"
       }
     },
@@ -317,6 +317,70 @@
     }
   },
   {
+    "title": "Musique de LeBlanc",
+    "publishedAt": "2025-04-03T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "x-ryQ8_Ie-0",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=x-ryQ8_Ie-0"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d09e052aac78d67307ddb2029c041c57fc7fb97c-1920x1080.jpg",
+      "colors": {
+        "primary": "#221111",
+        "secondary": "#FFECD6",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Ne croyez pas tout ce que vous voyez. Écoutez la nouvelle musique de LeBlanc, Manipulatrice."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "59eec5d5-8552-4b50-aa9b-e1890c85acaf.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "votbv1mhlfMu1iwdgd82As",
+      "publishDate": "2025-04-03T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Équipes Cyber City : lo-fi au sommet",
     "publishedAt": "2025-04-03T15:00:00.000Z",
     "action": {
@@ -376,70 +440,6 @@
       "contentId": "22fc3011-61f9-4b38-bd32-5245c0de9221.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "votbv1mhlfMu1iwdgd8HqF",
-      "publishDate": "2025-04-03T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Musique de LeBlanc",
-    "publishedAt": "2025-04-03T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "x-ryQ8_Ie-0",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=x-ryQ8_Ie-0"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d09e052aac78d67307ddb2029c041c57fc7fb97c-1920x1080.jpg",
-      "colors": {
-        "primary": "#221111",
-        "secondary": "#FFECD6",
-        "label": "#070707"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Ne croyez pas tout ce que vous voyez. Écoutez la nouvelle musique de LeBlanc, Manipulatrice."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "59eec5d5-8552-4b50-aa9b-e1890c85acaf.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "votbv1mhlfMu1iwdgd82As",
       "publishDate": "2025-04-03T15:00:00.000Z"
     }
   },
@@ -577,7 +577,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "xZrTWUKz5FU",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 52,
         "url": "https://www.youtube.com/watch?v=xZrTWUKz5FU"
       }
     },
@@ -698,6 +698,68 @@
     }
   },
   {
+    "title": "Notes de patch 25.07",
+    "publishedAt": "2025-04-01T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-07-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0d2812f31f017e0fe0ccf8fbd0842f4ca19f4896-1920x1080.jpg",
+      "colors": {
+        "primary": "#522946",
+        "secondary": "#DCEDF9",
+        "label": "#290A20"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Faites attention au patch 25.07, il ne rigole pas. 🤫"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d0066988-681d-46a1-9de1-89e2b316967e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "8QRzT8YuZEmTpSBtKWOlXU",
+      "publishDate": "2025-04-01T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics – notes du patch 14.1 (2025)",
     "publishedAt": "2025-04-01T18:00:00.000Z",
     "action": {
@@ -757,68 +819,6 @@
       "contentId": "904914fb-6806-4d90-bd82-ae33801bb10d.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "0mVDgmsCLsQaRQOaoSuwOW",
-      "publishDate": "2025-04-01T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 25.07",
-    "publishedAt": "2025-04-01T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-07-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0d2812f31f017e0fe0ccf8fbd0842f4ca19f4896-1920x1080.jpg",
-      "colors": {
-        "primary": "#522946",
-        "secondary": "#DCEDF9",
-        "label": "#290A20"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Faites attention au patch 25.07, il ne rigole pas. 🤫"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "d0066988-681d-46a1-9de1-89e2b316967e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtKWOlXU",
       "publishDate": "2025-04-01T18:00:00.000Z"
     }
   },
@@ -1016,7 +1016,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "BT9WtnQcJVU",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 47,
         "url": "https://www.youtube.com/watch?v=BT9WtnQcJVU"
       }
     },
@@ -1426,7 +1426,7 @@
         "width": 1600,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/52f6728009a0496c4b988ff5660cf078f9d1d77d-1600x900.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/52f6728009a0496c4b988ff5660cf078f9d1d77d-1600x900.jpg",
       "colors": {
         "primary": "#2C5854",
         "secondary": "#DCF4F9",
@@ -1457,7 +1457,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "jaQxHVnbK-I",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 40,
         "url": "https://www.youtube.com/watch?v=jaQxHVnbK-I"
       }
     },
@@ -1512,6 +1512,69 @@
       "contentLocale": "fr-fr",
       "rev": "HvvwZlkVCRUwIRz2ozv6qb",
       "publishDate": "2025-03-19T13:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 13.8 de Teamfight Tactics (2025)",
+    "publishedAt": "2025-03-18T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-13-8-notes-2025"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/455fd452c68ac809c8245b44669c0e46cbf498b7-1920x1080.jpg",
+      "colors": {
+        "primary": "#201A34",
+        "secondary": "#E7DCF9",
+        "label": "#020105"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Pour le dernier patch du set, on ajoute une deuxième Anomalie et un tas de buffs !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "8128f915-377c-40d1-b1c4-efb14586483c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "2CBQQwFWRlx9tTg4TJrs5Y",
+      "publishDate": "2025-03-18T18:00:00.000Z"
     }
   },
   {
@@ -1639,69 +1702,6 @@
     }
   },
   {
-    "title": "Notes de patch 13.8 de Teamfight Tactics (2025)",
-    "publishedAt": "2025-03-18T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-13-8-notes-2025"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/455fd452c68ac809c8245b44669c0e46cbf498b7-1920x1080.jpg",
-      "colors": {
-        "primary": "#201A34",
-        "secondary": "#E7DCF9",
-        "label": "#020105"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Pour le dernier patch du set, on ajoute une deuxième Anomalie et un tas de buffs !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "8128f915-377c-40d1-b1c4-efb14586483c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "2CBQQwFWRlx9tTg4TJrs5Y",
-      "publishDate": "2025-03-18T18:00:00.000Z"
-    }
-  },
-  {
     "title": "Mécaniques : Cyber City",
     "publishedAt": "2025-03-18T16:00:00.000Z",
     "action": {
@@ -1765,70 +1765,6 @@
     }
   },
   {
-    "title": "Mini cinématique Réalité fracturée",
-    "publishedAt": "2025-03-17T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "-asF3BishgY",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=-asF3BishgY"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a774ade68be00594351c8b0bfd01407fc7abaa40-1920x1080.jpg",
-      "colors": {
-        "primary": "#161427",
-        "secondary": "#DCEFF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un PROJET top secret est révélé."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "a180312a-d563-4fed-a904-40f3da455270.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "gac8Pitl2SKMMNyPBO8KrW",
-      "publishDate": "2025-03-17T15:00:00.000Z"
-    }
-  },
-  {
     "title": "La racine de l'empire",
     "publishedAt": "2025-03-17T15:00:00.000Z",
     "action": {
@@ -1888,6 +1824,70 @@
       "contentId": "13de40c1-2ce4-41fd-b67a-2bde11a9d9b0.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "DgoKVhO4vj9NHi8b0K6rwy",
+      "publishDate": "2025-03-17T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Mini cinématique Réalité fracturée",
+    "publishedAt": "2025-03-17T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "-asF3BishgY",
+        "videoLengthInSeconds": 146,
+        "url": "https://www.youtube.com/watch?v=-asF3BishgY"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a774ade68be00594351c8b0bfd01407fc7abaa40-1920x1080.jpg",
+      "colors": {
+        "primary": "#161427",
+        "secondary": "#DCEFF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un PROJET top secret est révélé."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "a180312a-d563-4fed-a904-40f3da455270.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "gac8Pitl2SKMMNyPBO8KrW",
       "publishDate": "2025-03-17T15:00:00.000Z"
     }
   },
@@ -1955,6 +1955,69 @@
     }
   },
   {
+    "title": "Aperçu du set Cyber City",
+    "publishedAt": "2025-03-16T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/cyber-city-overview"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bee57fbd338f8669a2f626dfc027abf7622e9c68-1920x1080.jpg",
+      "colors": {
+        "primary": "#42274D",
+        "secondary": "#F9DCED",
+        "label": "#1B0923"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Connectez-vous et découvrez la nouvelle équipe de champions qui hackent Cyber City dans TFT."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "14fcc4df-6443-45fd-8fcc-0529b150eaf8.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "O0syOADLMvCWbGv9hv86d7",
+      "publishDate": "2025-03-16T19:00:00.000Z"
+    }
+  },
+  {
     "title": "Dev drop TFT : Cyber City",
     "publishedAt": "2025-03-16T19:00:00.000Z",
     "action": {
@@ -2015,69 +2078,6 @@
       "contentId": "547efda9-7491-41bd-9c82-1b96e975d512.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "zLqbGSDWQtuCHFE15DnYyR",
-      "publishDate": "2025-03-16T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Aperçu du set Cyber City",
-    "publishedAt": "2025-03-16T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/cyber-city-overview"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bee57fbd338f8669a2f626dfc027abf7622e9c68-1920x1080.jpg",
-      "colors": {
-        "primary": "#42274D",
-        "secondary": "#F9DCED",
-        "label": "#1B0923"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Connectez-vous et découvrez la nouvelle équipe de champions qui hackent Cyber City dans TFT."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "14fcc4df-6443-45fd-8fcc-0529b150eaf8.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "O0syOADLMvCWbGv9hv86d7",
       "publishDate": "2025-03-16T19:00:00.000Z"
     }
   },
@@ -3348,7 +3348,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "nXv0y7PtuDg",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 35,
         "url": "https://www.youtube.com/watch?v=nXv0y7PtuDg"
       }
     },
@@ -3403,6 +3403,68 @@
       "contentLocale": "fr-fr",
       "rev": "owsRDYK97YIrmlquh2MdJ0",
       "publishDate": "2025-02-20T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.04",
+    "publishedAt": "2025-02-19T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-04-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/240905f2b3342fe593d5253ebbae24e889810951-1920x1080.jpg",
+      "colors": {
+        "primary": "#0B1116",
+        "secondary": "#D6FFEF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Préparez-vous pour le dernier patch de l'Acte 1 !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "93b8f5c4-38b5-4b66-a546-551320f4a39a.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "ZMCU6hrAsW2gZZ1Rc228rJ",
+      "publishDate": "2025-02-19T19:00:00.000Z"
     }
   },
   {
@@ -3465,68 +3527,6 @@
       "contentId": "b0aa4214-49d7-4e3d-adad-8eba0dee45fc.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "migwtNgFHTMRSJnXl9HeEa",
-      "publishDate": "2025-02-19T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 25.04",
-    "publishedAt": "2025-02-19T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-04-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/240905f2b3342fe593d5253ebbae24e889810951-1920x1080.jpg",
-      "colors": {
-        "primary": "#0B1116",
-        "secondary": "#D6FFEF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Préparez-vous pour le dernier patch de l'Acte 1 !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "93b8f5c4-38b5-4b66-a546-551320f4a39a.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ZMCU6hrAsW2gZZ1Rc228rJ",
       "publishDate": "2025-02-19T19:00:00.000Z"
     }
   },
@@ -3595,13 +3595,12 @@
     }
   },
   {
-    "title": "Dev Update : Nouvelles de la saison 1",
+    "title": "/dev : Arena - La Grande Ordalie",
     "publishedAt": "2025-02-07T16:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=hc9Ol7d_wh4"
+        "url": "/fr-fr/news/dev/dev-arena-the-grand-reckoning"
       }
     },
     "product": {
@@ -3629,21 +3628,21 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
+        "height": 1096,
+        "width": 1751,
+        "aspectRatio": 1.5976277372262773
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9c3692a2443d50e100c08355d1d403a30dc7a145-1280x720.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/27fd1033cf923429f0811e355402aecfb00d00cb-1751x1096.jpg",
       "colors": {
-        "primary": "#1A100D",
-        "secondary": "#D6EFFF",
-        "label": "#010101"
+        "primary": "#361F1B",
+        "secondary": "#DCF8F9",
+        "label": "#080302"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Détails sur la suppression des coffres Hextech, les mises à jour du passe de combat, Arena et plus."
+      "body": "Ce qui vous attend dans le retour d’Arena dans l’acte 2."
     },
     "category": {
       "title": "Dev",
@@ -3651,9 +3650,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "3a02a729-e97d-4ccd-a35c-4e89237a36a5.fr-fr",
+      "contentId": "9fb191af-7234-4346-8bfe-6e45693b63cf.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "migwtNgFHTMRSJnXl8eh0w",
+      "rev": "HHg5kchKKcEVu12VvUqoXF",
       "publishDate": "2025-02-07T16:00:00.000Z"
     }
   },
@@ -3720,12 +3719,13 @@
     }
   },
   {
-    "title": "/dev : Arena - La Grande Ordalie",
+    "title": "Dev Update : Nouvelles de la saison 1",
     "publishedAt": "2025-02-07T16:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/fr-fr/news/dev/dev-arena-the-grand-reckoning"
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=hc9Ol7d_wh4"
       }
     },
     "product": {
@@ -3753,21 +3753,21 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1096,
-        "width": 1751,
-        "aspectRatio": 1.5976277372262773
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/27fd1033cf923429f0811e355402aecfb00d00cb-1751x1096.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9c3692a2443d50e100c08355d1d403a30dc7a145-1280x720.jpg",
       "colors": {
-        "primary": "#361F1B",
-        "secondary": "#DCF8F9",
-        "label": "#080302"
+        "primary": "#1A100D",
+        "secondary": "#D6EFFF",
+        "label": "#010101"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Ce qui vous attend dans le retour d’Arena dans l’acte 2."
+      "body": "Détails sur la suppression des coffres Hextech, les mises à jour du passe de combat, Arena et plus."
     },
     "category": {
       "title": "Dev",
@@ -3775,9 +3775,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "9fb191af-7234-4346-8bfe-6e45693b63cf.fr-fr",
+      "contentId": "3a02a729-e97d-4ccd-a35c-4e89237a36a5.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "HHg5kchKKcEVu12VvUqoXF",
+      "rev": "migwtNgFHTMRSJnXl8eh0w",
       "publishDate": "2025-02-07T16:00:00.000Z"
     }
   },
@@ -3850,7 +3850,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "oPcEAAtd_Hg",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 38,
         "url": "https://www.youtube.com/watch?v=oPcEAAtd_Hg"
       }
     },
@@ -4546,7 +4546,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "WjolsG1wH1o",
-        "videoLengthInSeconds": 56,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=WjolsG1wH1o"
       }
     },
@@ -4667,13 +4667,12 @@
     }
   },
   {
-    "title": "Notes de patch 13.4 de Teamfight Tactics (2025)",
+    "title": "Notes de patch 25.S1.2",
     "publishedAt": "2025-01-22T19:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-13-4-notes-2025/"
+        "url": "/fr-fr/news/game-updates/patch-25-s1-2-notes"
       }
     },
     "product": {
@@ -4701,21 +4700,21 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 720,
-        "width": 1280,
+        "height": 1080,
+        "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a2d283d02a6c1d419358df36fdd4c47301e32c71-1280x720.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/af7173f343e6f253fb19efaf7f30ae8c095021ca-1920x1080.jpg",
       "colors": {
-        "primary": "#0E1D18",
-        "secondary": "#D6FFF6",
+        "primary": "#0F1E1E",
+        "secondary": "#D6FFE6",
         "label": "#040404"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "C'est l'année du serpent dans la Convergence, et pour célébrer ça, nous vous proposons de nouveaux chibis, un nouveau passe d'événement (et l'acte II du passe), Jhin démiurge cosmique libéré et le retour de set : Festival des bêtes ! Nous apportons également quelques changements au set actuel, avec plusieurs nouvelles Anomalies !"
+      "body": "Prosternez-vous devant le patch 25.S1.2 ! 👑"
     },
     "category": {
       "title": "Actualités",
@@ -4723,9 +4722,9 @@
       "machineName": "game-updates"
     },
     "analytics": {
-      "contentId": "7dbe5d97-93ea-4b2d-a2aa-7ab137f032a0.fr-fr",
+      "contentId": "096fc010-0e93-43db-9776-ec7ae9dc9773.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "pjc0gZ7zw0jnhEKOMp2Ym0",
+      "rev": "K4nrWcFKPwBYuiR3kJ9ieq",
       "publishDate": "2025-01-22T19:00:00.000Z"
     }
   }
