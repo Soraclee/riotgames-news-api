@@ -1,5 +1,69 @@
 [
   {
+    "title": "Sombres complots",
+    "publishedAt": "2025-04-10T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "KpT5ibqaE3Q",
+        "videoLengthInSeconds": 105,
+        "url": "https://www.youtube.com/watch?v=KpT5ibqaE3Q"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a0f826d6c4ac6657d501446fccf8fa9a591a504f-1920x1080.jpg",
+      "colors": {
+        "primary": "#0D0706",
+        "secondary": "#FFE9D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un simple murmure est plus tranchant que mille épées."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "08ddce31-8120-47da-af00-0e6c97eae8f9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UQJxDctsMNKpiCcXXvURO1",
+      "publishDate": "2025-04-10T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Musique de LeBlanc",
     "publishedAt": "2025-04-03T15:00:00.000Z",
     "action": {
@@ -251,7 +315,7 @@
     "analytics": {
       "contentId": "2721b26a-c740-4d5d-bec9-266612ff0a10.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtJx6tx2",
+      "rev": "UQJxDctsMNKpiCcXXvURO1",
       "publishDate": "2025-03-20T16:00:00.000Z"
     }
   },
@@ -4594,70 +4658,6 @@
       "contentLocale": "fr-fr",
       "rev": "wqQE3hWIWpUAV3VUi6QR00",
       "publishDate": "2022-09-16T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Hymne orchestral du Mondial 2022",
-    "publishedAt": "2022-09-07T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "2Z5L7wog5ks",
-        "videoLengthInSeconds": 208,
-        "url": "https://www.youtube.com/watch?v=2Z5L7wog5ks"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cddc554d154b760038a7298122346a06664bf816-1920x1080.jpg",
-      "colors": {
-        "primary": "#0D101B",
-        "secondary": "#FFDBD6",
-        "label": "#020202"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "L'hymne orchestral officiel du Mondial 2022 est disponible."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt5de6e0a540f853fc.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "I7aB4NVNAJUWfHHvEj1c38",
-      "publishDate": "2022-09-07T15:00:00.000Z"
     }
   }
 ]

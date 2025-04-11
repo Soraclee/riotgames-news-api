@@ -1,12 +1,76 @@
 [
   {
+    "title": "Mini cinématique Dualité de l'aube",
+    "publishedAt": "2025-04-10T14:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "ni775yqqcr8",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=ni775yqqcr8"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9c40a725dc491379fc010a00238ae838775a377d-1920x1080.jpg",
+      "colors": {
+        "primary": "#202340",
+        "secondary": "#DCEBF9",
+        "label": "#050614"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Yone héraut de l'aube prestige chibi nous fait profiter de ses talents légendaire dans TFT."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "da3f4b33-c667-4736-9290-a15294bf3d3f.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UQJxDctsMNKpiCcXXwOzQd",
+      "publishDate": "2025-04-10T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du champion Janna Miss météo chibi",
     "publishedAt": "2025-04-08T13:00:00.000Z",
     "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "hUVgPTXeoZs",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 41,
         "url": "https://www.youtube.com/watch?v=hUVgPTXeoZs"
       }
     },
@@ -59,7 +123,7 @@
     "analytics": {
       "contentId": "ce3015c6-ba0a-4c5e-a94d-8952ad7536ad.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtKTgqhE",
+      "rev": "UQJxDctsMNKpiCcXXwOzQd",
       "publishDate": "2025-04-08T13:00:00.000Z"
     }
   },
@@ -122,7 +186,7 @@
     "analytics": {
       "contentId": "4f3132e4-26f5-4ce6-b9bb-1a06642514f9.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "votbv1mhlfMu1iwdgzhvnJ",
+      "rev": "UQJxDctsMNKpiCcXXwOzQd",
       "publishDate": "2025-04-03T15:00:00.000Z"
     }
   },
@@ -190,77 +254,13 @@
     }
   },
   {
-    "title": "Bande-son originale Cyber City",
-    "publishedAt": "2025-04-02T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "2IB8BkKo0UQ",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=2IB8BkKo0UQ"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/20ca249ef19e0dcdddcd5a1d54f48067edfc4495-1920x1080.jpg",
-      "colors": {
-        "primary": "#1E2E3C",
-        "secondary": "#DCDCF9",
-        "label": "#040A0F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Tacticiens, nous devons conquérir le top 4. Explorez Cyber City avec la bande-son originale !"
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "6e8d892c-9d11-41d4-8101-ffe0606e3b7f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "votbv1mhlfMu1iwdgzhvnJ",
-      "publishDate": "2025-04-02T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Bande-annonce du set Cyber City",
     "publishedAt": "2025-04-02T16:00:00.000Z",
     "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "5SnhiYMpSI4",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 42,
         "url": "https://www.youtube.com/watch?v=5SnhiYMpSI4"
       }
     },
@@ -313,7 +313,71 @@
     "analytics": {
       "contentId": "e1acdf62-10ca-4211-b292-d631e966c775.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtKYbg2a",
+      "rev": "liBwLfU12KkZimf6b79CGG",
+      "publishDate": "2025-04-02T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Bande-son originale Cyber City",
+    "publishedAt": "2025-04-02T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "2IB8BkKo0UQ",
+        "videoLengthInSeconds": 836,
+        "url": "https://www.youtube.com/watch?v=2IB8BkKo0UQ"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/20ca249ef19e0dcdddcd5a1d54f48067edfc4495-1920x1080.jpg",
+      "colors": {
+        "primary": "#1E2E3C",
+        "secondary": "#DCDCF9",
+        "label": "#040A0F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Tacticiens, nous devons conquérir le top 4. Explorez Cyber City avec la bande-son originale !"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "6e8d892c-9d11-41d4-8101-ffe0606e3b7f.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UQJxDctsMNKpiCcXXwOzQd",
       "publishDate": "2025-04-02T16:00:00.000Z"
     }
   },
@@ -377,7 +441,7 @@
     "analytics": {
       "contentId": "9a45b983-f5cb-44e6-96bb-888644b3be17.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtKYbg2a",
+      "rev": "liBwLfU12KkZimf6b79CGG",
       "publishDate": "2025-04-02T13:00:00.000Z"
     }
   },
@@ -501,7 +565,7 @@
     "analytics": {
       "contentId": "18bdbe81-bf7f-4406-8993-c5ec0a88544d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtKYbg2a",
+      "rev": "UQJxDctsMNKpiCcXXwOzQd",
       "publishDate": "2025-04-01T16:00:00.000Z"
     }
   },
@@ -1200,7 +1264,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "cb5mePr31eg",
-        "videoLengthInSeconds": 1002,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=cb5mePr31eg"
       }
     },
@@ -1253,7 +1317,7 @@
     "analytics": {
       "contentId": "eb001d03-b01c-41fc-a99b-1d748ffbc875.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "votbv1mhlfMu1iwdgzhvnJ",
+      "rev": "UQJxDctsMNKpiCcXXwOzQd",
       "publishDate": "2025-03-16T19:00:00.000Z"
     }
   },
@@ -1390,7 +1454,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "cD34_lIYKco",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 160,
         "url": "https://www.youtube.com/watch?v=cD34_lIYKco"
       }
     },
@@ -1443,7 +1507,7 @@
     "analytics": {
       "contentId": "23885fae-d992-4498-a6a9-252d7c846010.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtKYbg2a",
+      "rev": "liBwLfU12KkZimf6b79CGG",
       "publishDate": "2025-03-12T13:30:27.414Z"
     }
   },
@@ -4670,70 +4734,6 @@
       "contentLocale": "fr-fr",
       "rev": "YU4kCQh9dJYVB9mWnj9rQJ",
       "publishDate": "2024-11-18T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Mini-cinématique Souvenirs de Zaun",
-    "publishedAt": "2024-11-16T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "DOwmoWi2oH4",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=DOwmoWi2oH4"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d4a23f3d63fbf0905042a427e3021e8f01dd2b11-1920x1080.jpg",
-      "colors": {
-        "primary": "#1E120F",
-        "secondary": "#FFE6D6",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Nous avons tous quelque chose qui nous tourmente. Voilà un aperçu de l'arène de la Dernière goutte."
-    },
-    "category": {
-      "title": "Annonces",
-      "description": "Les dernières actualités de l'équipe du jeu.",
-      "machineName": "announcements"
-    },
-    "analytics": {
-      "contentId": "47ad1fc0-4601-42d3-901d-ad9e46b4432b.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "YN8truRCqnchJPC7V1bSx9",
-      "publishDate": "2024-11-16T16:00:00.000Z"
     }
   }
 ]

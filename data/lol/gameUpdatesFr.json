@@ -1,5 +1,69 @@
 [
   {
+    "title": "Mini cinématique Dualité de l'aube",
+    "publishedAt": "2025-04-10T14:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "ni775yqqcr8",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=ni775yqqcr8"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9c40a725dc491379fc010a00238ae838775a377d-1920x1080.jpg",
+      "colors": {
+        "primary": "#202340",
+        "secondary": "#DCEBF9",
+        "label": "#050614"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Yone héraut de l'aube prestige chibi nous fait profiter de ses talents légendaire dans TFT."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "55aacf3f-d3c4-409d-98bb-ea5e3cbdb5d2.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UQJxDctsMNKpiCcXXuQwtl",
+      "publishDate": "2025-04-10T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du champion Janna Miss météo chibi",
     "publishedAt": "2025-04-08T13:00:00.000Z",
     "action": {
@@ -374,7 +438,7 @@
     "analytics": {
       "contentId": "d0066988-681d-46a1-9de1-89e2b316967e.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtKWOlXU",
+      "rev": "liBwLfU12KkZimf6b7cJb7",
       "publishDate": "2025-04-01T18:00:00.000Z"
     }
   },
@@ -499,7 +563,7 @@
     "analytics": {
       "contentId": "19e809c4-b0cc-4c4a-9fcb-c7487252cd74.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtJx6tx2",
+      "rev": "UQJxDctsMNKpiCcXXvURO1",
       "publishDate": "2025-03-19T19:00:00.000Z"
     }
   },
@@ -4680,70 +4744,6 @@
       "contentLocale": "fr-fr",
       "rev": "U360V83F77Z1JcZt4OLLAt",
       "publishDate": "2024-10-22T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation de Yuumi chibi",
-    "publishedAt": "2024-10-22T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "6ljxxozduws",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=6ljxxozduws"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f45be26ceadceb4d79b2815dc6ca769b8a25e19d-1920x1080.jpg",
-      "colors": {
-        "primary": "#372D1C",
-        "secondary": "#F9DCF5",
-        "label": "#090602"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Venez jouer au chat et à la souris dans la Convergence."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "ef292e9a-3f4a-4207-9606-256152175341.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "Iaqwj6zpQY2mXP0xG4epcU",
-      "publishDate": "2024-10-22T16:00:00.000Z"
     }
   }
 ]
