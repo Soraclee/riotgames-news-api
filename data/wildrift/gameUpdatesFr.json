@@ -1,5 +1,68 @@
 [
   {
+    "title": "Aperçu de Ryze",
+    "publishedAt": "2025-04-13T02:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "MMMwizihYOo",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=MMMwizihYOo"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
+        "colors": {
+          "primary": "#2ed5ff",
+          "secondary": "#D6F5FF",
+          "label": "#0A0A0A"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/373aa2abbc90d320aeb0c4a96f6aae8ec9a59a51-1920x1080.jpg",
+      "colors": {
+        "primary": "#121725",
+        "secondary": "#E1DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un ennemi vous gêne sur la voie du milieu ? Envoyez-le dans une Prison runique avec #Ryze dès le 17 avril CEST !"
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "c89e5fce-30af-45e5-b78f-1302d56e6ab9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UQJxDctsMNKpiCcXYDDV45",
+      "publishDate": "2025-04-13T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Patch 6.1 : mises à jour de gameplay",
     "publishedAt": "2025-04-03T02:00:00.000Z",
     "action": {
@@ -4567,67 +4630,6 @@
       "contentLocale": "fr-fr",
       "rev": "jEln45CgOQD4spzxfJvPTl",
       "publishDate": "2023-07-18T19:30:00.000Z"
-    }
-  },
-  {
-    "title": "Nouvelles de Wild Rift de juillet 2023",
-    "publishedAt": "2023-07-14T01:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-news-july-2023/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
-        "colors": {
-          "primary": "#2ed5ff",
-          "secondary": "#D6F5FF",
-          "label": "#0A0A0A"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/020d773e05a69f29d24da0ac2bd644804ff8fb18-1920x1080.jpg",
-      "colors": {
-        "primary": "#B85167",
-        "secondary": "#293233",
-        "label": "#2E191D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le patch 4.3 arrive à grands pas ! On vous a préparé un récapitulatif de tout ce qui arrive avec la mise à jour Esprit combatif !"
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltf87ed640075857ba.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "IN03FCy14OOjYlZR32WXea",
-      "publishDate": "2023-07-14T01:00:00.000Z"
     }
   }
 ]
