@@ -1,5 +1,66 @@
 [
   {
+    "title": "Notes de patch 10.07 de VALORANT",
+    "publishedAt": "2025-04-15T13:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/valorant-patch-notes-10-07"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/52a969ba9bfc59478530177cd848ef6d6ab45e31-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/1c1776bd1bdd921061a53953d81a393ef69ce633-1920x1080.jpg",
+      "colors": {
+        "primary": "#A8A4B8",
+        "secondary": "#2B2933",
+        "label": "#342C51"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Corrections de bugs pour les agents et l'interface, nouvelle vue chronologique pour les consoles, et plus encore."
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "b20d5aa6-831b-4559-90a7-877cc64930d2.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "liBwLfU12KkZimf6bTt2QE",
+      "publishDate": "2025-04-15T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 10.06 de VALORANT",
     "publishedAt": "2025-04-01T13:00:00.000Z",
     "action": {
@@ -4511,67 +4572,6 @@
       "contentLocale": "fr-fr",
       "rev": "BUKmNchNT8gjVnonSb0nhI",
       "publishDate": "2022-02-01T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 4.01 de VALORANT",
-    "publishedAt": "2022-01-19T14:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/valorant-patch-notes-4-01/"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/52a969ba9bfc59478530177cd848ef6d6ab45e31-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e15208c5134221fc839abe5ba8f37e575f3a4d76-1920x1080.jpg",
-      "colors": {
-        "primary": "#251427",
-        "secondary": "#F9F2DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Liste des mots masqués, corrections de bugs et mises à jour de l'Ares."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt8f67d76e08d48a9c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "BUKmNchNT8gjVnonSb0nhI",
-      "publishDate": "2022-01-19T14:00:00.000Z"
     }
   }
 ]
