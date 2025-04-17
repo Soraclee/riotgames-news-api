@@ -1,11 +1,13 @@
 [
   {
-    "title": "Notes de patch 25.08",
-    "publishedAt": "2025-04-15T18:00:00.000Z",
+    "title": "Skin exalté : Mordekaiser Sahn-Uzal",
+    "publishedAt": "2025-04-16T16:00:00.000Z",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-08-notes"
+        "youtubeId": "GCf5OskYZv0",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=GCf5OskYZv0"
       }
     },
     "product": {
@@ -37,17 +39,17 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/71dbe2e47212ab77feaf54dd193e74a7975fb9f9-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6ad15198bf762f3f4fc3512cc2a7e99234766d64-1920x1080.jpg",
       "colors": {
-        "primary": "#251812",
-        "secondary": "#FFF5D6",
-        "label": "#0A0A0A"
+        "primary": "#452B23",
+        "secondary": "#F9EFDC",
+        "label": "#1A0B06"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Découvrez votre destinée dans le patch 25.08 !"
+      "body": "Redécouvrez le Revenant de fer, premier roi de Noxus."
     },
     "category": {
       "title": "Actualités",
@@ -55,10 +57,10 @@
       "machineName": "game-updates"
     },
     "analytics": {
-      "contentId": "d3bc50dc-1962-4fba-84ec-820b782fba28.fr-fr",
+      "contentId": "e7643eb7-17c0-4392-b510-cb50259634c4.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "UQJxDctsMNKpiCcXYYRCCd",
-      "publishDate": "2025-04-15T18:00:00.000Z"
+      "rev": "x8slt254qiWfG4YlFNV74A",
+      "publishDate": "2025-04-16T16:00:00.000Z"
     }
   },
   {
@@ -121,6 +123,68 @@
       "contentId": "1eb77b3e-2f58-4931-86cd-4c7d10774ff0.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "UQJxDctsMNKpiCcXYYHgiH",
+      "publishDate": "2025-04-15T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.08",
+    "publishedAt": "2025-04-15T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-08-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/71dbe2e47212ab77feaf54dd193e74a7975fb9f9-1920x1080.jpg",
+      "colors": {
+        "primary": "#251812",
+        "secondary": "#FFF5D6",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez votre destinée dans le patch 25.08 !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d3bc50dc-1962-4fba-84ec-820b782fba28.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "liBwLfU12KkZimf6bZz0wu",
       "publishDate": "2025-04-15T18:00:00.000Z"
     }
   },
@@ -507,68 +571,6 @@
     }
   },
   {
-    "title": "Notes de patch 25.07",
-    "publishedAt": "2025-04-01T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-07-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0d2812f31f017e0fe0ccf8fbd0842f4ca19f4896-1920x1080.jpg",
-      "colors": {
-        "primary": "#522946",
-        "secondary": "#DCEDF9",
-        "label": "#290A20"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Faites attention au patch 25.07, il ne rigole pas. 🤫"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "d0066988-681d-46a1-9de1-89e2b316967e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "liBwLfU12KkZimf6b7cJb7",
-      "publishDate": "2025-04-01T18:00:00.000Z"
-    }
-  },
-  {
     "title": "Teamfight Tactics – notes du patch 14.1 (2025)",
     "publishedAt": "2025-04-01T18:00:00.000Z",
     "action": {
@@ -628,6 +630,68 @@
       "contentId": "904914fb-6806-4d90-bd82-ae33801bb10d.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "0mVDgmsCLsQaRQOaoSuwOW",
+      "publishDate": "2025-04-01T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.07",
+    "publishedAt": "2025-04-01T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-07-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0d2812f31f017e0fe0ccf8fbd0842f4ca19f4896-1920x1080.jpg",
+      "colors": {
+        "primary": "#522946",
+        "secondary": "#DCEDF9",
+        "label": "#290A20"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Faites attention au patch 25.07, il ne rigole pas. 🤫"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d0066988-681d-46a1-9de1-89e2b316967e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "liBwLfU12KkZimf6b7cJb7",
       "publishDate": "2025-04-01T18:00:00.000Z"
     }
   },
@@ -884,6 +948,68 @@
     }
   },
   {
+    "title": "Notes de patch 25.06",
+    "publishedAt": "2025-03-18T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-06-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/44146f88d45d9556fca43aaa72993a9a22349f82-1920x1080.jpg",
+      "colors": {
+        "primary": "#4A254A",
+        "secondary": "#F9DDDC",
+        "label": "#200820"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "PATCH 25.06 DÉTECTÉ ! À LIRE POUR PLUS DE DÉTAILS !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "861a530f-ad9e-42f3-8b64-a9e78c63a6b5.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "DgoKVhO4vj9NHi8b0DOXeK",
+      "publishDate": "2025-03-18T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 13.8 de Teamfight Tactics (2025)",
     "publishedAt": "2025-03-18T18:00:00.000Z",
     "action": {
@@ -943,68 +1069,6 @@
       "contentId": "8128f915-377c-40d1-b1c4-efb14586483c.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "2CBQQwFWRlx9tTg4TJrs5Y",
-      "publishDate": "2025-03-18T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 25.06",
-    "publishedAt": "2025-03-18T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-06-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/44146f88d45d9556fca43aaa72993a9a22349f82-1920x1080.jpg",
-      "colors": {
-        "primary": "#4A254A",
-        "secondary": "#F9DDDC",
-        "label": "#200820"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "PATCH 25.06 DÉTECTÉ ! À LIRE POUR PLUS DE DÉTAILS !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "861a530f-ad9e-42f3-8b64-a9e78c63a6b5.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "DgoKVhO4vj9NHi8b0DOXeK",
       "publishDate": "2025-03-18T18:00:00.000Z"
     }
   },
@@ -4681,68 +4745,6 @@
       "contentId": "f2e2cd32-5412-4c5e-8cfc-2b392bfe7850.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "4qiJ1B4HOcJb1a1kk4hInv",
-      "publishDate": "2024-11-05T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 14.22",
-    "publishedAt": "2024-11-05T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-14-22-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1071,
-        "width": 1920,
-        "aspectRatio": 1.792717086834734
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e2d20e69996647cd101cd42e839e53143d367301-1920x1071.jpg",
-      "colors": {
-        "primary": "#231311",
-        "secondary": "#FFE9D6",
-        "label": "#080808"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le patch 14.22 est prêt pour le combat 🛡️"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "c29dff90-07d6-4d54-be2b-c20b508c5813.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "4qiJ1B4HOcJb1a1kk5tQKF",
       "publishDate": "2024-11-05T19:00:00.000Z"
     }
   }
