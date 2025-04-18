@@ -1,5 +1,69 @@
 [
   {
+    "title": "Musique du skin Mordekaiser Sahn-Uzal",
+    "publishedAt": "2025-04-17T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "LEHKaOAxFxU",
+        "videoLengthInSeconds": 189,
+        "url": "https://www.youtube.com/watch?v=LEHKaOAxFxU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/384c1b1f03c1056d6be00078d9a10bd8720cb65a-1920x1080.jpg",
+      "colors": {
+        "primary": "#1C130E",
+        "secondary": "#F9F3DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Longue vie au roi incontesté. Écoutez le nouvel hymne de Mordekaiser Sahn-Uzal."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "8d28a6fa-4aa6-482f-9e81-72b7664c69aa.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "H03GYKXgTDLTXQZSpt87OV",
+      "publishDate": "2025-04-17T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Here, Tomorrow",
     "publishedAt": "2025-04-14T15:03:00.000Z",
     "action": {
@@ -4595,69 +4659,6 @@
       "contentLocale": "fr-fr",
       "rev": "qZXvkjig7TQff0ZQAF4wgo",
       "publishDate": "2022-09-22T15:00:01.000Z"
-    }
-  },
-  {
-    "title": "Hymne du Mondial 2022",
-    "publishedAt": "2022-09-22T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://open.spotify.com/playlist/37i9dQZF1DWVi45nh2EuPP"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/43f308f0c9ce215ae03a19120ea64590e3244b5b-1920x1080.jpg",
-      "colors": {
-        "primary": "#613138",
-        "secondary": "#F9E0DC",
-        "label": "#3B0F16"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Écoutez Lil Nas X - STAR WALKIN' sur Spotify"
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt8426105e849ee841.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ja9Zsf51p979tL8WxpWEF4",
-      "publishDate": "2022-09-22T15:00:00.000Z"
     }
   }
 ]
