@@ -1,5 +1,68 @@
 [
   {
+    "title": "Billetterie du MSI 2025",
+    "publishedAt": "2025-04-18T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.ticketleader.ca/events/detail/msi25"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/de19e3be205b6ee583e71a4a8c6b084b79ef208e-1600x900.jpg",
+      "colors": {
+        "primary": "#1A0D0E",
+        "secondary": "#FFF2D6",
+        "label": "#010101"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le MSI aura lieu dans le Pacific Coliseum de Vancouver du 27 juin au 12 juillet. Obtenez vos billets dès maintenant !"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "ee00fe68-b0da-4ab3-9ca3-b9c9e4bc2c7d.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "OTz9Kc8N8M6tkO4Yjx15kq",
+      "publishDate": "2025-04-18T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du segment de printemps du LEC 2025",
     "publishedAt": "2025-03-26T16:00:00.000Z",
     "action": {
@@ -4630,69 +4693,6 @@
       "contentLocale": "fr-fr",
       "rev": "tG8aRZvgYHVPamBbJHKM97",
       "publishDate": "2024-02-14T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Suivez la Golden Spatula Cup 2",
-    "publishedAt": "2024-02-09T09:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.twitch.tv/teamfighttactics"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5c689a9e571381bed5cf8a6ce7eddb8944fe7c84-1280x720.jpg",
-      "colors": {
-        "primary": "#1B1B36",
-        "secondary": "#F0DCF9",
-        "label": "#020208"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le Rising Legends EMEA a commencé. Ne manquez pas le dernier tournoi avant la finale EMEA."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt77aa02fcfd97c2df.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHKM97",
-      "publishDate": "2024-02-09T09:00:00.000Z"
     }
   }
 ]
