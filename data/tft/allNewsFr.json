@@ -1,5 +1,69 @@
 [
   {
+    "title": "Présentation de Yone héraut de l'aube chibi",
+    "publishedAt": "2025-04-16T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "y6fCnpeM5EI",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=y6fCnpeM5EI"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0f2ff592263b7d2709bca2f6dced77836b2fd639-1920x1080.jpg",
+      "colors": {
+        "primary": "#B89552",
+        "secondary": "#292B33",
+        "label": "#211C12"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Brillez comme l'aube (ou la spatule)."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "99862f7e-8dc2-4dce-b932-f6e88a17b1fb.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "OTz9Kc8N8M6tkO4YjyL0o3",
+      "publishDate": "2025-04-16T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 14.2 Teamfight Tactics (2025)",
     "publishedAt": "2025-04-15T18:00:00.000Z",
     "action": {
@@ -380,70 +444,6 @@
     }
   },
   {
-    "title": "Bande-son originale Cyber City",
-    "publishedAt": "2025-04-02T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "2IB8BkKo0UQ",
-        "videoLengthInSeconds": 836,
-        "url": "https://www.youtube.com/watch?v=2IB8BkKo0UQ"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/20ca249ef19e0dcdddcd5a1d54f48067edfc4495-1920x1080.jpg",
-      "colors": {
-        "primary": "#1E2E3C",
-        "secondary": "#DCDCF9",
-        "label": "#040A0F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Tacticiens, nous devons conquérir le top 4. Explorez Cyber City avec la bande-son originale !"
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "6e8d892c-9d11-41d4-8101-ffe0606e3b7f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "liBwLfU12KkZimf6bTyTY0",
-      "publishDate": "2025-04-02T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Bande-annonce du set Cyber City",
     "publishedAt": "2025-04-02T16:00:00.000Z",
     "action": {
@@ -504,6 +504,70 @@
       "contentId": "e1acdf62-10ca-4211-b292-d631e966c775.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "Fa8h1HN3DlhXEocYFahTJm",
+      "publishDate": "2025-04-02T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Bande-son originale Cyber City",
+    "publishedAt": "2025-04-02T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "2IB8BkKo0UQ",
+        "videoLengthInSeconds": 836,
+        "url": "https://www.youtube.com/watch?v=2IB8BkKo0UQ"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/20ca249ef19e0dcdddcd5a1d54f48067edfc4495-1920x1080.jpg",
+      "colors": {
+        "primary": "#1E2E3C",
+        "secondary": "#DCDCF9",
+        "label": "#040A0F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Tacticiens, nous devons conquérir le top 4. Explorez Cyber City avec la bande-son originale !"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "6e8d892c-9d11-41d4-8101-ffe0606e3b7f.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "liBwLfU12KkZimf6bTyTY0",
       "publishDate": "2025-04-02T16:00:00.000Z"
     }
   },
@@ -1322,68 +1386,6 @@
     }
   },
   {
-    "title": "Aperçu du set Cyber City",
-    "publishedAt": "2025-03-16T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/cyber-city-overview"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6aa8ea51b3eeca6364ecac30d9f123907b702365-1920x1080.jpg",
-      "colors": {
-        "primary": "#233546",
-        "secondary": "#DCF4F9",
-        "label": "#07111B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Connectez-vous et découvrez la nouvelle équipe de champions qui hackent Cyber City dans TFT."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "94b66d3d-8414-49b9-8326-dcf25983f884.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtKA4FyS",
-      "publishDate": "2025-03-16T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Dev drop TFT : Cyber City",
     "publishedAt": "2025-03-16T19:00:00.000Z",
     "action": {
@@ -1444,6 +1446,68 @@
       "contentId": "eb001d03-b01c-41fc-a99b-1d748ffbc875.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "liBwLfU12KkZimf6bTyTY0",
+      "publishDate": "2025-03-16T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Aperçu du set Cyber City",
+    "publishedAt": "2025-03-16T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/cyber-city-overview"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6aa8ea51b3eeca6364ecac30d9f123907b702365-1920x1080.jpg",
+      "colors": {
+        "primary": "#233546",
+        "secondary": "#DCF4F9",
+        "label": "#07111B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Connectez-vous et découvrez la nouvelle équipe de champions qui hackent Cyber City dans TFT."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "94b66d3d-8414-49b9-8326-dcf25983f884.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "8QRzT8YuZEmTpSBtKA4FyS",
       "publishDate": "2025-03-16T19:00:00.000Z"
     }
   },
@@ -1700,68 +1764,6 @@
     }
   },
   {
-    "title": "Tactician's Crown d'Into the Arcane",
-    "publishedAt": "2025-03-05T14:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/esports/into-the-arcane-tacticians-crown-primer"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6789c15354f6cdb7abba61861107e432536aa374-1920x1080.jpg",
-      "colors": {
-        "primary": "#251219",
-        "secondary": "#F9ECDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le guide indispensable pour le prochain événement TFT mondial !"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "1ae7187e-1a22-4fe9-b319-b4a7b53a418e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "p1E1t9c6MmuSwvdT9C6RwH",
-      "publishDate": "2025-03-05T14:00:00.000Z"
-    }
-  },
-  {
     "title": "En route pour la Tactician’s Crown Into the Arcane",
     "publishedAt": "2025-03-05T14:00:00.000Z",
     "action": {
@@ -1822,6 +1824,68 @@
       "contentId": "cbaeb680-d5c8-45ca-8047-ce51b912eb4f.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "O0syOADLMvCWbGv9huzBw5",
+      "publishDate": "2025-03-05T14:00:00.000Z"
+    }
+  },
+  {
+    "title": "Tactician's Crown d'Into the Arcane",
+    "publishedAt": "2025-03-05T14:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/esports/into-the-arcane-tacticians-crown-primer"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6789c15354f6cdb7abba61861107e432536aa374-1920x1080.jpg",
+      "colors": {
+        "primary": "#251219",
+        "secondary": "#F9ECDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le guide indispensable pour le prochain événement TFT mondial !"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "1ae7187e-1a22-4fe9-b319-b4a7b53a418e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "p1E1t9c6MmuSwvdT9C6RwH",
       "publishDate": "2025-03-05T14:00:00.000Z"
     }
   },
@@ -4672,68 +4736,6 @@
       "contentLocale": "fr-fr",
       "rev": "YN8truRCqnchJPC7UzZAJl",
       "publishDate": "2024-11-20T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 14.23 de Teamfight Tactics",
-    "publishedAt": "2024-11-19T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-14-23-notes"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/211ce74a7a894125a8fff18dfff7b2baedb59ef7-1280x720.jpg",
-      "colors": {
-        "primary": "#180C0D",
-        "secondary": "#FFE2D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez le monde d'Arcane dans le tout dernier set de TFT : Into the Arcane."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "ad95ec1c-717b-4805-9401-c3123cce3185.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "CsJhS699U5wscrFy7YJgXH",
-      "publishDate": "2024-11-19T19:00:00.000Z"
     }
   }
 ]

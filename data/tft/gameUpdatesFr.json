@@ -1,5 +1,69 @@
 [
   {
+    "title": "Présentation de Yone héraut de l'aube chibi",
+    "publishedAt": "2025-04-16T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "y6fCnpeM5EI",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=y6fCnpeM5EI"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0f2ff592263b7d2709bca2f6dced77836b2fd639-1920x1080.jpg",
+      "colors": {
+        "primary": "#B89552",
+        "secondary": "#292B33",
+        "label": "#211C12"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Brillez comme l'aube (ou la spatule)."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "99862f7e-8dc2-4dce-b932-f6e88a17b1fb.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "OTz9Kc8N8M6tkO4YjyL0o3",
+      "publishDate": "2025-04-16T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 14.2 Teamfight Tactics (2025)",
     "publishedAt": "2025-04-15T18:00:00.000Z",
     "action": {
@@ -4656,68 +4720,6 @@
       "contentLocale": "fr-fr",
       "rev": "jEln45CgOQD4spzxfDXEGe",
       "publishDate": "2024-01-23T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 14.1 de Teamfight Tactics",
-    "publishedAt": "2024-01-09T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-14-1-notes/"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fe725ac5f2c57b7a0f26053ec3c7bae7eca13096-1280x720.jpg",
-      "colors": {
-        "primary": "#372E5B",
-        "secondary": "#DCE0F9",
-        "label": "#150D34"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Nouvelle année, nouveau patch, nouvelles compos ! Le patch 14.1 redonne un coup de fouet à l'ensemble avec 11 nouveaux portails, des ajustements des PO de série, des ajustements des types et une refonte de HEARTSTEEL !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt837f478a42ac619b.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "kRa0sLdvlB8lPXh7mw9E4E",
-      "publishDate": "2024-01-09T19:00:00.000Z"
     }
   }
 ]
