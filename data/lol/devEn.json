@@ -692,69 +692,6 @@
     }
   },
   {
-    "title": "Hextech Chests, Rewards & More",
-    "publishedAt": "2025-02-26T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=sAVa467pHl8"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b50e4483606b26234e2b9b2d4ab0c764146b65a3-1280x720.jpg",
-      "colors": {
-        "primary": "#201910",
-        "secondary": "#FFEED6",
-        "label": "#060606"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Pabro and Meddler talk about Hextech Chests, champion acquisition, Exalted skins, and more."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "03fac73a-4b62-4f2c-9b54-b9e8dc6c971a.en-us",
-      "contentLocale": "en-us",
-      "rev": "bJ2czZMQxnU8gTVkazOrfV",
-      "publishDate": "2025-02-26T16:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev: Hextech Chests, Getting Champs & More",
     "publishedAt": "2025-02-26T16:00:00.000Z",
     "action": {
@@ -817,12 +754,13 @@
     }
   },
   {
-    "title": "/dev: How the Season 1 Changes Landed",
-    "publishedAt": "2025-02-07T16:00:00.000Z",
+    "title": "Hextech Chests, Rewards & More",
+    "publishedAt": "2025-02-26T16:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/en-us/news/dev/dev-how-the-season-1-changes-landed"
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=sAVa467pHl8"
       }
     },
     "product": {
@@ -850,21 +788,21 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1080,
-        "width": 1800,
-        "aspectRatio": 1.6666666666666667
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8c95e57763aba7e8cc31cac5678c069c588010b5-1800x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b50e4483606b26234e2b9b2d4ab0c764146b65a3-1280x720.jpg",
       "colors": {
-        "primary": "#4A3525",
-        "secondary": "#F9F1DC",
-        "label": "#201208"
+        "primary": "#201910",
+        "secondary": "#FFEED6",
+        "label": "#060606"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Reflections on the impacts of the Season 1 Changes"
+      "body": "Pabro and Meddler talk about Hextech Chests, champion acquisition, Exalted skins, and more."
     },
     "category": {
       "title": "Dev",
@@ -872,10 +810,10 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "cb41c475-fcfb-4df9-91ac-7691778d88e4.en-us",
+      "contentId": "03fac73a-4b62-4f2c-9b54-b9e8dc6c971a.en-us",
       "contentLocale": "en-us",
-      "rev": "QHyu7w0m0kaW857xXVUhVD",
-      "publishDate": "2025-02-07T16:00:00.000Z"
+      "rev": "bJ2czZMQxnU8gTVkazOrfV",
+      "publishDate": "2025-02-26T16:00:00.000Z"
     }
   },
   {
@@ -1000,6 +938,68 @@
       "contentId": "9fb191af-7234-4346-8bfe-6e45693b63cf.en-us",
       "contentLocale": "en-us",
       "rev": "epc9RxC94qqLSQgePGL2iK",
+      "publishDate": "2025-02-07T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev: How the Season 1 Changes Landed",
+    "publishedAt": "2025-02-07T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-how-the-season-1-changes-landed"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1800,
+        "aspectRatio": 1.6666666666666667
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8c95e57763aba7e8cc31cac5678c069c588010b5-1800x1080.jpg",
+      "colors": {
+        "primary": "#4A3525",
+        "secondary": "#F9F1DC",
+        "label": "#201208"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Reflections on the impacts of the Season 1 Changes"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "cb41c475-fcfb-4df9-91ac-7691778d88e4.en-us",
+      "contentLocale": "en-us",
+      "rev": "QHyu7w0m0kaW857xXVUhVD",
       "publishDate": "2025-02-07T16:00:00.000Z"
     }
   },
@@ -1319,12 +1319,12 @@
     }
   },
   {
-    "title": "/dev: Introducing Swiftplay",
+    "title": "TL;DW: Season 1 Reveal, Gameplay Preview & More",
     "publishedAt": "2024-11-25T16:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/en-us/news/dev/dev-introducing-swiftplay"
+        "url": "/en-us/news/dev/tldw-season-1-reveal-gameplay-preview-more"
       }
     },
     "product": {
@@ -1356,17 +1356,17 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bf7239f10ecfba9b38a274d73a394bd1e10b026d-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7aa7cb386d6d62b0d85f14e2ea432508aa425879-1920x1080.jpg",
       "colors": {
-        "primary": "#3A371D",
-        "secondary": "#F8F9DC",
-        "label": "#0C0B03"
+        "primary": "#1A1D33",
+        "secondary": "#DCF6F9",
+        "label": "#010104"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "The newest queue coming to League."
+      "body": "A quick rundown of updates on a champ update, Season 1 reveal, gameplay, Ranked resets & more."
     },
     "category": {
       "title": "Dev",
@@ -1374,9 +1374,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "2a20d935-2821-4090-ad4a-4cb4478c00f0.en-us",
+      "contentId": "aede617c-f4d2-4ba5-8307-4f89e7aff7ce.en-us",
       "contentLocale": "en-us",
-      "rev": "YN8truRCqnchJPC7V0aNvX",
+      "rev": "YN8truRCqnchJPC7V0ZziZ",
       "publishDate": "2024-11-25T16:00:00.000Z"
     }
   },
@@ -1505,6 +1505,68 @@
     }
   },
   {
+    "title": "/dev: Introducing Swiftplay",
+    "publishedAt": "2024-11-25T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-introducing-swiftplay"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bf7239f10ecfba9b38a274d73a394bd1e10b026d-1920x1080.jpg",
+      "colors": {
+        "primary": "#3A371D",
+        "secondary": "#F8F9DC",
+        "label": "#0C0B03"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The newest queue coming to League."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "2a20d935-2821-4090-ad4a-4cb4478c00f0.en-us",
+      "contentLocale": "en-us",
+      "rev": "YN8truRCqnchJPC7V0aNvX",
+      "publishDate": "2024-11-25T16:00:00.000Z"
+    }
+  },
+  {
     "title": "/dev: Seasons in 2025",
     "publishedAt": "2024-11-25T16:00:00.000Z",
     "action": {
@@ -1563,68 +1625,6 @@
       "contentId": "4968e4b2-66ec-4f59-a352-0092ad20ff72.en-us",
       "contentLocale": "en-us",
       "rev": "UPIPX87Xr8dUQrGWE8GqHL",
-      "publishDate": "2024-11-25T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "TL;DW: Season 1 Reveal, Gameplay Preview & More",
-    "publishedAt": "2024-11-25T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/tldw-season-1-reveal-gameplay-preview-more"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7aa7cb386d6d62b0d85f14e2ea432508aa425879-1920x1080.jpg",
-      "colors": {
-        "primary": "#1A1D33",
-        "secondary": "#DCF6F9",
-        "label": "#010104"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A quick rundown of updates on a champ update, Season 1 reveal, gameplay, Ranked resets & more."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "aede617c-f4d2-4ba5-8307-4f89e7aff7ce.en-us",
-      "contentLocale": "en-us",
-      "rev": "YN8truRCqnchJPC7V0ZziZ",
       "publishDate": "2024-11-25T16:00:00.000Z"
     }
   },
@@ -2070,6 +2070,70 @@
     }
   },
   {
+    "title": "Dev Update: Matchmaking, Seasons in 2025 & More",
+    "publishedAt": "2024-09-23T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "h-c0BS8a5bQ",
+        "videoLengthInSeconds": 490,
+        "url": "https://www.youtube.com/watch?v=h-c0BS8a5bQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a6469f230d92e1a3bfc2a08f6497e22f38bae185-1280x720.jpg",
+      "colors": {
+        "primary": "#513E29",
+        "secondary": "#F9EEDC",
+        "label": "#281A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Meddler and Pabro talk modes, matchmaking, Teemo, Worlds, LoL Player Days, and Seasons in 2025."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "2f5f6721-e8d2-4571-ab46-eba403debbd4.en-us",
+      "contentLocale": "en-us",
+      "rev": "YF0kK6uALbD7UqCF6IZWjJ",
+      "publishDate": "2024-09-23T15:00:00.000Z"
+    }
+  },
+  {
     "title": "/dev: Looking Forward for Arena and Swarm",
     "publishedAt": "2024-09-23T15:00:00.000Z",
     "action": {
@@ -2190,70 +2254,6 @@
       "contentId": "23c74ff4-6613-457a-9481-79f984046a24.en-us",
       "contentLocale": "en-us",
       "rev": "UvcsnXzcRBz8DuptDbI3jQ",
-      "publishDate": "2024-09-23T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Dev Update: Matchmaking, Seasons in 2025 & More",
-    "publishedAt": "2024-09-23T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "h-c0BS8a5bQ",
-        "videoLengthInSeconds": 490,
-        "url": "https://www.youtube.com/watch?v=h-c0BS8a5bQ"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a6469f230d92e1a3bfc2a08f6497e22f38bae185-1280x720.jpg",
-      "colors": {
-        "primary": "#513E29",
-        "secondary": "#F9EEDC",
-        "label": "#281A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Meddler and Pabro talk modes, matchmaking, Teemo, Worlds, LoL Player Days, and Seasons in 2025."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "2f5f6721-e8d2-4571-ab46-eba403debbd4.en-us",
-      "contentLocale": "en-us",
-      "rev": "YF0kK6uALbD7UqCF6IZWjJ",
       "publishDate": "2024-09-23T15:00:00.000Z"
     }
   },
@@ -2446,12 +2446,12 @@
     }
   },
   {
-    "title": "/dev: Skin Thematics and Champion Fantasies",
+    "title": "/dev: Honor and Behavioral Systems Update",
     "publishedAt": "2024-08-22T15:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/en-us/news/dev/dev-skin-thematics-and-champion-fantasies"
+        "url": "/en-us/news/dev/dev-honor-and-behavioral-systems-update"
       }
     },
     "product": {
@@ -2479,83 +2479,21 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 563,
-        "width": 1000,
-        "aspectRatio": 1.7761989342806395
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e1d26d12d8bd261fda4e79ebd74a0913bb934707-1000x563.jpg",
-      "colors": {
-        "primary": "#27294D",
-        "secondary": "#F9DCE3",
-        "label": "#090B23"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Going subdermal on skins: which champ gets one, for which thematic, and why."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "f6ee73f7-4b5d-4561-b644-d4c709687d0e",
-      "contentLocale": "en-us",
-      "rev": "Rx1Nho763d29lawKrXQ63b",
-      "publishDate": "2024-08-22T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "TL;DW: Honor, Skins & More",
-    "publishedAt": "2024-08-22T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/tldw-honoring-opponents-skin-themes-more"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1125,
+        "height": 1080,
         "width": 1920,
-        "aspectRatio": 1.7066666666666668
+        "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/550f6e0a0c119792c7f476a4478b202737450158-1920x1125.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/75111d1eec21826156d12b1dd6f34b7437165bcc-1920x1080.jpg",
       "colors": {
-        "primary": "#B88C60",
-        "secondary": "#332B29",
-        "label": "#3A2C1F"
+        "primary": "#4D2738",
+        "secondary": "#F9DCE5",
+        "label": "#230915"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "A quick rundown of Meddler and Pabro answering player questions about honor, skins, and more."
+      "body": "Honor changes, Detection improvements, and more"
     },
     "category": {
       "title": "Dev",
@@ -2563,9 +2501,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "3c086b29-9a80-4278-80a6-f0a97636826c",
+      "contentId": "57229e97-8232-45e1-b5dd-68223f6351c8",
       "contentLocale": "en-us",
-      "rev": "ezMiwuUkJkbYMWycAEXTnW",
+      "rev": "V06bsD4sX3T8NTHrBRW3SK",
       "publishDate": "2024-08-22T15:00:00.000Z"
     }
   },
@@ -2632,12 +2570,12 @@
     }
   },
   {
-    "title": "/dev: Honor and Behavioral Systems Update",
+    "title": "TL;DW: Honor, Skins & More",
     "publishedAt": "2024-08-22T15:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/en-us/news/dev/dev-honor-and-behavioral-systems-update"
+        "url": "/en-us/news/dev/tldw-honoring-opponents-skin-themes-more"
       }
     },
     "product": {
@@ -2665,21 +2603,21 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1080,
+        "height": 1125,
         "width": 1920,
-        "aspectRatio": 1.7777777777777777
+        "aspectRatio": 1.7066666666666668
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/75111d1eec21826156d12b1dd6f34b7437165bcc-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/550f6e0a0c119792c7f476a4478b202737450158-1920x1125.jpg",
       "colors": {
-        "primary": "#4D2738",
-        "secondary": "#F9DCE5",
-        "label": "#230915"
+        "primary": "#B88C60",
+        "secondary": "#332B29",
+        "label": "#3A2C1F"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Honor changes, Detection improvements, and more"
+      "body": "A quick rundown of Meddler and Pabro answering player questions about honor, skins, and more."
     },
     "category": {
       "title": "Dev",
@@ -2687,9 +2625,71 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "57229e97-8232-45e1-b5dd-68223f6351c8",
+      "contentId": "3c086b29-9a80-4278-80a6-f0a97636826c",
       "contentLocale": "en-us",
-      "rev": "V06bsD4sX3T8NTHrBRW3SK",
+      "rev": "ezMiwuUkJkbYMWycAEXTnW",
+      "publishDate": "2024-08-22T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev: Skin Thematics and Champion Fantasies",
+    "publishedAt": "2024-08-22T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-skin-thematics-and-champion-fantasies"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 563,
+        "width": 1000,
+        "aspectRatio": 1.7761989342806395
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e1d26d12d8bd261fda4e79ebd74a0913bb934707-1000x563.jpg",
+      "colors": {
+        "primary": "#27294D",
+        "secondary": "#F9DCE3",
+        "label": "#090B23"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Going subdermal on skins: which champ gets one, for which thematic, and why."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "f6ee73f7-4b5d-4561-b644-d4c709687d0e",
+      "contentLocale": "en-us",
+      "rev": "Rx1Nho763d29lawKrXQ63b",
       "publishDate": "2024-08-22T15:00:00.000Z"
     }
   },
@@ -3636,68 +3636,6 @@
     }
   },
   {
-    "title": "TL;DW: Arena, Lee Sin & PvE Mode First-Look",
-    "publishedAt": "2024-04-08T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/tl-dw-arena-lee-sin-pve-mode-first-look/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bfebe09314b6ad80aafbbaa853ad7cfa64eafc00-1920x1080.jpg",
-      "colors": {
-        "primary": "#1C2538",
-        "secondary": "#DCEFF9",
-        "label": "#03050A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A quick rundown of updates on Arena, Lee Sin, Ranked Rewards, Champion Mastery, and a new PvE mode."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.bltfdf5f86034b0a747.en-us",
-      "contentLocale": "en-us",
-      "rev": "IN03FCy14OOjYlZR31BJPa",
-      "publishDate": "2024-04-08T15:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev: Modernizing the Monk",
     "publishedAt": "2024-04-08T15:00:00.000Z",
     "action": {
@@ -3756,6 +3694,68 @@
       "contentId": "articles.blt25f2dc8552023f39.en-us",
       "contentLocale": "en-us",
       "rev": "jEln45CgOQD4spzxfDcz9u",
+      "publishDate": "2024-04-08T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "TL;DW: Arena, Lee Sin & PvE Mode First-Look",
+    "publishedAt": "2024-04-08T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/tl-dw-arena-lee-sin-pve-mode-first-look/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bfebe09314b6ad80aafbbaa853ad7cfa64eafc00-1920x1080.jpg",
+      "colors": {
+        "primary": "#1C2538",
+        "secondary": "#DCEFF9",
+        "label": "#03050A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A quick rundown of updates on Arena, Lee Sin, Ranked Rewards, Champion Mastery, and a new PvE mode."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.bltfdf5f86034b0a747.en-us",
+      "contentLocale": "en-us",
+      "rev": "IN03FCy14OOjYlZR31BJPa",
       "publishDate": "2024-04-08T15:00:00.000Z"
     }
   },
@@ -3824,68 +3824,6 @@
     }
   },
   {
-    "title": "/dev: New Bot AI, Oh My! Coming 14.6!",
-    "publishedAt": "2024-02-29T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-new-bot-ai-oh-my-coming-14-6/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 4102,
-        "width": 7000,
-        "aspectRatio": 1.7064846416382253
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b2598cc854b921d1d9a1155b793b80c9a880a6bc-7000x4102.jpg",
-      "colors": {
-        "primary": "#10080B",
-        "secondary": "#FFD6D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Updates for Coop vs AI bots coming soon!"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt8ddddfdd515fcfe6.en-us",
-      "contentLocale": "en-us",
-      "rev": "wqQE3hWIWpUAV3VUi6Qiuy",
-      "publishDate": "2024-02-29T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Dev Update: Gameplay, Vanguard & More",
     "publishedAt": "2024-02-29T16:00:00.000Z",
     "action": {
@@ -3946,6 +3884,68 @@
       "contentId": "articles.blt07a2e1ccd98eb9ba.en-us",
       "contentLocale": "en-us",
       "rev": "qZXvkjig7TQff0ZQAF453A",
+      "publishDate": "2024-02-29T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev: New Bot AI, Oh My! Coming 14.6!",
+    "publishedAt": "2024-02-29T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-new-bot-ai-oh-my-coming-14-6/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 4102,
+        "width": 7000,
+        "aspectRatio": 1.7064846416382253
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b2598cc854b921d1d9a1155b793b80c9a880a6bc-7000x4102.jpg",
+      "colors": {
+        "primary": "#10080B",
+        "secondary": "#FFD6D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Updates for Coop vs AI bots coming soon!"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.blt8ddddfdd515fcfe6.en-us",
+      "contentLocale": "en-us",
+      "rev": "wqQE3hWIWpUAV3VUi6Qiuy",
       "publishDate": "2024-02-29T16:00:00.000Z"
     }
   },
@@ -4262,68 +4262,6 @@
     }
   },
   {
-    "title": "TL;DW: Season 2024 Look Ahead",
-    "publishedAt": "2024-01-05T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/tl-dw-season-2024-look-ahead/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7968939cbfee791220bb27c54a5ee57159103d7c-1280x720.jpg",
-      "colors": {
-        "primary": "#1A110D",
-        "secondary": "#D6FFDE",
-        "label": "#010101"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A short rundown of the Season 2024 dev video."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt70e45491663ae870.en-us",
-      "contentLocale": "en-us",
-      "rev": "lESIXfhUM7GwGlQ32sI75n",
-      "publishDate": "2024-01-05T16:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev: Updating Champion Mastery",
     "publishedAt": "2024-01-05T16:00:00.000Z",
     "action": {
@@ -4382,6 +4320,68 @@
       "contentId": "articles.blt7e052bdf53add56a.en-us",
       "contentLocale": "en-us",
       "rev": "jEln45CgOQD4spzxfDjUXu",
+      "publishDate": "2024-01-05T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "TL;DW: Season 2024 Look Ahead",
+    "publishedAt": "2024-01-05T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/tl-dw-season-2024-look-ahead/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7968939cbfee791220bb27c54a5ee57159103d7c-1280x720.jpg",
+      "colors": {
+        "primary": "#1A110D",
+        "secondary": "#D6FFDE",
+        "label": "#010101"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A short rundown of the Season 2024 dev video."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.blt70e45491663ae870.en-us",
+      "contentLocale": "en-us",
+      "rev": "lESIXfhUM7GwGlQ32sI75n",
       "publishDate": "2024-01-05T16:00:00.000Z"
     }
   },
