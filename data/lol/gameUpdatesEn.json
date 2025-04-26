@@ -6,7 +6,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "_M7yCo6K9jE",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 48,
         "url": "https://www.youtube.com/watch?v=_M7yCo6K9jE"
       }
     },
@@ -70,7 +70,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "DLNLkZdR6D0",
-        "videoLengthInSeconds": 75,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=DLNLkZdR6D0"
       }
     },
@@ -134,7 +134,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "sjqqbqx5bXI",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 38,
         "url": "https://www.youtube.com/watch?v=sjqqbqx5bXI"
       }
     },
@@ -699,6 +699,68 @@
     }
   },
   {
+    "title": "Patch 25.07 Notes",
+    "publishedAt": "2025-04-01T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-07-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0d2812f31f017e0fe0ccf8fbd0842f4ca19f4896-1920x1080.jpg",
+      "colors": {
+        "primary": "#522946",
+        "secondary": "#DCEDF9",
+        "label": "#290A20"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Patch 25.07 should be taken very seriously. 🤫"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d0066988-681d-46a1-9de1-89e2b316967e.en-us",
+      "contentLocale": "en-us",
+      "rev": "nZB9db8bWm6kVNwNtZ899m",
+      "publishDate": "2025-04-01T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 14.1 notes (2025)",
     "publishedAt": "2025-04-01T18:00:00.000Z",
     "action": {
@@ -758,68 +820,6 @@
       "contentId": "904914fb-6806-4d90-bd82-ae33801bb10d.en-us",
       "contentLocale": "en-us",
       "rev": "HQcJ1wdw4bFNL8Bmx16Taa",
-      "publishDate": "2025-04-01T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.07 Notes",
-    "publishedAt": "2025-04-01T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-07-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0d2812f31f017e0fe0ccf8fbd0842f4ca19f4896-1920x1080.jpg",
-      "colors": {
-        "primary": "#522946",
-        "secondary": "#DCEDF9",
-        "label": "#290A20"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Patch 25.07 should be taken very seriously. 🤫"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "d0066988-681d-46a1-9de1-89e2b316967e.en-us",
-      "contentLocale": "en-us",
-      "rev": "nZB9db8bWm6kVNwNtZ899m",
       "publishDate": "2025-04-01T18:00:00.000Z"
     }
   },
@@ -924,7 +924,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c1d132c1a5f1835b1836e91a54b042c367348b61-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/c1d132c1a5f1835b1836e91a54b042c367348b61-1920x1080.jpg",
       "colors": {
         "primary": "#5A452D",
         "secondary": "#F9F9DC",
@@ -1076,6 +1076,68 @@
     }
   },
   {
+    "title": "Patch 25.06 Notes",
+    "publishedAt": "2025-03-18T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-06-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/44146f88d45d9556fca43aaa72993a9a22349f82-1920x1080.jpg",
+      "colors": {
+        "primary": "#4A254A",
+        "secondary": "#F9DDDC",
+        "label": "#200820"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "PATCH 25.06 DETECTED! PLEASE READ FOR MORE DETAILS!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "861a530f-ad9e-42f3-8b64-a9e78c63a6b5.en-us",
+      "contentLocale": "en-us",
+      "rev": "l7Wtp1RWy1i0rjy7g7HAe3",
+      "publishDate": "2025-03-18T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 13.8 notes (2025)",
     "publishedAt": "2025-03-18T18:00:00.000Z",
     "action": {
@@ -1135,68 +1197,6 @@
       "contentId": "8128f915-377c-40d1-b1c4-efb14586483c.en-us",
       "contentLocale": "en-us",
       "rev": "2CBQQwFWRlx9tTg4TJs6AZ",
-      "publishDate": "2025-03-18T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.06 Notes",
-    "publishedAt": "2025-03-18T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-06-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/44146f88d45d9556fca43aaa72993a9a22349f82-1920x1080.jpg",
-      "colors": {
-        "primary": "#4A254A",
-        "secondary": "#F9DDDC",
-        "label": "#200820"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "PATCH 25.06 DETECTED! PLEASE READ FOR MORE DETAILS!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "861a530f-ad9e-42f3-8b64-a9e78c63a6b5.en-us",
-      "contentLocale": "en-us",
-      "rev": "l7Wtp1RWy1i0rjy7g7HAe3",
       "publishDate": "2025-03-18T18:00:00.000Z"
     }
   },
@@ -1454,68 +1454,6 @@
     }
   },
   {
-    "title": "Patch 25.05 Notes",
-    "publishedAt": "2025-03-04T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-05-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7b02ecb258c88555b1be863f693f4fa8e985e48-1920x1080.jpg",
-      "colors": {
-        "primary": "#1C0E13",
-        "secondary": "#F7FFD6",
-        "label": "#030303"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A new challenger has entered the Ring⚔️It’s Patch 25.05!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "9e529228-3c45-476d-8185-7342d539312f.en-us",
-      "contentLocale": "en-us",
-      "rev": "FgKLv6ZFErjD8NvueYCzDj",
-      "publishDate": "2025-03-04T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Teamfight Tactics patch 13.7 notes (2025)",
     "publishedAt": "2025-03-04T19:00:00.000Z",
     "action": {
@@ -1575,6 +1513,68 @@
       "contentId": "d605b113-c552-440d-955c-0015d36e7600.en-us",
       "contentLocale": "en-us",
       "rev": "2uHu1uRwbvVt3HHDXuiLK0",
+      "publishDate": "2025-03-04T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 25.05 Notes",
+    "publishedAt": "2025-03-04T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-05-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7b02ecb258c88555b1be863f693f4fa8e985e48-1920x1080.jpg",
+      "colors": {
+        "primary": "#1C0E13",
+        "secondary": "#F7FFD6",
+        "label": "#030303"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A new challenger has entered the Ring⚔️It’s Patch 25.05!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "9e529228-3c45-476d-8185-7342d539312f.en-us",
+      "contentLocale": "en-us",
+      "rev": "FgKLv6ZFErjD8NvueYCzDj",
       "publishDate": "2025-03-04T19:00:00.000Z"
     }
   },
@@ -1648,7 +1648,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "uI4PHyKNcqI",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 35,
         "url": "https://www.youtube.com/watch?v=uI4PHyKNcqI"
       }
     },
@@ -1959,6 +1959,68 @@
     }
   },
   {
+    "title": "Patch 2025.S1.3 Notes",
+    "publishedAt": "2025-02-04T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-2025-s1-3-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9bb5312947d3a80179899c58e16d38482704c327-1920x1080.jpg",
+      "colors": {
+        "primary": "#111B22",
+        "secondary": "#F9F3DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Time to feast on Patch 25.S1.3."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "e021caae-4813-4bed-a67e-1d67e5ce4c77.en-us",
+      "contentLocale": "en-us",
+      "rev": "r5J2fgkVFZPy5cerXdBKpx",
+      "publishDate": "2025-02-04T19:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 13.5 notes (2025)",
     "publishedAt": "2025-02-04T19:00:00.000Z",
     "action": {
@@ -2018,68 +2080,6 @@
       "contentId": "60d4b647-8e5a-41f7-a37d-e8df1b4721ef.en-us",
       "contentLocale": "en-us",
       "rev": "wQOrjoHuer7XQQg8uId1I0",
-      "publishDate": "2025-02-04T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 2025.S1.3 Notes",
-    "publishedAt": "2025-02-04T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-2025-s1-3-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9bb5312947d3a80179899c58e16d38482704c327-1920x1080.jpg",
-      "colors": {
-        "primary": "#111B22",
-        "secondary": "#F9F3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Time to feast on Patch 25.S1.3."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "e021caae-4813-4bed-a67e-1d67e5ce4c77.en-us",
-      "contentLocale": "en-us",
-      "rev": "r5J2fgkVFZPy5cerXdBKpx",
       "publishDate": "2025-02-04T19:00:00.000Z"
     }
   },
@@ -2403,6 +2403,68 @@
     }
   },
   {
+    "title": "Patch 25.S1.2 Notes",
+    "publishedAt": "2025-01-22T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-s1-2-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/af7173f343e6f253fb19efaf7f30ae8c095021ca-1920x1080.jpg",
+      "colors": {
+        "primary": "#0F1E1E",
+        "secondary": "#D6FFE6",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Bow down to Patch 25.S1.2 👑"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "096fc010-0e93-43db-9776-ec7ae9dc9773.en-us",
+      "contentLocale": "en-us",
+      "rev": "pjc0gZ7zw0jnhEKOMp1lTw",
+      "publishDate": "2025-01-22T19:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 13.4 notes (2025)",
     "publishedAt": "2025-01-22T19:00:00.000Z",
     "action": {
@@ -2462,68 +2524,6 @@
       "contentId": "7dbe5d97-93ea-4b2d-a2aa-7ab137f032a0.en-us",
       "contentLocale": "en-us",
       "rev": "pjc0gZ7zw0jnhEKOMp1UgC",
-      "publishDate": "2025-01-22T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.S1.2 Notes",
-    "publishedAt": "2025-01-22T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-s1-2-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/af7173f343e6f253fb19efaf7f30ae8c095021ca-1920x1080.jpg",
-      "colors": {
-        "primary": "#0F1E1E",
-        "secondary": "#D6FFE6",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Bow down to Patch 25.S1.2 👑"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "096fc010-0e93-43db-9776-ec7ae9dc9773.en-us",
-      "contentLocale": "en-us",
-      "rev": "pjc0gZ7zw0jnhEKOMp1lTw",
       "publishDate": "2025-01-22T19:00:00.000Z"
     }
   },
@@ -2656,70 +2656,6 @@
     }
   },
   {
-    "title": "Mel Champion Spotlight",
-    "publishedAt": "2025-01-09T20:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "hECQiybsrsM",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=hECQiybsrsM"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/10f41bdd3e0428dd26f5305e5afe28c71860e99c-1920x1080.jpg",
-      "colors": {
-        "primary": "#120B09",
-        "secondary": "#FFEDD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Shift the paradigm with Mel, the Soul’s Reflection."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "b682fb4c-c062-490f-a781-f86f0e358026.en-us",
-      "contentLocale": "en-us",
-      "rev": "kK4y2oIfEZ0KFwn97gaHOU",
-      "publishDate": "2025-01-09T20:00:00.000Z"
-    }
-  },
-  {
     "title": "Mel Abilities Rundown",
     "publishedAt": "2025-01-09T20:00:00.000Z",
     "action": {
@@ -2778,6 +2714,70 @@
       "contentId": "76c5f154-ca9b-479c-88c1-12551ff5b987.en-us",
       "contentLocale": "en-us",
       "rev": "tW1iVB3M02HkZ9xlNbx9mT",
+      "publishDate": "2025-01-09T20:00:00.000Z"
+    }
+  },
+  {
+    "title": "Mel Champion Spotlight",
+    "publishedAt": "2025-01-09T20:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "hECQiybsrsM",
+        "videoLengthInSeconds": 212,
+        "url": "https://www.youtube.com/watch?v=hECQiybsrsM"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/10f41bdd3e0428dd26f5305e5afe28c71860e99c-1920x1080.jpg",
+      "colors": {
+        "primary": "#120B09",
+        "secondary": "#FFEDD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Shift the paradigm with Mel, the Soul’s Reflection."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "b682fb4c-c062-490f-a781-f86f0e358026.en-us",
+      "contentLocale": "en-us",
+      "rev": "kK4y2oIfEZ0KFwn97gaHOU",
       "publishDate": "2025-01-09T20:00:00.000Z"
     }
   },
@@ -2973,6 +2973,68 @@
     }
   },
   {
+    "title": "Patch 25.S1.1 Notes",
+    "publishedAt": "2025-01-07T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-s1-1-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7b02ecb258c88555b1be863f693f4fa8e985e48-1920x1080.jpg",
+      "colors": {
+        "primary": "#1C0E13",
+        "secondary": "#F7FFD6",
+        "label": "#030303"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Welcome to Noxus and Season 1!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "5dde154c-a74d-47ac-b050-9a1d1dbc4842.en-us",
+      "contentLocale": "en-us",
+      "rev": "w5Y1buu43ZclY4xZaKZ84i",
+      "publishDate": "2025-01-07T19:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 13.3 notes (2025)",
     "publishedAt": "2025-01-07T19:00:00.000Z",
     "action": {
@@ -3032,68 +3094,6 @@
       "contentId": "17b78eba-0185-4530-ab60-949386fcb0df.en-us",
       "contentLocale": "en-us",
       "rev": "AJJDAXmVTF2HnAYqO52W5E",
-      "publishDate": "2025-01-07T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.S1.1 Notes",
-    "publishedAt": "2025-01-07T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-s1-1-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7b02ecb258c88555b1be863f693f4fa8e985e48-1920x1080.jpg",
-      "colors": {
-        "primary": "#1C0E13",
-        "secondary": "#F7FFD6",
-        "label": "#030303"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Welcome to Noxus and Season 1!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "5dde154c-a74d-47ac-b050-9a1d1dbc4842.en-us",
-      "contentLocale": "en-us",
-      "rev": "w5Y1buu43ZclY4xZaKZ84i",
       "publishDate": "2025-01-07T19:00:00.000Z"
     }
   },
@@ -3418,68 +3418,6 @@
     }
   },
   {
-    "title": "Patch 14.24 Notes",
-    "publishedAt": "2024-12-10T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-14-24-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 4131,
-        "width": 8345,
-        "aspectRatio": 2.0200919874122487
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/17073231646b993fe3669494328c13ffa2ab9d92-8345x4131.jpg",
-      "colors": {
-        "primary": "#1D1224",
-        "secondary": "#F9DCF5",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "We’re taking a trip into the Arcane, welcome to 14.24!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "c6edb0a4-a3f4-489c-98b3-d6c775d3ce13.en-us",
-      "contentLocale": "en-us",
-      "rev": "y6qAFx3KEt65PvSAF1CTwG",
-      "publishDate": "2024-12-10T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Teamfight Tactics patch 14.24 notes",
     "publishedAt": "2024-12-10T19:00:00.000Z",
     "action": {
@@ -3539,6 +3477,68 @@
       "contentId": "dabf61f8-21ff-410b-940c-c199484dc381.en-us",
       "contentLocale": "en-us",
       "rev": "CsJhS699U5wscrFy7YNNFW",
+      "publishDate": "2024-12-10T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 14.24 Notes",
+    "publishedAt": "2024-12-10T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-14-24-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 4131,
+        "width": 8345,
+        "aspectRatio": 2.0200919874122487
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/17073231646b993fe3669494328c13ffa2ab9d92-8345x4131.jpg",
+      "colors": {
+        "primary": "#1D1224",
+        "secondary": "#F9DCF5",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "We’re taking a trip into the Arcane, welcome to 14.24!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "c6edb0a4-a3f4-489c-98b3-d6c775d3ce13.en-us",
+      "contentLocale": "en-us",
+      "rev": "y6qAFx3KEt65PvSAF1CTwG",
       "publishDate": "2024-12-10T19:00:00.000Z"
     }
   },
@@ -3741,7 +3741,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "zICLSeMzsvw",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 34,
         "url": "https://www.youtube.com/watch?v=zICLSeMzsvw"
       }
     },
@@ -4312,7 +4312,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "Z7YIyP9mLXM",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 76,
         "url": "https://www.youtube.com/watch?v=Z7YIyP9mLXM"
       }
     },
@@ -4691,7 +4691,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "o69dtlznmug",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 103,
         "url": "https://www.youtube.com/watch?v=o69dtlznmug"
       }
     },

@@ -1,5 +1,66 @@
 [
   {
+    "title": "Rétrospective du patch 6.0",
+    "publishedAt": "2025-04-25T02:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/look-back-at-patch-6-0"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
+        "colors": {
+          "primary": "#2ed5ff",
+          "secondary": "#D6F5FF",
+          "label": "#0A0A0A"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/373874993274af42a511f8738d3da0aea9cfd212-1920x1080.jpg",
+      "colors": {
+        "primary": "#1A2735",
+        "secondary": "#DCF0F9",
+        "label": "#020406"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "David Xu, executive producer de Wild Rift, prend le temps de faire une rétrospective du patch 6.0 et des enseignements que l'équipe en a tirés."
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "43ba7366-70f7-4487-a4cb-046df2974ac9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "mb7Uk2LkLbNIHQhDGfq4bb",
+      "publishDate": "2025-04-25T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 6.1 de Wild Rift",
     "publishedAt": "2025-04-16T09:00:00.000Z",
     "action": {
@@ -56,7 +117,7 @@
     "analytics": {
       "contentId": "e78be676-525a-407f-9739-3ee3ce86dbf3.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "liBwLfU12KkZimf6bZ4BFV",
+      "rev": "mb7Uk2LkLbNIHQhDGoI8Re",
       "publishDate": "2025-04-16T09:00:00.000Z"
     }
   },
@@ -246,67 +307,6 @@
     }
   },
   {
-    "title": "Tout ce qu'il faut savoir sur Double Nova",
-    "publishedAt": "2025-04-03T02:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/everything-you-need-to-know-about-dual-nova"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
-        "colors": {
-          "primary": "#2ed5ff",
-          "secondary": "#D6F5FF",
-          "label": "#0A0A0A"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 887,
-        "width": 1920,
-        "aspectRatio": 2.1645997745208567
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/84e6ac52ca518cde18488a57f2e9f03af000c9f4-1920x887.jpg",
-      "colors": {
-        "primary": "#17162C",
-        "secondary": "#F9DCE4",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Regardez vers le ciel et découvrez le nouveau thème et les étoiles qui arrivent dans le patch 6.1 de Wild Rift !"
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "c56e0065-a6de-4a71-861c-0323ad493811.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "votbv1mhlfMu1iwdgWawtI",
-      "publishDate": "2025-04-03T02:00:00.000Z"
-    }
-  },
-  {
     "title": "Patch 6.1 : mises à jour de gameplay",
     "publishedAt": "2025-04-03T02:00:00.000Z",
     "action": {
@@ -364,6 +364,67 @@
       "contentId": "95356077-5723-4633-9021-6d5456b1c8b0.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "votbv1mhlfMu1iwdgWakVx",
+      "publishDate": "2025-04-03T02:00:00.000Z"
+    }
+  },
+  {
+    "title": "Tout ce qu'il faut savoir sur Double Nova",
+    "publishedAt": "2025-04-03T02:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/everything-you-need-to-know-about-dual-nova"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
+        "colors": {
+          "primary": "#2ed5ff",
+          "secondary": "#D6F5FF",
+          "label": "#0A0A0A"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 887,
+        "width": 1920,
+        "aspectRatio": 2.1645997745208567
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/84e6ac52ca518cde18488a57f2e9f03af000c9f4-1920x887.jpg",
+      "colors": {
+        "primary": "#17162C",
+        "secondary": "#F9DCE4",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Regardez vers le ciel et découvrez le nouveau thème et les étoiles qui arrivent dans le patch 6.1 de Wild Rift !"
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "c56e0065-a6de-4a71-861c-0323ad493811.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "votbv1mhlfMu1iwdgWawtI",
       "publishDate": "2025-04-03T02:00:00.000Z"
     }
   },
@@ -2047,7 +2108,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "F0n5ujhF9C0",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 58,
         "url": "https://www.youtube.com/watch?v=F0n5ujhF9C0"
       }
     },
@@ -4584,69 +4645,6 @@
       "contentLocale": "fr-fr",
       "rev": "lESIXfhUM7GwGlQ32xeeCR",
       "publishDate": "2023-12-06T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "La guerrière solitaire",
-    "publishedAt": "2023-11-24T03:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "Yf4UET1ZYPw",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=Yf4UET1ZYPw"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
-        "colors": {
-          "primary": "#2ed5ff",
-          "secondary": "#D6F5FF",
-          "label": "#0A0A0A"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9a647e884d9f921fa32ee1f2b9302b407607a4a5-1920x1080.jpg",
-      "colors": {
-        "primary": "#482B24",
-        "secondary": "#F9E8DC",
-        "label": "#1D0B07"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Personne ne maîtrise le désert aussi bien que la Vierge martiale. Découvrez ses talents dans la Faille dès le 24 novembre."
-    },
-    "category": {
-      "title": "Annonces",
-      "machineName": "announcements"
-    },
-    "analytics": {
-      "contentId": "articles.blta9a6b8b1234346f7.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "Kb0dTVsXFm2RoZ9rpqIEtz",
-      "publishDate": "2023-11-24T03:00:00.000Z"
     }
   }
 ]
