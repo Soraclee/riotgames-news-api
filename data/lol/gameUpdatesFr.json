@@ -1,5 +1,68 @@
 [
   {
+    "title": "Retour de set : Mega Remix",
+    "publishedAt": "2025-04-28T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/revival-remix-rumble-updates/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bf11378b5feb27b03b472975c3215dec621f74cc-1920x1080.jpg",
+      "colors": {
+        "primary": "#996AB8",
+        "secondary": "#2B2933",
+        "label": "#281A31"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Optimisations, rencontres de début de partie et plus encore dans le retour de set : Mega Remix !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d0151aca-855c-4b51-9fe3-42b1cf1f5bb4.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "a6AbJDhZcUVIiP8usKzNTL",
+      "publishDate": "2025-04-28T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation d'arène : Rêve éveillé demacien de Lux",
     "publishedAt": "2025-04-17T13:00:00.000Z",
     "action": {
@@ -4683,70 +4746,6 @@
       "contentLocale": "fr-fr",
       "rev": "sEwq5NBiPauorOxrhfdKqr",
       "publishDate": "2024-11-09T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Bande-annonce du champion Ambessa",
-    "publishedAt": "2024-11-06T19:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "_fVEJtvOw8s",
-        "videoLengthInSeconds": 103,
-        "url": "https://www.youtube.com/watch?v=_fVEJtvOw8s"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/173ca56a2631ec9b57e4c02f2a1cf57fdd43b016-1920x1080.jpg",
-      "colors": {
-        "primary": "#261313",
-        "secondary": "#F9E3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Ne criez pas au loup... Devenez le loup."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "83b5d121-0c93-483a-82b6-a8769bc53b15.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "YN8truRCqnchJPC7V1WBAx",
-      "publishDate": "2024-11-06T19:00:00.000Z"
     }
   }
 ]
