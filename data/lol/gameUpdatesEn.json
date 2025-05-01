@@ -1,5 +1,69 @@
 [
   {
+    "title": "Act 1 Launch Trailer",
+    "publishedAt": "2025-04-30T18:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "wqS9f-1lvdU",
+        "videoLengthInSeconds": 90,
+        "url": "https://www.youtube.com/watch?v=wqS9f-1lvdU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5db785557e1a511e9cf21db134e1ca83b9f68adc-1280x720.jpg",
+      "colors": {
+        "primary": "#2A2549",
+        "secondary": "#F9DCF2",
+        "label": "#0B081E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The festival is upon us once more. Start your journey now into Spirit Blossom Beyond."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "b64401cb-f50e-4f6b-b6a3-fe7facd443d1.en-us",
+      "contentLocale": "en-us",
+      "rev": "YEeVJZ7CPuP4bbUKQrkOqY",
+      "publishDate": "2025-04-30T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Patch 25.09 Notes",
     "publishedAt": "2025-04-29T18:00:00.000Z",
     "action": {
@@ -4682,69 +4746,6 @@
       "contentLocale": "en-us",
       "rev": "1v7MRIpZS1A0E2ougUzWet",
       "publishDate": "2024-11-13T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "TFT Goes Into the Arcane",
-    "publishedAt": "2024-11-10T17:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/tft-goes-into-the-arcane"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/583bf9ff095fc9725fd2652cd92ad524f11fc70e-1920x1080.jpg",
-      "colors": {
-        "primary": "#3A2243",
-        "secondary": "#F9DCEC",
-        "label": "#130617"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Check out how Teamfight Tactics lets you relive, rewrite, and replay the events of Arcane."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "54cf66c6-b0b9-4be0-82cc-82022c4b455c.en-us",
-      "contentLocale": "en-us",
-      "rev": "CgMgZ8HI74LYPfWsMgZW2X",
-      "publishDate": "2024-11-10T17:00:00.000Z"
     }
   }
 ]

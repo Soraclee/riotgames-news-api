@@ -1,5 +1,67 @@
 [
   {
+    "title": "Bande-annonce de l'acte III",
+    "publishedAt": "2025-04-30T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=j8q5ulEo5Vo"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/52a969ba9bfc59478530177cd848ef6d6ab45e31-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cca62b2e455a4af408090a83907ff7b085725b58-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8521E",
+        "secondary": "#333029",
+        "label": "#1A120E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La sortie de l'acte III marque le début des célébrations pour les cinq ans de VALORANT."
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "e3159274-a9fb-4b6a-9ee1-f77a9dea6aa7.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "YEeVJZ7CPuP4bbUKQrOQOI",
+      "publishDate": "2025-04-30T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 10.08 de VALORANT",
     "publishedAt": "2025-04-29T13:00:00.000Z",
     "action": {
@@ -4535,68 +4597,6 @@
       "contentLocale": "fr-fr",
       "rev": "jEln45CgOQD4spzxfGzb11",
       "publishDate": "2023-09-06T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "VOUS. ÊTES. ARRIVÉS. // Lancement de l'épisode 7, acte II - VALORANT",
-    "publishedAt": "2023-08-29T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=2w7uD0gtza8"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/52a969ba9bfc59478530177cd848ef6d6ab45e31-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/661e015fa244d51844ec7cb3239b65f54c8e454a-1920x1080.jpg",
-      "colors": {
-        "primary": "#B89175",
-        "secondary": "#33292C",
-        "label": "#72543D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Explorez Sunset, passez des Champions à Premier et procurez-vous Impérial et le passe de combat de l'acte II."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltb4452d50f47a703c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaEHy75",
-      "publishDate": "2023-08-29T15:00:00.000Z"
     }
   }
 ]

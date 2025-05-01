@@ -1,5 +1,69 @@
 [
   {
+    "title": "Bande-annonce de lancement de l'acte 1",
+    "publishedAt": "2025-04-30T18:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "LnDNJqZHZlE",
+        "videoLengthInSeconds": 90,
+        "url": "https://www.youtube.com/watch?v=LnDNJqZHZlE"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5db785557e1a511e9cf21db134e1ca83b9f68adc-1280x720.jpg",
+      "colors": {
+        "primary": "#2A2549",
+        "secondary": "#F9DCF2",
+        "label": "#0B081E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le festival est de retour. Commencez votre voyage dans Fleur spirituelle : Au-delà."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "b64401cb-f50e-4f6b-b6a3-fe7facd443d1.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "YEeVJZ7CPuP4bbUKQrkBqc",
+      "publishDate": "2025-04-30T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 25.09",
     "publishedAt": "2025-04-29T18:00:00.000Z",
     "action": {
@@ -47,7 +111,7 @@
     },
     "description": {
       "type": "html",
-      "body": "Les légendes prennent vie dans le patch 25.09"
+      "body": "Sautez dans l'action, bienvenue à la saison 2 !"
     },
     "category": {
       "title": "Actualités",
@@ -57,7 +121,7 @@
     "analytics": {
       "contentId": "238e4827-5576-40b8-be43-bd3342d2de9b.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "YEeVJZ7CPuP4bbUKQmNinK",
+      "rev": "xCAQSJhF97p2wotMQL3vcX",
       "publishDate": "2025-04-29T18:00:00.000Z"
     }
   },
@@ -1201,68 +1265,6 @@
     }
   },
   {
-    "title": "Notes de patch 25.06",
-    "publishedAt": "2025-03-18T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-06-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/44146f88d45d9556fca43aaa72993a9a22349f82-1920x1080.jpg",
-      "colors": {
-        "primary": "#4A254A",
-        "secondary": "#F9DDDC",
-        "label": "#200820"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "PATCH 25.06 DÉTECTÉ ! À LIRE POUR PLUS DE DÉTAILS !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "861a530f-ad9e-42f3-8b64-a9e78c63a6b5.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "DgoKVhO4vj9NHi8b0DOXeK",
-      "publishDate": "2025-03-18T18:00:00.000Z"
-    }
-  },
-  {
     "title": "Notes de patch 13.8 de Teamfight Tactics (2025)",
     "publishedAt": "2025-03-18T18:00:00.000Z",
     "action": {
@@ -1322,6 +1324,68 @@
       "contentId": "8128f915-377c-40d1-b1c4-efb14586483c.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "2CBQQwFWRlx9tTg4TJrs5Y",
+      "publishDate": "2025-03-18T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.06",
+    "publishedAt": "2025-03-18T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-06-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/44146f88d45d9556fca43aaa72993a9a22349f82-1920x1080.jpg",
+      "colors": {
+        "primary": "#4A254A",
+        "secondary": "#F9DDDC",
+        "label": "#200820"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "PATCH 25.06 DÉTECTÉ ! À LIRE POUR PLUS DE DÉTAILS !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "861a530f-ad9e-42f3-8b64-a9e78c63a6b5.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "DgoKVhO4vj9NHi8b0DOXeK",
       "publishDate": "2025-03-18T18:00:00.000Z"
     }
   },
@@ -2465,68 +2529,6 @@
     }
   },
   {
-    "title": "Notes de patch 25.S1.2",
-    "publishedAt": "2025-01-22T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-s1-2-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/af7173f343e6f253fb19efaf7f30ae8c095021ca-1920x1080.jpg",
-      "colors": {
-        "primary": "#0F1E1E",
-        "secondary": "#D6FFE6",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Prosternez-vous devant le patch 25.S1.2 ! 👑"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "096fc010-0e93-43db-9776-ec7ae9dc9773.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "K4nrWcFKPwBYuiR3kJ9ieq",
-      "publishDate": "2025-01-22T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Notes de patch 13.4 de Teamfight Tactics (2025)",
     "publishedAt": "2025-01-22T19:00:00.000Z",
     "action": {
@@ -2586,6 +2588,68 @@
       "contentId": "7dbe5d97-93ea-4b2d-a2aa-7ab137f032a0.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "pjc0gZ7zw0jnhEKOMp2Ym0",
+      "publishDate": "2025-01-22T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.S1.2",
+    "publishedAt": "2025-01-22T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-s1-2-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/af7173f343e6f253fb19efaf7f30ae8c095021ca-1920x1080.jpg",
+      "colors": {
+        "primary": "#0F1E1E",
+        "secondary": "#D6FFE6",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Prosternez-vous devant le patch 25.S1.2 ! 👑"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "096fc010-0e93-43db-9776-ec7ae9dc9773.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "K4nrWcFKPwBYuiR3kJ9ieq",
       "publishDate": "2025-01-22T19:00:00.000Z"
     }
   },
@@ -3035,68 +3099,6 @@
     }
   },
   {
-    "title": "Notes de patch 25.S1.1",
-    "publishedAt": "2025-01-07T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-s1-1-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7b02ecb258c88555b1be863f693f4fa8e985e48-1920x1080.jpg",
-      "colors": {
-        "primary": "#1C0E13",
-        "secondary": "#F7FFD6",
-        "label": "#030303"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Bienvenue à Noxus et saison 1 !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "5dde154c-a74d-47ac-b050-9a1d1dbc4842.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "V37xxuv44z9nRlMZdSTihv",
-      "publishDate": "2025-01-07T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Notes de patch 13.3 de Teamfight Tactics (2025)",
     "publishedAt": "2025-01-07T19:00:00.000Z",
     "action": {
@@ -3156,6 +3158,68 @@
       "contentId": "17b78eba-0185-4530-ab60-949386fcb0df.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "AJJDAXmVTF2HnAYqO51jc6",
+      "publishDate": "2025-01-07T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.S1.1",
+    "publishedAt": "2025-01-07T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-s1-1-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7b02ecb258c88555b1be863f693f4fa8e985e48-1920x1080.jpg",
+      "colors": {
+        "primary": "#1C0E13",
+        "secondary": "#F7FFD6",
+        "label": "#030303"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Bienvenue à Noxus et saison 1 !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "5dde154c-a74d-47ac-b050-9a1d1dbc4842.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "V37xxuv44z9nRlMZdSTihv",
       "publishDate": "2025-01-07T19:00:00.000Z"
     }
   },
@@ -3480,68 +3544,6 @@
     }
   },
   {
-    "title": "Notes de patch 14.24",
-    "publishedAt": "2024-12-10T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-14-24-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/30080737458f886f93ebcbbf27c468c455c1234f-1920x1080.jpg",
-      "colors": {
-        "primary": "#1E1427",
-        "secondary": "#F9DCF6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Nous replongeons une dernière fois dans Arcane, bienvenue dans les notes du patch 14.24 !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "c6edb0a4-a3f4-489c-98b3-d6c775d3ce13.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "Qw0TwPQaQ8aBM3BSTHRPvx",
-      "publishDate": "2024-12-10T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Notes de patch 14.24 de Teamfight Tactics",
     "publishedAt": "2024-12-10T19:00:00.000Z",
     "action": {
@@ -3601,6 +3603,68 @@
       "contentId": "dabf61f8-21ff-410b-940c-c199484dc381.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "CsJhS699U5wscrFy7YJukh",
+      "publishDate": "2024-12-10T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 14.24",
+    "publishedAt": "2024-12-10T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-14-24-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/30080737458f886f93ebcbbf27c468c455c1234f-1920x1080.jpg",
+      "colors": {
+        "primary": "#1E1427",
+        "secondary": "#F9DCF6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Nous replongeons une dernière fois dans Arcane, bienvenue dans les notes du patch 14.24 !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "c6edb0a4-a3f4-489c-98b3-d6c775d3ce13.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Qw0TwPQaQ8aBM3BSTHRPvx",
       "publishDate": "2024-12-10T19:00:00.000Z"
     }
   },
@@ -4180,6 +4244,68 @@
     }
   },
   {
+    "title": "Notes de patch 14.23",
+    "publishedAt": "2024-11-19T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-14-23-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/75344351cdde5859cadca68708367c22b3392946-1920x1080.jpg",
+      "colors": {
+        "primary": "#121725",
+        "secondary": "#DCEBF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La frénésie Arcane continue avec le patch 14.23 !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "f714faad-33c8-4adc-829b-5ffaf9334825.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "sEwq5NBiPauorOxrhkQBr3",
+      "publishDate": "2024-11-19T19:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 14.23 de Teamfight Tactics",
     "publishedAt": "2024-11-19T19:00:00.000Z",
     "action": {
@@ -4239,68 +4365,6 @@
       "contentId": "8fa1edf5-2f55-4a7b-8fc5-e99444b88637.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "h4ancfFTuSnQNBSq3KOMYm",
-      "publishDate": "2024-11-19T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 14.23",
-    "publishedAt": "2024-11-19T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-14-23-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/75344351cdde5859cadca68708367c22b3392946-1920x1080.jpg",
-      "colors": {
-        "primary": "#121725",
-        "secondary": "#DCEBF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La frénésie Arcane continue avec le patch 14.23 !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "f714faad-33c8-4adc-829b-5ffaf9334825.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "sEwq5NBiPauorOxrhkQBr3",
       "publishDate": "2024-11-19T19:00:00.000Z"
     }
   },
@@ -4683,69 +4747,6 @@
       "contentLocale": "fr-fr",
       "rev": "M9ubGcWQE0MDDhKJQpSlDI",
       "publishDate": "2024-11-12T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "TFT entre dans Into the Arcane",
-    "publishedAt": "2024-11-10T17:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/tft-goes-into-the-arcane"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/583bf9ff095fc9725fd2652cd92ad524f11fc70e-1920x1080.jpg",
-      "colors": {
-        "primary": "#3A2243",
-        "secondary": "#F9DCEC",
-        "label": "#130617"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Teamfight Tactics va vous permettre de revivre, réécrire et rejouer les événements d'Arcane."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "54cf66c6-b0b9-4be0-82cc-82022c4b455c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "CgMgZ8HI74LYPfWsMgZO9p",
-      "publishDate": "2024-11-10T17:00:00.000Z"
     }
   }
 ]
