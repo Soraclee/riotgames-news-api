@@ -1,5 +1,69 @@
 [
   {
+    "title": "Présentation de Tristana dragonnière chibi",
+    "publishedAt": "2025-05-01T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "drlIs1LBf7Q",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=drlIs1LBf7Q"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cfa20b66c5915ca092583e4944d126a303f4701d-1920x1080.jpg",
+      "colors": {
+        "primary": "#433822",
+        "secondary": "#F9F7DC",
+        "label": "#171206"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Riggle s'enflamme parfois un peu. Heureusement, ça ne dérange pas Tristana !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "2abde5e6-4c87-4a50-a7be-c2168de1fdfd.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "1OHV7GMsUZDY4IFuSW3XS3",
+      "publishDate": "2025-05-01T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 14.3 Teamfight Tactics (2025)",
     "publishedAt": "2025-04-29T18:00:00.000Z",
     "action": {
@@ -4667,70 +4731,6 @@
       "contentLocale": "fr-fr",
       "rev": "0h6e4MYEG0xbOjLBGGswKo",
       "publishDate": "2024-11-28T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Cinématique de lancement Into the Arcane, partie 2",
-    "publishedAt": "2024-11-25T14:05:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "0fDyNYAUaCk",
-        "videoLengthInSeconds": 109,
-        "url": "https://www.youtube.com/watch?v=0fDyNYAUaCk"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/40263231a9508de0f27f8d5ab6a92e5b2c64e09a-1920x1080.jpg",
-      "colors": {
-        "primary": "#55332B",
-        "secondary": "#F9E7DC",
-        "label": "#2D120B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez la deuxième partie des Relances de la Nuit dès maintenant"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "1130dd35-d668-4b42-8a14-451ba5345e8b.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "sZ6EyOfhN45Bkk0uy2I1t4",
-      "publishDate": "2024-11-25T14:05:00.000Z"
     }
   }
 ]
