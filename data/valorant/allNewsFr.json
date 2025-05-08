@@ -120,6 +120,66 @@
     }
   },
   {
+    "title": "Anniversaire des 5 ans de VALORANT",
+    "publishedAt": "2025-04-29T13:30:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=hDSMftj9MV4"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/52a969ba9bfc59478530177cd848ef6d6ab45e31-24x24.svg",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0a5a04311d3566c4fe19fadb7b03f3c82bf0facd-1920x1080.jpg",
+      "colors": {
+        "primary": "#221411",
+        "secondary": "#FFE9D6",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Anna Donlon revient sur les 5 ans d'aventure VALORANT et vous invite à les célébrer ensemble."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "23d262d9-d985-4cc3-8c2b-ef3078e8a52e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Sgo6CYc9pQmmYQICPFvtho",
+      "publishDate": "2025-04-29T13:30:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 10.08 de VALORANT",
     "publishedAt": "2025-04-29T13:00:00.000Z",
     "action": {
@@ -4341,65 +4401,6 @@
       "contentLocale": "fr-fr",
       "rev": "8q08tYxGNL2qfrtMKOaDxt",
       "publishDate": "2024-08-28T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 9.04 de VALORANT",
-    "publishedAt": "2024-08-27T13:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/valorant-patch-notes-9-04"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/52a969ba9bfc59478530177cd848ef6d6ab45e31-24x24.svg",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/60cfa90e4a5195c27e50c00fb8aeb017c6855c8e-1920x1080.jpg",
-      "colors": {
-        "primary": "#0A0912",
-        "secondary": "#E2D6FF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Arrivée de Vyse, notre nouvelle sentinelle, et ajout de Split en Non classé et Vélocité sur console."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "6057f820-d704-414c-824e-8adac527c4b5",
-      "contentLocale": "fr-fr",
-      "rev": "Rx1Nho763d29lawKrUl927",
-      "publishDate": "2024-08-27T13:00:00.000Z"
     }
   }
 ]
