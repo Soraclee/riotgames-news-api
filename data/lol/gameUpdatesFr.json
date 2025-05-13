@@ -1,5 +1,68 @@
 [
   {
+    "title": "Classement des cosmétiques",
+    "publishedAt": "2025-05-12T14:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/simplifying-cosmetics-tiering/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c061827b4bb3e1c51d32013125b646b0533afe9c-1920x1080.jpg",
+      "colors": {
+        "primary": "#20203F",
+        "secondary": "#DCF9E4",
+        "label": "#050512"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Dans le patch 14.5 de TFT, nous allons simplifier les paliers de cosmétiques et améliorer l'interface utilisateur."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "345c65bc-4fa3-47f4-8f08-e406e3aa19cf.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "M7PerS1HIJzKe3COCNiQJ3",
+      "publishDate": "2025-05-12T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation de Tristana dragonnière chibi",
     "publishedAt": "2025-05-01T13:00:00.000Z",
     "action": {
@@ -4684,69 +4747,6 @@
       "contentLocale": "fr-fr",
       "rev": "wPAP0KLLUYMrNcRuI9o4TO",
       "publishDate": "2024-11-14T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Aperçu du set Into the Arcane",
-    "publishedAt": "2024-11-13T17:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/into-the-arcane-overview/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/b9cd574bddb9469fdf95f753ddf0c6b13501a247-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/321f5cbc15677d90b0eef97208b3caa332cb2e80-1920x1080.jpg",
-      "colors": {
-        "primary": "#3A2243",
-        "secondary": "#F9DCEC",
-        "label": "#130617"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Plongez dans Into the Arcane avec des unités et des types Arcane exclusifs à TFT !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "8cef5a14-84b7-4d3a-a31c-ffbb0030d4f2.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "T130WEs22RB6SoEkO1wEdA",
-      "publishDate": "2024-11-13T17:00:00.000Z"
     }
   }
 ]
