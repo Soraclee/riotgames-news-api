@@ -1,5 +1,67 @@
 [
   {
+    "title": "Annonce de la Tactician's Crown Cyber City",
+    "publishedAt": "2025-05-22T14:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/esports/cyber-city-tacticians-crown-announcement"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/eff2398c220ab9007ac78f2e972543016fbb1460-1920x1080.jpg",
+      "colors": {
+        "primary": "#08110D",
+        "secondary": "#F9FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Plus de détails sur les dates, le format, la cagnotte de l'événement et plus encore."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "d849312d-d807-4707-95e8-7f1d08835606.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "gI25T5FDnG6SZ54jDPZNhF",
+      "publishDate": "2025-05-22T14:00:00.000Z"
+    }
+  },
+  {
     "title": "EMEA Tactician’s Cup II [Cyber City] - Guide du spectateur",
     "publishedAt": "2025-05-19T15:30:00.000Z",
     "action": {
@@ -4662,70 +4724,6 @@
       "contentLocale": "fr-fr",
       "rev": "YU4kCQh9dJYVB9mWo9fyS8",
       "publishDate": "2024-12-11T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "TFT Macao Open | Explication du format",
-    "publishedAt": "2024-12-10T19:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "E9eDIywdCEE",
-        "videoLengthInSeconds": 174,
-        "url": "https://www.youtube.com/watch?v=E9eDIywdCEE"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7794adc6d50c4e922168870bb5de79acba7dced3-1920x1080.jpg",
-      "colors": {
-        "primary": "#1C1021",
-        "secondary": "#F9DCF0",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Voici le déroulement des hostilités du 13 au 15 déc. lors du TFT Macao Open."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "aac69320-0e91-4451-ad87-e7eda079fd14.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "kK4y2oIfEZ0KFwn97WUSF6",
-      "publishDate": "2024-12-10T19:00:00.000Z"
     }
   }
 ]

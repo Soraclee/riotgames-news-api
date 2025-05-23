@@ -1,5 +1,68 @@
 [
   {
+    "title": "Annonce de la Tactician's Crown Cyber City",
+    "publishedAt": "2025-05-22T14:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/esports/cyber-city-tacticians-crown-announcement/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cd72e81ba25edfdfe2c881f81ed9b36ceeb23e9b-1920x1080.jpg",
+      "colors": {
+        "primary": "#08100C",
+        "secondary": "#F9FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Plus de détails sur les dates, le format, la cagnotte de l'événement et plus encore."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "dfe1b6cb-30cd-4c91-aef6-0596ebbc5d3a.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "gI25T5FDnG6SZ54jDPZBce",
+      "publishDate": "2025-05-22T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Hall of Legends : Uzi | Bande-annonce",
     "publishedAt": "2025-05-20T01:05:00.000Z",
     "action": {
@@ -4625,70 +4688,6 @@
       "contentLocale": "fr-fr",
       "rev": "tG8aRZvgYHVPamBbJHKM97",
       "publishDate": "2024-02-26T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Kia Mic Check | LEC Winter Finals",
-    "publishedAt": "2024-02-21T17:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "UEvVio58S8w",
-        "videoLengthInSeconds": 422,
-        "url": "https://www.youtube.com/watch?v=UEvVio58S8w"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ce33d50e56dfcc61fc1ef7bf342341e97f3626c8-1920x1080.jpg",
-      "colors": {
-        "primary": "#040306",
-        "secondary": "#D6FFF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Check out all the best comms from Finals of the #LEC Winter in this week's episode of Mic Check!"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltbc4ac039da504d76.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHKM97",
-      "publishDate": "2024-02-21T17:00:00.000Z"
     }
   }
 ]
