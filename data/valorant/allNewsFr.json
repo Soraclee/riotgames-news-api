@@ -1,5 +1,64 @@
 [
   {
+    "title": "Salle et billets pour les Champions Paris",
+    "publishedAt": "2025-05-23T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/fr-fr/news/champions-paris-venue-ticket-announcement"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a7fbdee2c56aacc352c0db259fa7d2dc0f1116d4-1920x1080.jpg",
+      "colors": {
+        "primary": "#B88258",
+        "secondary": "#332B29",
+        "label": "#2D2118"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Soyez prêts pour le grand final de la saison 2025 du VCT !"
+    },
+    "category": {
+      "title": "E-sport",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "8af27449-359e-4c78-8760-9d345f61796a.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "v7JTi0Engae91qqMv5COEt",
+      "publishDate": "2025-05-23T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Vos histoires VALORANT – Au carrefour du jeu et de la vie",
     "publishedAt": "2025-05-23T00:00:00.000Z",
     "action": {
@@ -4344,65 +4403,6 @@
       "contentLocale": "fr-fr",
       "rev": "jvX45fVrMTONcXvY1jQkoc",
       "publishDate": "2024-09-24T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Vanguard x VALORANT",
-    "publishedAt": "2024-09-20T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/vanguard-x-valorant"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/755cad32023fc3a6cc4e55d6a084ba803a561772-1920x1080.jpg",
-      "colors": {
-        "primary": "#3E1F2D",
-        "secondary": "#F9DCE2",
-        "label": "#11040A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "L'anti-triche continue d'évoluer avec les tricheurs."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "c9696bf6-8787-45de-ba08-c35848a94181.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "dRenvgbRIku6htF3JITv8Z",
-      "publishDate": "2024-09-20T16:00:00.000Z"
     }
   }
 ]

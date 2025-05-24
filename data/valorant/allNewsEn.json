@@ -1,5 +1,64 @@
 [
   {
+    "title": "Champions Paris Venue & Ticket Announcement",
+    "publishedAt": "2025-05-23T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/en-us/news/champions-paris-venue-ticket-announcement"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a7fbdee2c56aacc352c0db259fa7d2dc0f1116d4-1920x1080.jpg",
+      "colors": {
+        "primary": "#B88258",
+        "secondary": "#332B29",
+        "label": "#2D2118"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Get Ready for the Finale of the 2025 VCT Season!"
+    },
+    "category": {
+      "title": "Esports",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "8af27449-359e-4c78-8760-9d345f61796a.en-us",
+      "contentLocale": "en-us",
+      "rev": "v7JTi0Engae91qqMv5DBb1",
+      "publishDate": "2025-05-23T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Your VALORANT Stories – Where Game Meets Life",
     "publishedAt": "2025-05-23T00:00:00.000Z",
     "action": {
@@ -4342,65 +4401,6 @@
       "contentLocale": "en-us",
       "rev": "Ud5WTDnszW9rcVYh0rGGaA",
       "publishDate": "2024-11-19T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "VALORANT Patch Notes 9.10",
-    "publishedAt": "2024-11-19T14:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/valorant-patch-notes-9-10"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/4a295128976e386e9e53ade3744106220d34c7cc-1920x1080.jpg",
-      "colors": {
-        "primary": "#261314",
-        "secondary": "#FFE2D6",
-        "label": "#0A0A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Updates to Sentinels, Controllers, and Phoenix, the addition of a Regen Shield, changes to gameplay systems, and much much more."
-    },
-    "category": {
-      "title": "Game Updates",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "4696e26b-9ca8-438c-95f8-1b1690c911b2.en-us",
-      "contentLocale": "en-us",
-      "rev": "MBEnA07qAFzHqjXn9sxPGt",
-      "publishDate": "2024-11-19T14:00:00.000Z"
     }
   }
 ]
