@@ -1,5 +1,65 @@
 [
   {
+    "title": "Vos histoires VALORANT – Et Passion",
+    "publishedAt": "2025-05-26T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=QnNw9hVa5wk"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/74ca1caf4657bf5eed825229164d95c5835e8d79-1920x1080.jpg",
+      "colors": {
+        "primary": "#0C0810",
+        "secondary": "#DFD6FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'histoire de Billy Yin prouve qu'être assez déterminé peut ouvrir bien des portes dans la vie."
+    },
+    "category": {
+      "title": "Communauté",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "f9f90e6a-8d77-499c-896b-c9428ddedada.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "bqXOZkPyb0PIHygwhUXthK",
+      "publishDate": "2025-05-26T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Salle et billets pour les Champions Paris",
     "publishedAt": "2025-05-23T15:00:00.000Z",
     "action": {
@@ -4344,65 +4404,6 @@
       "contentLocale": "fr-fr",
       "rev": "aUZ7RLz26hS2cUekFerCzp",
       "publishDate": "2024-09-30T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 9.06 de VALORANT",
-    "publishedAt": "2024-09-24T13:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/valorant-patch-notes-906"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/04d7b357965fa7c74a181461e58df0e0621cac44-1920x1080.jpg",
-      "colors": {
-        "primary": "#17100B",
-        "secondary": "#FFF5D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Comportement des joueurs, systèmes de jeu, astuces pour débutants et plus encore."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "6ecdaa2f-7fe7-4acf-b801-97baec29eaff.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "jvX45fVrMTONcXvY1jQkoc",
-      "publishDate": "2024-09-24T13:00:00.000Z"
     }
   }
 ]
