@@ -1,5 +1,67 @@
 [
   {
+    "title": "Fonctionnalité « Communauté Pride »",
+    "publishedAt": "2025-05-28T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/community/pride-community-feature"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d09a5c90cf95b26d75214af58754174c5e93f8fe-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8998C",
+        "secondary": "#33292F",
+        "label": "#412D23"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez les incroyables créateur·ices qui rendent League brillant, audacieux et passionnant."
+    },
+    "category": {
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "7250895d-c6a6-4c4d-a2aa-abfb375291fb.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "5VxjGDOERyoKmScQXHYYGV",
+      "publishDate": "2025-05-28T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Célébration de la Pride 2025 dans League et TFT",
     "publishedAt": "2025-05-13T16:00:00.000Z",
     "action": {
@@ -4642,69 +4704,6 @@
       "contentLocale": "fr-fr",
       "rev": "qZXvkjig7TQff0ZQAF41ha",
       "publishDate": "2021-10-04T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Fragments de skin mystère avec Prime : 23 sept. - 27 oct.",
-    "publishedAt": "2021-09-23T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://gaming.amazon.com/loot/lol9?ref_=SM_LOLS9_P26_IGP"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/933e0787e376a81642fc0d98e9f21e5714b5dc68-1920x1080.jpg",
-      "colors": {
-        "primary": "#0D1A1A",
-        "secondary": "#FFEFD6",
-        "label": "#010101"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Fragments de skin mystère avec Prime"
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "articles.blt2065c8239114f1ac.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "5oZd24h28sxsR5vy6hYkvq",
-      "publishDate": "2021-09-23T16:00:00.000Z"
     }
   }
 ]

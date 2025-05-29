@@ -1,5 +1,65 @@
 [
   {
+    "title": "Vos histoires VALORANT – Passe la manette",
+    "publishedAt": "2025-05-28T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=S0-KGSNbLW0"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7b4cc13cd0f1d588f291cdf540b2a62f16c81896-1920x1080.jpg",
+      "colors": {
+        "primary": "#201110",
+        "secondary": "#DCE4F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Pour Lig, la motivation de réussir est venue du fauteuil d'en face."
+    },
+    "category": {
+      "title": "Communauté",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "ca96ec48-6555-49a7-8cb4-5c3fc28824c2.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "t4q1VYg678u99SFmP09VBh",
+      "publishDate": "2025-05-28T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Vos histoires VALORANT - Ascension vers le sommet",
     "publishedAt": "2025-05-27T23:00:00.000Z",
     "action": {
@@ -55,7 +115,7 @@
     "analytics": {
       "contentId": "5fe0b5c0-aae6-460b-98e2-422fa58dc298.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tdMbenkpDyXWNl15epv0oi",
+      "rev": "t4q1VYg678u99SFmOzvdJ7",
       "publishDate": "2025-05-27T23:00:00.000Z"
     }
   },
@@ -590,7 +650,7 @@
     "analytics": {
       "contentId": "6bcd1d06-839c-4088-9811-f747750b2b9c.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tdMbenkpDyXWNl15epuxCO",
+      "rev": "B4aEObdtlh2bGcpIEFjHt8",
       "publishDate": "2025-05-12T14:00:00.000Z"
     }
   },
@@ -4350,65 +4410,6 @@
       "contentLocale": "fr-fr",
       "rev": "exgZYl4YMpSEzTrzwwoP6W",
       "publishDate": "2024-10-10T12:01:46Z"
-    }
-  },
-  {
-    "title": "Récap' de la communauté : septembre 2024",
-    "publishedAt": "2024-10-09T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/community/community-roundup-september-2024"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/22a13f86e5c36d75c35bc3ead1f6337df798f0b4-1920x1080.jpg",
-      "colors": {
-        "primary": "#5A472D",
-        "secondary": "#F9F6DC",
-        "label": "#33230D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Sova reçoit une peluche chouette, Killjoy est un oiseau et Omen incarné dans un cosplay en chair et en os."
-    },
-    "category": {
-      "title": "Communauté",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "f756ea0c-4437-48d5-b890-68cddd3a023a.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "exgZYl4YMpSEzTrzwndtJw",
-      "publishDate": "2024-10-09T15:00:00.000Z"
     }
   }
 ]
