@@ -1,5 +1,69 @@
 [
   {
+    "title": "Présentation de Kayle aux ailes éthérées chibi",
+    "publishedAt": "2025-05-30T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "otdzK651ljc",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=otdzK651ljc"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/866609bc03515ea02073dcd4b902830c3cf4d978-1920x1080.jpg",
+      "colors": {
+        "primary": "#2C2816",
+        "secondary": "#E0DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La Convergence est sous sa juridiction. Kayle aux ailes éthérées chibi est opérationnelle dans TFT."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "767fef78-055a-4746-ab99-fcc97e7c4ac5.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "qKVobQIv2cxCxC7eJv7gye",
+      "publishDate": "2025-05-30T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Briar chibi et Briar cosplay Pasquale chibi",
     "publishedAt": "2025-05-29T13:00:00.000Z",
     "action": {
@@ -507,68 +571,6 @@
     }
   },
   {
-    "title": "Notes de patch 25.10",
-    "publishedAt": "2025-05-13T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-10-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 4130,
-        "width": 7000,
-        "aspectRatio": 1.694915254237288
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/954391900c9f1c18d335a39dff173594fe850728-7000x4130.jpg",
-      "colors": {
-        "primary": "#322F5E",
-        "secondary": "#E3DCF9",
-        "label": "#110E38"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le destin du patch 25.10 est écrit dans les étoiles ✨"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "2bee000a-5ad8-473f-a975-e0ca8d693417.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "2PhjpEhvG0DjozDJZf10u1",
-      "publishDate": "2025-05-13T18:00:00.000Z"
-    }
-  },
-  {
     "title": "Notes de patch 14.4 Teamfight Tactics (2025)",
     "publishedAt": "2025-05-13T18:00:00.000Z",
     "action": {
@@ -628,6 +630,68 @@
       "contentId": "26a51de4-d03c-45fb-af3d-a63e560ef803.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "2PhjpEhvG0DjozDJZf1k0r",
+      "publishDate": "2025-05-13T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.10",
+    "publishedAt": "2025-05-13T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-10-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 4130,
+        "width": 7000,
+        "aspectRatio": 1.694915254237288
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/954391900c9f1c18d335a39dff173594fe850728-7000x4130.jpg",
+      "colors": {
+        "primary": "#322F5E",
+        "secondary": "#E3DCF9",
+        "label": "#110E38"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le destin du patch 25.10 est écrit dans les étoiles ✨"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "2bee000a-5ad8-473f-a975-e0ca8d693417.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "2PhjpEhvG0DjozDJZf10u1",
       "publishDate": "2025-05-13T18:00:00.000Z"
     }
   },
@@ -4680,70 +4744,6 @@
       "contentLocale": "fr-fr",
       "rev": "MBEnA07qAFzHqjXn6s6N4A",
       "publishDate": "2024-11-29T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Annie superfan d'Arcane chibi prestige",
-    "publishedAt": "2024-11-28T14:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "bY_pGpFuo90",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=bY_pGpFuo90"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5a6b63238a083424a6b27b9d14e935b8df8f3116-1920x1080.jpg",
-      "colors": {
-        "primary": "#B89A57",
-        "secondary": "#33292E",
-        "label": "#231E13"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Elle voit la vie en bleu ! Annie superfan d'Arcane chibi prestige arrive dans TFT."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "1a123df1-a90d-4cc9-9826-1f1a826fcb8c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "0h6e4MYEG0xbOjLBGGt9hS",
-      "publishDate": "2024-11-28T14:00:00.000Z"
     }
   }
 ]

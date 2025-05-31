@@ -1,5 +1,64 @@
 [
   {
+    "title": "Regardez pour gagner : Masters Toronto",
+    "publishedAt": "2025-05-30T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/fr-fr/news/watch-and-earn-masters-toronto"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/00a7537a5a1fe226baa8726293c6849883e92cbd-1920x1080.jpg",
+      "colors": {
+        "primary": "#7556B8",
+        "secondary": "#292A33",
+        "label": "#2A213D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Suivez les matchs en direct et gagnez des drops exclusifs !"
+    },
+    "category": {
+      "title": "E-sport",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "ad16bfcf-b26b-4b98-82ed-3ce0eec84c40.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "v6lQ8FkCz75nF0QUIVpzz2",
+      "publishDate": "2025-05-30T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Masters Toronto : Informations à connaître avant d'arriver",
     "publishedAt": "2025-05-29T15:00:00.000Z",
     "action": {
@@ -2025,66 +2084,6 @@
     }
   },
   {
-    "title": "Capsules d'équipes du VCT 2024 // Bande-annonce de présentation",
-    "publishedAt": "2024-02-21T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=PQ8laFnssvo"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/16f919ee23b9002c4db514c8718f67d1fdd349f5-1920x1080.jpg",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#D6E3FF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "C'est le moment de représenter votre équipe favorite en jeu ! \n\nAvec les nouvelles capsules d'équipes imaginées en partenariat avec les équipes du VCT 2024, arborez fièrement vos couleurs avec le porte-bonheur, le graffiti, la carte de joueur et le skin de Classic."
-    },
-    "category": {
-      "title": "E-sport",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltb3ba903ca1d94651.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaEHy75",
-      "publishDate": "2024-02-21T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Présentation des capsules autour des équipes du VCT 2024.",
     "publishedAt": "2024-02-21T15:00:00.000Z",
     "action": {
@@ -2141,6 +2140,66 @@
       "contentId": "articles.bltb69df328233b619b.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tG8aRZvgYHVPamBbJEbwZx",
+      "publishDate": "2024-02-21T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Capsules d'équipes du VCT 2024 // Bande-annonce de présentation",
+    "publishedAt": "2024-02-21T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=PQ8laFnssvo"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/16f919ee23b9002c4db514c8718f67d1fdd349f5-1920x1080.jpg",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#D6E3FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "C'est le moment de représenter votre équipe favorite en jeu ! \n\nAvec les nouvelles capsules d'équipes imaginées en partenariat avec les équipes du VCT 2024, arborez fièrement vos couleurs avec le porte-bonheur, le graffiti, la carte de joueur et le skin de Classic."
+    },
+    "category": {
+      "title": "E-sport",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.bltb3ba903ca1d94651.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "RIpKXTkqwHOEY4MEaEHy75",
       "publishDate": "2024-02-21T15:00:00.000Z"
     }
   },
@@ -4422,66 +4481,6 @@
       "contentLocale": "fr-fr",
       "rev": "wqQE3hWIWpUAV3VUi2QK7y",
       "publishDate": "2023-02-01T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "LIGNE DE PRODUITS DU VCT23 LOCK//IN",
-    "publishedAt": "2023-01-30T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://valorantesports.com/news/vct-lock-in-merch-collection/"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/eedd9a0fdbbc34a3a105f64da3efcd2787683d44-1920x1080.jpg",
-      "colors": {
-        "primary": "#543A2A",
-        "secondary": "#F7F9DC",
-        "label": "#2C170B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Fêtez le lancement de la saison 2023 du VCT avec cette collection de produits dérivés du LOCK//IN en édition limitée"
-    },
-    "category": {
-      "title": "E-sport",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltd5271fb008470a8a.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "dJpBm4OmhtpmiAEkDNKqKg",
-      "publishDate": "2023-01-30T16:00:00.000Z"
     }
   }
 ]
