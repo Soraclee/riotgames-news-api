@@ -1,5 +1,69 @@
 [
   {
+    "title": "Mini cinématique Fête des 6 ans",
+    "publishedAt": "2025-06-07T01:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "6FgnOlG2ULE",
+        "videoLengthInSeconds": 54,
+        "url": "https://www.youtube.com/watch?v=6FgnOlG2ULE"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a086b7d6f4755a23afd3758e7259479176b41b51-1920x1080.jpg",
+      "colors": {
+        "primary": "#402B55",
+        "secondary": "#F9E2DC",
+        "label": "#1C0B2D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un gâteau à son anniv' ? C'est dépassé. Maintenant, on a une dimension parallèle remplie de gâteaux."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "7d43aa81-135c-441e-a475-c88577248bab.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "uY2KhJjd7mzrwWNcNGw6N3",
+      "publishDate": "2025-06-07T01:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation de Kayle aux ailes éthérées chibi",
     "publishedAt": "2025-05-30T13:00:00.000Z",
     "action": {
@@ -4680,70 +4744,6 @@
       "contentLocale": "fr-fr",
       "rev": "MBEnA07qAFzHqjXn9q9nPt",
       "publishDate": "2024-12-02T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation d'Ekko Feu volant chibi",
-    "publishedAt": "2024-11-29T14:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "-5vcGah0knI",
-        "videoLengthInSeconds": 39,
-        "url": "https://www.youtube.com/watch?v=-5vcGah0knI"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6364e079b81169ebd23bd1b152b2cac7e6c660ea-1920x1080.jpg",
-      "colors": {
-        "primary": "#1B2536",
-        "secondary": "#F9DCDE",
-        "label": "#020408"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Rassemblez tous les marginaux ! Ekko Feu volant chibi débarque dans les rues de la Convergence."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "b9908b80-007b-44b4-ba89-ca298bcf81dd.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "MBEnA07qAFzHqjXn6s6N4A",
-      "publishDate": "2024-11-29T14:00:00.000Z"
     }
   }
 ]

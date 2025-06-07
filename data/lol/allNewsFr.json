@@ -1,5 +1,69 @@
 [
   {
+    "title": "Mini cinématique Fête des 6 ans",
+    "publishedAt": "2025-06-07T01:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "6FgnOlG2ULE",
+        "videoLengthInSeconds": 54,
+        "url": "https://www.youtube.com/watch?v=6FgnOlG2ULE"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a086b7d6f4755a23afd3758e7259479176b41b51-1920x1080.jpg",
+      "colors": {
+        "primary": "#402B55",
+        "secondary": "#F9E2DC",
+        "label": "#1C0B2D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un gâteau à son anniv' ? C'est dépassé. Maintenant, on a une dimension parallèle remplie de gâteaux."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "7d43aa81-135c-441e-a475-c88577248bab.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "uY2KhJjd7mzrwWNcNGw6N3",
+      "publishDate": "2025-06-07T01:00:00.000Z"
+    }
+  },
+  {
     "title": "Vainqueurs - Concours Fleur spirituelle",
     "publishedAt": "2025-06-04T15:00:00.000Z",
     "action": {
@@ -2080,68 +2144,6 @@
     }
   },
   {
-    "title": "Notes de patch 25.09",
-    "publishedAt": "2025-04-29T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-09-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0147454728fceaeea0d39f96ee4967efe31d29a6-1920x1080.jpg",
-      "colors": {
-        "primary": "#9D8CB8",
-        "secondary": "#292933",
-        "label": "#59427B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Sautez dans l'action, bienvenue à la saison 2 !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "238e4827-5576-40b8-be43-bd3342d2de9b.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "xCAQSJhF97p2wotMQL3vcX",
-      "publishDate": "2025-04-29T18:00:00.000Z"
-    }
-  },
-  {
     "title": "Notes de patch 14.3 Teamfight Tactics (2025)",
     "publishedAt": "2025-04-29T18:00:00.000Z",
     "action": {
@@ -2201,6 +2203,68 @@
       "contentId": "1ce23d39-3566-466d-9a3d-92d025bca231.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "xCAQSJhF97p2wotMQ6Pj46",
+      "publishDate": "2025-04-29T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.09",
+    "publishedAt": "2025-04-29T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-09-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0147454728fceaeea0d39f96ee4967efe31d29a6-1920x1080.jpg",
+      "colors": {
+        "primary": "#9D8CB8",
+        "secondary": "#292933",
+        "label": "#59427B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Sautez dans l'action, bienvenue à la saison 2 !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "238e4827-5576-40b8-be43-bd3342d2de9b.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "xCAQSJhF97p2wotMQL3vcX",
       "publishDate": "2025-04-29T18:00:00.000Z"
     }
   },
@@ -3911,6 +3975,69 @@
     }
   },
   {
+    "title": "Équipes Cyber City : lo-fi au sommet",
+    "publishedAt": "2025-04-03T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=QDqwalVA0Io"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7bcb24e4680a17c9322ffb8ff19f5b026e67e95-1920x1080.jpg",
+      "colors": {
+        "primary": "#171122",
+        "secondary": "#F9DCDF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Des sons lo-fi pour se détendre au rythme de Cyber City."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "22fc3011-61f9-4b38-bd32-5245c0de9221.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "votbv1mhlfMu1iwdgd8HqF",
+      "publishDate": "2025-04-03T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Musique de LeBlanc",
     "publishedAt": "2025-04-03T15:00:00.000Z",
     "action": {
@@ -3971,69 +4098,6 @@
       "contentId": "59eec5d5-8552-4b50-aa9b-e1890c85acaf.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "votbv1mhlfMu1iwdgd82As",
-      "publishDate": "2025-04-03T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Équipes Cyber City : lo-fi au sommet",
-    "publishedAt": "2025-04-03T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=QDqwalVA0Io"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7bcb24e4680a17c9322ffb8ff19f5b026e67e95-1920x1080.jpg",
-      "colors": {
-        "primary": "#171122",
-        "secondary": "#F9DCDF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Des sons lo-fi pour se détendre au rythme de Cyber City."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "22fc3011-61f9-4b38-bd32-5245c0de9221.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "votbv1mhlfMu1iwdgd8HqF",
       "publishDate": "2025-04-03T15:00:00.000Z"
     }
   },
@@ -4665,70 +4729,6 @@
       "contentLocale": "fr-fr",
       "rev": "DgoKVhO4vj9NHi8b0FVPLE",
       "publishDate": "2025-03-22T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Ma Meilleure Ennemie",
-    "publishedAt": "2025-03-20T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "j-RpvIuazmc",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=j-RpvIuazmc"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/310dfaabcadae6b87e6ab7da647470beb8053b6a-1920x1080.jpg",
-      "colors": {
-        "primary": "#181D2F",
-        "secondary": "#DCF5F9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Clip officiel de « Ma Meilleure Ennemie » de Stromae et Pomme tirée de la BO de la saison 2 d'Arcane"
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "2721b26a-c740-4d5d-bec9-266612ff0a10.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "UQJxDctsMNKpiCcXYNWb1z",
-      "publishDate": "2025-03-20T16:00:00.000Z"
     }
   }
 ]
