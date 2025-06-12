@@ -1631,70 +1631,6 @@
     }
   },
   {
-    "title": "Dev Update : saison 1, gameplay et réinitialisations",
-    "publishedAt": "2024-11-25T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "iNFmwGaSjKA",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=iNFmwGaSjKA"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/64076972da6217c06fcc576f34e310953e79ca5e-1280x720.jpg",
-      "colors": {
-        "primary": "#1F1610",
-        "secondary": "#DCF9EF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les développeurs révèlent la première saison, le gameplay, les réinitialisations de rangs, et plus."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "9e8104a5-045f-4505-915b-99a9347ff913.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "UPIPX87Xr8dUQrGWE8HjwJ",
-      "publishDate": "2024-11-25T16:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev : Nouveautés du mode classé saison 1 de 2025",
     "publishedAt": "2024-11-25T16:00:00.000Z",
     "action": {
@@ -1815,6 +1751,70 @@
       "contentId": "a6e68f20-992b-4452-8863-288c7107e4d7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "YN8truRCqnchJPC7V0V8Ln",
+      "publishDate": "2024-11-25T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Dev Update : saison 1, gameplay et réinitialisations",
+    "publishedAt": "2024-11-25T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "iNFmwGaSjKA",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=iNFmwGaSjKA"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/64076972da6217c06fcc576f34e310953e79ca5e-1280x720.jpg",
+      "colors": {
+        "primary": "#1F1610",
+        "secondary": "#DCF9EF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les développeurs révèlent la première saison, le gameplay, les réinitialisations de rangs, et plus."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "9e8104a5-045f-4505-915b-99a9347ff913.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UPIPX87Xr8dUQrGWE8HjwJ",
       "publishDate": "2024-11-25T16:00:00.000Z"
     }
   },
@@ -3257,6 +3257,68 @@
     }
   },
   {
+    "title": "Résumé Dev Update : Arena, Lee Sin et mode PvE",
+    "publishedAt": "2024-04-08T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/tl-dw-arena-lee-sin-pve-mode-first-look/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bfebe09314b6ad80aafbbaa853ad7cfa64eafc00-1920x1080.jpg",
+      "colors": {
+        "primary": "#1C2538",
+        "secondary": "#DCEFF9",
+        "label": "#03050A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Résumé des actualités : Arena, Lee Sin, récompenses de classement, maîtrise du champion et mode PvE."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.bltfdf5f86034b0a747.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "IN03FCy14OOjYlZR2zQQRa",
+      "publishDate": "2024-04-08T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Changements des récompenses de classement en 2024",
     "publishedAt": "2024-04-08T15:00:00.000Z",
     "action": {
@@ -3377,68 +3439,6 @@
       "contentId": "articles.blt25f2dc8552023f39.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "ebFUNpMndz2LKq7K6s388K",
-      "publishDate": "2024-04-08T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Résumé Dev Update : Arena, Lee Sin et mode PvE",
-    "publishedAt": "2024-04-08T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tl-dw-arena-lee-sin-pve-mode-first-look/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bfebe09314b6ad80aafbbaa853ad7cfa64eafc00-1920x1080.jpg",
-      "colors": {
-        "primary": "#1C2538",
-        "secondary": "#DCEFF9",
-        "label": "#03050A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Résumé des actualités : Arena, Lee Sin, récompenses de classement, maîtrise du champion et mode PvE."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.bltfdf5f86034b0a747.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "IN03FCy14OOjYlZR2zQQRa",
       "publishDate": "2024-04-08T15:00:00.000Z"
     }
   },
@@ -3697,68 +3697,6 @@
     }
   },
   {
-    "title": "Résumé Dev Update : gameplay, Vanguard & cie",
-    "publishedAt": "2024-02-29T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tl-dw-gameplay-vanguard-more-dev-update/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d-1920x1080.jpg",
-      "colors": {
-        "primary": "#161020",
-        "secondary": "#DCECF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un bref résumé des annonces de Riot Brightmoon, Pupulasers et Phroxzon."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt711de2505b35a26d.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "IN03FCy14OOjYlZR2zVifa",
-      "publishDate": "2024-02-29T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Skins prestige/fantastiques à venir : févr. 2024",
     "publishedAt": "2024-02-29T16:00:00.000Z",
     "action": {
@@ -3821,12 +3759,12 @@
     }
   },
   {
-    "title": "Aperçu du champion : Smolder",
-    "publishedAt": "2024-01-08T16:00:00.000Z",
+    "title": "Résumé Dev Update : gameplay, Vanguard & cie",
+    "publishedAt": "2024-02-29T16:00:00.000Z",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/fr-fr/news/dev/champion-insights-smolder/"
+        "url": "/fr-fr/news/dev/tl-dw-gameplay-vanguard-more-dev-update/"
       }
     },
     "product": {
@@ -3858,17 +3796,17 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/01639f08817d3e9488cdb3a3b36130b960df3e83-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d-1920x1080.jpg",
       "colors": {
-        "primary": "#B8A3A7",
-        "secondary": "#2C2933",
-        "label": "#874953"
+        "primary": "#161020",
+        "secondary": "#DCECF9",
+        "label": "#000000"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "ADC : un Adorable Dragon Casse-cou."
+      "body": "Un bref résumé des annonces de Riot Brightmoon, Pupulasers et Phroxzon."
     },
     "category": {
       "title": "Dev",
@@ -3876,10 +3814,10 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "articles.blt713f9acd2cbd0f0e.fr-fr",
+      "contentId": "articles.blt711de2505b35a26d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jEln45CgOQD4spzxfDXEGe",
-      "publishDate": "2024-01-08T16:00:00.000Z"
+      "rev": "IN03FCy14OOjYlZR2zVifa",
+      "publishDate": "2024-02-29T16:00:00.000Z"
     }
   },
   {
@@ -3943,6 +3881,68 @@
       "contentId": "a8179f15-738e-4d44-873f-7da181425ea5.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "kALBwL7IUKvp74W4IWaD1L",
+      "publishDate": "2024-01-08T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Aperçu du champion : Smolder",
+    "publishedAt": "2024-01-08T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/champion-insights-smolder/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/01639f08817d3e9488cdb3a3b36130b960df3e83-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8A3A7",
+        "secondary": "#2C2933",
+        "label": "#874953"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "ADC : un Adorable Dragon Casse-cou."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.blt713f9acd2cbd0f0e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "jEln45CgOQD4spzxfDXEGe",
       "publishDate": "2024-01-08T16:00:00.000Z"
     }
   },
@@ -4505,6 +4505,68 @@
     }
   },
   {
+    "title": "Feuille de route des champions : octobre 2023",
+    "publishedAt": "2023-10-12T17:30:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/champion-roadmap-october-2023/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/276d0dae1f726850bdbe422ba9761df8d77eeb73-1920x1080.jpg",
+      "colors": {
+        "primary": "#0C0A15",
+        "secondary": "#FFF6D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'artiste entame son chef-d'œuvre. Une puissance rougeoie à l'horizon, comme le caillou de Skarner."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "articles.blt7577d1928c21841b.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "2eqiUp79DxBCItwrHsNFT7",
+      "publishDate": "2023-10-12T17:30:00.000Z"
+    }
+  },
+  {
     "title": "Dev Update : Champions, univers et plus",
     "publishedAt": "2023-10-12T17:30:00.000Z",
     "action": {
@@ -4565,68 +4627,6 @@
       "contentId": "articles.bltb75aa81b7137b443.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "BMNrGLgwKDF4EjlAoVDgZ8",
-      "publishDate": "2023-10-12T17:30:00.000Z"
-    }
-  },
-  {
-    "title": "Feuille de route des champions : octobre 2023",
-    "publishedAt": "2023-10-12T17:30:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/champion-roadmap-october-2023/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/276d0dae1f726850bdbe422ba9761df8d77eeb73-1920x1080.jpg",
-      "colors": {
-        "primary": "#0C0A15",
-        "secondary": "#FFF6D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "L'artiste entame son chef-d'œuvre. Une puissance rougeoie à l'horizon, comme le caillou de Skarner."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt7577d1928c21841b.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "2eqiUp79DxBCItwrHsNFT7",
       "publishDate": "2023-10-12T17:30:00.000Z"
     }
   },
