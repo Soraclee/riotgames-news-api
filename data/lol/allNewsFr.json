@@ -1,5 +1,67 @@
 [
   {
+    "title": "Le retour d'Arena",
+    "publishedAt": "2025-06-16T17:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/the-return-of-arena"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 985,
+        "width": 1751,
+        "aspectRatio": 1.7776649746192894
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5568f896b459de6eca8e27e0b3bebe091d0f5efd-1751x985.jpg",
+      "colors": {
+        "primary": "#341E1A",
+        "secondary": "#DCF7F9",
+        "label": "#050201"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Arena revient pour le reste de l'année 2025"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "da83e7ea-245f-4679-9209-6f080f122689.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "wiuC30KxDfxIK6ypfZyXRe",
+      "publishDate": "2025-06-16T17:00:00.000Z"
+    }
+  },
+  {
     "title": "De Rogue à Natus Vincere : Bienvenue dans une nouvelle ère du LEC",
     "publishedAt": "2025-06-13T14:00:00.000Z",
     "action": {
@@ -436,7 +498,7 @@
     "analytics": {
       "contentId": "64c02cda-691b-4c93-8d3b-d82f8c14222a.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Sw999WM9OiKVndpKQyDGZB",
+      "rev": "UN0t8SjpXLwBITCxYv1KMW",
       "publishDate": "2025-06-09T15:15:00.000Z"
     }
   },
@@ -498,7 +560,7 @@
     "analytics": {
       "contentId": "258d25f9-4e38-4f2a-a7a5-fb494fa82bd0.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Sw999WM9OiKVndpKQyDGZB",
+      "rev": "UN0t8SjpXLwBITCxYv1KMW",
       "publishDate": "2025-06-09T15:00:00.000Z"
     }
   },
@@ -563,6 +625,68 @@
       "contentId": "4f62205a-a053-406b-94cf-bb4b12a5b81e.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "Sw999WM9OiKVndpKQyDGZB",
+      "publishDate": "2025-06-09T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Résumé : ARAM, feeding et plus Dev Update",
+    "publishedAt": "2025-06-09T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/tldw-aram-inting-more-dev-update"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6ef0d5575a75a0cfbfc2e0646102ecbc9fa8a0cd-1920x1080.jpg",
+      "colors": {
+        "primary": "#1A1F33",
+        "secondary": "#DCEAF9",
+        "label": "#010204"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "72647cf7-8c5d-4543-84de-b082452d542c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "G0ZZDwJYdCgwvHY74v2DsW",
       "publishDate": "2025-06-09T15:00:00.000Z"
     }
   },
@@ -1004,7 +1128,7 @@
     "analytics": {
       "contentId": "7250895d-c6a6-4c4d-a2aa-abfb375291fb.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "v6lQ8FkCz75nF0QUIOJa52",
+      "rev": "wiuC30KxDfxIK6ypfb5b6E",
       "publishDate": "2025-05-28T15:00:00.000Z"
     }
   },
@@ -4602,133 +4726,6 @@
       "contentLocale": "fr-fr",
       "rev": "votbv1mhlfMu1iwdgd8HqF",
       "publishDate": "2025-04-03T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Musique de LeBlanc",
-    "publishedAt": "2025-04-03T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "x-ryQ8_Ie-0",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=x-ryQ8_Ie-0"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d09e052aac78d67307ddb2029c041c57fc7fb97c-1920x1080.jpg",
-      "colors": {
-        "primary": "#221111",
-        "secondary": "#FFECD6",
-        "label": "#070707"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Ne croyez pas tout ce que vous voyez. Écoutez la nouvelle musique de LeBlanc, Manipulatrice."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "59eec5d5-8552-4b50-aa9b-e1890c85acaf.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "votbv1mhlfMu1iwdgd82As",
-      "publishDate": "2025-04-03T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Teamfight Tactics: Cyber City",
-    "publishedAt": "2025-04-02T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/set-overview/teamfight-tactics-cyber-city"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bee57fbd338f8669a2f626dfc027abf7622e9c68-1920x1080.jpg",
-      "colors": {
-        "primary": "#42274D",
-        "secondary": "#F9DCED",
-        "label": "#1B0923"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Mettez tout en œuvre pour atteindre vos objectifs dans le tout nouveau set futuriste de TFT."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "7a3ac3ee-5e4b-46c4-b8df-20919838cccf.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "nZB9db8bWm6kVNwNsffRm8",
-      "publishDate": "2025-04-02T19:00:00.000Z"
     }
   }
 ]

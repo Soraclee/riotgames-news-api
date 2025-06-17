@@ -1,5 +1,67 @@
 [
   {
+    "title": "Le retour d'Arena",
+    "publishedAt": "2025-06-16T17:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/the-return-of-arena"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 985,
+        "width": 1751,
+        "aspectRatio": 1.7776649746192894
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5568f896b459de6eca8e27e0b3bebe091d0f5efd-1751x985.jpg",
+      "colors": {
+        "primary": "#341E1A",
+        "secondary": "#DCF7F9",
+        "label": "#050201"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Arena revient pour le reste de l'année 2025"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "da83e7ea-245f-4679-9209-6f080f122689.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "wiuC30KxDfxIK6ypfZyXRe",
+      "publishDate": "2025-06-16T17:00:00.000Z"
+    }
+  },
+  {
     "title": "Galerie thématique Fête des 6 ans",
     "publishedAt": "2025-06-12T13:00:00.000Z",
     "action": {
@@ -248,7 +310,7 @@
     "analytics": {
       "contentId": "64c02cda-691b-4c93-8d3b-d82f8c14222a.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Sw999WM9OiKVndpKQyDGZB",
+      "rev": "UN0t8SjpXLwBITCxYv1KMW",
       "publishDate": "2025-06-09T15:15:00.000Z"
     }
   },
@@ -4680,70 +4742,6 @@
       "contentLocale": "fr-fr",
       "rev": "y6qAFx3KEt65PvSAGnI8FX",
       "publishDate": "2024-12-11T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation de Warwick d'Arcane libéré",
-    "publishedAt": "2024-12-11T14:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "Q_A7ldhsWaA",
-        "videoLengthInSeconds": 32,
-        "url": "https://www.youtube.com/watch?v=Q_A7ldhsWaA"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/42ffaccb59ebb6f778be14141d728d4f61ddfda8-1920x1080.jpg",
-      "colors": {
-        "primary": "#3F3A20",
-        "secondary": "#F9F0DC",
-        "label": "#121005"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Il ne lui reste que la chasse. Warwick d'Arcane libéré est désormais disponible sur TFT."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "6be0106e-2232-458f-bc73-1198f0e86859.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "CsJhS699U5wscrFy7gYaLX",
-      "publishDate": "2024-12-11T14:00:00.000Z"
     }
   }
 ]
