@@ -1,5 +1,69 @@
 [
   {
+    "title": "Ignite the Fire Within | MSI 2025",
+    "publishedAt": "2025-06-20T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "1t7HX7ugwTQ",
+        "videoLengthInSeconds": 63,
+        "url": "https://www.youtube.com/watch?v=1t7HX7ugwTQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7a7e9cb89a51a8c7b5e74012f1ea2f2cc870404d-1920x1080.jpg",
+      "colors": {
+        "primary": "#27182F",
+        "secondary": "#F3DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Who will find the strength from within to take home victory?"
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "16a5ab81-a4b4-4ffe-88c1-b84b4bcde2eb.en-us",
+      "contentLocale": "en-us",
+      "rev": "8FUtoK5nJGcEe7UoDPdrTW",
+      "publishDate": "2025-06-20T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Format Explainer | MSI 2025",
     "publishedAt": "2025-06-17T15:00:00.000Z",
     "action": {
@@ -4675,69 +4739,6 @@
       "contentLocale": "en-us",
       "rev": "RIpKXTkqwHOEY4MEaIGceh",
       "publishDate": "2024-03-19T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "The Fan’s Guide to the LCS Spring 2024 Finals, Fan Fest, and More!",
-    "publishedAt": "2024-03-13T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://watch.lolesports.com/article/the-fan-s-guide-to-the-lcs-spring-2024-finals-fan-fest-and-more-/blt8f657605a3a8e413"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 900,
-        "width": 1600,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9055339621a657b3fa29b7d8210cdc50654e626b-1600x900.jpg",
-      "colors": {
-        "primary": "#010100",
-        "secondary": "#FFEBD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Here’s everything you need to know about the rest of the 2024 LCS Spring Split!"
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltece2aab41efa0888.en-us",
-      "contentLocale": "en-us",
-      "rev": "RIpKXTkqwHOEY4MEaIGceh",
-      "publishDate": "2024-03-13T15:00:00.000Z"
     }
   }
 ]

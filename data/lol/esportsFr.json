@@ -1,5 +1,69 @@
 [
   {
+    "title": "Ignite the Fire Within | MSI 2025",
+    "publishedAt": "2025-06-20T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "1t7HX7ugwTQ",
+        "videoLengthInSeconds": 63,
+        "url": "https://www.youtube.com/watch?v=1t7HX7ugwTQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7a7e9cb89a51a8c7b5e74012f1ea2f2cc870404d-1920x1080.jpg",
+      "colors": {
+        "primary": "#27182F",
+        "secondary": "#F3DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Qui trouvera la force nécessaire pour accéder jusqu'à la victoire finale ?"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "16a5ab81-a4b4-4ffe-88c1-b84b4bcde2eb.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "8FUtoK5nJGcEe7UoDPdrTW",
+      "publishDate": "2025-06-20T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du League of Legends Game Changers Rising",
     "publishedAt": "2025-06-19T14:00:00.000Z",
     "action": {
@@ -4618,70 +4682,6 @@
       "contentLocale": "fr-fr",
       "rev": "X59rv1xDPcH5jdaixIl85y",
       "publishDate": "2024-03-20T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "MAD Lions KOI’s Winter Split Run",
-    "publishedAt": "2024-03-19T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "g7mroWCYfh4",
-        "videoLengthInSeconds": 212,
-        "url": "https://www.youtube.com/watch?v=g7mroWCYfh4"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7454efa3bef170f0f3bef423364d43c815c6db56-1280x720.jpg",
-      "colors": {
-        "primary": "#2F4E5E",
-        "secondary": "#DCE3F9",
-        "label": "#0E2938"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "From being doubted by most, to reaching LEC Finals, here’s a look back at MDK’s run"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltc11c2c1c4aaddb12.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "X59rv1xDPcH5jdaixIl85y",
-      "publishDate": "2024-03-19T15:00:00.000Z"
     }
   }
 ]
