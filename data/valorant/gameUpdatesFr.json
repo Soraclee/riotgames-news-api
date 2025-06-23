@@ -1,5 +1,65 @@
 [
   {
+    "title": "Corrode // Bande-annonce officielle – VALORANT",
+    "publishedAt": "2025-06-22T16:03:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=xfeJ_zPIw10"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6b153d10b5d822f84fb22679c0d2d0c09bfacacf-1920x1080.jpg",
+      "colors": {
+        "primary": "#302A54",
+        "secondary": "#DCE2F9",
+        "label": "#100B2C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Terrain flambant neuf, atmosphère classique. Découvrez Corrode."
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "081a2d02-bad8-41bf-a76b-44631fd9f179.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "1RWJXTC5FbH6OsLSi6QlHo",
+      "publishDate": "2025-06-22T16:03:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 10.11 VALORANT",
     "publishedAt": "2025-06-10T13:00:00.000Z",
     "action": {
@@ -4388,65 +4448,6 @@
       "contentLocale": "fr-fr",
       "rev": "tG8aRZvgYHVPamBbJEcLBV",
       "publishDate": "2023-10-19T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 7.08 de VALORANT",
-    "publishedAt": "2023-10-17T13:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/valorant-patch-notes-7-08/"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8e8f97a223e099c83d424b1fffcf9a05f894ec8c-1920x1080.jpg",
-      "colors": {
-        "primary": "#B89760",
-        "secondary": "#333029",
-        "label": "#887049"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Il n'y a pas de fumée sans... Brimstone ?"
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltc3b3732db4934c7e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "lESIXfhUM7GwGlQ32uQ5jf",
-      "publishDate": "2023-10-17T13:00:00.000Z"
     }
   }
 ]
