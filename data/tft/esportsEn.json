@@ -1,5 +1,68 @@
 [
   {
+    "title": "New Episode of TFT Try To Draw!",
+    "publishedAt": "2025-06-23T14:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=I571Hb_603Y"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/674bea974802ab825f7b8f163bb3ad7f6dd41362-1920x1080.jpg",
+      "colors": {
+        "primary": "#221911",
+        "secondary": "#FFECD6",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "TFT pro players put their drawing (and guessing) skills to the test."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "fea92775-9909-44a1-9de8-65e2645c95b7.en-us",
+      "contentLocale": "en-us",
+      "rev": "d8daAvYlCnaTHNtK4sssc8",
+      "publishDate": "2025-06-23T14:00:00.000Z"
+    }
+  },
+  {
     "title": "The Best TFT Championship Runs",
     "publishedAt": "2025-06-19T14:00:00.000Z",
     "action": {
@@ -4629,68 +4692,6 @@
       "contentLocale": "en-us",
       "rev": "IN03FCy14OOjYlZR31Xpma",
       "publishDate": "2022-03-23T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Announcing Double Up's First Global Tournament: Hextech Havoc",
-    "publishedAt": "2021-12-09T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/esports/announcing-double-up-s-first-global-tournament-hextech-havoc/"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/009598e5733f9d431ed651509dbaa307eff729e1-1920x1080.jpg",
-      "colors": {
-        "primary": "#2B5657",
-        "secondary": "#F4F9DC",
-        "label": "#0C2E2F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "When and how to watch the first global Double Up tournament!"
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt99a28c4bb1ef094d.en-us",
-      "contentLocale": "en-us",
-      "rev": "pE15HMV2YvquqTOJOkoWpv",
-      "publishDate": "2021-12-09T16:00:00.000Z"
     }
   }
 ]
