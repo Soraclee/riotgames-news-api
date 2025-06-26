@@ -1,5 +1,69 @@
 [
   {
+    "title": "Act 2 Launch Trailer",
+    "publishedAt": "2025-06-25T18:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "mSGVMEbv8ZQ",
+        "videoLengthInSeconds": 76,
+        "url": "https://www.youtube.com/watch?v=mSGVMEbv8ZQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/791718e395fe929407b94861904b9311a8d8a824-1280x720.jpg",
+      "colors": {
+        "primary": "#2D1B36",
+        "secondary": "#F9DCDD",
+        "label": "#060208"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Realms collide and myths long forgotten become reality. Act 2 begins."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "28815e2a-e5b0-45f7-bf94-7de2f4c68fda.en-us",
+      "contentLocale": "en-us",
+      "rev": "9WvOl9SUPQyl96gbtZ6KBz",
+      "publishDate": "2025-06-25T18:00:00.000Z"
+    }
+  },
+  {
     "title": "MSI 2025 Hockey Jersey",
     "publishedAt": "2025-06-24T21:00:00.000Z",
     "action": {
@@ -120,7 +184,7 @@
     "analytics": {
       "contentId": "2be51a20-4f9e-429c-a399-b60fe60080dd.en-us",
       "contentLocale": "en-us",
-      "rev": "ofx9tRtnpX7Fm6wQUxumKu",
+      "rev": "9WvOl9SUPQyl96gbta1uM9",
       "publishDate": "2025-06-24T18:00:00.000Z"
     }
   },
@@ -2330,69 +2394,6 @@
     }
   },
   {
-    "title": "The Demon’s Hand – Motion Comic",
-    "publishedAt": "2025-05-20T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg",
-      "colors": {
-        "primary": "#B8A78F",
-        "secondary": "#332D29",
-        "label": "#453825"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "If you challenge a demon, you best play a winning hand. Watch the motion comic now!"
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.en-us",
-      "contentLocale": "en-us",
-      "rev": "KRA11LO4pDDnBAdEM0Bb56",
-      "publishDate": "2025-05-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "The Fourth Principle – Motion Comic",
     "publishedAt": "2025-05-20T15:00:00.000Z",
     "action": {
@@ -2450,6 +2451,69 @@
     },
     "analytics": {
       "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.en-us",
+      "contentLocale": "en-us",
+      "rev": "KRA11LO4pDDnBAdEM0Bb56",
+      "publishDate": "2025-05-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "The Demon’s Hand – Motion Comic",
+    "publishedAt": "2025-05-20T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8A78F",
+        "secondary": "#332D29",
+        "label": "#453825"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "If you challenge a demon, you best play a winning hand. Watch the motion comic now!"
+    },
+    "category": {
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.en-us",
       "contentLocale": "en-us",
       "rev": "KRA11LO4pDDnBAdEM0Bb56",
       "publishDate": "2025-05-20T15:00:00.000Z"
@@ -4658,70 +4722,6 @@
       "contentLocale": "en-us",
       "rev": "UQJxDctsMNKpiCcXYWLFrj",
       "publishDate": "2025-04-15T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Here, Tomorrow",
-    "publishedAt": "2025-04-14T15:03:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "T4l0KBAn6LU",
-        "videoLengthInSeconds": 198,
-        "url": "https://www.youtube.com/watch?v=T4l0KBAn6LU"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/82f1894deb132e5724e1417afe0bd72d806e4842-1280x720.jpg",
-      "colors": {
-        "primary": "#6468B8",
-        "secondary": "#2B2933",
-        "label": "#242543"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Around every light, a shadow. Beyond every ending, a beginning."
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "93e57a3e-40c6-492e-8ddd-962d2a04a3fb.en-us",
-      "contentLocale": "en-us",
-      "rev": "ia01KCnHD1q08pi5tTclVK",
-      "publishDate": "2025-04-14T15:03:00.000Z"
     }
   }
 ]
