@@ -1914,6 +1914,120 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_key": "7d49abd46c2c",
+        "t1VideoEmbed": {
+          "mediaType": "video",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "WTXErU9aYz0"
+          },
+          "provider": "youtube",
+          "_type": "multimediaAsset"
+        },
+        "hideCTAButton": true,
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "metadata": {
+                "dimensions": {
+                  "width": 1920,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080,
+                  "_type": "sanity.imageDimensions"
+                },
+                "isOpaque": true,
+                "blurHash": "MXFYfq004o~VNLR:t6R,NFxukBn+R%Wrs+",
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "title": "#fff",
+                    "population": 1.87,
+                    "background": "#3c3350",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  },
+                  "muted": {
+                    "population": 0.15,
+                    "background": "#a05553",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "population": 0.55,
+                    "background": "#d5a485",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "background": "#1b1b6a",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 6.53
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 1.58,
+                    "background": "#c4aace"
+                  },
+                  "vibrant": {
+                    "background": "#cc7d57",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.94
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 6.53,
+                    "background": "#1b1b6a"
+                  }
+                },
+                "hasAlpha": false
+              },
+              "_rev": "pjc0gZ7zw0jnhEKOMpsP6G",
+              "_type": "sanity.imageAsset",
+              "uploadId": "tbk2afuyf2gPhH1JRV8fsOQMCL4ggBT1",
+              "mimeType": "image/jpeg",
+              "sha1hash": "0b0ec597be654aa0f2f02a5af6b028cf0ea867f5",
+              "assetId": "0b0ec597be654aa0f2f02a5af6b028cf0ea867f5",
+              "_createdAt": "2024-12-16T17:28:22Z",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080.jpg",
+              "path": "images/dsfx7636/news/0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080.jpg",
+              "size": 612132,
+              "_updatedAt": "2025-01-22T21:38:43Z",
+              "extension": "jpg",
+              "_id": "image-0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080-jpg",
+              "originalFilename": "TFT_TMO_ShowOpener_YT_Thumbnail_16x9_Textless.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "t1Image": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "WTXErU9aYz0"
+          },
+          "provider": "sanity"
+        },
+        "_type": "clientInternalLinkT1"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -2866,6 +2980,18 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_type": "clientInternalLinkT1",
+        "t1Title": "Worlds Pick’Em Is Back!",
+        "_key": "b891b801e00d"
+      },
+      {
+        "_type": "clientInternalLinkT2",
+        "_key": "1657779bd206",
+        "t2Title": "Worlds Pick’Em Is Back!"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -2930,6 +3056,25 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_key": "213685ecdd94",
+        "t1VideoEmbed": {
+          "provider": "youtube",
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "Q1NTpGm22JU"
+          }
+        },
+        "hideCTAButton": false,
+        "t1Description": "It’s time to believe.",
+        "_type": "clientInternalLinkT1",
+        "t1CTA": "WATCH",
+        "t1Title": "Worlds Event Trailer"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -3499,6 +3644,141 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_type": "clientInternalLinkT1",
+        "_key": "e0c5e54df007",
+        "t1VideoEmbed": {
+          "youtubeAsset": {
+            "videoID": "xdfVomq3lAc",
+            "_type": "videoYoutube"
+          },
+          "provider": "youtube",
+          "_type": "multimediaAsset",
+          "mediaType": "video"
+        },
+        "hideCTAButton": true,
+        "backdropImage": {
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "uploadId": "iaPyIjZ3fRlTVH2oGQNHJGLp9EMaXKPN",
+              "_type": "sanity.imageAsset",
+              "mimeType": "image/jpeg",
+              "sha1hash": "5b5d6d5c6605a2ab779620f6901a375ac10c71c2",
+              "originalFilename": "LoL_HoL_FakerWinner_Thumbnail_(decluttered).jpg",
+              "_rev": "neae7oL4y1FotDvvRkxhc2",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5b5d6d5c6605a2ab779620f6901a375ac10c71c2-1600x1080.jpg",
+              "assetId": "5b5d6d5c6605a2ab779620f6901a375ac10c71c2",
+              "path": "images/dsfx7636/news/5b5d6d5c6605a2ab779620f6901a375ac10c71c2-1600x1080.jpg",
+              "_updatedAt": "2024-07-15T16:34:45Z",
+              "opt": {
+                "media": {
+                  "tags": [
+                    {
+                      "name": {
+                        "current": "League of Legends",
+                        "_type": "slug"
+                      },
+                      "_id": "wBw7D1rORbwAedXY501khb",
+                      "_updatedAt": "2024-07-12T21:00:10Z",
+                      "_createdAt": "2024-05-10T19:27:55Z",
+                      "_rev": "ejVwHgKe5k9eDWbchvt6ne",
+                      "_type": "media.tag",
+                      "dataset": "news_live"
+                    },
+                    {
+                      "_rev": "ZgPiUE9lJ1tcRKuFnRhGVF",
+                      "_type": "media.tag",
+                      "name": {
+                        "current": "T1 Backdrop",
+                        "_type": "slug"
+                      },
+                      "_id": "1257WALiBIVf9XCQetNROh",
+                      "_updatedAt": "2024-07-09T21:00:00Z",
+                      "_createdAt": "2024-05-30T00:31:04Z",
+                      "dataset": "news_live"
+                    }
+                  ]
+                }
+              },
+              "size": 204947,
+              "_createdAt": "2024-06-13T20:45:47Z",
+              "_id": "image-5b5d6d5c6605a2ab779620f6901a375ac10c71c2-1600x1080-jpg",
+              "extension": "jpg",
+              "metadata": {
+                "hasAlpha": false,
+                "dimensions": {
+                  "height": 1080,
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.4814814814814814
+                },
+                "isOpaque": true,
+                "blurHash": "V89sq[jE~A4;%1?GIpNI9aIpI:%1s.WqI;D*%LIV%LRj",
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "darkVibrant": {
+                    "background": "#472304",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.1
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0,
+                    "background": "#904708"
+                  },
+                  "vibrant": {
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0,
+                    "background": "#f1760d",
+                    "_type": "sanity.imagePaletteSwatch"
+                  },
+                  "dominant": {
+                    "population": 8.66,
+                    "background": "#6c5336",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff"
+                  },
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 8.66,
+                    "background": "#6c5336"
+                  },
+                  "muted": {
+                    "title": "#fff",
+                    "population": 6.94,
+                    "background": "#b99f7f",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000"
+                  },
+                  "lightVibrant": {
+                    "background": "#f7b881",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0
+                  }
+                }
+              },
+              "dataset": "news_live"
+            }
+          },
+          "_type": "multimediaAsset",
+          "mediaType": "image"
+        }
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -3689,6 +3969,111 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_key": "00c7bcc7b8c9",
+        "t1VideoEmbed": {
+          "mediaType": "video",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "jZ75J51yI14"
+          },
+          "provider": "youtube",
+          "_type": "multimediaAsset"
+        },
+        "hideCTAButton": true,
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "asset": {
+              "_rev": "sHbBcT8XxHNdQpuCR8kTaC",
+              "path": "images/dsfx7636/news/5673d3a80519591fd2ddcb68afa171fe2d3ec907-1350x759.jpg",
+              "_id": "image-5673d3a80519591fd2ddcb68afa171fe2d3ec907-1350x759-jpg",
+              "_updatedAt": "2024-08-19T22:30:23Z",
+              "metadata": {
+                "isOpaque": true,
+                "blurHash": "ME9s@s~UM|NG-o9aIVWBM|Io4:E2xu%LR*",
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "background": "#58452c",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 2.66
+                  },
+                  "muted": {
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.63,
+                    "background": "#9c8463",
+                    "_type": "sanity.imagePaletteSwatch"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0.01,
+                    "background": "#d4bca0"
+                  },
+                  "darkVibrant": {
+                    "background": "#513514",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.06
+                  },
+                  "lightMuted": {
+                    "title": "#fff",
+                    "population": 0.28,
+                    "background": "#d4c4ab",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000"
+                  },
+                  "vibrant": {
+                    "background": "#6c5333",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.42
+                  },
+                  "dominant": {
+                    "population": 2.66,
+                    "background": "#58452c",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff"
+                  }
+                },
+                "hasAlpha": false,
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1350,
+                  "aspectRatio": 1.7786561264822134,
+                  "height": 759
+                }
+              },
+              "uploadId": "cTpdWUS7ALkUlbSVxphVG56fEjSqwtvp",
+              "_createdAt": "2024-05-24T00:53:23Z",
+              "originalFilename": "LoL_HoL_T1Client_Background.jpg",
+              "extension": "jpg",
+              "mimeType": "image/jpeg",
+              "sha1hash": "5673d3a80519591fd2ddcb68afa171fe2d3ec907",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5673d3a80519591fd2ddcb68afa171fe2d3ec907-1350x759.jpg",
+              "_type": "sanity.imageAsset",
+              "size": 52872,
+              "assetId": "5673d3a80519591fd2ddcb68afa171fe2d3ec907",
+              "dataset": "news_live"
+            },
+            "_type": "image"
+          }
+        },
+        "_type": "clientInternalLinkT1"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -4009,6 +4394,13 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_type": "clientInternalLinkT2",
+        "_key": "nFR1vYTa",
+        "t2Title": "How to Utilize Map Changes"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -4073,6 +4465,17 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1CTA": "",
+        "t1Title": "Play-Ins Day 1 Tease",
+        "_key": "tgu6guFg",
+        "hideCTAButton": false,
+        "t1Subtitle": "",
+        "t1Description": "",
+        "_type": "clientInternalLinkT1"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -4136,6 +4539,22 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "hideCTAButton": false,
+        "t1Subtitle": "",
+        "t1Description": "",
+        "_type": "clientInternalLinkT1",
+        "t1CTA": "",
+        "t1Title": "WATCH FOR MSI DROPS",
+        "_key": "m6lwzCZQ"
+      },
+      {
+        "_type": "clientInternalLinkT2",
+        "_key": "a5HBK6rj",
+        "t2Title": "WATCH FOR MSI DROPS"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -4326,6 +4745,111 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "hideCTAButton": false,
+        "t1Subtitle": "",
+        "t1Description": "",
+        "t1Image": {
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "dominant": {
+                    "title": "#fff",
+                    "population": 8.09,
+                    "background": "#442a26",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  },
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "title": "#fff",
+                    "population": 8.09,
+                    "background": "#442a26",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  },
+                  "muted": {
+                    "title": "#fff",
+                    "population": 1.48,
+                    "background": "#a27356",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  },
+                  "lightVibrant": {
+                    "title": "#fff",
+                    "population": 0.28,
+                    "background": "#e5beae",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.06,
+                    "background": "#60171b"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0.68,
+                    "background": "#d5bdad"
+                  },
+                  "vibrant": {
+                    "background": "#955b39",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.02
+                  }
+                },
+                "hasAlpha": false,
+                "dimensions": {
+                  "height": 1232,
+                  "_type": "sanity.imageDimensions",
+                  "width": 1825,
+                  "aspectRatio": 1.4813311688311688
+                },
+                "isOpaque": true,
+                "blurHash": "V4A9$pNe4o0L^*^5Sh?aIoIU00jE-:~BE25-w[01-o-="
+              },
+              "_type": "sanity.imageAsset",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/466af631ae8ab21ff187794c1cf03af7791c2b06-1825x1232.jpg",
+              "uploadId": "9r9O1U6rwUxIzKmyMRWM7T9sIyh77Sby",
+              "_rev": "TveqPI7F4qA0WH6AaDh2m5",
+              "path": "images/dsfx7636/news_live/466af631ae8ab21ff187794c1cf03af7791c2b06-1825x1232.jpg",
+              "size": 297852,
+              "assetId": "466af631ae8ab21ff187794c1cf03af7791c2b06",
+              "_createdAt": "2024-04-27T02:04:09Z",
+              "_id": "image-466af631ae8ab21ff187794c1cf03af7791c2b06-1825x1232-jpg",
+              "originalFilename": "03282024_T1ClientDecluttered_Resized.jpg",
+              "extension": "jpg",
+              "mimeType": "image/jpeg",
+              "sha1hash": "466af631ae8ab21ff187794c1cf03af7791c2b06",
+              "_updatedAt": "2024-04-27T02:04:09Z",
+              "dataset": "news_live"
+            }
+          },
+          "_type": "multimediaAsset",
+          "mediaType": "image"
+        },
+        "_type": "clientInternalLinkT1",
+        "t1CTA": "Watch now",
+        "t1Title": "2024 LCS Spring Finals Weekend",
+        "_key": "BDPD30pA"
+      },
+      {
+        "_type": "clientInternalLinkT2",
+        "_key": "fiZmV80y",
+        "t2Title": "2024 LCS Spring Finals Weekend"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -4453,6 +4977,106 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1CTA": "Watch Now",
+        "t1Title": "Let’s Go | LCS",
+        "_key": "CscHwOqp",
+        "hideCTAButton": false,
+        "t1Subtitle": "",
+        "t1Description": "In “Let’s Go,” Jatt and dGon tee up the stories to watch for at this weekend’s LCS Spring Finals!",
+        "backdropImage": {
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2024-04-27T02:04:08Z",
+              "_updatedAt": "2024-04-27T02:04:08Z",
+              "sha1hash": "8cdd53bbb151216636e7d93b8bc478caa60f1067",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8cdd53bbb151216636e7d93b8bc478caa60f1067-1600x1080.jpg",
+              "assetId": "8cdd53bbb151216636e7d93b8bc478caa60f1067",
+              "originalFilename": "Lets_Go_SPF_Thumbnail_ClientT1.jpeg",
+              "extension": "jpg",
+              "_id": "image-8cdd53bbb151216636e7d93b8bc478caa60f1067-1600x1080-jpg",
+              "metadata": {
+                "hasAlpha": false,
+                "dimensions": {
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600
+                },
+                "isOpaque": true,
+                "blurHash": "VBBDQct7PW%3~B%0tSNxof%M9YM_#QW.EgTLnh%2RjIU",
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "population": 1.68,
+                    "background": "#2c3e4f",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 1.24,
+                    "background": "#a56b53"
+                  },
+                  "lightVibrant": {
+                    "population": 0.12,
+                    "background": "#ecccc3",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#000"
+                  },
+                  "darkVibrant": {
+                    "population": 0.87,
+                    "background": "#0a2a4a",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "background": "#c7d4e0",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#000",
+                    "population": 7.5
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.02,
+                    "background": "#ac5045"
+                  },
+                  "dominant": {
+                    "background": "#c7d4e0",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#000",
+                    "population": 7.5
+                  }
+                }
+              },
+              "uploadId": "hIRRSGeea1QynwrsokcaDawvVasTWAnp",
+              "_type": "sanity.imageAsset",
+              "path": "images/dsfx7636/news_live/8cdd53bbb151216636e7d93b8bc478caa60f1067-1600x1080.jpg",
+              "size": 304991,
+              "_rev": "5s8HTZXGujC5ULoREiuAnd",
+              "mimeType": "image/jpeg",
+              "dataset": "news_live"
+            }
+          },
+          "_type": "multimediaAsset",
+          "mediaType": "image"
+        },
+        "_type": "clientInternalLinkT1"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -4517,6 +5141,22 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1Description": "",
+        "_type": "clientInternalLinkT1",
+        "t1CTA": "Watch now",
+        "t1Title": "All Aboard the FLY Hype Train!",
+        "_key": "nP7fx0C1",
+        "hideCTAButton": false,
+        "t1Subtitle": ""
+      },
+      {
+        "t2Title": "All Aboard the FLY Hype Train!",
+        "_type": "clientInternalLinkT2",
+        "_key": "Cu4DTqT2"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -4581,6 +5221,22 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1Subtitle": "",
+        "t1Description": "",
+        "_type": "clientInternalLinkT1",
+        "t1CTA": "Watch Now",
+        "t1Title": "PROS | Bwipo, Inspired, Dhokla",
+        "_key": "uYGWZoya",
+        "hideCTAButton": false
+      },
+      {
+        "_type": "clientInternalLinkT2",
+        "_key": "c6x1bqMc",
+        "t2Title": "PROS | Bwipo, Inspired, Dhokla"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -4644,6 +5300,111 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1Title": "LCS Spring Finals | 3/30-3/31",
+        "_key": "UpPQQ8UE",
+        "hideCTAButton": false,
+        "t1Subtitle": "",
+        "t1Description": "From drops to the schedule, learn everything about 2024 LCS Spring Finals on 3/30 - 3/31!",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "path": "images/dsfx7636/news_live/609f4ebe0cac1bc82c8391d6e19640b476ed43c2-1600x1080.jpg",
+              "assetId": "609f4ebe0cac1bc82c8391d6e19640b476ed43c2",
+              "_id": "image-609f4ebe0cac1bc82c8391d6e19640b476ed43c2-1600x1080-jpg",
+              "_updatedAt": "2024-04-27T02:04:08Z",
+              "extension": "jpg",
+              "metadata": {
+                "dimensions": {
+                  "width": 1600,
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "_type": "sanity.imageDimensions"
+                },
+                "isOpaque": true,
+                "blurHash": "V48;9@xs0Nay4=IqfPj[ayxs00NH~SfQ^$~TfkRkoeE3",
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "lightMuted": {
+                    "population": 0.19,
+                    "background": "#b9b082",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0.02,
+                    "background": "#d4b346"
+                  },
+                  "dominant": {
+                    "population": 0.58,
+                    "background": "#a79a67",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff"
+                  },
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0,
+                    "background": "#542c3c"
+                  },
+                  "muted": {
+                    "background": "#a79a67",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0.58
+                  },
+                  "lightVibrant": {
+                    "foreground": "#000",
+                    "title": "#000",
+                    "population": 0.09,
+                    "background": "#f4df90",
+                    "_type": "sanity.imagePaletteSwatch"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.15,
+                    "background": "#5f5009"
+                  }
+                },
+                "hasAlpha": false
+              },
+              "uploadId": "R5pfw4acttpZ3EY1GYbHEmEvScdrCC3h",
+              "_rev": "TveqPI7F4qA0WH6AaDh2Vi",
+              "sha1hash": "609f4ebe0cac1bc82c8391d6e19640b476ed43c2",
+              "originalFilename": "SPF_DeclutteredV2.jpg",
+              "_createdAt": "2024-04-27T02:04:08Z",
+              "_type": "sanity.imageAsset",
+              "mimeType": "image/jpeg",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/609f4ebe0cac1bc82c8391d6e19640b476ed43c2-1600x1080.jpg",
+              "size": 279816,
+              "dataset": "news_live"
+            }
+          }
+        },
+        "_type": "clientInternalLinkT1",
+        "t1CTA": ""
+      },
+      {
+        "_type": "clientInternalLinkT2",
+        "_key": "OvK5hHzU",
+        "t2Title": "LCS Spring Finals | 3/30-3/31"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",

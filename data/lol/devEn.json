@@ -1358,8 +1358,8 @@
       },
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/810d406f3f25f30371c4f552a7eb934858bee68c-1920x1080.jpg",
       "colors": {
-        "primary": "#B88982",
-        "secondary": "#332929",
+        "primary": "#B88983",
+        "secondary": "#33292A",
         "label": "#3B2320"
       },
       "mimeType": "image/jpeg"
@@ -1601,6 +1601,142 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1Title": "Season 1 Reveal & Gameplay Preview",
+        "_key": "02d039b7e999",
+        "t1VideoEmbed": {
+          "provider": "youtube",
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "3zx1PwFXFdQ"
+          }
+        },
+        "hideCTAButton": true,
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "extension": "jpg",
+              "metadata": {
+                "blurHash": "VKC6AJs7%2IoS#~U-7ozIoNd%K$%ofIoofs+kCWBRkoL",
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "dominant": {
+                    "population": 8,
+                    "background": "#bb8e6f",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff"
+                  },
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 7.69,
+                    "background": "#5b4638"
+                  },
+                  "muted": {
+                    "background": "#bb8e6f",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 8
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#000",
+                    "population": 0.85,
+                    "background": "#f7dca4"
+                  },
+                  "darkVibrant": {
+                    "background": "#744918",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.29
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 1.42,
+                    "background": "#d5b9a7"
+                  },
+                  "vibrant": {
+                    "title": "#fff",
+                    "population": 0.25,
+                    "background": "#ac7636",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  }
+                },
+                "hasAlpha": false,
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1066,
+                  "aspectRatio": 1.4805555555555556,
+                  "height": 720
+                },
+                "isOpaque": true
+              },
+              "originalFilename": "20241125_LoL_DevUpdate_Focused_1600x1080_T1.jpg",
+              "_rev": "y6qAFx3KEt65PvSAGhQZ4x",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/91fbd12ceaa2e649c2ec448a8446ec5e77aa8e58-1066x720.jpg",
+              "opt": {
+                "media": {
+                  "tags": [
+                    {
+                      "_rev": "ZgPiUE9lJ1tcRKuFnRhGVF",
+                      "_type": "media.tag",
+                      "name": {
+                        "current": "T1 Backdrop",
+                        "_type": "slug"
+                      },
+                      "_id": "1257WALiBIVf9XCQetNROh",
+                      "_updatedAt": "2024-07-09T21:00:00Z",
+                      "_createdAt": "2024-05-30T00:31:04Z",
+                      "dataset": "news_live"
+                    },
+                    {
+                      "name": {
+                        "current": "League of Legends",
+                        "_type": "slug"
+                      },
+                      "_id": "wBw7D1rORbwAedXY501khb",
+                      "_updatedAt": "2024-07-12T21:00:10Z",
+                      "_createdAt": "2024-05-10T19:27:55Z",
+                      "_rev": "ejVwHgKe5k9eDWbchvt6ne",
+                      "_type": "media.tag",
+                      "dataset": "news_live"
+                    }
+                  ]
+                }
+              },
+              "uploadId": "ticWnIRudkuqTXIh77qgzHon7DnRz7Zi",
+              "_type": "sanity.imageAsset",
+              "mimeType": "image/jpeg",
+              "sha1hash": "91fbd12ceaa2e649c2ec448a8446ec5e77aa8e58",
+              "size": 373723,
+              "assetId": "91fbd12ceaa2e649c2ec448a8446ec5e77aa8e58",
+              "_createdAt": "2024-11-22T14:44:44Z",
+              "_id": "image-91fbd12ceaa2e649c2ec448a8446ec5e77aa8e58-1066x720-jpg",
+              "_updatedAt": "2024-12-31T10:04:27Z",
+              "path": "images/dsfx7636/news/91fbd12ceaa2e649c2ec448a8446ec5e77aa8e58-1066x720.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "_type": "clientInternalLinkT1"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -2416,6 +2552,13 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_type": "clientInternalLinkT2",
+        "_key": "a3e02bb5dd88",
+        "t2Title": "Matchmaking, Seasons in 2025 & More"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -2540,6 +2683,13 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_type": "clientInternalLinkT1",
+        "t1Title": "/dev: Arena and Swarm’s Future",
+        "_key": "9596a7b6be15"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -2790,6 +2940,261 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1VideoEmbed": {
+          "mediaType": "video",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "Ns8hunJ8xCs"
+          },
+          "provider": "youtube",
+          "_type": "multimediaAsset"
+        },
+        "hideCTAButton": true,
+        "backdropImage": {
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "path": "images/dsfx7636/news/5c300b0f57814f6e3cce9eba77124ba2868ba2e1-1920x1080.jpg",
+              "size": 212753,
+              "_updatedAt": "2024-09-16T10:46:31Z",
+              "metadata": {
+                "dimensions": {
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080,
+                  "_type": "sanity.imageDimensions",
+                  "width": 1920
+                },
+                "isOpaque": true,
+                "blurHash": "M79soZNX00M|xBTAoO$Sn}In0Mxa}@k6In",
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "dominant": {
+                    "background": "#ce9da8",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 6.57
+                  },
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 6.28,
+                    "background": "#322e61"
+                  },
+                  "muted": {
+                    "background": "#755ab2",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 3.03
+                  },
+                  "lightVibrant": {
+                    "background": "#7dadde",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0.23
+                  },
+                  "darkVibrant": {
+                    "population": 0.15,
+                    "background": "#330a63",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 6.57,
+                    "background": "#ce9da8"
+                  },
+                  "vibrant": {
+                    "title": "#fff",
+                    "population": 0.25,
+                    "background": "#b239a4",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  }
+                },
+                "hasAlpha": false
+              },
+              "_type": "sanity.imageAsset",
+              "mimeType": "image/jpeg",
+              "_id": "image-5c300b0f57814f6e3cce9eba77124ba2868ba2e1-1920x1080-jpg",
+              "originalFilename": "Client_BackgroundT1.jpg",
+              "extension": "jpg",
+              "uploadId": "BiAfcJf6YScPLnk6DOAz0smbswJQdpje",
+              "sha1hash": "5c300b0f57814f6e3cce9eba77124ba2868ba2e1",
+              "_createdAt": "2024-08-20T17:52:41Z",
+              "assetId": "5c300b0f57814f6e3cce9eba77124ba2868ba2e1",
+              "opt": {
+                "media": {
+                  "tags": [
+                    {
+                      "name": {
+                        "current": "League of Legends",
+                        "_type": "slug"
+                      },
+                      "_id": "wBw7D1rORbwAedXY501khb",
+                      "_updatedAt": "2024-07-12T21:00:10Z",
+                      "_createdAt": "2024-05-10T19:27:55Z",
+                      "_rev": "ejVwHgKe5k9eDWbchvt6ne",
+                      "_type": "media.tag",
+                      "dataset": "news_live"
+                    },
+                    {
+                      "_rev": "ZgPiUE9lJ1tcRKuFnRhGVF",
+                      "_type": "media.tag",
+                      "name": {
+                        "current": "T1 Backdrop",
+                        "_type": "slug"
+                      },
+                      "_id": "1257WALiBIVf9XCQetNROh",
+                      "_updatedAt": "2024-07-09T21:00:00Z",
+                      "_createdAt": "2024-05-30T00:31:04Z",
+                      "dataset": "news_live"
+                    }
+                  ]
+                }
+              },
+              "_rev": "ebFUNpMndz2LKq7K762smK",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5c300b0f57814f6e3cce9eba77124ba2868ba2e1-1920x1080.jpg",
+              "dataset": "news_live"
+            }
+          },
+          "_type": "multimediaAsset",
+          "mediaType": "image"
+        },
+        "t1Image": {
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "path": "images/dsfx7636/news/5c300b0f57814f6e3cce9eba77124ba2868ba2e1-1920x1080.jpg",
+              "size": 212753,
+              "_updatedAt": "2024-09-16T10:46:31Z",
+              "metadata": {
+                "dimensions": {
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080,
+                  "_type": "sanity.imageDimensions",
+                  "width": 1920
+                },
+                "isOpaque": true,
+                "blurHash": "M79soZNX00M|xBTAoO$Sn}In0Mxa}@k6In",
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "dominant": {
+                    "background": "#ce9da8",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 6.57
+                  },
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 6.28,
+                    "background": "#322e61"
+                  },
+                  "muted": {
+                    "background": "#755ab2",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 3.03
+                  },
+                  "lightVibrant": {
+                    "background": "#7dadde",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0.23
+                  },
+                  "darkVibrant": {
+                    "population": 0.15,
+                    "background": "#330a63",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 6.57,
+                    "background": "#ce9da8"
+                  },
+                  "vibrant": {
+                    "title": "#fff",
+                    "population": 0.25,
+                    "background": "#b239a4",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  }
+                },
+                "hasAlpha": false
+              },
+              "_type": "sanity.imageAsset",
+              "mimeType": "image/jpeg",
+              "_id": "image-5c300b0f57814f6e3cce9eba77124ba2868ba2e1-1920x1080-jpg",
+              "originalFilename": "Client_BackgroundT1.jpg",
+              "extension": "jpg",
+              "uploadId": "BiAfcJf6YScPLnk6DOAz0smbswJQdpje",
+              "sha1hash": "5c300b0f57814f6e3cce9eba77124ba2868ba2e1",
+              "_createdAt": "2024-08-20T17:52:41Z",
+              "assetId": "5c300b0f57814f6e3cce9eba77124ba2868ba2e1",
+              "opt": {
+                "media": {
+                  "tags": [
+                    {
+                      "name": {
+                        "current": "League of Legends",
+                        "_type": "slug"
+                      },
+                      "_id": "wBw7D1rORbwAedXY501khb",
+                      "_updatedAt": "2024-07-12T21:00:10Z",
+                      "_createdAt": "2024-05-10T19:27:55Z",
+                      "_rev": "ejVwHgKe5k9eDWbchvt6ne",
+                      "_type": "media.tag",
+                      "dataset": "news_live"
+                    },
+                    {
+                      "_rev": "ZgPiUE9lJ1tcRKuFnRhGVF",
+                      "_type": "media.tag",
+                      "name": {
+                        "current": "T1 Backdrop",
+                        "_type": "slug"
+                      },
+                      "_id": "1257WALiBIVf9XCQetNROh",
+                      "_updatedAt": "2024-07-09T21:00:00Z",
+                      "_createdAt": "2024-05-30T00:31:04Z",
+                      "dataset": "news_live"
+                    }
+                  ]
+                }
+              },
+              "_rev": "ebFUNpMndz2LKq7K762smK",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5c300b0f57814f6e3cce9eba77124ba2868ba2e1-1920x1080.jpg",
+              "dataset": "news_live"
+            }
+          },
+          "_type": "multimediaAsset",
+          "mediaType": "image"
+        },
+        "_type": "clientInternalLinkT1",
+        "t1Title": "Honor, Skins & More",
+        "_key": "85f7b8e70d94"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -3104,6 +3509,131 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1Title": "마법 아수라장",
+        "_key": "ca5e205d928e",
+        "t1VideoEmbed": {
+          "provider": "youtube",
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "xHDIEZhS9Gw"
+          }
+        },
+        "hideCTAButton": true,
+        "t1Subtitle": "전략적 팀 전투 개발자 일기",
+        "backdropImage": {
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_type": "sanity.imageAsset",
+              "mimeType": "image/jpeg",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/dedd53a67a72fb1b694c2494518722c2d011f802-1920x1080.jpg",
+              "extension": "jpg",
+              "sha1hash": "dedd53a67a72fb1b694c2494518722c2d011f802",
+              "path": "images/dsfx7636/news/dedd53a67a72fb1b694c2494518722c2d011f802-1920x1080.jpg",
+              "opt": {
+                "media": {
+                  "tags": [
+                    {
+                      "_createdAt": "2024-04-24T03:44:09Z",
+                      "_rev": "ZgPiUE9lJ1tcRKuFnRgqXh",
+                      "_type": "media.tag",
+                      "name": {
+                        "current": "Teamfight Tactics",
+                        "_type": "slug"
+                      },
+                      "_id": "xL4mW6qp8pgFe8kPyEcjqd",
+                      "_updatedAt": "2024-07-09T20:58:03Z",
+                      "dataset": "news_live"
+                    }
+                  ]
+                }
+              },
+              "size": 109851,
+              "assetId": "dedd53a67a72fb1b694c2494518722c2d011f802",
+              "_id": "image-dedd53a67a72fb1b694c2494518722c2d011f802-1920x1080-jpg",
+              "_updatedAt": "2024-07-31T11:54:49Z",
+              "metadata": {
+                "isOpaque": true,
+                "blurHash": "MCA]%o0aRt^+559I-poIM{xu9o-Lt1Ip%1",
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "population": 9.92,
+                    "background": "#42395b",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "title": "#fff",
+                    "population": 0.47,
+                    "background": "#5873a2",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  },
+                  "lightVibrant": {
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.04,
+                    "background": "#6775db",
+                    "_type": "sanity.imagePaletteSwatch"
+                  },
+                  "darkVibrant": {
+                    "background": "#122c7e",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.02
+                  },
+                  "lightMuted": {
+                    "background": "#c8aead",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 5.77
+                  },
+                  "vibrant": {
+                    "title": "#fff",
+                    "population": 38.07,
+                    "background": "#3c34a4",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  },
+                  "dominant": {
+                    "title": "#fff",
+                    "population": 38.07,
+                    "background": "#3c34a4",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  }
+                },
+                "hasAlpha": false,
+                "dimensions": {
+                  "height": 1080,
+                  "_type": "sanity.imageDimensions",
+                  "width": 1920,
+                  "aspectRatio": 1.7777777777777777
+                }
+              },
+              "_createdAt": "2024-07-12T07:56:05Z",
+              "originalFilename": "Riot_Client_T1-Cluttered.jpg",
+              "uploadId": "xGukOul1U5U6vtQ6mgNqd788dHbc9dYi",
+              "_rev": "YaKEzcVhnb7P0fmfv64Udd",
+              "dataset": "news_live"
+            }
+          },
+          "_type": "multimediaAsset",
+          "mediaType": "image"
+        },
+        "_type": "clientInternalLinkT1"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -3293,6 +3823,122 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1Subtitle": "Teamfight Tactics",
+        "t1Description": "A reflection on Inkborn Fables with our Director of Game Design, Riot Mort.",
+        "backdropImage": {
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "metadata": {
+                "hasAlpha": false,
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1920,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080
+                },
+                "isOpaque": true,
+                "blurHash": "MIG8=j00rTOb%L};JA9v-AR+%KRQRjyDVs",
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "muted": {
+                    "background": "#999d4f",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.07
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0.12,
+                    "background": "#8abce6"
+                  },
+                  "darkVibrant": {
+                    "background": "#04092c",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.02
+                  },
+                  "lightMuted": {
+                    "title": "#000",
+                    "population": 3.87,
+                    "background": "#d6c8c0",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000"
+                  },
+                  "vibrant": {
+                    "background": "#2ebabe",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.44
+                  },
+                  "dominant": {
+                    "title": "#000",
+                    "population": 3.87,
+                    "background": "#d6c8c0",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000"
+                  },
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "title": "#fff",
+                    "population": 0.7,
+                    "background": "#2e3151",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "opt": {
+                "media": {
+                  "tags": [
+                    {
+                      "_createdAt": "2024-04-24T03:44:09Z",
+                      "_rev": "ZgPiUE9lJ1tcRKuFnRgqXh",
+                      "_type": "media.tag",
+                      "name": {
+                        "current": "Teamfight Tactics",
+                        "_type": "slug"
+                      },
+                      "_id": "xL4mW6qp8pgFe8kPyEcjqd",
+                      "_updatedAt": "2024-07-09T20:58:03Z",
+                      "dataset": "news_live"
+                    }
+                  ]
+                }
+              },
+              "originalFilename": "ST1124_GAMEPLAY-OVERVIEW-ARTICLE_T1-CLUTTERED_1920X1080_.jpg",
+              "extension": "jpg",
+              "uploadId": "uHBSRBLJ1HazBo5W63DAlsK1i6zjZf6I",
+              "_type": "sanity.imageAsset",
+              "sha1hash": "b45968d5b15bea5bf497b95a83ec4dc0aa2ffef8",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b45968d5b15bea5bf497b95a83ec4dc0aa2ffef8-1920x1080.jpg",
+              "path": "images/dsfx7636/news/b45968d5b15bea5bf497b95a83ec4dc0aa2ffef8-1920x1080.jpg",
+              "_createdAt": "2024-06-21T21:44:21Z",
+              "assetId": "b45968d5b15bea5bf497b95a83ec4dc0aa2ffef8",
+              "_id": "image-b45968d5b15bea5bf497b95a83ec4dc0aa2ffef8-1920x1080-jpg",
+              "_updatedAt": "2024-07-09T16:29:23Z",
+              "_rev": "ZgPiUE9lJ1tcRKuFnQxV1B",
+              "size": 450826,
+              "dataset": "news_live"
+            }
+          },
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity"
+        },
+        "_type": "clientInternalLinkT1",
+        "t1Title": "/Dev TFT: Inkborn Fables Learnings",
+        "_key": "3fa3ce0397ca"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -3544,6 +4190,112 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "backdropImage": {
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_updatedAt": "2024-07-15T16:34:45Z",
+              "assetId": "8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d",
+              "extension": "jpg",
+              "_rev": "neae7oL4y1FotDvvRkxhc2",
+              "_type": "sanity.imageAsset",
+              "mimeType": "image/jpeg",
+              "sha1hash": "8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d",
+              "path": "images/dsfx7636/news/8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d-1920x1080.jpg",
+              "metadata": {
+                "palette": {
+                  "dominant": {
+                    "background": "#cd9da7",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 6.58
+                  },
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "title": "#fff",
+                    "population": 6.24,
+                    "background": "#322e61",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  },
+                  "muted": {
+                    "background": "#755ab2",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 3.06
+                  },
+                  "lightVibrant": {
+                    "background": "#7daee0",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0.22
+                  },
+                  "darkVibrant": {
+                    "title": "#fff",
+                    "population": 0.15,
+                    "background": "#330a63",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  },
+                  "lightMuted": {
+                    "background": "#cd9da7",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 6.58
+                  },
+                  "vibrant": {
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.26,
+                    "background": "#b139a3",
+                    "_type": "sanity.imagePaletteSwatch"
+                  }
+                },
+                "hasAlpha": false,
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1920,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080
+                },
+                "isOpaque": true,
+                "blurHash": "M79soZNX00M|xBTAoO$Sn}In0Mxa}@k6In",
+                "_type": "sanity.imageMetadata"
+              },
+              "uploadId": "Awiv9lOLOGpoAVXwOx8zJfWMjgigvaRg",
+              "_createdAt": "2024-03-15T01:10:19Z",
+              "_id": "image-8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d-1920x1080-jpg",
+              "originalFilename": "02262024_SN2024_Gameplay-KV-1920x1080_(1).jpg",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d-1920x1080.jpg",
+              "size": 211892,
+              "dataset": "news_live"
+            }
+          },
+          "_type": "multimediaAsset",
+          "mediaType": "image"
+        },
+        "_type": "clientInternalLinkT1",
+        "t1Title": "Gameplay, Esports & Arcane",
+        "_key": "9df266593f60",
+        "t1VideoEmbed": {
+          "provider": "youtube",
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "6zOUaLKqwaA"
+          }
+        },
+        "hideCTAButton": true
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -3668,6 +4420,17 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1CTA": "",
+        "t1Title": "Split 2 Gameplay Preview",
+        "_key": "j59ZCe5N",
+        "hideCTAButton": false,
+        "t1Subtitle": "Split 2 Preview",
+        "t1Description": "",
+        "_type": "clientInternalLinkT1"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -3980,6 +4743,17 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_type": "clientInternalLinkT1",
+        "t1CTA": "",
+        "t1Title": "",
+        "_key": "0h79M5v3",
+        "hideCTAButton": false,
+        "t1Subtitle": "Making Lee’s ASU",
+        "t1Description": ""
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -4294,6 +5068,115 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "hideCTAButton": true,
+        "backdropImage": {
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_updatedAt": "2024-07-15T16:34:45Z",
+              "assetId": "8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d",
+              "extension": "jpg",
+              "_rev": "neae7oL4y1FotDvvRkxhc2",
+              "_type": "sanity.imageAsset",
+              "mimeType": "image/jpeg",
+              "sha1hash": "8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d",
+              "path": "images/dsfx7636/news/8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d-1920x1080.jpg",
+              "metadata": {
+                "palette": {
+                  "dominant": {
+                    "background": "#cd9da7",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 6.58
+                  },
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "title": "#fff",
+                    "population": 6.24,
+                    "background": "#322e61",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  },
+                  "muted": {
+                    "background": "#755ab2",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 3.06
+                  },
+                  "lightVibrant": {
+                    "background": "#7daee0",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0.22
+                  },
+                  "darkVibrant": {
+                    "title": "#fff",
+                    "population": 0.15,
+                    "background": "#330a63",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  },
+                  "lightMuted": {
+                    "background": "#cd9da7",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 6.58
+                  },
+                  "vibrant": {
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.26,
+                    "background": "#b139a3",
+                    "_type": "sanity.imagePaletteSwatch"
+                  }
+                },
+                "hasAlpha": false,
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1920,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080
+                },
+                "isOpaque": true,
+                "blurHash": "M79soZNX00M|xBTAoO$Sn}In0Mxa}@k6In",
+                "_type": "sanity.imageMetadata"
+              },
+              "uploadId": "Awiv9lOLOGpoAVXwOx8zJfWMjgigvaRg",
+              "_createdAt": "2024-03-15T01:10:19Z",
+              "_id": "image-8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d-1920x1080-jpg",
+              "originalFilename": "02262024_SN2024_Gameplay-KV-1920x1080_(1).jpg",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8bc08f0cfa588ed0d76ae86156ddf07a85a64f7d-1920x1080.jpg",
+              "size": 211892,
+              "dataset": "news_live"
+            }
+          },
+          "_type": "multimediaAsset"
+        },
+        "t1VideoEmbed": {
+          "provider": "youtube",
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "youtubeAsset": {
+            "_type": "youtube",
+            "videoID": "https://www.youtube.com/watch?v=t2niKNCmiUY"
+          }
+        },
+        "t1Description": "",
+        "t1Title": "",
+        "t1Subtitle": "",
+        "_type": "clientInternalLinkT1",
+        "t1CTA": "",
+        "_key": "yobHLfDB"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -4356,6 +5239,17 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1Subtitle": "New Bot AI in 14.6!",
+        "t1Description": "",
+        "_type": "clientInternalLinkT1",
+        "t1CTA": "",
+        "t1Title": "New Coop vs AI Bots in 14.6!",
+        "_key": "wj4t47v3",
+        "hideCTAButton": false
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -4668,6 +5562,106 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_key": "95iu7nEt",
+        "hideCTAButton": false,
+        "t1Subtitle": "",
+        "t1Description": "",
+        "backdropImage": {
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "extension": "jpg",
+              "mimeType": "image/jpeg",
+              "sha1hash": "459a55ea43657137025ff23668b065283ddc7946",
+              "_id": "image-459a55ea43657137025ff23668b065283ddc7946-1600x1080-jpg",
+              "originalFilename": "10524_TLDW_Season_2024_Look_Ahead_Decluttered_V2.jpg",
+              "metadata": {
+                "palette": {
+                  "lightVibrant": {
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0,
+                    "background": "#e3b896",
+                    "_type": "sanity.imagePaletteSwatch"
+                  },
+                  "darkVibrant": {
+                    "background": "#693e1c",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.05
+                  },
+                  "lightMuted": {
+                    "title": "#000",
+                    "population": 7.36,
+                    "background": "#cdcfd2",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000"
+                  },
+                  "vibrant": {
+                    "title": "#fff",
+                    "population": 0,
+                    "background": "#c97635",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  },
+                  "dominant": {
+                    "background": "#4a352b",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 8.14
+                  },
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "background": "#4a352b",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 8.14
+                  },
+                  "muted": {
+                    "title": "#fff",
+                    "population": 1.16,
+                    "background": "#7871ae",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  }
+                },
+                "hasAlpha": false,
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080
+                },
+                "isOpaque": true,
+                "blurHash": "V4A0tE01ND?Y00IB_3.7E1%M00_2WIV~~qx^4oM{?Z4n",
+                "_type": "sanity.imageMetadata"
+              },
+              "_rev": "EwS6z5EeuhaBecgs0Z2RuO",
+              "_type": "sanity.imageAsset",
+              "path": "images/dsfx7636/news/459a55ea43657137025ff23668b065283ddc7946-1600x1080.jpg",
+              "size": 333002,
+              "_updatedAt": "2024-06-20T18:49:27Z",
+              "assetId": "459a55ea43657137025ff23668b065283ddc7946",
+              "uploadId": "W1HoHmvnxEKCzrRKdBVeGsEWWkVhJwuP",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/459a55ea43657137025ff23668b065283ddc7946-1600x1080.jpg",
+              "_createdAt": "2024-04-27T02:07:54Z",
+              "dataset": "news_live"
+            }
+          },
+          "_type": "multimediaAsset"
+        },
+        "_type": "clientInternalLinkT1",
+        "t1CTA": "",
+        "t1Title": ""
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",

@@ -92,6 +92,115 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "t1CTA": "",
+        "t1Subtitle": "",
+        "_type": "clientInternalLinkT1",
+        "_key": "bPcoyiGc",
+        "t1VideoEmbed": {
+          "provider": "youtube",
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "youtubeAsset": {
+            "_type": "youtube",
+            "videoID": "https://www.youtube.com/watch?v=kOPLj5kRquM"
+          }
+        },
+        "t1Description": "Regardez la bande-annonce du livre RUINATION et précommandez votre exemplaire !",
+        "hideCTAButton": false,
+        "t1Title": "La RUINE se répand…",
+        "backdropImage": {
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_rev": "TveqPI7F4qA0WH6AaDekYg",
+              "assetId": "7deb9b780ba07bdd8331c8a51f63067b1470b70d",
+              "_type": "sanity.imageAsset",
+              "path": "images/dsfx7636/news_live/7deb9b780ba07bdd8331c8a51f63067b1470b70d-1600x1080.jpg",
+              "originalFilename": "Ruination_V2_1600x1080.jpg",
+              "extension": "jpg",
+              "uploadId": "SpRCfwz4mi74RApEWFgbMUYJ1xOpQaT9",
+              "sha1hash": "7deb9b780ba07bdd8331c8a51f63067b1470b70d",
+              "_createdAt": "2024-04-27T01:53:59Z",
+              "metadata": {
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080
+                },
+                "isOpaque": true,
+                "blurHash": "V6C5;j~AEfnO9al.-:^4NbIV0ht6XlxtWC0Mw{$itRt7",
+                "_type": "sanity.imageMetadata",
+                "palette": {
+                  "lightMuted": {
+                    "background": "#90af9e",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff",
+                    "population": 0.07
+                  },
+                  "vibrant": {
+                    "background": "#ae3b30",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 0.37
+                  },
+                  "dominant": {
+                    "population": 6.19,
+                    "background": "#d7b68b",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000",
+                    "title": "#fff"
+                  },
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff",
+                    "population": 1.26,
+                    "background": "#2c5254"
+                  },
+                  "muted": {
+                    "population": 0.22,
+                    "background": "#9d8564",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff",
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "title": "#fff",
+                    "population": 6.19,
+                    "background": "#d7b68b",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#000"
+                  },
+                  "darkVibrant": {
+                    "title": "#fff",
+                    "population": 0.05,
+                    "background": "#844a12",
+                    "_type": "sanity.imagePaletteSwatch",
+                    "foreground": "#fff"
+                  }
+                },
+                "hasAlpha": false
+              },
+              "mimeType": "image/jpeg",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7deb9b780ba07bdd8331c8a51f63067b1470b70d-1600x1080.jpg",
+              "size": 704567,
+              "_id": "image-7deb9b780ba07bdd8331c8a51f63067b1470b70d-1600x1080-jpg",
+              "_updatedAt": "2024-04-27T01:53:59Z",
+              "dataset": "news_live"
+            }
+          },
+          "_type": "multimediaAsset",
+          "mediaType": "image"
+        }
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -721,6 +830,13 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_type": "clientInternalLinkT2",
+        "_key": "l1shgOa3",
+        "t2Title": "Nouvelle sur Séraphine : Salle comble"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -784,6 +900,13 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_type": "clientInternalLinkT2",
+        "_key": "1rEZbxTO",
+        "t2Title": "Histoire du champion : Séraphine"
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
