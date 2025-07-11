@@ -1,5 +1,69 @@
 [
   {
+    "title": "Temps forts régionaux TFT Cyber City",
+    "publishedAt": "2025-07-10T14:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "q_LT3RRVvHU",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=q_LT3RRVvHU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/aebf3ee8d239aec60319730f8edfb305bc886e30-1920x1080.jpg",
+      "colors": {
+        "primary": "#478EB8",
+        "secondary": "#292933",
+        "label": "#2C4351"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Admirez les temps forts des gros bonnets de chaque région, avant de découvrir qui deviendra le prochain big boss lors de la #TFTCrown."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "e0f7fea9-4946-46f0-bb89-fd2449c8e234.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "FgN8FAMm2xIhsZoUReVMyL",
+      "publishDate": "2025-07-10T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation de la Tactician's Crown Cyber City",
     "publishedAt": "2025-07-02T13:00:00.000Z",
     "action": {
@@ -5295,69 +5359,6 @@
       "contentLocale": "fr-fr",
       "rev": "X59rv1xDPcH5jdaixIl85y",
       "publishDate": "2024-04-04T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Format du MSI 2024, lieu, infos sur les tickets",
-    "publishedAt": "2024-03-29T07:30:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://watch.lolesports.com/article/msi-2024-format-venue-ticket-information/bltf0f6812a20dc5ba5"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 900,
-        "width": 1600,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ba3a63fe8ce1a8aed83fc0bd6213bb7734abe2e5-1600x900.jpg",
-      "colors": {
-        "primary": "#1C0E0E",
-        "secondary": "#FFD6D6",
-        "label": "#030303"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Plus d'infos sur le MSI 2024. Les tickets seront mis en vente à partir du 2 avril."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt75414b8856ad04c9.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "X59rv1xDPcH5jdaixIl85y",
-      "publishDate": "2024-03-29T07:30:00.000Z"
     }
   }
 ]
