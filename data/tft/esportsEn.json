@@ -1,5 +1,166 @@
 [
   {
+    "title": "Live Now: #TFTCrown",
+    "publishedAt": "2025-07-11T11:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://riot.com/TACTICIANSCROWN"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "7ec630ef078e",
+        "_type": "clientInternalLinkT1",
+        "t1CTA": "WATCH NOW",
+        "t1Description": "The world’s best TFT players are here. Who’s taking over Cyber City?",
+        "t1Image": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-07-09T19:51:49Z",
+              "_id": "image-2c0754556bbcb2965b1a44b6d747573c82cc0aa0-1600x1080-jpg",
+              "_rev": "FgN8FAMm2xIhsZoURhV472",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-07-11T11:00:33Z",
+              "assetId": "2c0754556bbcb2965b1a44b6d747573c82cc0aa0",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VLKxe,L402I-TJ+bIorCIUrYt-ITxuWAnz-lRPS*tQM{",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#284c50",
+                    "foreground": "#fff",
+                    "population": 0.62,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#096991",
+                    "foreground": "#fff",
+                    "population": 1.65,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#abc1d4",
+                    "foreground": "#000",
+                    "population": 2.55,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#abc1d4",
+                    "foreground": "#000",
+                    "population": 2.55,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#70e1f4",
+                    "foreground": "#000",
+                    "population": 0.77,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#994954",
+                    "foreground": "#fff",
+                    "population": 1.66,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#09d3e6",
+                    "foreground": "#000",
+                    "population": 0.86,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "Client T1.jpg",
+              "path": "images/dsfx7636/news_live/2c0754556bbcb2965b1a44b6d747573c82cc0aa0-1600x1080.jpg",
+              "sha1hash": "2c0754556bbcb2965b1a44b6d747573c82cc0aa0",
+              "size": 564363,
+              "uploadId": "jTWuJBlCMiLfwhtbJqfAVQ2U1T1eJMRX",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2c0754556bbcb2965b1a44b6d747573c82cc0aa0-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "t1Title": "Live Now: #TFTCrown"
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8d79d1fcce91d8c1d0b49451b3fab06e5443edb0-1920x1080.jpg",
+      "colors": {
+        "primary": "#2F575F",
+        "secondary": "#F9DCEE",
+        "label": "#0E3239"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The world’s best TFT players are here. Who’s taking over Cyber City?"
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "692b749c-ef27-48bb-8b5d-13237e6e9444.en-us",
+      "contentLocale": "en-us",
+      "rev": "FgN8FAMm2xIhsZoURhUtae",
+      "publishDate": "2025-07-11T11:00:00.000Z"
+    }
+  },
+  {
     "title": "TFT Cyber City Regional Highlights",
     "publishedAt": "2025-07-10T14:00:00.000Z",
     "action": {
@@ -59,7 +220,7 @@
     "analytics": {
       "contentId": "77683c6d-37b0-4e7b-9f7d-8ba73555925a.en-us",
       "contentLocale": "en-us",
-      "rev": "FgN8FAMm2xIhsZoUReVXPd",
+      "rev": "FgN8FAMm2xIhsZoURhUsbU",
       "publishDate": "2025-07-10T14:00:00.000Z"
     }
   },
@@ -184,7 +345,7 @@
     "analytics": {
       "contentId": "38abe071-4e05-41c2-9bd6-0dc5b06a5fa0.en-us",
       "contentLocale": "en-us",
-      "rev": "FgN8FAMm2xIhsZoUReVS8A",
+      "rev": "FgN8FAMm2xIhsZoURhUsbU",
       "publishDate": "2025-07-02T13:00:00.000Z"
     }
   },
@@ -195,7 +356,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "wFpZBT3FcSM",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 131,
         "url": "https://www.youtube.com/watch?v=wFpZBT3FcSM"
       }
     },
@@ -354,7 +515,7 @@
     "analytics": {
       "contentId": "4a196301-a91a-41d7-8d1f-721f905a695d.en-us",
       "contentLocale": "en-us",
-      "rev": "FgN8FAMm2xIhsZoUReVS8A",
+      "rev": "FgN8FAMm2xIhsZoURhUsbU",
       "publishDate": "2025-07-02T13:00:00.000Z"
     }
   },
@@ -6325,68 +6486,6 @@
       "contentLocale": "en-us",
       "rev": "66p9nF2h0tk1WVzHPUDLkB",
       "publishDate": "2022-11-11T21:00:00.000Z"
-    }
-  },
-  {
-    "title": "TFT Summit: Monsters Attack!",
-    "publishedAt": "2022-11-07T18:30:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/esports/tft-summit-monsters-attack/"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bbfb91ae2113429d0200b34dee16a3f515ec276f-1920x1080.jpg",
-      "colors": {
-        "primary": "#B86471",
-        "secondary": "#2C2933",
-        "label": "#4E2A2F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Top TFT personalities battle it out December 8-11 to celebrate Monster’s Attack! and the TFT community."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt985159be991a71b2.en-us",
-      "contentLocale": "en-us",
-      "rev": "jEln45CgOQD4spzxfDBMBx",
-      "publishDate": "2022-11-07T18:30:00.000Z"
     }
   }
 ]

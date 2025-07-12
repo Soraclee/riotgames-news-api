@@ -1,5 +1,69 @@
 [
   {
+    "title": "K.O. Coliseum OP | Cinématique de set",
+    "publishedAt": "2025-07-11T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "62_akMCQtyc",
+        "videoLengthInSeconds": 103,
+        "url": "https://www.youtube.com/watch?v=62_akMCQtyc"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7231178f210a94cdce0f7c6258851ee5edb81da3-1920x1080.jpg",
+      "colors": {
+        "primary": "#AE9EB8",
+        "secondary": "#2C2933",
+        "label": "#573969"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Regarder maintenant"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "8a410699-496c-4e19-8991-1f52f3518447.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "H1Vdyz0E2IRdMiaE2wGpep",
+      "publishDate": "2025-07-11T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Cyber City : lo-fi au sommet (boucle d'une heure)",
     "publishedAt": "2025-04-22T19:00:00.000Z",
     "action": {
@@ -4595,7 +4659,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "Byiqt1J2zqo",
-        "videoLengthInSeconds": 102,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=Byiqt1J2zqo"
       }
     },
