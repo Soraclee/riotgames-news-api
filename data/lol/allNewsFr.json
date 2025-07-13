@@ -1,12 +1,75 @@
 [
   {
+    "title": "Explication du Circuit pro TFT",
+    "publishedAt": "2025-07-12T13:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=LC5QbiKTXTg"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f2b062cc0b73bdb616cd250ae57b6c18c5a4a2ff-1920x1080.jpg",
+      "colors": {
+        "primary": "#4038B8",
+        "secondary": "#332A29",
+        "label": "#282646"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La compétition monte en niveau ! Retrouvez toutes les informations concernant le Circuit pro qui arrive sur TFT."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "51459e66-b365-4327-91b4-ba66dcfb0217.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "H1Vdyz0E2IRdMiaE2zP5bb",
+      "publishDate": "2025-07-12T13:00:00.000Z"
+    }
+  },
+  {
     "title": "K.O. Coliseum OP | Cinématique de set",
     "publishedAt": "2025-07-11T13:00:00.000Z",
     "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "62_akMCQtyc",
-        "videoLengthInSeconds": 103,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=62_akMCQtyc"
       }
     },
@@ -4160,68 +4223,6 @@
     }
   },
   {
-    "title": "Notes de patch 25.09",
-    "publishedAt": "2025-04-29T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-09-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0147454728fceaeea0d39f96ee4967efe31d29a6-1920x1080.jpg",
-      "colors": {
-        "primary": "#9D8CB8",
-        "secondary": "#292933",
-        "label": "#59427B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Sautez dans l'action, bienvenue à la saison 2 !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "238e4827-5576-40b8-be43-bd3342d2de9b.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "xCAQSJhF97p2wotMQL3vcX",
-      "publishDate": "2025-04-29T18:00:00.000Z"
-    }
-  },
-  {
     "title": "Notes de patch 14.3 Teamfight Tactics (2025)",
     "publishedAt": "2025-04-29T18:00:00.000Z",
     "action": {
@@ -4281,6 +4282,68 @@
       "contentId": "1ce23d39-3566-466d-9a3d-92d025bca231.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "xCAQSJhF97p2wotMQ6Pj46",
+      "publishDate": "2025-04-29T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.09",
+    "publishedAt": "2025-04-29T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-09-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0147454728fceaeea0d39f96ee4967efe31d29a6-1920x1080.jpg",
+      "colors": {
+        "primary": "#9D8CB8",
+        "secondary": "#292933",
+        "label": "#59427B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Sautez dans l'action, bienvenue à la saison 2 !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "238e4827-5576-40b8-be43-bd3342d2de9b.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "xCAQSJhF97p2wotMQL3vcX",
       "publishDate": "2025-04-29T18:00:00.000Z"
     }
   },
@@ -4659,70 +4722,6 @@
       "contentLocale": "fr-fr",
       "rev": "64JIf3242XCalv5ptUSaX0",
       "publishDate": "2025-04-18T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Musique du skin Mordekaiser Sahn-Uzal",
-    "publishedAt": "2025-04-17T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "LEHKaOAxFxU",
-        "videoLengthInSeconds": 189,
-        "url": "https://www.youtube.com/watch?v=LEHKaOAxFxU"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/384c1b1f03c1056d6be00078d9a10bd8720cb65a-1920x1080.jpg",
-      "colors": {
-        "primary": "#1C130E",
-        "secondary": "#F9F3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Longue vie au roi incontesté. Écoutez le nouvel hymne de Mordekaiser Sahn-Uzal."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "8d28a6fa-4aa6-482f-9e81-72b7664c69aa.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "H03GYKXgTDLTXQZSpt87OV",
-      "publishDate": "2025-04-17T15:00:00.000Z"
     }
   }
 ]
