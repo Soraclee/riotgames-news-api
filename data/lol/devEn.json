@@ -1,5 +1,69 @@
 [
   {
+    "title": "TFT Dev Drop: K.O. Coliseum",
+    "publishedAt": "2025-07-13T17:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "FKf0wrMEbz4",
+        "videoLengthInSeconds": 883,
+        "url": "https://www.youtube.com/watch?v=FKf0wrMEbz4"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/907255af63786377dbc621bd6f7ccd5e7b18eda1-1920x1080.jpg",
+      "colors": {
+        "primary": "#4E4327",
+        "secondary": "#E9F9DC",
+        "label": "#241C09"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Rally your squad, power up, and battle your way to Top 4 glory."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "6db48584-109b-4e00-9ee9-cdf206989f82.en-us",
+      "contentLocale": "en-us",
+      "rev": "p5nSRBft0Fa6JmWKCpqDOb",
+      "publishDate": "2025-07-13T17:00:00.000Z"
+    }
+  },
+  {
     "title": "/Dev TFT: Cyber City Learnings",
     "publishedAt": "2025-07-07T17:00:00.000Z",
     "action": {
@@ -567,68 +631,6 @@
     }
   },
   {
-    "title": "/dev: Get Ready to Brawl",
-    "publishedAt": "2025-04-15T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-get-ready-to-brawl"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d29979d2ef96d022147b7ba71fefa51bb1f7b9a2-1280x720.jpg",
-      "colors": {
-        "primary": "#152A1A",
-        "secondary": "#DCEDF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Everything you need to know about our new 5v5 game mode."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "df9ea100-cdaf-4677-b272-6e26867c3ad8.en-us",
-      "contentLocale": "en-us",
-      "rev": "1OHV7GMsUZDY4IFuSeiNEY",
-      "publishDate": "2025-04-15T15:00:00.000Z"
-    }
-  },
-  {
     "title": "TL;DW: Spirit Blossom, Brawl & More Dev Update",
     "publishedAt": "2025-04-15T15:00:00.000Z",
     "action": {
@@ -687,6 +689,68 @@
       "contentId": "d3c7dfeb-327e-4aad-9e81-be61adcc786c.en-us",
       "contentLocale": "en-us",
       "rev": "liBwLfU12KkZimf6bUJ6vM",
+      "publishDate": "2025-04-15T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev: Get Ready to Brawl",
+    "publishedAt": "2025-04-15T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-get-ready-to-brawl"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d29979d2ef96d022147b7ba71fefa51bb1f7b9a2-1280x720.jpg",
+      "colors": {
+        "primary": "#152A1A",
+        "secondary": "#DCEDF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Everything you need to know about our new 5v5 game mode."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "df9ea100-cdaf-4677-b272-6e26867c3ad8.en-us",
+      "contentLocale": "en-us",
+      "rev": "1OHV7GMsUZDY4IFuSeiNEY",
       "publishDate": "2025-04-15T15:00:00.000Z"
     }
   },
@@ -1956,68 +2020,6 @@
     }
   },
   {
-    "title": "/dev: Seasons in 2025",
-    "publishedAt": "2024-11-25T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-seasons-in-2025"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e19e610a76043bfff488716050d4a5533d20bfbe-1920x1080.jpg",
-      "colors": {
-        "primary": "#221911",
-        "secondary": "#F9F1DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Here’s what you need to know about Seasons in 2025."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "4968e4b2-66ec-4f59-a352-0092ad20ff72.en-us",
-      "contentLocale": "en-us",
-      "rev": "UPIPX87Xr8dUQrGWE8GqHL",
-      "publishDate": "2024-11-25T16:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev: 2025 Season One Gameplay Preview",
     "publishedAt": "2024-11-25T16:00:00.000Z",
     "action": {
@@ -2076,6 +2078,68 @@
       "contentId": "a6e68f20-992b-4452-8863-288c7107e4d7.en-us",
       "contentLocale": "en-us",
       "rev": "YN8truRCqnchJPC7V0aGW9",
+      "publishDate": "2024-11-25T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev: Seasons in 2025",
+    "publishedAt": "2024-11-25T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-seasons-in-2025"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e19e610a76043bfff488716050d4a5533d20bfbe-1920x1080.jpg",
+      "colors": {
+        "primary": "#221911",
+        "secondary": "#F9F1DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Here’s what you need to know about Seasons in 2025."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "4968e4b2-66ec-4f59-a352-0092ad20ff72.en-us",
+      "contentLocale": "en-us",
+      "rev": "UPIPX87Xr8dUQrGWE8GqHL",
       "publishDate": "2024-11-25T16:00:00.000Z"
     }
   },
@@ -2459,6 +2523,68 @@
     }
   },
   {
+    "title": "/dev: Scouting out Teemo",
+    "publishedAt": "2024-09-23T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-scouting-out-teemo"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3fd236b06dc2af34ebff64e080285b7475a18638-1920x1080.jpg",
+      "colors": {
+        "primary": "#1D2211",
+        "secondary": "#F9F3DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A behind the scenes look at the development of Teemo’s ASU!"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "23c74ff4-6613-457a-9481-79f984046a24.en-us",
+      "contentLocale": "en-us",
+      "rev": "UvcsnXzcRBz8DuptDbI3jQ",
+      "publishDate": "2024-09-23T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Dev Update: Matchmaking, Seasons in 2025 & More",
     "publishedAt": "2024-09-23T15:00:00.000Z",
     "action": {
@@ -2526,68 +2652,6 @@
       "contentId": "2f5f6721-e8d2-4571-ab46-eba403debbd4.en-us",
       "contentLocale": "en-us",
       "rev": "YF0kK6uALbD7UqCF6IZWjJ",
-      "publishDate": "2024-09-23T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev: Scouting out Teemo",
-    "publishedAt": "2024-09-23T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-scouting-out-teemo"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3fd236b06dc2af34ebff64e080285b7475a18638-1920x1080.jpg",
-      "colors": {
-        "primary": "#1D2211",
-        "secondary": "#F9F3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A behind the scenes look at the development of Teemo’s ASU!"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "23c74ff4-6613-457a-9481-79f984046a24.en-us",
-      "contentLocale": "en-us",
-      "rev": "UvcsnXzcRBz8DuptDbI3jQ",
       "publishDate": "2024-09-23T15:00:00.000Z"
     }
   },
@@ -5529,168 +5593,6 @@
       "contentId": "articles.blt7e052bdf53add56a.en-us",
       "contentLocale": "en-us",
       "rev": "jEln45CgOQD4spzxfDjUXu",
-      "publishDate": "2024-01-05T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "TL;DW: Season 2024 Look Ahead",
-    "publishedAt": "2024-01-05T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/tl-dw-season-2024-look-ahead/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "95iu7nEt",
-        "hideCTAButton": false,
-        "t1Subtitle": "",
-        "t1Description": "",
-        "backdropImage": {
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "extension": "jpg",
-              "mimeType": "image/jpeg",
-              "sha1hash": "459a55ea43657137025ff23668b065283ddc7946",
-              "_id": "image-459a55ea43657137025ff23668b065283ddc7946-1600x1080-jpg",
-              "originalFilename": "10524_TLDW_Season_2024_Look_Ahead_Decluttered_V2.jpg",
-              "metadata": {
-                "palette": {
-                  "lightVibrant": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0,
-                    "background": "#e3b896",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "darkVibrant": {
-                    "background": "#693e1c",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.05
-                  },
-                  "lightMuted": {
-                    "title": "#000",
-                    "population": 7.36,
-                    "background": "#cdcfd2",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
-                  },
-                  "vibrant": {
-                    "title": "#fff",
-                    "population": 0,
-                    "background": "#c97635",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "dominant": {
-                    "background": "#4a352b",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 8.14
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "background": "#4a352b",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 8.14
-                  },
-                  "muted": {
-                    "title": "#fff",
-                    "population": 1.16,
-                    "background": "#7871ae",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
-                },
-                "isOpaque": true,
-                "blurHash": "V4A0tE01ND?Y00IB_3.7E1%M00_2WIV~~qx^4oM{?Z4n",
-                "_type": "sanity.imageMetadata"
-              },
-              "_rev": "EwS6z5EeuhaBecgs0Z2RuO",
-              "_type": "sanity.imageAsset",
-              "path": "images/dsfx7636/news/459a55ea43657137025ff23668b065283ddc7946-1600x1080.jpg",
-              "size": 333002,
-              "_updatedAt": "2024-06-20T18:49:27Z",
-              "assetId": "459a55ea43657137025ff23668b065283ddc7946",
-              "uploadId": "W1HoHmvnxEKCzrRKdBVeGsEWWkVhJwuP",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/459a55ea43657137025ff23668b065283ddc7946-1600x1080.jpg",
-              "_createdAt": "2024-04-27T02:07:54Z",
-              "dataset": "news_live"
-            }
-          },
-          "_type": "multimediaAsset"
-        },
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "",
-        "t1Title": ""
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7968939cbfee791220bb27c54a5ee57159103d7c-1280x720.jpg",
-      "colors": {
-        "primary": "#1A110D",
-        "secondary": "#D6FFDE",
-        "label": "#010101"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A short rundown of the Season 2024 dev video."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt70e45491663ae870.en-us",
-      "contentLocale": "en-us",
-      "rev": "lESIXfhUM7GwGlQ32sI75n",
       "publishDate": "2024-01-05T16:00:00.000Z"
     }
   }

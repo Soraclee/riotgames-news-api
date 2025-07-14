@@ -31,6 +31,144 @@
         "mimeType": "image/svg+xml"
       }
     },
+    "channelsConfiguration": [
+      {
+        "_key": "9f75c5295e4b",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-07-08T02:25:42Z",
+              "_id": "image-7231178f210a94cdce0f7c6258851ee5edb81da3-1920x1080-jpg",
+              "_rev": "EB76nSJsb9VgbacIqkRz1N",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-07-08T02:26:00Z",
+              "assetId": "7231178f210a94cdce0f7c6258851ee5edb81da3",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "MRL|yN@F4[5Z#Pv?t-Irn6t6PqtkzpAdn4",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080,
+                  "width": 1920
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#3a2f4d",
+                    "foreground": "#fff",
+                    "population": 1.56,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#90105e",
+                    "foreground": "#fff",
+                    "population": 0.07,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#43ebfb",
+                    "foreground": "#000",
+                    "population": 7.66,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#cddfe1",
+                    "foreground": "#000",
+                    "population": 0.7,
+                    "title": "#000"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#43ebfb",
+                    "foreground": "#000",
+                    "population": 7.66,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#6e6095",
+                    "foreground": "#fff",
+                    "population": 1.84,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#10d1f6",
+                    "foreground": "#000",
+                    "population": 1.36,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "opt": {
+                "media": {
+                  "tags": [
+                    {
+                      "_createdAt": "2024-04-24T03:44:09Z",
+                      "_rev": "ZgPiUE9lJ1tcRKuFnRgqXh",
+                      "_type": "media.tag",
+                      "name": {
+                        "current": "Teamfight Tactics",
+                        "_type": "slug"
+                      },
+                      "_id": "xL4mW6qp8pgFe8kPyEcjqd",
+                      "_updatedAt": "2024-07-09T20:58:03Z",
+                      "dataset": "news_live"
+                    },
+                    {
+                      "_type": "media.tag",
+                      "name": {
+                        "current": "Article Banner",
+                        "_type": "slug"
+                      },
+                      "_id": "r4ekvudS1eMDoSTNORBmXX",
+                      "_updatedAt": "2024-07-12T21:00:10Z",
+                      "_createdAt": "2024-03-18T22:13:10Z",
+                      "_rev": "ejVwHgKe5k9eDWbchvt6ne",
+                      "dataset": "news_live"
+                    }
+                  ]
+                }
+              },
+              "originalFilename": "TFT_14.8_Infohub_Patch-15-14_S1525_Marquee_[1920x1080].jpg",
+              "path": "images/dsfx7636/news_live/7231178f210a94cdce0f7c6258851ee5edb81da3-1920x1080.jpg",
+              "sha1hash": "7231178f210a94cdce0f7c6258851ee5edb81da3",
+              "size": 343151,
+              "uploadId": "MyhdPfndEKjCA4HID1nzL5S0IjCEfk6Z",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7231178f210a94cdce0f7c6258851ee5edb81da3-1920x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
+        "t1Description": "À vous de jouer ! Assemblez votre équipe de combat de rêve et déchaînez vos super pouvoirs le 30 juillet.",
+        "t1Subtitle": "Cinématique de set",
+        "t1Title": "K.O. Coliseum OP",
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "62_akMCQtyc"
+          }
+        }
+      }
+    ],
     "media": {
       "provider": "sanity",
       "type": "image",
@@ -59,7 +197,7 @@
     "analytics": {
       "contentId": "8a410699-496c-4e19-8991-1f52f3518447.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "FgN8FAMm2xIhsZoURk7YkY",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
       "publishDate": "2025-07-11T13:00:00.000Z"
     }
   },

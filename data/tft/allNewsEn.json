@@ -58,8 +58,179 @@
     "analytics": {
       "contentId": "c802b549-9141-43d7-ac19-3f8e7d881dd7.en-us",
       "contentLocale": "en-us",
-      "rev": "wncL8OhPdPnGfazkytA0p4",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
       "publishDate": "2025-07-12T13:00:00.000Z"
+    }
+  },
+  {
+    "title": "TFT Dev Drop: K.O. Coliseum",
+    "publishedAt": "2025-07-11T17:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "FKf0wrMEbz4",
+        "videoLengthInSeconds": 883,
+        "url": "https://www.youtube.com/watch?v=FKf0wrMEbz4"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "79ad6f9e8bbf",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-07-13T05:55:02Z",
+              "_id": "image-e5527e9162ad53877cb8bc10d31e2ff75a16c630-1600x1080-jpg",
+              "_rev": "DibL6rBB4tqcOw37bcTL08",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-07-13T05:55:02Z",
+              "assetId": "e5527e9162ad53877cb8bc10d31e2ff75a16c630",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V7ECdv[C4TQVI803oy*Gbu,x8^S]noRRXfD4i{$^%eEj",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#4c4429",
+                    "foreground": "#fff",
+                    "population": 2.09,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8a0409",
+                    "foreground": "#fff",
+                    "population": 5.45,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8a0409",
+                    "foreground": "#fff",
+                    "population": 5.45,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c3a68b",
+                    "foreground": "#000",
+                    "population": 5.05,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#84efa1",
+                    "foreground": "#000",
+                    "population": 0.48,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9c7760",
+                    "foreground": "#fff",
+                    "population": 4.06,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#e7e50b",
+                    "foreground": "#000",
+                    "population": 2.87,
+                    "title": "#000"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_ST1525_Thumbnails_Client_T1-Decluttered_DevDrop_[1600x1080]_V001_SUMMONER_pt_BR.jpg",
+              "path": "images/dsfx7636/news_live/e5527e9162ad53877cb8bc10d31e2ff75a16c630-1600x1080.jpg",
+              "sha1hash": "e5527e9162ad53877cb8bc10d31e2ff75a16c630",
+              "size": 281074,
+              "uploadId": "Sqtv82BC9Zvp5KLCfhsO8ENfUwinr60d",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e5527e9162ad53877cb8bc10d31e2ff75a16c630-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
+        "t1Subtitle": "TFT Dev Drop",
+        "t1Title": "K.O. Coliseum",
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "FKf0wrMEbz4"
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/907255af63786377dbc621bd6f7ccd5e7b18eda1-1920x1080.jpg",
+      "colors": {
+        "primary": "#4E4327",
+        "secondary": "#E9F9DC",
+        "label": "#241C09"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Rally your squad, power up, and battle your way to Top 4 glory."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "c4be0bb0-0712-462b-a481-61e33eb14d15.en-us",
+      "contentLocale": "en-us",
+      "rev": "Kgm5ASYnQbZOrQnHFi7EX1",
+      "publishDate": "2025-07-11T17:00:00.000Z"
     }
   },
   {
@@ -218,6 +389,9 @@
           }
         },
         "hideCTAButton": true,
+        "t1Description": "It’s showtime! Assemble your dream fighting team and unleash your superpowers on July 30.",
+        "t1Subtitle": "Set Cinematic",
+        "t1Title": "K.O. Coliseum OP",
         "t1VideoEmbed": {
           "_type": "multimediaAsset",
           "mediaType": "video",
@@ -257,7 +431,7 @@
     "analytics": {
       "contentId": "8a410699-496c-4e19-8991-1f52f3518447.en-us",
       "contentLocale": "en-us",
-      "rev": "DibL6rBB4tqcOw37baVzVm",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
       "publishDate": "2025-07-11T13:00:00.000Z"
     }
   },
@@ -418,7 +592,7 @@
     "analytics": {
       "contentId": "692b749c-ef27-48bb-8b5d-13237e6e9444.en-us",
       "contentLocale": "en-us",
-      "rev": "FgN8FAMm2xIhsZoURkoLJR",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
       "publishDate": "2025-07-11T11:00:00.000Z"
     }
   },
@@ -669,7 +843,7 @@
     "analytics": {
       "contentId": "38abe071-4e05-41c2-9bd6-0dc5b06a5fa0.en-us",
       "contentLocale": "en-us",
-      "rev": "FgN8FAMm2xIhsZoURknahZ",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
       "publishDate": "2025-07-02T13:00:00.000Z"
     }
   },
@@ -839,7 +1013,7 @@
     "analytics": {
       "contentId": "4a196301-a91a-41d7-8d1f-721f905a695d.en-us",
       "contentLocale": "en-us",
-      "rev": "FgN8FAMm2xIhsZoURknahZ",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
       "publishDate": "2025-07-02T13:00:00.000Z"
     }
   },
@@ -6907,207 +7081,6 @@
       "contentLocale": "en-us",
       "rev": "O0syOADLMvCWbGv9hvB7IZ",
       "publishDate": "2025-03-04T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Blood Moon Aatrox Chibi Champion Showcase",
-    "publishedAt": "2025-02-20T14:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "JddNTEKRUMo",
-        "videoLengthInSeconds": 39,
-        "url": "https://www.youtube.com/watch?v=JddNTEKRUMo"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "42181e0ef931",
-        "t1VideoEmbed": {
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "JddNTEKRUMo"
-          },
-          "provider": "youtube",
-          "_type": "multimediaAsset",
-          "mediaType": "video"
-        },
-        "hideCTAButton": true,
-        "t1Subtitle": "Chibi Champion Showcase",
-        "backdropImage": {
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "extension": "jpg",
-              "uploadId": "LJfG2E7ETYCpX5Zn0ordfqL5rLnhz7st",
-              "mimeType": "image/jpeg",
-              "assetId": "ad2f1446cbff50694bad10f92ac16842b8d7332d",
-              "_createdAt": "2025-02-14T21:39:44Z",
-              "_type": "sanity.imageAsset",
-              "sha1hash": "ad2f1446cbff50694bad10f92ac16842b8d7332d",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ad2f1446cbff50694bad10f92ac16842b8d7332d-1600x1080.jpg",
-              "size": 183906,
-              "originalFilename": "TFT_LNY25_THUMB_MiniCine_BloodMoonAatrox_1600x1080.jpg",
-              "opt": {
-                "media": {
-                  "tags": [
-                    {
-                      "_rev": "ZgPiUE9lJ1tcRKuFnRhGVF",
-                      "_type": "media.tag",
-                      "name": {
-                        "current": "T1 Backdrop",
-                        "_type": "slug"
-                      },
-                      "_id": "1257WALiBIVf9XCQetNROh",
-                      "_updatedAt": "2024-07-09T21:00:00Z",
-                      "_createdAt": "2024-05-30T00:31:04Z",
-                      "dataset": "news_live"
-                    },
-                    {
-                      "_createdAt": "2024-04-24T03:44:09Z",
-                      "_rev": "ZgPiUE9lJ1tcRKuFnRgqXh",
-                      "_type": "media.tag",
-                      "name": {
-                        "current": "Teamfight Tactics",
-                        "_type": "slug"
-                      },
-                      "_id": "xL4mW6qp8pgFe8kPyEcjqd",
-                      "_updatedAt": "2024-07-09T20:58:03Z",
-                      "dataset": "news_live"
-                    }
-                  ]
-                }
-              },
-              "_updatedAt": "2025-03-22T00:10:02Z",
-              "metadata": {
-                "isOpaque": true,
-                "blurHash": "V7D83H^M9Yxb?H}xa%InxBxv0dERT2Rjn4D}oG-qNeIU",
-                "_type": "sanity.imageMetadata",
-                "palette": {
-                  "darkVibrant": {
-                    "population": 0.06,
-                    "background": "#65133a",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "title": "#fff",
-                    "population": 0.52,
-                    "background": "#9cb1d2",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
-                  },
-                  "vibrant": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 5.37,
-                    "background": "#743362",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "dominant": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.03,
-                    "background": "#4c2e4e",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.03,
-                    "background": "#4c2e4e"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 3.65,
-                    "background": "#9d545d"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 3.15,
-                    "background": "#d88ea8"
-                  }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
-                }
-              },
-              "_rev": "MBs86ihGgxetNe5QoyOVPV",
-              "path": "images/dsfx7636/news/ad2f1446cbff50694bad10f92ac16842b8d7332d-1600x1080.jpg",
-              "_id": "image-ad2f1446cbff50694bad10f92ac16842b8d7332d-1600x1080-jpg",
-              "dataset": "news_live"
-            }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
-        },
-        "_type": "clientInternalLinkT1",
-        "t1Title": "Blood Moon Aatrox"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b8e20d66c43ff22cb8219bef86b88df62a824456-1920x1080.jpg",
-      "colors": {
-        "primary": "#49253B",
-        "secondary": "#DCEAF9",
-        "label": "#1E0816"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Apocalyptic, but make it adorable! Chibi Blood Moon Aatrox lands in Patch TFT13.5."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "c1bbaa59-bb22-471b-94c8-955dd28d3671.en-us",
-      "contentLocale": "en-us",
-      "rev": "p1E1t9c6MmuSwvdT9C6RwH",
-      "publishDate": "2025-02-20T14:00:00.000Z"
     }
   }
 ]

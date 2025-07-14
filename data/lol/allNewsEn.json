@@ -1,5 +1,69 @@
 [
   {
+    "title": "TFT Dev Drop: K.O. Coliseum",
+    "publishedAt": "2025-07-13T17:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "FKf0wrMEbz4",
+        "videoLengthInSeconds": 883,
+        "url": "https://www.youtube.com/watch?v=FKf0wrMEbz4"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/907255af63786377dbc621bd6f7ccd5e7b18eda1-1920x1080.jpg",
+      "colors": {
+        "primary": "#4E4327",
+        "secondary": "#E9F9DC",
+        "label": "#241C09"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Rally your squad, power up, and battle your way to Top 4 glory."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "6db48584-109b-4e00-9ee9-cdf206989f82.en-us",
+      "contentLocale": "en-us",
+      "rev": "p5nSRBft0Fa6JmWKCpqDOb",
+      "publishDate": "2025-07-13T17:00:00.000Z"
+    }
+  },
+  {
     "title": "TFT Pro Circuit Explainer",
     "publishedAt": "2025-07-12T13:00:00.000Z",
     "action": {
@@ -4661,69 +4725,6 @@
       "contentLocale": "en-us",
       "rev": "OTz9Kc8N8M6tkO4Yk1JPqY",
       "publishDate": "2025-04-21T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "MSI25 Tickets: Vancouver Available Now",
-    "publishedAt": "2025-04-18T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.ticketleader.ca/events/detail/msi25"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 900,
-        "width": 1600,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/de19e3be205b6ee583e71a4a8c6b084b79ef208e-1600x900.jpg",
-      "colors": {
-        "primary": "#1A0D0E",
-        "secondary": "#FFF2D6",
-        "label": "#010101"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "MSI will be held at the Pacific Coliseum in Vancouver from June 27 - July 12. Get your tickets now!"
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "ee00fe68-b0da-4ab3-9ca3-b9c9e4bc2c7d.en-us",
-      "contentLocale": "en-us",
-      "rev": "wSSxiMllUSaHjBFjUW93oR",
-      "publishDate": "2025-04-18T18:00:00.000Z"
     }
   }
 ]

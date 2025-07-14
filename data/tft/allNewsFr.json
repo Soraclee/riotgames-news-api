@@ -58,8 +58,179 @@
     "analytics": {
       "contentId": "c802b549-9141-43d7-ac19-3f8e7d881dd7.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wncL8OhPdPnGfazkyvnT5K",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
       "publishDate": "2025-07-12T13:00:00.000Z"
+    }
+  },
+  {
+    "title": "Dev drop TFT : K.O. Coliseum",
+    "publishedAt": "2025-07-11T17:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "XYzgy90NXg0",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=XYzgy90NXg0"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "2ba4b0386a80",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-07-13T05:55:02Z",
+              "_id": "image-e5527e9162ad53877cb8bc10d31e2ff75a16c630-1600x1080-jpg",
+              "_rev": "DibL6rBB4tqcOw37bcTL08",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-07-13T05:55:02Z",
+              "assetId": "e5527e9162ad53877cb8bc10d31e2ff75a16c630",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V7ECdv[C4TQVI803oy*Gbu,x8^S]noRRXfD4i{$^%eEj",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#4c4429",
+                    "foreground": "#fff",
+                    "population": 2.09,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8a0409",
+                    "foreground": "#fff",
+                    "population": 5.45,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8a0409",
+                    "foreground": "#fff",
+                    "population": 5.45,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c3a68b",
+                    "foreground": "#000",
+                    "population": 5.05,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#84efa1",
+                    "foreground": "#000",
+                    "population": 0.48,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9c7760",
+                    "foreground": "#fff",
+                    "population": 4.06,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#e7e50b",
+                    "foreground": "#000",
+                    "population": 2.87,
+                    "title": "#000"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_ST1525_Thumbnails_Client_T1-Decluttered_DevDrop_[1600x1080]_V001_SUMMONER_pt_BR.jpg",
+              "path": "images/dsfx7636/news_live/e5527e9162ad53877cb8bc10d31e2ff75a16c630-1600x1080.jpg",
+              "sha1hash": "e5527e9162ad53877cb8bc10d31e2ff75a16c630",
+              "size": 281074,
+              "uploadId": "Sqtv82BC9Zvp5KLCfhsO8ENfUwinr60d",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e5527e9162ad53877cb8bc10d31e2ff75a16c630-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
+        "t1Subtitle": "Dev drop TFT",
+        "t1Title": "K.O. Coliseum",
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "XYzgy90NXg0"
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/907255af63786377dbc621bd6f7ccd5e7b18eda1-1920x1080.jpg",
+      "colors": {
+        "primary": "#4E4327",
+        "secondary": "#E9F9DC",
+        "label": "#241C09"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Formez votre équipe et battez-vous pour atteindre le top 4."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "c4be0bb0-0712-462b-a481-61e33eb14d15.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "DibL6rBB4tqcOw37beekdM",
+      "publishDate": "2025-07-11T17:00:00.000Z"
     }
   },
   {
@@ -218,6 +389,9 @@
           }
         },
         "hideCTAButton": true,
+        "t1Description": "À vous de jouer ! Assemblez votre équipe de combat de rêve et déchaînez vos super pouvoirs le 30 juillet.",
+        "t1Subtitle": "Cinématique de set",
+        "t1Title": "K.O. Coliseum OP",
         "t1VideoEmbed": {
           "_type": "multimediaAsset",
           "mediaType": "video",
@@ -257,7 +431,7 @@
     "analytics": {
       "contentId": "8a410699-496c-4e19-8991-1f52f3518447.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "DibL6rBB4tqcOw37baVzVm",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
       "publishDate": "2025-07-11T13:00:00.000Z"
     }
   },
@@ -418,7 +592,7 @@
     "analytics": {
       "contentId": "692b749c-ef27-48bb-8b5d-13237e6e9444.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "FgN8FAMm2xIhsZoURkoLJR",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
       "publishDate": "2025-07-11T11:00:00.000Z"
     }
   },
@@ -546,6 +720,68 @@
       "contentLocale": "fr-fr",
       "rev": "FgN8FAMm2xIhsZoURk7YkY",
       "publishDate": "2025-07-07T17:00:00.000Z"
+    }
+  },
+  {
+    "title": "Présentation de la Tactician's Crown Cyber City",
+    "publishedAt": "2025-07-02T13:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/esports/cyber-city-tacticians-crown-primer"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/19acef1bdf71fbf31d5fae527c7f28739247097d-1920x1080.jpg",
+      "colors": {
+        "primary": "#08110D",
+        "secondary": "#F7FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez la Tactician's Crown Cyber City"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "38abe071-4e05-41c2-9bd6-0dc5b06a5fa0.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
+      "publishDate": "2025-07-02T13:00:00.000Z"
     }
   },
   {
@@ -714,69 +950,7 @@
     "analytics": {
       "contentId": "4a196301-a91a-41d7-8d1f-721f905a695d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "FgN8FAMm2xIhsZoURk7YkY",
-      "publishDate": "2025-07-02T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation de la Tactician's Crown Cyber City",
-    "publishedAt": "2025-07-02T13:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/esports/cyber-city-tacticians-crown-primer"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/19acef1bdf71fbf31d5fae527c7f28739247097d-1920x1080.jpg",
-      "colors": {
-        "primary": "#08110D",
-        "secondary": "#F7FFD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez la Tactician's Crown Cyber City"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "38abe071-4e05-41c2-9bd6-0dc5b06a5fa0.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "FgN8FAMm2xIhsZoURk7YkY",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
       "publishDate": "2025-07-02T13:00:00.000Z"
     }
   },
@@ -7419,70 +7593,6 @@
       "contentLocale": "fr-fr",
       "rev": "Oj1pu7KEKfAbSWWXOdRUyq",
       "publishDate": "2025-01-24T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation des Chanteuses rêveuses",
-    "publishedAt": "2025-01-24T14:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "K-Kh5bSZYBM",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=K-Kh5bSZYBM"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5ef58e6c15ef95ddee14eaee20cee8f2b9c641c7-1920x1080.jpg",
-      "colors": {
-        "primary": "#403720",
-        "secondary": "#DCF4F9",
-        "label": "#141005"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Applaudissez Séraphine chibi et K/DA ALL OUT Séraphine chibi qui arrivent dans le patch TFT13.4 !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "fd2c7c66-5d32-49a9-bf56-514dae1ed354.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "G2Pne6mPtpKt2Am6rZ4mzz",
-      "publishDate": "2025-01-24T14:00:00.000Z"
     }
   }
 ]
