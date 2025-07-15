@@ -1,5 +1,68 @@
 [
   {
+    "title": "TFT | Aperçu du set K.O. Coliseum",
+    "publishedAt": "2025-07-14T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/tft-ko-coliseum-overview"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1505e2b6c09974ff7b19137bf595e233cfafc3df-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8817F",
+        "secondary": "#2C2933",
+        "label": "#5A3230"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez en avant-première les combats inspirés des animes les plus épiques de l'été !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "39d0da50-1f1e-426f-969f-956669a20360.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "p5nSRBft0Fa6JmWKD0szHb",
+      "publishDate": "2025-07-14T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Dev drop TFT : K.O. Coliseum",
     "publishedAt": "2025-07-13T17:00:00.000Z",
     "action": {
@@ -3153,69 +3216,6 @@
     }
   },
   {
-    "title": "Le quatrième principe - Bande dessinée animée",
-    "publishedAt": "2025-05-20T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=txMCSiJ3tzc"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d749e556f05c69b54a9d061544aba643e499384b-1920x1080.jpg",
-      "colors": {
-        "primary": "#432622",
-        "secondary": "#F9E8DC",
-        "label": "#170806"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La grandeur naît-elle du sacrifice... ou d'autre chose ? Découvrez la bande dessinée animée !"
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tdMbenkpDyXWNl15ejKINA",
-      "publishDate": "2025-05-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "La Main du démon - Bande dessinée animée",
     "publishedAt": "2025-05-20T15:00:00.000Z",
     "action": {
@@ -3273,6 +3273,69 @@
     },
     "analytics": {
       "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "tdMbenkpDyXWNl15ejKINA",
+      "publishDate": "2025-05-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Le quatrième principe - Bande dessinée animée",
+    "publishedAt": "2025-05-20T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=txMCSiJ3tzc"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d749e556f05c69b54a9d061544aba643e499384b-1920x1080.jpg",
+      "colors": {
+        "primary": "#432622",
+        "secondary": "#F9E8DC",
+        "label": "#170806"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La grandeur naît-elle du sacrifice... ou d'autre chose ? Découvrez la bande dessinée animée !"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tdMbenkpDyXWNl15ejKINA",
       "publishDate": "2025-05-20T15:00:00.000Z"
@@ -4661,68 +4724,6 @@
       "contentLocale": "fr-fr",
       "rev": "ueSUZDbd7t6LqWqu7KEK0h",
       "publishDate": "2025-04-22T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Concours de fan arts Fleur spirituelle",
-    "publishedAt": "2025-04-21T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/community/spirit-blossom-fan-art-contest"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5c09e7797b4663b885db7df125f3b1b485ec52c1-1920x1080.jpg",
-      "colors": {
-        "primary": "#8887B8",
-        "secondary": "#292C33",
-        "label": "#474682"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Participez au concours de fan arts Fleur spirituelle 2025."
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "3d335eb5-ebaf-49ce-a004-0f6655c9d7b1.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "H03GYKXgTDLTXQZSq1Hjvm",
-      "publishDate": "2025-04-21T15:00:00.000Z"
     }
   }
 ]
