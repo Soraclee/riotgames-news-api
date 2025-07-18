@@ -1,5 +1,69 @@
 [
   {
+    "title": "Présentation d'iBlitzcrank chibi",
+    "publishedAt": "2025-07-17T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "eNvY0UBYRqM",
+        "videoLengthInSeconds": 32,
+        "url": "https://www.youtube.com/watch?v=eNvY0UBYRqM"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95d4a20e83ac87f9eddcbae7db1eb189bb96cb46-1920x1080.jpg",
+      "colors": {
+        "primary": "#302B18",
+        "secondary": "#DCF2F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Initialisation du processus amusant. Ha ha ha ! iBlitzcrank chibi est maintenant disponible dans TFT."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "3305b8ff-2786-4ff1-b314-b26a57543d11.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "KWEWrz7BOl3y6JeJ9x4E8Q",
+      "publishDate": "2025-07-17T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 14.8 Teamfight Tactics (2025)",
     "publishedAt": "2025-07-15T18:00:00.000Z",
     "action": {
@@ -119,7 +183,7 @@
     "analytics": {
       "contentId": "6bd29933-01d6-4486-a546-c2609570da25.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "p5nSRBft0Fa6JmWKDCbPLb",
+      "rev": "KWEWrz7BOl3y6JeJ9x4E8Q",
       "publishDate": "2025-07-15T15:00:00.000Z"
     }
   },
@@ -181,7 +245,7 @@
     "analytics": {
       "contentId": "c3a9416c-b857-4508-832a-1dd5dfb028f7.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "p5nSRBft0Fa6JmWKDCZy9b",
+      "rev": "KWEWrz7BOl3y6JeJ9x4E8Q",
       "publishDate": "2025-07-14T15:00:00.000Z"
     }
   },
@@ -7027,68 +7091,6 @@
       "contentLocale": "fr-fr",
       "rev": "0TXqTylVMKaoTR0MBr6e6O",
       "publishDate": "2024-11-10T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 14.22 de Teamfight Tactics",
-    "publishedAt": "2024-11-05T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-14-22-notes"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f3876e7baa60771e30cd3ba2df7f2c736b58faa7-1280x720.jpg",
-      "colors": {
-        "primary": "#472A24",
-        "secondary": "#F9ECDC",
-        "label": "#1C0B07"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le patch 14.22 apporte d'importantes modifications à l'organisateur d'équipe, comme des codes d'équipe, la possibilité d'organiser plusieurs équipes et plus encore. C'est également le dernier patch du set, alors c'est le moment de tout donner pour atteindre vos objectifs de classement !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "8fd78cf2-2998-4a85-8c5f-f9faede9b5c2.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "M9ubGcWQE0MDDhKJQozoLj",
-      "publishDate": "2024-11-05T19:00:00.000Z"
     }
   }
 ]

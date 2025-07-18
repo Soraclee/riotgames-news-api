@@ -1,5 +1,69 @@
 [
   {
+    "title": "Présentation d'iBlitzcrank chibi",
+    "publishedAt": "2025-07-17T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "eNvY0UBYRqM",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=eNvY0UBYRqM"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95d4a20e83ac87f9eddcbae7db1eb189bb96cb46-1920x1080.jpg",
+      "colors": {
+        "primary": "#302B18",
+        "secondary": "#DCF2F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Initialisation du processus amusant. Ha ha ha ! iBlitzcrank chibi est maintenant disponible dans TFT."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "8201a73e-e43d-49c7-b1e7-e40269bd26e1.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "HMhkQhNBqCNLAex8Bl5GHs",
+      "publishDate": "2025-07-17T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Bande-annonce de Yunara",
     "publishedAt": "2025-07-16T20:00:00.000Z",
     "action": {
@@ -4661,70 +4725,6 @@
       "contentLocale": "fr-fr",
       "rev": "1OHV7GMsUZDY4IFuSW02Pg",
       "publishDate": "2025-05-01T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Bande-annonce de lancement de l'acte 1",
-    "publishedAt": "2025-04-30T18:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "LnDNJqZHZlE",
-        "videoLengthInSeconds": 90,
-        "url": "https://www.youtube.com/watch?v=LnDNJqZHZlE"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5db785557e1a511e9cf21db134e1ca83b9f68adc-1280x720.jpg",
-      "colors": {
-        "primary": "#2A2549",
-        "secondary": "#F9DCF2",
-        "label": "#0B081E"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le festival est de retour. Commencez votre voyage dans Fleur spirituelle : Au-delà."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "b64401cb-f50e-4f6b-b6a3-fe7facd443d1.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "YEeVJZ7CPuP4bbUKQrkBqc",
-      "publishDate": "2025-04-30T18:00:00.000Z"
     }
   }
 ]
