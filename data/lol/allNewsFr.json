@@ -1,5 +1,69 @@
 [
   {
+    "title": "Musique de Yunara",
+    "publishedAt": "2025-07-18T20:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "jdhzhg72aYw",
+        "videoLengthInSeconds": 258,
+        "url": "https://www.youtube.com/watch?v=jdhzhg72aYw"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/409523f675937dc150415f401cb143533ef8b599-1920x1080.jpg",
+      "colors": {
+        "primary": "#2C2346",
+        "secondary": "#F9DCE8",
+        "label": "#0C071B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La chanson parfaite pour canaliser des siècles de magie spirituelle et la déchaîner sur vos ennemis."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "f9a901f9-f627-4af6-85e7-c191c3f95545.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "cEOg1CoDJMW2dYEMbhVlLT",
+      "publishDate": "2025-07-18T20:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation d'iBlitzcrank chibi",
     "publishedAt": "2025-07-17T13:00:00.000Z",
     "action": {
@@ -4661,70 +4725,6 @@
       "contentLocale": "fr-fr",
       "rev": "ruXFeYtqdzGGZJ3WvU75LP",
       "publishDate": "2025-05-08T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation de Tristana dragonnière chibi",
-    "publishedAt": "2025-05-01T13:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "drlIs1LBf7Q",
-        "videoLengthInSeconds": 45,
-        "url": "https://www.youtube.com/watch?v=drlIs1LBf7Q"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cfa20b66c5915ca092583e4944d126a303f4701d-1920x1080.jpg",
-      "colors": {
-        "primary": "#433822",
-        "secondary": "#F9F7DC",
-        "label": "#171206"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Riggle s'enflamme parfois un peu. Heureusement, ça ne dérange pas Tristana !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "06a81d52-24dd-4011-ab13-ec923957aa8f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "1OHV7GMsUZDY4IFuSW02Pg",
-      "publishDate": "2025-05-01T13:00:00.000Z"
     }
   }
 ]

@@ -1,5 +1,69 @@
 [
   {
+    "title": "Musique de Yunara",
+    "publishedAt": "2025-07-18T20:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "jdhzhg72aYw",
+        "videoLengthInSeconds": 258,
+        "url": "https://www.youtube.com/watch?v=jdhzhg72aYw"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/409523f675937dc150415f401cb143533ef8b599-1920x1080.jpg",
+      "colors": {
+        "primary": "#2C2346",
+        "secondary": "#F9DCE8",
+        "label": "#0C071B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La chanson parfaite pour canaliser des siècles de magie spirituelle et la déchaîner sur vos ennemis."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "f9a901f9-f627-4af6-85e7-c191c3f95545.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "cEOg1CoDJMW2dYEMbhVlLT",
+      "publishDate": "2025-07-18T20:00:00.000Z"
+    }
+  },
+  {
     "title": "K.O. Coliseum OP | Cinématique de set",
     "publishedAt": "2025-07-11T13:00:00.000Z",
     "action": {
@@ -7378,90 +7442,6 @@
       "contentLocale": "fr-fr",
       "rev": "5oZd24h28sxsR5vy6hYHDA",
       "publishDate": "2022-11-09T00:00:00.000Z"
-    }
-  },
-  {
-    "title": "Allumer la mèche",
-    "publishedAt": "2022-11-06T00:30:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "okkAdMLVXkY",
-        "videoLengthInSeconds": 228,
-        "url": "https://www.youtube.com/watch?v=okkAdMLVXkY"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "hideCTAButton": true,
-        "t1Subtitle": "Thème musical",
-        "t1Description": "Le pouvoir de l'Aurore ne se maîtrise pas, c'est lui qui vous maîtrise. Écoutez le thème Empyréen.",
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "Regarder",
-        "t1Title": "Allumer la mèche",
-        "_key": "mp1mD0vL",
-        "t1VideoEmbed": {
-          "provider": "youtube",
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "youtubeAsset": {
-            "_type": "youtube",
-            "videoID": "https://www.youtube.com/watch?v=okkAdMLVXkY"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1440,
-        "width": 2560,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a415e66f5cb33ef7b45878ca3150e7ac1bbab993-2560x1440.jpg",
-      "colors": {
-        "primary": "#0E0F1B",
-        "secondary": "#DFDCF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le pouvoir de l'Aurore ne se maîtrise pas, c'est lui qui vous maîtrise. Écoutez le thème Empyréen."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt608dabcd3faa3988.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "bxuuTlbyftRPueMcYQcGsh",
-      "publishDate": "2022-11-06T00:30:00.000Z"
     }
   }
 ]

@@ -1,5 +1,69 @@
 [
   {
+    "title": "Yunara Champion Theme",
+    "publishedAt": "2025-07-18T20:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "gni4Zh-9Z94",
+        "videoLengthInSeconds": 258,
+        "url": "https://www.youtube.com/watch?v=gni4Zh-9Z94"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/409523f675937dc150415f401cb143533ef8b599-1920x1080.jpg",
+      "colors": {
+        "primary": "#2C2346",
+        "secondary": "#F9DCE8",
+        "label": "#0C071B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The perfect song for channeling centuries of spirit magic to unleash upon your enemies."
+    },
+    "category": {
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "f9a901f9-f627-4af6-85e7-c191c3f95545.en-us",
+      "contentLocale": "en-us",
+      "rev": "cEOg1CoDJMW2dYEMbhWSLj",
+      "publishDate": "2025-07-18T20:00:00.000Z"
+    }
+  },
+  {
     "title": "K.O. Coliseum OP | Set Cinematic",
     "publishedAt": "2025-07-11T13:00:00.000Z",
     "action": {
@@ -7898,86 +7962,6 @@
       "contentLocale": "en-us",
       "rev": "bxuuTlbyftRPueMcYQd6tD",
       "publishDate": "2023-05-03T21:00:00.000Z"
-    }
-  },
-  {
-    "title": "Che Lingo - Rules (Are Meant To Break) | MSI 2023 - League of Legends",
-    "publishedAt": "2023-04-21T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "kE19Ac234Zo",
-        "videoLengthInSeconds": 182,
-        "url": "https://www.youtube.com/watch?v=kE19Ac234Zo"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "hideCTAButton": false,
-        "t1Subtitle": "",
-        "t1Description": "",
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "",
-        "t1Title": "MSI 2023 Anthem",
-        "_key": "uDnqhpjU"
-      },
-      {
-        "_type": "clientInternalLinkT2",
-        "_key": "5U0EMP69",
-        "t2Title": "MSI 2023 Anthem"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9579a1cb15581de388264dec57c150b354dc9e9a-1920x1080.jpg",
-      "colors": {
-        "primary": "#B80000",
-        "secondary": "#332C29",
-        "label": "#120A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Break the mold. Shatter expectations. DEFY what you think you know. This is the Anthem for MSI 2023."
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt8a6d696e9c99a68f.en-us",
-      "contentLocale": "en-us",
-      "rev": "RIpKXTkqwHOEY4MEaIHh7R",
-      "publishDate": "2023-04-21T16:00:00.000Z"
     }
   }
 ]
