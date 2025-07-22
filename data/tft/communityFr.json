@@ -1,5 +1,67 @@
 [
   {
+    "title": "Magazine de la communauté K.O. Coliseum",
+    "publishedAt": "2025-07-21T13:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/community/ko-coliseum-community-zine"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c450c425917ca52ba69d94a593856c6ece5f0f30-1920x1080.jpg",
+      "colors": {
+        "primary": "#6453B8",
+        "secondary": "#292F33",
+        "label": "#39325C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Participez au magazine de la communauté du set K.O. Coliseum !"
+    },
+    "category": {
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "855e9227-8468-4af8-b86a-1e6f7ec31675.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "cEOg1CoDJMW2dYEMc7FmtF",
+      "publishDate": "2025-07-21T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Célébration de la Pride 2025 dans League et TFT",
     "publishedAt": "2025-05-13T16:00:00.000Z",
     "action": {
