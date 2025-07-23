@@ -1,5 +1,64 @@
 [
   {
+    "title": "Rapport de la Faille : édition du 21 juillet",
+    "publishedAt": "2025-07-20T04:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/rift-report-july-21st-edition"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 3601,
+        "width": 8000,
+        "aspectRatio": 2.2216051096917524
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/472c330c8e2c6855060486f89ec99988afc9a0b4-8000x3601.jpg",
+      "colors": {
+        "primary": "#3B3264",
+        "secondary": "#F9DCF6",
+        "label": "#18103F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Partez à l'Aventure avec Aurora et obtenez Jinx gardienne des étoiles édition merveilleuse gratuitement ! On vous explique comment faire dans ce Rapport de la Faille !"
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "1e107ed1-4b67-464f-8c41-565e7eb2a551.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "A84qtmI5R5sVaMuSNizfOu",
+      "publishDate": "2025-07-20T04:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 6.2 de Wild Rift",
     "publishedAt": "2025-07-16T09:00:00.000Z",
     "action": {
@@ -54,7 +113,7 @@
     "analytics": {
       "contentId": "d52425e6-7b00-44c8-9ab2-3a1f06efa63b.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "WNhXDLeap07Be4YKPxSlei",
+      "rev": "PEQGNzGbxZiac5H9el92s8",
       "publishDate": "2025-07-16T09:00:00.000Z"
     }
   },
@@ -4410,65 +4469,6 @@
       "contentLocale": "fr-fr",
       "rev": "kdgc7UFRhHqFdI6LqNrVbc",
       "publishDate": "2024-01-04T00:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 4.4d de Wild Rift",
-    "publishedAt": "2023-12-27T17:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-patch-notes-4-4d/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3dd759a5fef5c286b138fe7205a5850e76f4eb73-1920x1080.jpg",
-      "colors": {
-        "primary": "#1D333A",
-        "secondary": "#DCF6F9",
-        "label": "#030A0C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "C'est le dernier patch de l'année, vous êtes prêts?! Nous avons une refonte de Ziggs, de tout nouveaux skins, un nouvel événement et, bien sûr, les habituels équilibrages."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt7bd5452b655aade9.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ebFUNpMndz2LKq7K6sOTDw",
-      "publishDate": "2023-12-27T17:00:00.000Z"
     }
   }
 ]
