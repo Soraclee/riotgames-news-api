@@ -1,5 +1,67 @@
 [
   {
+    "title": "Worlds 2025 Heads to China!",
+    "publishedAt": "2025-07-25T01:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/en-us/news/worlds-2025-heads-to-china"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/212866ab61973092ac6bd9e5e68ae5a4b232c08f-1600x900.jpg",
+      "colors": {
+        "primary": "#0F0F1E",
+        "secondary": "#F9F0DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "From Oct. 14-Nov. 9, watch the greatest teams from around the world converge in China."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "ddeb2ff9-a295-40d4-9b15-a4dc2e2dc0cd.en-us",
+      "contentLocale": "en-us",
+      "rev": "HILIt3JIRQK8KNl99hIP3n",
+      "publishDate": "2025-07-25T01:00:00.000Z"
+    }
+  },
+  {
     "title": "LTA Fantasy - Split 3: What’s New",
     "publishedAt": "2025-07-23T17:00:00.000Z",
     "action": {
@@ -5072,85 +5134,6 @@
       "contentLocale": "en-us",
       "rev": "p15nvQ31lQCsy818aYwayn",
       "publishDate": "2024-05-01T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Watch for MSI Drops",
-    "publishedAt": "2024-04-26T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://watch.lolesports.com/article/msi-2024-drops/blt4143d0f2b5e922a4"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "hideCTAButton": false,
-        "t1Subtitle": "",
-        "t1Description": "",
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "",
-        "t1Title": "WATCH FOR MSI DROPS",
-        "_key": "m6lwzCZQ"
-      },
-      {
-        "_type": "clientInternalLinkT2",
-        "_key": "a5HBK6rj",
-        "t2Title": "WATCH FOR MSI DROPS"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/886579d5d54319dc3d988ece6ebbb895480c806d-1920x1080.jpg",
-      "colors": {
-        "primary": "#B80206",
-        "secondary": "#332A29",
-        "label": "#281616"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Don't miss a drop with this handy guide."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt30763cb76f10db7b.en-us",
-      "contentLocale": "en-us",
-      "rev": "vrpf2NCX0SUkQ9zBLA3mUo",
-      "publishDate": "2024-04-26T15:00:00.000Z"
     }
   }
 ]
