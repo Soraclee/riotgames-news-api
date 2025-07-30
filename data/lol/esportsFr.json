@@ -1,5 +1,69 @@
 [
   {
+    "title": "Annonces pour K.O. Coliseum et l’avenir de TFT Esports",
+    "publishedAt": "2025-07-29T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "LOjA2Ej1R18",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=LOjA2Ej1R18"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7b8fa7fbd7cc66823ea95143a82d46d83d71b789-1920x1080.jpg",
+      "colors": {
+        "primary": "#11080F",
+        "secondary": "#FFD6FB",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez toutes les nouveautés à venir pour TFT Esports ! Du lancement du nouveau Pro Circuit TFT, à la refonte des événements du palier 2, en passant par le Paris Open, voici tout ce qui vous attend pour la prochaine saison de TFT Esports."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "a233ae51-df24-44c8-ad30-843177e6fb95.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "ICdTnj8FwQdzrJbycspDCY",
+      "publishDate": "2025-07-29T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Worlds 2025 : direction la Chine !",
     "publishedAt": "2025-07-25T01:00:00.000Z",
     "action": {
@@ -5354,69 +5418,6 @@
       "contentLocale": "fr-fr",
       "rev": "ebFUNpMndz2LKq7K6s3XiS",
       "publishDate": "2024-04-22T10:00:00.000Z"
-    }
-  },
-  {
-    "title": "Dernières actualités e-sport",
-    "publishedAt": "2024-04-16T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://lolesports.com/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/188960d232fd649309eb3a76be5e8d02b0618877-1920x1080.jpg",
-      "colors": {
-        "primary": "#1B1427",
-        "secondary": "#DCF9EF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Suivez les actus et résultats les plus récents."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt16ad284cd5684cdc.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "X59rv1xDPcH5jdaixIl85y",
-      "publishDate": "2024-04-16T18:00:00.000Z"
     }
   }
 ]
