@@ -1,5 +1,148 @@
 [
   {
+    "title": "TEAMFIGHT TACTICS: K.O. COLISEUM",
+    "publishedAt": "2025-07-30T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/en-us/set-overview/teamfight-tactics-k-o-coliseum"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e64b824433b5da7ec22220272cfbca7bee36605d-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8817E",
+        "secondary": "#2C2933",
+        "label": "#5B3331"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Power up and bring it in TFT’s ultimate anime fighting tournament set!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "33507674-1652-4173-b848-cad982af7217.en-us",
+      "contentLocale": "en-us",
+      "rev": "9TKmyZ0spkuSb983AQ56iy",
+      "publishDate": "2025-07-30T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "K.O Coliseum Set Trailer",
+    "publishedAt": "2025-07-30T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "nbcNSwzNRG8",
+        "videoLengthInSeconds": 85,
+        "url": "https://www.youtube.com/watch?v=nbcNSwzNRG8"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "1e2609df7fcd",
+        "_type": "clientInternalLinkT1",
+        "hideCTAButton": true,
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "nbcNSwzNRG8"
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bac651e02e92825467648fd9f72a5e5a20a00c0a-1920x1080.jpg",
+      "colors": {
+        "primary": "#5A472D",
+        "secondary": "#F9F6DC",
+        "label": "#33220D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Your tournament arc starts now: throw down in TFT: K.O. Coliseum!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "bd87f592-3c2d-48b8-a0e6-2e5bf030e3bb.en-us",
+      "contentLocale": "en-us",
+      "rev": "WZrXKASL6APzE6Syw0YjtO",
+      "publishDate": "2025-07-30T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 15.1 notes (2025)",
     "publishedAt": "2025-07-29T18:00:00.000Z",
     "action": {
@@ -119,7 +262,7 @@
     "analytics": {
       "contentId": "ca7ae42f-5f5b-4f21-9fa9-359a7017d95d.en-us",
       "contentLocale": "en-us",
-      "rev": "MIk80cVlKH2qTGsYe7VRWc",
+      "rev": "WZrXKASL6APzE6Syw0YjtO",
       "publishDate": "2025-07-29T17:00:00.000Z"
     }
   },
@@ -763,7 +906,7 @@
     "analytics": {
       "contentId": "c3a9416c-b857-4508-832a-1dd5dfb028f7.en-us",
       "contentLocale": "en-us",
-      "rev": "ads3VO3GIhDTuio3rTitfl",
+      "rev": "FUiUsbo0YTYIGM177Z09HZ",
       "publishDate": "2025-07-14T15:00:00.000Z"
     }
   },
@@ -837,7 +980,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "FKf0wrMEbz4",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 883,
         "url": "https://www.youtube.com/watch?v=FKf0wrMEbz4"
       }
     },
@@ -997,7 +1140,7 @@
     "analytics": {
       "contentId": "c4be0bb0-0712-462b-a481-61e33eb14d15.en-us",
       "contentLocale": "en-us",
-      "rev": "ads3VO3GIhDTuio3rTitfl",
+      "rev": "WZrXKASL6APzE6Syw0YhmC",
       "publishDate": "2025-07-11T17:00:00.000Z"
     }
   },
@@ -1008,7 +1151,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "DD3GGy2B_lw",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 103,
         "url": "https://www.youtube.com/watch?v=DD3GGy2B_lw"
       }
     },
@@ -1046,9 +1189,9 @@
             "asset": {
               "_createdAt": "2025-07-08T02:25:42Z",
               "_id": "image-7231178f210a94cdce0f7c6258851ee5edb81da3-1920x1080-jpg",
-              "_rev": "p5nSRBft0Fa6JmWKDRU6gb",
+              "_rev": "HIgY0E7wUrTyXNizf7fzCu",
               "_type": "sanity.imageAsset",
-              "_updatedAt": "2025-07-16T18:03:28Z",
+              "_updatedAt": "2025-07-30T18:02:28Z",
               "assetId": "7231178f210a94cdce0f7c6258851ee5edb81da3",
               "extension": "jpg",
               "metadata": {
@@ -1199,7 +1342,7 @@
     "analytics": {
       "contentId": "8a410699-496c-4e19-8991-1f52f3518447.en-us",
       "contentLocale": "en-us",
-      "rev": "ICdTnj8FwQdzrJbycspnD2",
+      "rev": "WZrXKASL6APzE6Syw0YjtO",
       "publishDate": "2025-07-11T13:00:00.000Z"
     }
   },
@@ -6528,238 +6671,6 @@
       "contentLocale": "en-us",
       "rev": "HvvwZlkVCRUwIRz2p06Qwh",
       "publishDate": "2025-03-19T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Beemo Chibi Champion Showcase",
-    "publishedAt": "2025-03-19T13:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "QBSTlrRHVUk",
-        "videoLengthInSeconds": 39,
-        "url": "https://www.youtube.com/watch?v=QBSTlrRHVUk"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "t1VideoEmbed": {
-          "provider": "youtube",
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "QBSTlrRHVUk"
-          }
-        },
-        "t1Subtitle": "Chibi Champion Showcase",
-        "backdropImage": {
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "extension": "jpg",
-              "_rev": "WS77EvydqHhSxKCqHsiyrm",
-              "mimeType": "image/jpeg",
-              "_id": "image-e9f21e2885c6f229544321823e0c2da38c05d991-1600x1080-jpg",
-              "_updatedAt": "2025-04-01T13:48:41Z",
-              "_type": "sanity.imageAsset",
-              "sha1hash": "e9f21e2885c6f229544321823e0c2da38c05d991",
-              "path": "images/dsfx7636/news/e9f21e2885c6f229544321823e0c2da38c05d991-1600x1080.jpg",
-              "assetId": "e9f21e2885c6f229544321823e0c2da38c05d991",
-              "uploadId": "rpsddvzjmabuWbYM2fw0aJMy5OgCdvYT",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e9f21e2885c6f229544321823e0c2da38c05d991-1600x1080.jpg",
-              "_createdAt": "2025-03-17T19:34:54Z",
-              "originalFilename": "1600x1080.jpg",
-              "metadata": {
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
-                },
-                "isOpaque": true,
-                "blurHash": "VLGkX3v}NxxZs,~TnONebHs-EjR+WDj[fkIrX8s+oKWE",
-                "_type": "sanity.imageMetadata",
-                "palette": {
-                  "lightMuted": {
-                    "title": "#fff",
-                    "population": 0.28,
-                    "background": "#85a8a5",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
-                  },
-                  "vibrant": {
-                    "foreground": "#000",
-                    "title": "#000",
-                    "population": 1.61,
-                    "background": "#f5da33",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 7.93,
-                    "background": "#9b9060"
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "title": "#fff",
-                    "population": 1.23,
-                    "background": "#6a5b34",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "muted": {
-                    "background": "#9b9060",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 7.93
-                  },
-                  "lightVibrant": {
-                    "title": "#000",
-                    "population": 0,
-                    "background": "#f8e880",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
-                  },
-                  "darkVibrant": {
-                    "background": "#95630c",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.83
-                  }
-                }
-              },
-              "size": 197537,
-              "dataset": "news_live"
-            }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
-        },
-        "_type": "clientInternalLinkT1",
-        "t1Title": "Beemo",
-        "_key": "629ad438d476"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/912eb27475e1b49a5cd1536986dd618690c5e033-1920x1080.jpg",
-      "colors": {
-        "primary": "#625531",
-        "secondary": "#F9F5DC",
-        "label": "#3C300F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Mess with his honey, and Chibi Beemo goes from sweet to SWOLE. Buzzing in with Patch TFT 13.8."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "1cb714fd-890b-45ea-9625-0fb9ab4744fc.en-us",
-      "contentLocale": "en-us",
-      "rev": "OvWc7C8KXSkb97VDRUm2vW",
-      "publishDate": "2025-03-19T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Teamfight Tactics patch 13.8 notes (2025)",
-    "publishedAt": "2025-03-18T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/teamfight-tactics-patch-13-8-notes-2025"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/455fd452c68ac809c8245b44669c0e46cbf498b7-1920x1080.jpg",
-      "colors": {
-        "primary": "#201A34",
-        "secondary": "#E7DCF9",
-        "label": "#020105"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Patch 13.8 is the last patch of Into the Arcane, I guess you could call it, Out of the Arcane, and we’re leaving it with a bang in the form of a second Anomaly round and a buff-load of buffs!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "b08c5bb6-8f3c-4ca0-a8be-9b7b103f289c.en-us",
-      "contentLocale": "en-us",
-      "rev": "l7Wtp1RWy1i0rjy7g6nxGQ",
-      "publishDate": "2025-03-18T18:00:00.000Z"
     }
   }
 ]
