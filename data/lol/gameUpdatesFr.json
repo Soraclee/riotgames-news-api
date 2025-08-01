@@ -1,5 +1,69 @@
 [
   {
+    "title": "Esprits des onsen",
+    "publishedAt": "2025-07-31T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "utG5tUbuU68",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=utG5tUbuU68"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/88a6c5b8edf1aa9ce498bcfb777073a26ba9410d-1920x1080.jpg",
+      "colors": {
+        "primary": "#B87D87",
+        "secondary": "#33292B",
+        "label": "#7C434D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Lillia fleur spirituelle chibi découvre le charmant esprit du Village spirituel... et sympathise."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "7bd0d7cb-2cdb-4d02-acfd-b719ad39e4b6.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "MZ9Dgo1Fp8CcoMqA8TTQpP",
+      "publishDate": "2025-07-31T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics : K.O. Coliseum",
     "publishedAt": "2025-07-30T19:00:00.000Z",
     "action": {
@@ -183,7 +247,7 @@
     "analytics": {
       "contentId": "de34c9b2-87c1-435e-a382-88c322d949de.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "4pgQ5PU6ij2TECBOL0ceWY",
+      "rev": "WZrXKASL6APzE6Syw2AN1T",
       "publishDate": "2025-07-29T18:00:00.000Z"
     }
   },
@@ -4672,70 +4736,6 @@
       "contentLocale": "fr-fr",
       "rev": "pjc0gZ7zw0jnhEKON7mY6q",
       "publishDate": "2025-01-24T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation d'Ezreal de porcelaine chibi prestige",
-    "publishedAt": "2025-01-23T19:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "YnRCnKrI9mA",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=YnRCnKrI9mA"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0247dae2d9ed978b33e22cbe25f18d8f16a932e5-1920x1080.jpg",
-      "colors": {
-        "primary": "#615431",
-        "secondary": "#F9EEDC",
-        "label": "#3B2F0F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Il a les oreilles de chat les plus cool de la Convergence. Ezreal de porcelaine chibi prestige est là."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "2bda6523-fe62-4777-9ac5-46faee680fd0.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "pjc0gZ7zw0jnhEKON0A3Yu",
-      "publishDate": "2025-01-23T19:00:00.000Z"
     }
   }
 ]

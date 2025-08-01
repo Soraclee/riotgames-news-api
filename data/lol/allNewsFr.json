@@ -1,5 +1,69 @@
 [
   {
+    "title": "Esprits des onsen",
+    "publishedAt": "2025-07-31T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "utG5tUbuU68",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=utG5tUbuU68"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/88a6c5b8edf1aa9ce498bcfb777073a26ba9410d-1920x1080.jpg",
+      "colors": {
+        "primary": "#B87D87",
+        "secondary": "#33292B",
+        "label": "#7C434D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Lillia fleur spirituelle chibi découvre le charmant esprit du Village spirituel... et sympathise."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "7bd0d7cb-2cdb-4d02-acfd-b719ad39e4b6.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "MZ9Dgo1Fp8CcoMqA8TTQpP",
+      "publishDate": "2025-07-31T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics : K.O. Coliseum",
     "publishedAt": "2025-07-30T19:00:00.000Z",
     "action": {
@@ -246,7 +310,7 @@
     "analytics": {
       "contentId": "de34c9b2-87c1-435e-a382-88c322d949de.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "4pgQ5PU6ij2TECBOL0ceWY",
+      "rev": "WZrXKASL6APzE6Syw2AN1T",
       "publishDate": "2025-07-29T18:00:00.000Z"
     }
   },
@@ -4288,69 +4352,6 @@
     }
   },
   {
-    "title": "La Main du démon - Bande dessinée animée",
-    "publishedAt": "2025-05-20T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg",
-      "colors": {
-        "primary": "#B8A78F",
-        "secondary": "#332D29",
-        "label": "#453825"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Si vous provoquez un démon, assurez-vous d'avoir une bonne main. Découvrez la bande dessinée animée."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tdMbenkpDyXWNl15ejKINA",
-      "publishDate": "2025-05-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Le quatrième principe - Bande dessinée animée",
     "publishedAt": "2025-05-20T15:00:00.000Z",
     "action": {
@@ -4408,6 +4409,69 @@
     },
     "analytics": {
       "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "tdMbenkpDyXWNl15ejKINA",
+      "publishDate": "2025-05-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "La Main du démon - Bande dessinée animée",
+    "publishedAt": "2025-05-20T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8A78F",
+        "secondary": "#332D29",
+        "label": "#453825"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Si vous provoquez un démon, assurez-vous d'avoir une bonne main. Découvrez la bande dessinée animée."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tdMbenkpDyXWNl15ejKINA",
       "publishDate": "2025-05-20T15:00:00.000Z"
@@ -4663,68 +4727,6 @@
       "contentLocale": "fr-fr",
       "rev": "sl3HE6aTFbIMJKWgDkIodi",
       "publishDate": "2025-05-15T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Téléchargez gratuitement le kit de streaming Fleur Spirituelle",
-    "publishedAt": "2025-05-14T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/media/download-the-spirit-blossom-streaming-kit-for-free"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9ec338c4514328eabca737c95d8789f84629b162-1920x1080.jpg",
-      "colors": {
-        "primary": "#B6A7B8",
-        "secondary": "#2D2933",
-        "label": "#824A89"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "OBTENEZ-LE MAINTENANT"
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "ad1535d2-e068-4053-9012-86dbdd91ad8b.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "cEOg1CoDJMW2dYEMc4WGlJ",
-      "publishDate": "2025-05-14T16:00:00.000Z"
     }
   }
 ]

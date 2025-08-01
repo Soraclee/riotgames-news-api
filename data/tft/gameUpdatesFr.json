@@ -1,5 +1,204 @@
 [
   {
+    "title": "Esprits des onsen",
+    "publishedAt": "2025-07-31T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "utG5tUbuU68",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=utG5tUbuU68"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "002db01b0f30",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-07-29T23:13:29Z",
+              "_id": "image-6cb58f5ac93cac0a91ee6d1b09e68abbc81d40b5-1600x1080-jpg",
+              "_rev": "MZ9Dgo1Fp8CcoMqA8Ts5bt",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-07-31T19:12:44Z",
+              "assetId": "6cb58f5ac93cac0a91ee6d1b09e68abbc81d40b5",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V9Lyg1D%.iMc0000%1vgtR?v00T0ICt8%MB@jdK*X2vz",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#4e3738",
+                    "foreground": "#fff",
+                    "population": 4.55,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#7a3953",
+                    "foreground": "#fff",
+                    "population": 4.12,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#e0c6df",
+                    "foreground": "#000",
+                    "population": 4.58,
+                    "title": "#000"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#e0c6df",
+                    "foreground": "#000",
+                    "population": 4.58,
+                    "title": "#000"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f297dd",
+                    "foreground": "#000",
+                    "population": 0.1,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#5c74a4",
+                    "foreground": "#fff",
+                    "population": 0,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b55c7f",
+                    "foreground": "#fff",
+                    "population": 3.59,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "opt": {
+                "media": {
+                  "tags": [
+                    {
+                      "_createdAt": "2024-04-24T03:44:09Z",
+                      "_rev": "ZgPiUE9lJ1tcRKuFnRgqXh",
+                      "_type": "media.tag",
+                      "name": {
+                        "current": "Teamfight Tactics",
+                        "_type": "slug"
+                      },
+                      "_id": "xL4mW6qp8pgFe8kPyEcjqd",
+                      "_updatedAt": "2024-07-09T20:58:03Z",
+                      "dataset": "news_live"
+                    },
+                    {
+                      "_rev": "ZgPiUE9lJ1tcRKuFnRhGVF",
+                      "_type": "media.tag",
+                      "name": {
+                        "current": "T1 Backdrop",
+                        "_type": "slug"
+                      },
+                      "_id": "1257WALiBIVf9XCQetNROh",
+                      "_updatedAt": "2024-07-09T21:00:00Z",
+                      "_createdAt": "2024-05-30T00:31:04Z",
+                      "dataset": "news_live"
+                    }
+                  ]
+                }
+              },
+              "originalFilename": "TFT_ST1525_Thumbnails_Client_T1-Decluttered_SpiritsoftheSprings_[1920x1080]_V001_SUMMONER.jpg",
+              "path": "images/dsfx7636/news_live/6cb58f5ac93cac0a91ee6d1b09e68abbc81d40b5-1600x1080.jpg",
+              "sha1hash": "6cb58f5ac93cac0a91ee6d1b09e68abbc81d40b5",
+              "size": 306972,
+              "uploadId": "vIy3Fmb5IVcO5nDueyW47uXB2fanV6v4",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6cb58f5ac93cac0a91ee6d1b09e68abbc81d40b5-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "utG5tUbuU68"
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/88a6c5b8edf1aa9ce498bcfb777073a26ba9410d-1920x1080.jpg",
+      "colors": {
+        "primary": "#B87D87",
+        "secondary": "#33292B",
+        "label": "#7C434D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Lillia fleur spirituelle chibi découvre le charmant esprit du Village spirituel... et sympathise."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "6fb3f2e7-7a0f-4be0-8ad0-7efa37c95367.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "MZ9Dgo1Fp8CcoMqA8TTeZ9",
+      "publishDate": "2025-07-31T16:00:00.000Z"
+    }
+  },
+  {
     "title": "TEAMFIGHT TACTICS : K.O. COLISEUM",
     "publishedAt": "2025-07-30T19:00:00.000Z",
     "action": {
@@ -58,7 +257,7 @@
     "analytics": {
       "contentId": "33507674-1652-4173-b848-cad982af7217.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "FUiUsbo0YTYIGM177Z1fFn",
+      "rev": "MZ9Dgo1Fp8CcoMqA8TTeZ9",
       "publishDate": "2025-07-30T19:00:00.000Z"
     }
   },
@@ -182,7 +381,7 @@
     "analytics": {
       "contentId": "ca7ae42f-5f5b-4f21-9fa9-359a7017d95d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "WZrXKASL6APzE6Syw0YeyA",
+      "rev": "MZ9Dgo1Fp8CcoMqA8TTeZ9",
       "publishDate": "2025-07-29T17:00:00.000Z"
     }
   },
@@ -432,7 +631,7 @@
     "analytics": {
       "contentId": "c3a9416c-b857-4508-832a-1dd5dfb028f7.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "FUiUsbo0YTYIGM177YzvYf",
+      "rev": "MZ9Dgo1Fp8CcoMqA8TTeZ9",
       "publishDate": "2025-07-14T15:00:00.000Z"
     }
   },
@@ -6795,195 +6994,6 @@
       "contentLocale": "fr-fr",
       "rev": "T130WEs22RB6SoEkOAMTxy",
       "publishDate": "2024-11-14T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Mini cinématique - Raconté par Annie",
-    "publishedAt": "2024-11-14T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "Heoq9bjEook",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=Heoq9bjEook"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_type": "clientInternalLinkT1",
-        "_key": "c37583680b6f",
-        "t1VideoEmbed": {
-          "provider": "youtube",
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "Heoq9bjEook"
-          }
-        },
-        "hideCTAButton": true,
-        "backdropImage": {
-          "sanityAsset": {
-            "asset": {
-              "size": 396952,
-              "_createdAt": "2024-11-13T15:39:04Z",
-              "_updatedAt": "2024-12-06T19:51:48Z",
-              "uploadId": "UvGUqh3DakUrpZIbzyeKjJNtltehVC7y",
-              "_rev": "CsJhS699U5wscrFy6xkJ6F",
-              "_type": "sanity.fileAsset",
-              "assetId": "6cc3a3991096b8adfeaf7d33922bb103ffbbb5a7",
-              "_id": "file-6cc3a3991096b8adfeaf7d33922bb103ffbbb5a7-jpg",
-              "originalFilename": "TFT_ST1324_CC__MiniCine-SuperfanAnnie_T1-Decluttered_v001_optimized.jpg",
-              "extension": "jpg",
-              "mimeType": "image/jpeg",
-              "sha1hash": "6cc3a3991096b8adfeaf7d33922bb103ffbbb5a7",
-              "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/6cc3a3991096b8adfeaf7d33922bb103ffbbb5a7.jpg",
-              "path": "files/dsfx7636/news/6cc3a3991096b8adfeaf7d33922bb103ffbbb5a7.jpg",
-              "dataset": "news_live"
-            },
-            "_type": "file"
-          },
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "asset": {
-              "metadata": {
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
-                },
-                "isOpaque": true,
-                "blurHash": "VbDvNmlCICMzR,Y8o$n2VsRjWUsRaeR*ofs.oeWCWFoM",
-                "_type": "sanity.imageMetadata",
-                "palette": {
-                  "lightVibrant": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 7.17,
-                    "background": "#8dc4e8",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "darkVibrant": {
-                    "background": "#7c0429",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 7.81
-                  },
-                  "lightMuted": {
-                    "background": "#d0c1c2",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 7.01
-                  },
-                  "vibrant": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 1.29,
-                    "background": "#25b7e8",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "dominant": {
-                    "title": "#fff",
-                    "population": 7.81,
-                    "background": "#7c0429",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "background": "#56345e",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 4.77
-                  },
-                  "muted": {
-                    "population": 7.76,
-                    "background": "#4f5a96",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff"
-                  }
-                },
-                "hasAlpha": false
-              },
-              "uploadId": "KglCPhPATSC5ptDlbr6CiXOq3DMwfw1L",
-              "sha1hash": "6cc3a3991096b8adfeaf7d33922bb103ffbbb5a7",
-              "size": 396952,
-              "assetId": "6cc3a3991096b8adfeaf7d33922bb103ffbbb5a7",
-              "_id": "image-6cc3a3991096b8adfeaf7d33922bb103ffbbb5a7-1600x1080-jpg",
-              "originalFilename": "TFT_ST1324_CC__MiniCine-SuperfanAnnie_T1-Decluttered_v001_optimized.jpg",
-              "_rev": "CsJhS699U5wscrFy6xkJ6F",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6cc3a3991096b8adfeaf7d33922bb103ffbbb5a7-1600x1080.jpg",
-              "path": "images/dsfx7636/news/6cc3a3991096b8adfeaf7d33922bb103ffbbb5a7-1600x1080.jpg",
-              "mimeType": "image/jpeg",
-              "_createdAt": "2024-11-13T15:39:05Z",
-              "extension": "jpg",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-12-06T19:51:48Z",
-              "dataset": "news_live"
-            },
-            "_type": "image"
-          },
-          "_type": "multimediaAsset"
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f38d3f0aa8e83ecb99a6b15991188a9fdc0817db-1920x1080.jpg",
-      "colors": {
-        "primary": "#2F264B",
-        "secondary": "#F9ECDC",
-        "label": "#0F0821"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Dites bonjour à la plus petite superfan d'Arcane."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "1a942e8f-c2b0-4a90-9f7b-2caf47dd121c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "CsJhS699U5wscrFy6xnx7B",
-      "publishDate": "2024-11-14T16:00:00.000Z"
     }
   }
 ]
