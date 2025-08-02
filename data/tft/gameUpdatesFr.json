@@ -1,5 +1,69 @@
 [
   {
+    "title": "Galerie thématique Fleur spirituelle",
+    "publishedAt": "2025-08-01T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "ZQBkeiwPCb4",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=ZQBkeiwPCb4"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6a1cb8a0b69c25cc3a060a6ade9d235624560bc1-1920x1080.jpg",
+      "colors": {
+        "primary": "#589EB8",
+        "secondary": "#2F2933",
+        "label": "#365864"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le vent murmure... et la foule rugit !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "64749f6c-8a3a-429c-9584-8af79a66031f.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "MZ9Dgo1Fp8CcoMqA8VZq2v",
+      "publishDate": "2025-08-01T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Esprits des onsen",
     "publishedAt": "2025-07-31T16:00:00.000Z",
     "action": {
@@ -194,7 +258,7 @@
     "analytics": {
       "contentId": "6fb3f2e7-7a0f-4be0-8ad0-7efa37c95367.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "MZ9Dgo1Fp8CcoMqA8TTeZ9",
+      "rev": "MZ9Dgo1Fp8CcoMqA8VZnOD",
       "publishDate": "2025-07-31T16:00:00.000Z"
     }
   },
@@ -257,7 +321,7 @@
     "analytics": {
       "contentId": "33507674-1652-4173-b848-cad982af7217.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "MZ9Dgo1Fp8CcoMqA8TTeZ9",
+      "rev": "MZ9Dgo1Fp8CcoMqA8VZnOD",
       "publishDate": "2025-07-30T19:00:00.000Z"
     }
   },
@@ -381,7 +445,7 @@
     "analytics": {
       "contentId": "ca7ae42f-5f5b-4f21-9fa9-359a7017d95d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "MZ9Dgo1Fp8CcoMqA8TTeZ9",
+      "rev": "MZ9Dgo1Fp8CcoMqA8VZnOD",
       "publishDate": "2025-07-29T17:00:00.000Z"
     }
   },
@@ -631,7 +695,7 @@
     "analytics": {
       "contentId": "c3a9416c-b857-4508-832a-1dd5dfb028f7.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "MZ9Dgo1Fp8CcoMqA8TTeZ9",
+      "rev": "MZ9Dgo1Fp8CcoMqA8VZkdZ",
       "publishDate": "2025-07-14T15:00:00.000Z"
     }
   },
@@ -6932,68 +6996,6 @@
       "contentLocale": "fr-fr",
       "rev": "T130WEs22RB6SoEkOCleMo",
       "publishDate": "2024-11-19T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Mécaniques : Into the Arcane",
-    "publishedAt": "2024-11-14T17:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/mechanics-into-the-arcane"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/de86120fce4d85dc1b149f44667d72bfa46030be-1920x1080.jpg",
-      "colors": {
-        "primary": "#422126",
-        "secondary": "#F9E6DC",
-        "label": "#160608"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez l'Anomalie, les optimisations d'équipe et libérez le potentiel des personnages d'Arcane !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "f7642b5a-0379-4d18-b902-048bd4b2df14.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "T130WEs22RB6SoEkOAMTxy",
-      "publishDate": "2024-11-14T17:00:00.000Z"
     }
   }
 ]

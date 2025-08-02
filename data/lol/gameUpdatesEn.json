@@ -1,5 +1,69 @@
 [
   {
+    "title": "Spirit Blossom Thematic Showcase",
+    "publishedAt": "2025-08-01T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "9HmzE9lIK2Y",
+        "videoLengthInSeconds": 49,
+        "url": "https://www.youtube.com/watch?v=9HmzE9lIK2Y"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6a1cb8a0b69c25cc3a060a6ade9d235624560bc1-1920x1080.jpg",
+      "colors": {
+        "primary": "#589EB8",
+        "secondary": "#2F2933",
+        "label": "#365864"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The wind whispers… and the crowd roars!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "17c7389f-db35-46a2-8281-eba171ae7b92.en-us",
+      "contentLocale": "en-us",
+      "rev": "MZ9Dgo1Fp8CcoMqA8Va3WL",
+      "publishDate": "2025-08-01T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Spirits of the Springs",
     "publishedAt": "2025-07-31T16:00:00.000Z",
     "action": {
@@ -4672,70 +4736,6 @@
       "contentLocale": "en-us",
       "rev": "r5J2fgkVFZPy5cerXdBKpx",
       "publishDate": "2025-02-04T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Dark Cosmic Jhin Unbound Tactician Showcase",
-    "publishedAt": "2025-01-24T19:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "KLC6Rs0ft1Q",
-        "videoLengthInSeconds": 47,
-        "url": "https://www.youtube.com/watch?v=KLC6Rs0ft1Q"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/dc9980aa2c7fec4f7c65a240fd64c02e5337bb0c-1920x1080.jpg",
-      "colors": {
-        "primary": "#312D18",
-        "secondary": "#DCF9E2",
-        "label": "#020100"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "His planetary performance comes to Treasure Realms and the Rotating Shop starting in patch TFT13.4."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "549de4d7-4a89-4edf-912e-a719312d0735.en-us",
-      "contentLocale": "en-us",
-      "rev": "pjc0gZ7zw0jnhEKONAB5Mq",
-      "publishDate": "2025-01-24T19:00:00.000Z"
     }
   }
 ]

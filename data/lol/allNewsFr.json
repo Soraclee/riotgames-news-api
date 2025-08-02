@@ -1,5 +1,69 @@
 [
   {
+    "title": "Galerie thématique Fleur spirituelle",
+    "publishedAt": "2025-08-01T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "ZQBkeiwPCb4",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=ZQBkeiwPCb4"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6a1cb8a0b69c25cc3a060a6ade9d235624560bc1-1920x1080.jpg",
+      "colors": {
+        "primary": "#589EB8",
+        "secondary": "#2F2933",
+        "label": "#365864"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le vent murmure... et la foule rugit !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "17c7389f-db35-46a2-8281-eba171ae7b92.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "MZ9Dgo1Fp8CcoMqA8VZqqd",
+      "publishDate": "2025-08-01T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Esprits des onsen",
     "publishedAt": "2025-07-31T16:00:00.000Z",
     "action": {
@@ -4352,69 +4416,6 @@
     }
   },
   {
-    "title": "Le quatrième principe - Bande dessinée animée",
-    "publishedAt": "2025-05-20T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=txMCSiJ3tzc"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d749e556f05c69b54a9d061544aba643e499384b-1920x1080.jpg",
-      "colors": {
-        "primary": "#432622",
-        "secondary": "#F9E8DC",
-        "label": "#170806"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La grandeur naît-elle du sacrifice... ou d'autre chose ? Découvrez la bande dessinée animée !"
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tdMbenkpDyXWNl15ejKINA",
-      "publishDate": "2025-05-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "La Main du démon - Bande dessinée animée",
     "publishedAt": "2025-05-20T15:00:00.000Z",
     "action": {
@@ -4472,6 +4473,69 @@
     },
     "analytics": {
       "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "tdMbenkpDyXWNl15ejKINA",
+      "publishDate": "2025-05-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Le quatrième principe - Bande dessinée animée",
+    "publishedAt": "2025-05-20T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=txMCSiJ3tzc"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d749e556f05c69b54a9d061544aba643e499384b-1920x1080.jpg",
+      "colors": {
+        "primary": "#432622",
+        "secondary": "#F9E8DC",
+        "label": "#170806"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La grandeur naît-elle du sacrifice... ou d'autre chose ? Découvrez la bande dessinée animée !"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tdMbenkpDyXWNl15ejKINA",
       "publishDate": "2025-05-20T15:00:00.000Z"
@@ -4663,70 +4727,6 @@
       "contentLocale": "fr-fr",
       "rev": "2CAP7i0IBGO3IKYY9uTwIa",
       "publishDate": "2025-05-20T01:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation de Dieu-roi Garen libéré",
-    "publishedAt": "2025-05-15T13:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "dt2G663FHJk",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=dt2G663FHJk"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5ad6853915abe92e7c1b9a69e5822851fd2a1205-1920x1080.jpg",
-      "colors": {
-        "primary": "#252212",
-        "secondary": "#FFD6F1",
-        "label": "#0A0A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Dieu des rois et roi des dieux... Venez contempler la puissance de Garen dans le patch 14.4 de TFT."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "61d033ae-0576-40a0-b7b0-08de8ecfff90.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "sl3HE6aTFbIMJKWgDkIodi",
-      "publishDate": "2025-05-15T13:00:00.000Z"
     }
   }
 ]
