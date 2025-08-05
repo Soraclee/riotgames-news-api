@@ -1,5 +1,69 @@
 [
   {
+    "title": "Bande-son originale de K.O. Coliseum",
+    "publishedAt": "2025-08-04T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "nJ3X4cJY_to",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=nJ3X4cJY_to"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/82a619c331c1cf79a206c3c82b7aca65e79212eb-1920x1080.jpg",
+      "colors": {
+        "primary": "#643257",
+        "secondary": "#F9DCE1",
+        "label": "#3F1033"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Vous entendez ? Voilà le son de la victoire !"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "b1cf761b-fc40-48b8-b509-46de3bbc8701.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "jj4vxX3qYYvVcQNvS1cDbu",
+      "publishDate": "2025-08-04T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Playlist Fleur spirituelle onsen x Chillhop Lofi",
     "publishedAt": "2025-07-30T18:00:00.000Z",
     "action": {
@@ -7168,70 +7232,6 @@
       "contentLocale": "fr-fr",
       "rev": "wqQE3hWIWpUAV3VUi6OCFw",
       "publishDate": "2022-12-07T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation de l'ensemble L'Attaque des monstres | Teamfight Tactics",
-    "publishedAt": "2022-12-05T00:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "CQnm_wEIeU8",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=CQnm_wEIeU8"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/91fd3ecd7e37742bfc2e8097b1160ac0b5041a30-1920x1080.jpg",
-      "colors": {
-        "primary": "#B875A9",
-        "secondary": "#2C2933",
-        "label": "#47263F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez le nouvel ensemble de TFT sur 88.8 FM : La ronde de nuit présenté par Noctambule."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt91321931f1e146bd.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "5oZd24h28sxsR5vy6hYHDA",
-      "publishDate": "2022-12-05T00:00:00.000Z"
     }
   }
 ]
