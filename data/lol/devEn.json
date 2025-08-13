@@ -57,7 +57,7 @@
     "analytics": {
       "contentId": "dab38214-fbe6-4fdf-a0ca-68ec4f36b0a1.en-us",
       "contentLocale": "en-us",
-      "rev": "btbJCkWQf5M20OnZu0rdfN",
+      "rev": "3fm2m1c6z6nDOg3CQGraPp",
       "publishDate": "2025-08-11T15:00:00.000Z"
     }
   },
@@ -119,7 +119,7 @@
     "analytics": {
       "contentId": "40b6382f-0c7a-4348-8c7f-607e93df3205.en-us",
       "contentLocale": "en-us",
-      "rev": "c2zxWnfl3smdMUvJR8x4oD",
+      "rev": "3fm2m1c6z6nDOg3CQGraPp",
       "publishDate": "2025-08-11T15:00:00.000Z"
     }
   },
@@ -181,7 +181,7 @@
     "analytics": {
       "contentId": "6c452a35-da9e-438b-ab2b-99afda5fbf09.en-us",
       "contentLocale": "en-us",
-      "rev": "7lnI7aGQeOl3memAes6FYt",
+      "rev": "3fm2m1c6z6nDOg3CQGraPp",
       "publishDate": "2025-08-11T15:00:00.000Z"
     }
   },
@@ -254,7 +254,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "uo_lXcsdMKE",
-        "videoLengthInSeconds": 799,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=uo_lXcsdMKE"
       }
     },
@@ -307,7 +307,7 @@
     "analytics": {
       "contentId": "e0783e87-5bbf-4eae-8d17-a28931918b16.en-us",
       "contentLocale": "en-us",
-      "rev": "c2zxWnfl3smdMUvJR8wqLH",
+      "rev": "3fm2m1c6z6nDOg3CQGraPp",
       "publishDate": "2025-08-11T15:00:00.000Z"
     }
   },
@@ -943,68 +943,6 @@
     }
   },
   {
-    "title": "/dev: Get Ready to Brawl",
-    "publishedAt": "2025-04-15T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-get-ready-to-brawl"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d29979d2ef96d022147b7ba71fefa51bb1f7b9a2-1280x720.jpg",
-      "colors": {
-        "primary": "#152A1A",
-        "secondary": "#DCEDF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Everything you need to know about our new 5v5 game mode."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "df9ea100-cdaf-4677-b272-6e26867c3ad8.en-us",
-      "contentLocale": "en-us",
-      "rev": "1OHV7GMsUZDY4IFuSeiNEY",
-      "publishDate": "2025-04-15T15:00:00.000Z"
-    }
-  },
-  {
     "title": "TL;DW: Spirit Blossom, Brawl & More Dev Update",
     "publishedAt": "2025-04-15T15:00:00.000Z",
     "action": {
@@ -1063,6 +1001,68 @@
       "contentId": "d3c7dfeb-327e-4aad-9e81-be61adcc786c.en-us",
       "contentLocale": "en-us",
       "rev": "liBwLfU12KkZimf6bUJ6vM",
+      "publishDate": "2025-04-15T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev: Get Ready to Brawl",
+    "publishedAt": "2025-04-15T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-get-ready-to-brawl"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d29979d2ef96d022147b7ba71fefa51bb1f7b9a2-1280x720.jpg",
+      "colors": {
+        "primary": "#152A1A",
+        "secondary": "#DCEDF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Everything you need to know about our new 5v5 game mode."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "df9ea100-cdaf-4677-b272-6e26867c3ad8.en-us",
+      "contentLocale": "en-us",
+      "rev": "1OHV7GMsUZDY4IFuSeiNEY",
       "publishDate": "2025-04-15T15:00:00.000Z"
     }
   },
@@ -2208,68 +2208,6 @@
     }
   },
   {
-    "title": "/dev: Introducing Swiftplay",
-    "publishedAt": "2024-11-25T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-introducing-swiftplay"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bf7239f10ecfba9b38a274d73a394bd1e10b026d-1920x1080.jpg",
-      "colors": {
-        "primary": "#3A371D",
-        "secondary": "#F8F9DC",
-        "label": "#0C0B03"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "The newest queue coming to League."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "2a20d935-2821-4090-ad4a-4cb4478c00f0.en-us",
-      "contentLocale": "en-us",
-      "rev": "YN8truRCqnchJPC7V0aNvX",
-      "publishDate": "2024-11-25T16:00:00.000Z"
-    }
-  },
-  {
     "title": "TL;DW: Season 1 Reveal, Gameplay Preview & More",
     "publishedAt": "2024-11-25T16:00:00.000Z",
     "action": {
@@ -2328,6 +2266,68 @@
       "contentId": "aede617c-f4d2-4ba5-8307-4f89e7aff7ce.en-us",
       "contentLocale": "en-us",
       "rev": "YN8truRCqnchJPC7V0ZziZ",
+      "publishDate": "2024-11-25T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev: Introducing Swiftplay",
+    "publishedAt": "2024-11-25T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-introducing-swiftplay"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bf7239f10ecfba9b38a274d73a394bd1e10b026d-1920x1080.jpg",
+      "colors": {
+        "primary": "#3A371D",
+        "secondary": "#F8F9DC",
+        "label": "#0C0B03"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The newest queue coming to League."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "2a20d935-2821-4090-ad4a-4cb4478c00f0.en-us",
+      "contentLocale": "en-us",
+      "rev": "YN8truRCqnchJPC7V0aNvX",
       "publishDate": "2024-11-25T16:00:00.000Z"
     }
   },
@@ -2835,6 +2835,68 @@
     }
   },
   {
+    "title": "/dev: Scouting out Teemo",
+    "publishedAt": "2024-09-23T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-scouting-out-teemo"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3fd236b06dc2af34ebff64e080285b7475a18638-1920x1080.jpg",
+      "colors": {
+        "primary": "#1D2211",
+        "secondary": "#F9F3DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A behind the scenes look at the development of Teemo’s ASU!"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "23c74ff4-6613-457a-9481-79f984046a24.en-us",
+      "contentLocale": "en-us",
+      "rev": "UvcsnXzcRBz8DuptDbI3jQ",
+      "publishDate": "2024-09-23T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Dev Update: Matchmaking, Seasons in 2025 & More",
     "publishedAt": "2024-09-23T15:00:00.000Z",
     "action": {
@@ -2902,68 +2964,6 @@
       "contentId": "2f5f6721-e8d2-4571-ab46-eba403debbd4.en-us",
       "contentLocale": "en-us",
       "rev": "YF0kK6uALbD7UqCF6IZWjJ",
-      "publishDate": "2024-09-23T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev: Scouting out Teemo",
-    "publishedAt": "2024-09-23T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-scouting-out-teemo"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3fd236b06dc2af34ebff64e080285b7475a18638-1920x1080.jpg",
-      "colors": {
-        "primary": "#1D2211",
-        "secondary": "#F9F3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A behind the scenes look at the development of Teemo’s ASU!"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "23c74ff4-6613-457a-9481-79f984046a24.en-us",
-      "contentLocale": "en-us",
-      "rev": "UvcsnXzcRBz8DuptDbI3jQ",
       "publishDate": "2024-09-23T15:00:00.000Z"
     }
   },
@@ -3221,6 +3221,68 @@
       "contentLocale": "en-us",
       "rev": "F9BvzCOvNT3yZqjSsT9hMK",
       "publishDate": "2024-09-09T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev: Skin Thematics and Champion Fantasies",
+    "publishedAt": "2024-08-22T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-skin-thematics-and-champion-fantasies"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 563,
+        "width": 1000,
+        "aspectRatio": 1.7761989342806395
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e1d26d12d8bd261fda4e79ebd74a0913bb934707-1000x563.jpg",
+      "colors": {
+        "primary": "#27294D",
+        "secondary": "#F9DCE3",
+        "label": "#090B23"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Going subdermal on skins: which champ gets one, for which thematic, and why."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "f6ee73f7-4b5d-4561-b644-d4c709687d0e",
+      "contentLocale": "en-us",
+      "rev": "Rx1Nho763d29lawKrXQ63b",
+      "publishDate": "2024-08-22T15:00:00.000Z"
     }
   },
   {
@@ -3538,68 +3600,6 @@
       "contentId": "4577c759-b778-492c-9784-3f88a131a2c0",
       "contentLocale": "en-us",
       "rev": "2eqiUp79DxBCItwrHruaq7",
-      "publishDate": "2024-08-22T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev: Skin Thematics and Champion Fantasies",
-    "publishedAt": "2024-08-22T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-skin-thematics-and-champion-fantasies"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 563,
-        "width": 1000,
-        "aspectRatio": 1.7761989342806395
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e1d26d12d8bd261fda4e79ebd74a0913bb934707-1000x563.jpg",
-      "colors": {
-        "primary": "#27294D",
-        "secondary": "#F9DCE3",
-        "label": "#090B23"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Going subdermal on skins: which champ gets one, for which thematic, and why."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "f6ee73f7-4b5d-4561-b644-d4c709687d0e",
-      "contentLocale": "en-us",
-      "rev": "Rx1Nho763d29lawKrXQ63b",
       "publishDate": "2024-08-22T15:00:00.000Z"
     }
   },
