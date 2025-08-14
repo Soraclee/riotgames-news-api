@@ -68,7 +68,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "LOjA2Ej1R18",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 294,
         "url": "https://www.youtube.com/watch?v=LOjA2Ej1R18"
       }
     },
@@ -435,7 +435,7 @@
     "analytics": {
       "contentId": "51459e66-b365-4327-91b4-ba66dcfb0217.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "H1Vdyz0E2IRdMiaE2zP5bb",
+      "rev": "wncL8OhPdPnGfazkytS1jy",
       "publishDate": "2025-07-12T13:00:00.000Z"
     }
   },
@@ -2482,111 +2482,111 @@
     },
     "channelsConfiguration": [
       {
-        "hideCTAButton": true,
+        "_key": "7d49abd46c2c",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
+              "_createdAt": "2024-12-16T17:28:22Z",
+              "_id": "image-0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080-jpg",
+              "_rev": "pjc0gZ7zw0jnhEKOMpsP6G",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-01-22T21:38:43Z",
+              "assetId": "0b0ec597be654aa0f2f02a5af6b028cf0ea867f5",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "MXFYfq004o~VNLR:t6R,NFxukBn+R%Wrs+",
                 "dimensions": {
-                  "width": 1920,
+                  "_type": "sanity.imageDimensions",
                   "aspectRatio": 1.7777777777777777,
                   "height": 1080,
-                  "_type": "sanity.imageDimensions"
+                  "width": 1920
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "MXFYfq004o~VNLR:t6R,NFxukBn+R%Wrs+",
-                "_type": "sanity.imageMetadata",
                 "palette": {
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
-                    "title": "#fff",
-                    "population": 1.87,
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#3c3350",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "muted": {
-                    "population": 0.15,
-                    "background": "#a05553",
-                    "_type": "sanity.imagePaletteSwatch",
                     "foreground": "#fff",
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "population": 0.55,
-                    "background": "#d5a485",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
+                    "population": 1.87,
                     "title": "#fff"
                   },
                   "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#1b1b6a",
-                    "_type": "sanity.imagePaletteSwatch",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.53
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 1.58,
-                    "background": "#c4aace"
-                  },
-                  "vibrant": {
-                    "background": "#cc7d57",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.94
+                    "population": 6.53,
+                    "title": "#fff"
                   },
                   "dominant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#1b1b6a",
                     "foreground": "#fff",
-                    "title": "#fff",
                     "population": 6.53,
-                    "background": "#1b1b6a"
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c4aace",
+                    "foreground": "#000",
+                    "population": 1.58,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d5a485",
+                    "foreground": "#000",
+                    "population": 0.55,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#a05553",
+                    "foreground": "#fff",
+                    "population": 0.15,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#cc7d57",
+                    "foreground": "#fff",
+                    "population": 0.94,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false
+                }
               },
-              "_rev": "pjc0gZ7zw0jnhEKOMpsP6G",
-              "_type": "sanity.imageAsset",
-              "uploadId": "tbk2afuyf2gPhH1JRV8fsOQMCL4ggBT1",
               "mimeType": "image/jpeg",
-              "sha1hash": "0b0ec597be654aa0f2f02a5af6b028cf0ea867f5",
-              "assetId": "0b0ec597be654aa0f2f02a5af6b028cf0ea867f5",
-              "_createdAt": "2024-12-16T17:28:22Z",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080.jpg",
-              "path": "images/dsfx7636/news/0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080.jpg",
-              "size": 612132,
-              "_updatedAt": "2025-01-22T21:38:43Z",
-              "extension": "jpg",
-              "_id": "image-0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080-jpg",
               "originalFilename": "TFT_TMO_ShowOpener_YT_Thumbnail_16x9_Textless.jpg",
+              "path": "images/dsfx7636/news/0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080.jpg",
+              "sha1hash": "0b0ec597be654aa0f2f02a5af6b028cf0ea867f5",
+              "size": 612132,
+              "uploadId": "tbk2afuyf2gPhH1JRV8fsOQMCL4ggBT1",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0b0ec597be654aa0f2f02a5af6b028cf0ea867f5-1920x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+          }
         },
+        "hideCTAButton": true,
         "t1Image": {
-          "provider": "sanity",
           "_type": "multimediaAsset",
           "mediaType": "image",
+          "provider": "sanity",
           "youtubeAsset": {
             "_type": "videoYoutube",
             "videoID": "mM5_Ym-1irc"
           }
         },
-        "_type": "clientInternalLinkT1",
-        "_key": "7d49abd46c2c",
         "t1VideoEmbed": {
-          "provider": "youtube",
           "_type": "multimediaAsset",
           "mediaType": "video",
+          "provider": "youtube",
           "youtubeAsset": {
             "_type": "videoYoutube",
             "videoID": "mM5_Ym-1irc"
@@ -2759,7 +2759,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "E9eDIywdCEE",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 174,
         "url": "https://www.youtube.com/watch?v=E9eDIywdCEE"
       }
     },
@@ -2886,7 +2886,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "mFTFCiQ3MbM",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 88,
         "url": "https://www.youtube.com/watch?v=mFTFCiQ3MbM"
       }
     },
@@ -2950,7 +2950,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "gFkzCU0y1Ck",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 141,
         "url": "https://www.youtube.com/watch?v=gFkzCU0y1Ck"
       }
     },
@@ -3140,7 +3140,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "lxaUtH8jw7k",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 847,
         "url": "https://www.youtube.com/watch?v=lxaUtH8jw7k"
       }
     },
@@ -3236,9 +3236,9 @@
         "t1Title": "Les Pick’em sont de retour !"
       },
       {
-        "t2Title": "Les Pick’em sont de retour !",
+        "_key": "1657779bd206",
         "_type": "clientInternalLinkT2",
-        "_key": "1657779bd206"
+        "t2Title": "Les Pick’em sont de retour !"
       }
     ],
     "media": {
@@ -3307,20 +3307,20 @@
     },
     "channelsConfiguration": [
       {
+        "_key": "213685ecdd94",
+        "_type": "clientInternalLinkT1",
+        "hideCTAButton": false,
+        "t1Description": "Il est maintenant temps d'y croire.",
+        "t1Title": "Bande-annonce des Worlds 2024",
         "t1VideoEmbed": {
-          "provider": "youtube",
           "_type": "multimediaAsset",
           "mediaType": "video",
+          "provider": "youtube",
           "youtubeAsset": {
             "_type": "videoYoutube",
             "videoID": "Q1NTpGm22JU"
           }
-        },
-        "hideCTAButton": false,
-        "t1Description": "Il est maintenant temps d'y croire.",
-        "_type": "clientInternalLinkT1",
-        "t1Title": "Bande-annonce des Worlds 2024",
-        "_key": "213685ecdd94"
+        }
       }
     ],
     "media": {
@@ -3388,118 +3388,118 @@
     },
     "channelsConfiguration": [
       {
+        "_key": "ae10c17355b6",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
           "sanityAsset": {
             "_type": "file",
             "asset": {
               "_createdAt": "2024-09-16T11:09:00Z",
-              "originalFilename": "RB_LOIO_1600x1080 (1).jpg",
-              "extension": "jpg",
+              "_id": "file-93c32b85a03d921ba5c559a19c5d4ca458bbb6fa-jpg",
               "_rev": "kRa0sLdvlB8lPXh7myd0rL",
               "_type": "sanity.fileAsset",
-              "mimeType": "image/jpeg",
-              "sha1hash": "93c32b85a03d921ba5c559a19c5d4ca458bbb6fa",
-              "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/93c32b85a03d921ba5c559a19c5d4ca458bbb6fa.jpg",
-              "_id": "file-93c32b85a03d921ba5c559a19c5d4ca458bbb6fa-jpg",
               "_updatedAt": "2024-09-16T11:09:01Z",
-              "uploadId": "7pWgywwX9UNk33bUCaHByJWcHhOaibuU",
-              "path": "files/dsfx7636/news/93c32b85a03d921ba5c559a19c5d4ca458bbb6fa.jpg",
-              "size": 1160071,
               "assetId": "93c32b85a03d921ba5c559a19c5d4ca458bbb6fa",
+              "extension": "jpg",
+              "mimeType": "image/jpeg",
+              "originalFilename": "RB_LOIO_1600x1080 (1).jpg",
+              "path": "files/dsfx7636/news/93c32b85a03d921ba5c559a19c5d4ca458bbb6fa.jpg",
+              "sha1hash": "93c32b85a03d921ba5c559a19c5d4ca458bbb6fa",
+              "size": 1160071,
+              "uploadId": "7pWgywwX9UNk33bUCaHByJWcHhOaibuU",
+              "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/93c32b85a03d921ba5c559a19c5d4ca458bbb6fa.jpg",
               "dataset": "news_live"
             }
           },
-          "mediaType": "image",
-          "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
               "_createdAt": "2024-08-29T10:24:30Z",
-              "_updatedAt": "2024-09-16T11:09:01Z",
-              "extension": "jpg",
-              "metadata": {
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
-                },
-                "isOpaque": true,
-                "blurHash": "VJA-oYr?4UW@xsxeRNW?ocMx8wNL%gxsMy%jjaV=juo#",
-                "_type": "sanity.imageMetadata",
-                "palette": {
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 4.28,
-                    "background": "#88b5e4"
-                  },
-                  "darkVibrant": {
-                    "population": 1.36,
-                    "background": "#113c89",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "background": "#cbd4dc",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#000",
-                    "population": 8.63
-                  },
-                  "vibrant": {
-                    "background": "#467bce",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 5.54
-                  },
-                  "dominant": {
-                    "foreground": "#000",
-                    "title": "#000",
-                    "population": 8.63,
-                    "background": "#cbd4dc",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "background": "#432b39",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.14
-                  },
-                  "muted": {
-                    "population": 5.46,
-                    "background": "#8193bf",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff"
-                  }
-                },
-                "hasAlpha": false
-              },
-              "uploadId": "L0qo6ddt4ysRy98mm97FaomCuLQitsaI",
-              "sha1hash": "93c32b85a03d921ba5c559a19c5d4ca458bbb6fa",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/93c32b85a03d921ba5c559a19c5d4ca458bbb6fa-1600x1080.jpg",
               "_id": "image-93c32b85a03d921ba5c559a19c5d4ca458bbb6fa-1600x1080-jpg",
-              "path": "images/dsfx7636/news/93c32b85a03d921ba5c559a19c5d4ca458bbb6fa-1600x1080.jpg",
-              "mimeType": "image/jpeg",
-              "assetId": "93c32b85a03d921ba5c559a19c5d4ca458bbb6fa",
-              "originalFilename": "RB_LOIO_1600x1080.jpg",
               "_rev": "kRa0sLdvlB8lPXh7myd0rL",
               "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-09-16T11:09:01Z",
+              "assetId": "93c32b85a03d921ba5c559a19c5d4ca458bbb6fa",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VJA-oYr?4UW@xsxeRNW?ocMx8wNL%gxsMy%jjaV=juo#",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#432b39",
+                    "foreground": "#fff",
+                    "population": 0.14,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#113c89",
+                    "foreground": "#fff",
+                    "population": 1.36,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#cbd4dc",
+                    "foreground": "#000",
+                    "population": 8.63,
+                    "title": "#000"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#cbd4dc",
+                    "foreground": "#000",
+                    "population": 8.63,
+                    "title": "#000"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#88b5e4",
+                    "foreground": "#000",
+                    "population": 4.28,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8193bf",
+                    "foreground": "#fff",
+                    "population": 5.46,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#467bce",
+                    "foreground": "#fff",
+                    "population": 5.54,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "RB_LOIO_1600x1080.jpg",
+              "path": "images/dsfx7636/news/93c32b85a03d921ba5c559a19c5d4ca458bbb6fa-1600x1080.jpg",
+              "sha1hash": "93c32b85a03d921ba5c559a19c5d4ca458bbb6fa",
               "size": 1160071,
+              "uploadId": "L0qo6ddt4ysRy98mm97FaomCuLQitsaI",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/93c32b85a03d921ba5c559a19c5d4ca458bbb6fa-1600x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset"
+          }
         },
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "PRENDS TES PLACES !",
-        "_key": "ae10c17355b6"
+        "t1CTA": "PRENDS TES PLACES !"
       }
     ],
     "media": {
@@ -3797,7 +3797,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "yGI9Ze_1OEA",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 396,
         "url": "https://www.youtube.com/watch?v=yGI9Ze_1OEA"
       }
     },
@@ -3861,7 +3861,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "kL5E3OJI5Kk",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 410,
         "url": "https://www.youtube.com/watch?v=kL5E3OJI5Kk"
       }
     },
@@ -3989,7 +3989,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "kSsLn63m8VI",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 397,
         "url": "https://www.youtube.com/watch?v=kSsLn63m8VI"
       }
     },
@@ -4053,7 +4053,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "qtMGGrx95m0",
-        "videoLengthInSeconds": 165,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=qtMGGrx95m0"
       }
     },
@@ -4117,7 +4117,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "FvMoaGYd8E4",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 265,
         "url": "https://www.youtube.com/watch?v=FvMoaGYd8E4"
       }
     },
@@ -4399,100 +4399,100 @@
     },
     "channelsConfiguration": [
       {
+        "_key": "456ce1b4033b",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "assetId": "eaac29149ddf94dc0c5cb6d501c67dfff78c9930",
+              "_createdAt": "2024-05-27T07:45:30Z",
               "_id": "image-eaac29149ddf94dc0c5cb6d501c67dfff78c9930-1600x1080-jpg",
-              "originalFilename": "IFTCT1.jpg",
+              "_rev": "m4mXZHpK6l56U588DBeaF3",
               "_type": "sanity.imageAsset",
-              "sha1hash": "eaac29149ddf94dc0c5cb6d501c67dfff78c9930",
-              "path": "images/dsfx7636/news/eaac29149ddf94dc0c5cb6d501c67dfff78c9930-1600x1080.jpg",
+              "_updatedAt": "2024-06-26T00:53:24Z",
+              "assetId": "eaac29149ddf94dc0c5cb6d501c67dfff78c9930",
+              "extension": "jpg",
               "metadata": {
-                "isOpaque": true,
-                "blurHash": "VAQlwW_3P9$Mmk-URNo}V?jF%zDivgtmpd_NM{n5tmXS",
                 "_type": "sanity.imageMetadata",
+                "blurHash": "VAQlwW_3P9$Mmk-URNo}V?jF%zDivgtmpd_NM{n5tmXS",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
-                  "dominant": {
-                    "title": "#fff",
-                    "population": 2.37,
-                    "background": "#d65526",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
-                    "title": "#fff",
-                    "population": 0,
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#645c4c",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "muted": {
-                    "background": "#8b7c5d",
-                    "_type": "sanity.imagePaletteSwatch",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.14
-                  },
-                  "lightVibrant": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.43,
-                    "background": "#f3af86",
-                    "_type": "sanity.imagePaletteSwatch"
+                    "population": 0,
+                    "title": "#fff"
                   },
                   "darkVibrant": {
-                    "population": 0,
-                    "background": "#a42c0c",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#a42c0c",
                     "foreground": "#fff",
+                    "population": 0,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d65526",
+                    "foreground": "#fff",
+                    "population": 2.37,
                     "title": "#fff"
                   },
                   "lightMuted": {
-                    "title": "#fff",
-                    "population": 1.16,
-                    "background": "#c7b9b0",
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
+                    "background": "#c7b9b0",
+                    "foreground": "#000",
+                    "population": 1.16,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f3af86",
+                    "foreground": "#000",
+                    "population": 0.43,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8b7c5d",
+                    "foreground": "#fff",
+                    "population": 0.14,
+                    "title": "#fff"
                   },
                   "vibrant": {
-                    "background": "#d65526",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d65526",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 2.37
+                    "population": 2.37,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
                 }
               },
-              "_updatedAt": "2024-06-26T00:53:24Z",
-              "extension": "jpg",
-              "uploadId": "RLCWSVMNbfSKxirgk0YoKyUg27a0LCmU",
-              "_rev": "m4mXZHpK6l56U588DBeaF3",
-              "_createdAt": "2024-05-27T07:45:30Z",
               "mimeType": "image/jpeg",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/eaac29149ddf94dc0c5cb6d501c67dfff78c9930-1600x1080.jpg",
               "opt": {
                 "media": {}
               },
+              "originalFilename": "IFTCT1.jpg",
+              "path": "images/dsfx7636/news/eaac29149ddf94dc0c5cb6d501c67dfff78c9930-1600x1080.jpg",
+              "sha1hash": "eaac29149ddf94dc0c5cb6d501c67dfff78c9930",
               "size": 1392645,
+              "uploadId": "RLCWSVMNbfSKxirgk0YoKyUg27a0LCmU",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/eaac29149ddf94dc0c5cb6d501c67dfff78c9930-1600x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
-        },
-        "_type": "clientInternalLinkT1",
-        "_key": "456ce1b4033b"
+          }
+        }
       }
     ],
     "media": {
@@ -4534,7 +4534,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "jZ75J51yI14",
-        "videoLengthInSeconds": 107,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=jZ75J51yI14"
       }
     },
@@ -4561,107 +4561,107 @@
     },
     "channelsConfiguration": [
       {
+        "_key": "00c7bcc7b8c9",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2024-05-23T10:31:29Z",
+              "_id": "image-7a12bb8870e34ab35f8d44e60ea19def052141b4-1600x1080-jpg",
+              "_rev": "UEcq9VZT1LAO45csdOq7QK",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-06-21T11:32:11Z",
+              "assetId": "7a12bb8870e34ab35f8d44e60ea19def052141b4",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V88p=K-o~UR+R+D+NGIpxZRkR+R*j]j[oLoet6ayR*oe",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#544331",
+                    "foreground": "#fff",
+                    "population": 7.06,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#34230c",
+                    "foreground": "#fff",
+                    "population": 0.03,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#776850",
+                    "foreground": "#fff",
+                    "population": 9.33,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#7c531c",
+                    "foreground": "#fff",
+                    "population": 0,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#e6c293",
+                    "foreground": "#000",
+                    "population": 0,
+                    "title": "#000"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#776850",
+                    "foreground": "#fff",
+                    "population": 9.33,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#cf8b2f",
+                    "foreground": "#fff",
+                    "population": 0,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "LoL_HoL_FakerTrailer_Thumbnail_(decluttered).jpg",
+              "path": "images/dsfx7636/news/7a12bb8870e34ab35f8d44e60ea19def052141b4-1600x1080.jpg",
+              "sha1hash": "7a12bb8870e34ab35f8d44e60ea19def052141b4",
+              "size": 85343,
+              "uploadId": "7NZhY5MnboMGH8DNVSZodkziGvMCgPn8",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7a12bb8870e34ab35f8d44e60ea19def052141b4-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
         "t1VideoEmbed": {
-          "provider": "youtube",
           "_type": "multimediaAsset",
           "mediaType": "video",
+          "provider": "youtube",
           "youtubeAsset": {
             "_type": "videoYoutube",
             "videoID": "jZ75J51yI14"
           }
-        },
-        "hideCTAButton": true,
-        "backdropImage": {
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "uploadId": "7NZhY5MnboMGH8DNVSZodkziGvMCgPn8",
-              "_type": "sanity.imageAsset",
-              "mimeType": "image/jpeg",
-              "sha1hash": "7a12bb8870e34ab35f8d44e60ea19def052141b4",
-              "_id": "image-7a12bb8870e34ab35f8d44e60ea19def052141b4-1600x1080-jpg",
-              "originalFilename": "LoL_HoL_FakerTrailer_Thumbnail_(decluttered).jpg",
-              "metadata": {
-                "hasAlpha": false,
-                "dimensions": {
-                  "height": 1080,
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814
-                },
-                "isOpaque": true,
-                "blurHash": "V88p=K-o~UR+R+D+NGIpxZRkR+R*j]j[oLoet6ayR*oe",
-                "_type": "sanity.imageMetadata",
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 7.06,
-                    "background": "#544331",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 9.33,
-                    "background": "#776850"
-                  },
-                  "lightVibrant": {
-                    "population": 0,
-                    "background": "#e6c293",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#000"
-                  },
-                  "darkVibrant": {
-                    "title": "#fff",
-                    "population": 0.03,
-                    "background": "#34230c",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "lightMuted": {
-                    "population": 0,
-                    "background": "#7c531c",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0,
-                    "background": "#cf8b2f",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "dominant": {
-                    "background": "#776850",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 9.33
-                  }
-                }
-              },
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7a12bb8870e34ab35f8d44e60ea19def052141b4-1600x1080.jpg",
-              "path": "images/dsfx7636/news/7a12bb8870e34ab35f8d44e60ea19def052141b4-1600x1080.jpg",
-              "_createdAt": "2024-05-23T10:31:29Z",
-              "extension": "jpg",
-              "_rev": "UEcq9VZT1LAO45csdOq7QK",
-              "size": 85343,
-              "assetId": "7a12bb8870e34ab35f8d44e60ea19def052141b4",
-              "_updatedAt": "2024-06-21T11:32:11Z",
-              "dataset": "news_live"
-            }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity"
-        },
-        "_type": "clientInternalLinkT1",
-        "_key": "00c7bcc7b8c9"
+        }
       }
     ],
     "media": {
@@ -4767,7 +4767,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "8rPhx_W6YDE",
-        "videoLengthInSeconds": 229,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=8rPhx_W6YDE"
       }
     },
@@ -4857,102 +4857,102 @@
     },
     "channelsConfiguration": [
       {
-        "hideCTAButton": false,
-        "t1Subtitle": "",
-        "t1Description": "",
+        "_key": "xEBHxaI4",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "sha1hash": "68b7826bd372c7c8d20d492cf6e3eb220e498cb0",
-              "size": 753022,
+              "_createdAt": "2024-05-16T08:21:54Z",
               "_id": "image-68b7826bd372c7c8d20d492cf6e3eb220e498cb0-1600x1080-jpg",
+              "_rev": "kvD2acrBmFSZeMYobhrYRv",
+              "_type": "sanity.imageAsset",
               "_updatedAt": "2024-05-24T11:28:23Z",
+              "assetId": "68b7826bd372c7c8d20d492cf6e3eb220e498cb0",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VpID#7v[E2t0x[I@NbWGf5X4WCnhxuWBV@Nds-oMS2oJ",
                 "dimensions": {
-                  "width": 1600,
+                  "_type": "sanity.imageDimensions",
                   "aspectRatio": 1.4814814814814814,
                   "height": 1080,
-                  "_type": "sanity.imageDimensions"
+                  "width": 1600
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "VpID#7v[E2t0x[I@NbWGf5X4WCnhxuWBV@Nds-oMS2oJ",
-                "_type": "sanity.imageMetadata",
                 "palette": {
-                  "muted": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.5,
-                    "background": "#7e59aa",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "lightVibrant": {
-                    "title": "#fff",
-                    "population": 0.09,
-                    "background": "#b36af8",
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
+                    "background": "#68383d",
+                    "foreground": "#fff",
+                    "population": 6.26,
+                    "title": "#fff"
                   },
                   "darkVibrant": {
-                    "title": "#fff",
-                    "population": 2.39,
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#216486",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 2.42,
-                    "background": "#a69cbd"
-                  },
-                  "vibrant": {
-                    "population": 2.36,
-                    "background": "#aee331",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
+                    "foreground": "#fff",
+                    "population": 2.39,
                     "title": "#fff"
                   },
                   "dominant": {
-                    "background": "#68383d",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#68383d",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.26
+                    "population": 6.26,
+                    "title": "#fff"
                   },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "background": "#68383d",
+                  "lightMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#a69cbd",
+                    "foreground": "#000",
+                    "population": 2.42,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b36af8",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.26
+                    "population": 0.09,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#7e59aa",
+                    "foreground": "#fff",
+                    "population": 0.5,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#aee331",
+                    "foreground": "#000",
+                    "population": 2.36,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false
+                }
               },
-              "_rev": "kvD2acrBmFSZeMYobhrYRv",
-              "assetId": "68b7826bd372c7c8d20d492cf6e3eb220e498cb0",
-              "_createdAt": "2024-05-16T08:21:54Z",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/68b7826bd372c7c8d20d492cf6e3eb220e498cb0-1600x1080.jpg",
-              "path": "images/dsfx7636/news_live/68b7826bd372c7c8d20d492cf6e3eb220e498cb0-1600x1080.jpg",
-              "extension": "jpg",
-              "uploadId": "RwJecMLCyPpPDXgPVDZaNPyimIBFaigF",
-              "originalFilename": "Copy_of_TFT_RL_SET_11_-_CP_-_T3_-_OQ2.jpg",
-              "_type": "sanity.imageAsset",
               "mimeType": "image/jpeg",
+              "originalFilename": "Copy_of_TFT_RL_SET_11_-_CP_-_T3_-_OQ2.jpg",
+              "path": "images/dsfx7636/news_live/68b7826bd372c7c8d20d492cf6e3eb220e498cb0-1600x1080.jpg",
+              "sha1hash": "68b7826bd372c7c8d20d492cf6e3eb220e498cb0",
+              "size": 753022,
+              "uploadId": "RwJecMLCyPpPDXgPVDZaNPyimIBFaigF",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/68b7826bd372c7c8d20d492cf6e3eb220e498cb0-1600x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+          }
         },
-        "_type": "clientInternalLinkT1",
+        "hideCTAButton": false,
         "t1CTA": "",
-        "t1Title": "",
-        "_key": "xEBHxaI4"
+        "t1Description": "",
+        "t1Subtitle": "",
+        "t1Title": ""
       }
     ],
     "media": {
@@ -4994,7 +4994,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "FRFtUgS1MpE",
-        "videoLengthInSeconds": 301,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=FRFtUgS1MpE"
       }
     },
@@ -5058,7 +5058,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "ZFlTLuBSq-M",
-        "videoLengthInSeconds": 265,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=ZFlTLuBSq-M"
       }
     },
@@ -5148,18 +5148,18 @@
     },
     "channelsConfiguration": [
       {
-        "t1Description": "",
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "",
-        "t1Title": "RECEVEZ DES DROPS DU MSI",
         "_key": "lz4PxDdO",
+        "_type": "clientInternalLinkT1",
         "hideCTAButton": false,
-        "t1Subtitle": ""
+        "t1CTA": "",
+        "t1Description": "",
+        "t1Subtitle": "",
+        "t1Title": "RECEVEZ DES DROPS DU MSI"
       },
       {
-        "t2Title": "RECEVEZ DES DROPS DU MSI",
+        "_key": "YkADZXks",
         "_type": "clientInternalLinkT2",
-        "_key": "YkADZXks"
+        "t2Title": "RECEVEZ DES DROPS DU MSI"
       }
     ],
     "media": {
@@ -5227,102 +5227,102 @@
     },
     "channelsConfiguration": [
       {
-        "t1Description": "",
+        "_key": "JZFuRdxY",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
+              "_createdAt": "2024-04-26T13:00:04Z",
+              "_id": "image-71fd2a3d752739bc50b37560923cf5c7a45fb73e-1600x1080-jpg",
               "_rev": "EXnOwDgSqyLiyHD1omt5Ut",
               "_type": "sanity.imageAsset",
               "_updatedAt": "2025-03-31T21:56:20Z",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/71fd2a3d752739bc50b37560923cf5c7a45fb73e-1600x1080.jpg",
-              "_id": "image-71fd2a3d752739bc50b37560923cf5c7a45fb73e-1600x1080-jpg",
-              "originalFilename": "Copy_of_TFT_RL_SET_11_-_CP_-_T3_-_GSC1_-_TUNE_IN_fixed.jpg",
-              "extension": "jpg",
-              "mimeType": "image/jpeg",
-              "path": "images/dsfx7636/news_live/71fd2a3d752739bc50b37560923cf5c7a45fb73e-1600x1080.jpg",
               "assetId": "71fd2a3d752739bc50b37560923cf5c7a45fb73e",
+              "extension": "jpg",
               "metadata": {
-                "hasAlpha": false,
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V|Opuv~qRjM{t7t7WAoNfiWBt6WBjbayoeX5oMbHWUj?",
                 "dimensions": {
-                  "width": 1600,
+                  "_type": "sanity.imageDimensions",
                   "aspectRatio": 1.4814814814814814,
                   "height": 1080,
-                  "_type": "sanity.imageDimensions"
+                  "width": 1600
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "V|Opuv~qRjM{t7t7WAoNfiWBt6WBjbayoeX5oMbHWUj?",
-                "_type": "sanity.imageMetadata",
                 "palette": {
-                  "muted": {
-                    "title": "#fff",
-                    "population": 3.48,
-                    "background": "#927267",
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
+                    "background": "#5a4136",
+                    "foreground": "#fff",
+                    "population": 1.46,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#3d1e66",
+                    "foreground": "#fff",
+                    "population": 0,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8c5ace",
+                    "foreground": "#fff",
+                    "population": 4.88,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d09da8",
+                    "foreground": "#000",
+                    "population": 3.02,
+                    "title": "#fff"
                   },
                   "lightVibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#dec1a4",
                     "foreground": "#000",
-                    "title": "#fff",
                     "population": 2.27,
-                    "background": "#dec1a4"
-                  },
-                  "darkVibrant": {
-                    "background": "#3d1e66",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0
-                  },
-                  "lightMuted": {
-                    "background": "#d09da8",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 3.02
-                  },
-                  "vibrant": {
-                    "title": "#fff",
-                    "population": 4.88,
-                    "background": "#8c5ace",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "dominant": {
-                    "population": 4.88,
-                    "background": "#8c5ace",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
                     "title": "#fff"
                   },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#927267",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 1.46,
-                    "background": "#5a4136",
-                    "_type": "sanity.imagePaletteSwatch"
+                    "population": 3.48,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8c5ace",
+                    "foreground": "#fff",
+                    "population": 4.88,
+                    "title": "#fff"
                   }
                 }
               },
-              "uploadId": "cX5AkhQAo0HzcSy3FZT919o8MvWvuXMv",
+              "mimeType": "image/jpeg",
+              "originalFilename": "Copy_of_TFT_RL_SET_11_-_CP_-_T3_-_GSC1_-_TUNE_IN_fixed.jpg",
+              "path": "images/dsfx7636/news_live/71fd2a3d752739bc50b37560923cf5c7a45fb73e-1600x1080.jpg",
               "sha1hash": "71fd2a3d752739bc50b37560923cf5c7a45fb73e",
               "size": 526170,
-              "_createdAt": "2024-04-26T13:00:04Z",
+              "uploadId": "cX5AkhQAo0HzcSy3FZT919o8MvWvuXMv",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/71fd2a3d752739bc50b37560923cf5c7a45fb73e-1600x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+          }
         },
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "",
-        "t1Title": "",
-        "_key": "JZFuRdxY",
         "hideCTAButton": false,
-        "t1Subtitle": ""
+        "t1CTA": "",
+        "t1Description": "",
+        "t1Subtitle": "",
+        "t1Title": ""
       }
     ],
     "media": {

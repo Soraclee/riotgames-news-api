@@ -94,110 +94,110 @@
     },
     "channelsConfiguration": [
       {
-        "t1CTA": "",
-        "t1Subtitle": "",
-        "_type": "clientInternalLinkT1",
         "_key": "bPcoyiGc",
-        "t1VideoEmbed": {
-          "provider": "youtube",
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "youtubeAsset": {
-            "_type": "youtube",
-            "videoID": "https://www.youtube.com/watch?v=kOPLj5kRquM"
-          }
-        },
-        "t1Description": "Regardez la bande-annonce du livre RUINATION et précommandez votre exemplaire !",
-        "hideCTAButton": false,
-        "t1Title": "La RUINE se répand…",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "_rev": "TveqPI7F4qA0WH6AaDekYg",
-              "assetId": "7deb9b780ba07bdd8331c8a51f63067b1470b70d",
-              "_type": "sanity.imageAsset",
-              "path": "images/dsfx7636/news_live/7deb9b780ba07bdd8331c8a51f63067b1470b70d-1600x1080.jpg",
-              "originalFilename": "Ruination_V2_1600x1080.jpg",
-              "extension": "jpg",
-              "uploadId": "SpRCfwz4mi74RApEWFgbMUYJ1xOpQaT9",
-              "sha1hash": "7deb9b780ba07bdd8331c8a51f63067b1470b70d",
               "_createdAt": "2024-04-27T01:53:59Z",
+              "_id": "image-7deb9b780ba07bdd8331c8a51f63067b1470b70d-1600x1080-jpg",
+              "_rev": "TveqPI7F4qA0WH6AaDekYg",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-04-27T01:53:59Z",
+              "assetId": "7deb9b780ba07bdd8331c8a51f63067b1470b70d",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V6C5;j~AEfnO9al.-:^4NbIV0ht6XlxtWC0Mw{$itRt7",
                 "dimensions": {
                   "_type": "sanity.imageDimensions",
-                  "width": 1600,
                   "aspectRatio": 1.4814814814814814,
-                  "height": 1080
+                  "height": 1080,
+                  "width": 1600
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "V6C5;j~AEfnO9al.-:^4NbIV0ht6XlxtWC0Mw{$itRt7",
-                "_type": "sanity.imageMetadata",
                 "palette": {
-                  "lightMuted": {
-                    "background": "#90af9e",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.07
-                  },
-                  "vibrant": {
-                    "background": "#ae3b30",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.37
-                  },
-                  "dominant": {
-                    "population": 6.19,
-                    "background": "#d7b68b",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff"
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#2c5254",
                     "foreground": "#fff",
-                    "title": "#fff",
                     "population": 1.26,
-                    "background": "#2c5254"
+                    "title": "#fff"
                   },
-                  "muted": {
-                    "population": 0.22,
-                    "background": "#9d8564",
+                  "darkVibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#844a12",
                     "foreground": "#fff",
+                    "population": 0.05,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d7b68b",
+                    "foreground": "#000",
+                    "population": 6.19,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#90af9e",
+                    "foreground": "#000",
+                    "population": 0.07,
                     "title": "#fff"
                   },
                   "lightVibrant": {
-                    "title": "#fff",
-                    "population": 6.19,
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#d7b68b",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
+                    "foreground": "#000",
+                    "population": 6.19,
+                    "title": "#fff"
                   },
-                  "darkVibrant": {
-                    "title": "#fff",
-                    "population": 0.05,
-                    "background": "#844a12",
+                  "muted": {
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
+                    "background": "#9d8564",
+                    "foreground": "#fff",
+                    "population": 0.22,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ae3b30",
+                    "foreground": "#fff",
+                    "population": 0.37,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false
+                }
               },
               "mimeType": "image/jpeg",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7deb9b780ba07bdd8331c8a51f63067b1470b70d-1600x1080.jpg",
+              "originalFilename": "Ruination_V2_1600x1080.jpg",
+              "path": "images/dsfx7636/news_live/7deb9b780ba07bdd8331c8a51f63067b1470b70d-1600x1080.jpg",
+              "sha1hash": "7deb9b780ba07bdd8331c8a51f63067b1470b70d",
               "size": 704567,
-              "_id": "image-7deb9b780ba07bdd8331c8a51f63067b1470b70d-1600x1080-jpg",
-              "_updatedAt": "2024-04-27T01:53:59Z",
+              "uploadId": "SpRCfwz4mi74RApEWFgbMUYJ1xOpQaT9",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7deb9b780ba07bdd8331c8a51f63067b1470b70d-1600x1080.jpg",
               "dataset": "news_live"
             }
-          },
+          }
+        },
+        "hideCTAButton": false,
+        "t1CTA": "",
+        "t1Description": "Regardez la bande-annonce du livre RUINATION et précommandez votre exemplaire !",
+        "t1Subtitle": "",
+        "t1Title": "La RUINE se répand…",
+        "t1VideoEmbed": {
           "_type": "multimediaAsset",
-          "mediaType": "image"
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "youtube",
+            "videoID": "https://www.youtube.com/watch?v=kOPLj5kRquM"
+          }
         }
       }
     ],
@@ -272,7 +272,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/8c925008c6217ab1df40f84a2747e523aa426629-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8c925008c6217ab1df40f84a2747e523aa426629-1920x1080.jpg",
       "colors": {
         "primary": "#100D1A",
         "secondary": "#FFE2D6",
@@ -294,69 +294,6 @@
       "contentLocale": "fr-fr",
       "rev": "I7aB4NVNAJUWfHHvEj1c38",
       "publishDate": "2022-06-01T07:00:00.000Z"
-    }
-  },
-  {
-    "title": "Bel'Veth sur l'Univers",
-    "publishedAt": "2022-05-20T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://universe.leagueoflegends.com/fr_FR/champion/belveth/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/dc577c644dbb2d3fb86e5e55696be0bfb045ffe4-1920x1080.jpg",
-      "colors": {
-        "primary": "#140E1C",
-        "secondary": "#F9DCE8",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez l'Impératrice du Néant sur l'Univers."
-    },
-    "category": {
-      "title": "Histoire",
-      "description": "Histoires, bandes dessinées et univers de Runeterra.",
-      "machineName": "lore"
-    },
-    "analytics": {
-      "contentId": "articles.blt39950e589b144bfb.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "I7aB4NVNAJUWfHHvEj1c38",
-      "publishDate": "2022-05-20T19:00:00.000Z"
     }
   },
   {
@@ -423,6 +360,69 @@
     }
   },
   {
+    "title": "Bel'Veth sur l'Univers",
+    "publishedAt": "2022-05-20T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://universe.leagueoflegends.com/fr_FR/champion/belveth/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/dc577c644dbb2d3fb86e5e55696be0bfb045ffe4-1920x1080.jpg",
+      "colors": {
+        "primary": "#140E1C",
+        "secondary": "#F9DCE8",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez l'Impératrice du Néant sur l'Univers."
+    },
+    "category": {
+      "title": "Histoire",
+      "description": "Histoires, bandes dessinées et univers de Runeterra.",
+      "machineName": "lore"
+    },
+    "analytics": {
+      "contentId": "articles.blt39950e589b144bfb.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "I7aB4NVNAJUWfHHvEj1c38",
+      "publishDate": "2022-05-20T19:00:00.000Z"
+    }
+  },
+  {
     "title": "L'étranger sur la route",
     "publishedAt": "2022-05-12T20:00:00.000Z",
     "action": {
@@ -461,7 +461,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/80799909c5891f70b8ed52c4b88f6a3ad0bf5f11-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/80799909c5891f70b8ed52c4b88f6a3ad0bf5f11-1920x1080.jpg",
       "colors": {
         "primary": "#4E3227",
         "secondary": "#F9EDDC",
@@ -832,8 +832,8 @@
     },
     "channelsConfiguration": [
       {
-        "_type": "clientInternalLinkT2",
         "_key": "l1shgOa3",
+        "_type": "clientInternalLinkT2",
         "t2Title": "Nouvelle sur Séraphine : Salle comble"
       }
     ],
@@ -902,8 +902,8 @@
     },
     "channelsConfiguration": [
       {
-        "_type": "clientInternalLinkT2",
         "_key": "1rEZbxTO",
+        "_type": "clientInternalLinkT2",
         "t2Title": "Histoire du champion : Séraphine"
       }
     ],
@@ -1608,7 +1608,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/b923ab26b3c66a72a590e10119cb180749584f47-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b923ab26b3c66a72a590e10119cb180749584f47-1920x1080.jpg",
       "colors": {
         "primary": "#07090E",
         "secondary": "#D6D9FF",

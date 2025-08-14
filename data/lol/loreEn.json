@@ -94,111 +94,111 @@
     },
     "channelsConfiguration": [
       {
+        "_key": "ZDMyxanb",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2024-04-20T06:26:40Z",
+              "_id": "image-c064b94587940aa9b1136fd0a6765e4414e4cdf1-1920x1080-jpg",
+              "_rev": "qAxOg8VRHKSH7xgCZcGehv",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-04-20T06:26:40Z",
+              "assetId": "c064b94587940aa9b1136fd0a6765e4414e4cdf1",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "M5B.$E~A9tIVD*Y*%L,o9u4;0OxaX8xZVt",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080,
+                  "width": 1920
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#674433",
+                    "foreground": "#fff",
+                    "population": 6.69,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#673309",
+                    "foreground": "#fff",
+                    "population": 0.09,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#674433",
+                    "foreground": "#fff",
+                    "population": 6.69,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8ca898",
+                    "foreground": "#000",
+                    "population": 0.11,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d4af85",
+                    "foreground": "#000",
+                    "population": 6.24,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9a7f61",
+                    "foreground": "#fff",
+                    "population": 0.85,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#922f2c",
+                    "foreground": "#fff",
+                    "population": 1.66,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "Ruination_V2_1920x1080.jpg",
+              "path": "images/dsfx7636/news_live/c064b94587940aa9b1136fd0a6765e4414e4cdf1-1920x1080.jpg",
+              "sha1hash": "c064b94587940aa9b1136fd0a6765e4414e4cdf1",
+              "size": 450943,
+              "uploadId": "ykr4KLUPABEMOzddN3OjqA7sDFETrS8u",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c064b94587940aa9b1136fd0a6765e4414e4cdf1-1920x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": false,
+        "t1CTA": "",
+        "t1Description": "Watch the RUINATION book trailer and pre-order your copy now!",
+        "t1Subtitle": "Watch the RUINATION book trailer and pre-order your copy now!",
+        "t1Title": "RUINATION Is Coming…",
         "t1VideoEmbed": {
-          "provider": "youtube",
           "_type": "multimediaAsset",
           "mediaType": "video",
+          "provider": "youtube",
           "youtubeAsset": {
             "_type": "youtube",
             "videoID": "https://www.youtube.com/watch?v=gkS9EO42UVQ"
           }
-        },
-        "t1Title": "RUINATION Is Coming…",
-        "_key": "ZDMyxanb",
-        "hideCTAButton": false,
-        "backdropImage": {
-          "provider": "sanity",
-          "sanityImage": {
-            "asset": {
-              "sha1hash": "c064b94587940aa9b1136fd0a6765e4414e4cdf1",
-              "assetId": "c064b94587940aa9b1136fd0a6765e4414e4cdf1",
-              "_type": "sanity.imageAsset",
-              "_id": "image-c064b94587940aa9b1136fd0a6765e4414e4cdf1-1920x1080-jpg",
-              "_updatedAt": "2024-04-20T06:26:40Z",
-              "extension": "jpg",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c064b94587940aa9b1136fd0a6765e4414e4cdf1-1920x1080.jpg",
-              "path": "images/dsfx7636/news_live/c064b94587940aa9b1136fd0a6765e4414e4cdf1-1920x1080.jpg",
-              "size": 450943,
-              "uploadId": "ykr4KLUPABEMOzddN3OjqA7sDFETrS8u",
-              "_rev": "qAxOg8VRHKSH7xgCZcGehv",
-              "originalFilename": "Ruination_V2_1920x1080.jpg",
-              "_createdAt": "2024-04-20T06:26:40Z",
-              "metadata": {
-                "blurHash": "M5B.$E~A9tIVD*Y*%L,o9u4;0OxaX8xZVt",
-                "_type": "sanity.imageMetadata",
-                "palette": {
-                  "muted": {
-                    "title": "#fff",
-                    "population": 0.85,
-                    "background": "#9a7f61",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "lightVibrant": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 6.24,
-                    "background": "#d4af85",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "darkVibrant": {
-                    "title": "#fff",
-                    "population": 0.09,
-                    "background": "#673309",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.11,
-                    "background": "#8ca898"
-                  },
-                  "vibrant": {
-                    "background": "#922f2c",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 1.66
-                  },
-                  "dominant": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.69,
-                    "background": "#674433",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.69,
-                    "background": "#674433"
-                  }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1920,
-                  "aspectRatio": 1.7777777777777777,
-                  "height": 1080
-                },
-                "isOpaque": true
-              },
-              "mimeType": "image/jpeg",
-              "dataset": "news_live"
-            },
-            "_type": "image"
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
-        },
-        "t1Subtitle": "Watch the RUINATION book trailer and pre-order your copy now!",
-        "t1Description": "Watch the RUINATION book trailer and pre-order your copy now!",
-        "_type": "clientInternalLinkT1",
-        "t1CTA": ""
+        }
       }
     ],
     "media": {
@@ -272,7 +272,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/8c925008c6217ab1df40f84a2747e523aa426629-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8c925008c6217ab1df40f84a2747e523aa426629-1920x1080.jpg",
       "colors": {
         "primary": "#100D1A",
         "secondary": "#FFE2D6",
@@ -1531,7 +1531,7 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/b923ab26b3c66a72a590e10119cb180749584f47-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b923ab26b3c66a72a590e10119cb180749584f47-1920x1080.jpg",
       "colors": {
         "primary": "#07090E",
         "secondary": "#D6D9FF",

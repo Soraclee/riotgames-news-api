@@ -1,5 +1,66 @@
 [
   {
+    "title": "La billetterie pour les Champions Paris est ouverte !",
+    "publishedAt": "2025-08-13T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/fr-fr/news/champions-paris-tickets-on-sale-now"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a7fbdee2c56aacc352c0db259fa7d2dc0f1116d4-1920x1080.jpg",
+      "colors": {
+        "primary": "#B88258",
+        "secondary": "#332B29",
+        "label": "#2D2118"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Achetez vos billets pour les Champions Paris"
+    },
+    "category": {
+      "title": "E-sport",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "8e28f3c0-53c2-4a98-8776-ed54ed7a4a9e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "wtVXsJktbkPR6iynsLowfj",
+      "publishDate": "2025-08-13T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Les Champions 2026 arrivent à Shanghai !",
     "publishedAt": "2025-08-01T08:00:00.000Z",
     "action": {
@@ -118,7 +179,7 @@
     "analytics": {
       "contentId": "0044ddc2-a384-432d-9c88-06625f752fd4.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "ICdTnj8FwQdzrJbyctG0es",
+      "rev": "wtVXsJktbkPR6iynsLontE",
       "publishDate": "2025-07-29T14:00:00.000Z"
     }
   },
@@ -2144,7 +2205,7 @@
     "analytics": {
       "contentId": "eb65a805-4d15-4e0f-b4cf-98b2d2394628.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "YEeVJZ7CPuP4bbUKQrOQOI",
+      "rev": "YEeVJZ7CPuP4bbUKQrOcri",
       "publishDate": "2025-04-30T17:00:00.000Z"
     }
   },
@@ -4533,67 +4594,6 @@
       "contentLocale": "fr-fr",
       "rev": "npOBqtD0gmaXu4Kp81f3Ag",
       "publishDate": "2025-01-06T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Récap' de la communauté : Fin d'année 2024",
-    "publishedAt": "2024-12-20T20:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/community/community-roundup-end-of-year-2024"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/789b5ddf7a9d94e8bbd2ec4be5cd7e1ada283d9a-1920x1080.jpg",
-      "colors": {
-        "primary": "#2A542A",
-        "secondary": "#F9F9DC",
-        "label": "#0B2C0B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "2024 se conclue avec le récap' des merveilleuses créations de notre communauté. Alors merci à tous !"
-    },
-    "category": {
-      "title": "Communauté",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "6ebc64fd-6cab-4755-adec-00dda25cd567.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "QHyu7w0m0kaW857xXUhaOy",
-      "publishDate": "2024-12-20T20:00:00.000Z"
     }
   }
 ]

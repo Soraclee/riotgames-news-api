@@ -1511,102 +1511,102 @@
     },
     "channelsConfiguration": [
       {
-        "t1Title": "Dev drop TFT : Légendes des encres",
         "_key": "PCT0EBzX",
-        "hideCTAButton": false,
-        "t1Subtitle": "Dev Video",
-        "t1Description": "",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
           "_type": "multimediaAsset",
           "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
+            "_type": "image",
             "asset": {
+              "_createdAt": "2024-04-27T01:50:03Z",
+              "_id": "image-c42c9461657a3f80c4b652894bdcef28829ba7ec-1600x1080-jpg",
               "_rev": "TveqPI7F4qA0WH6AaDds0R",
-              "mimeType": "image/jpeg",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c42c9461657a3f80c4b652894bdcef28829ba7ec-1600x1080.jpg",
+              "_type": "sanity.imageAsset",
               "_updatedAt": "2024-04-27T01:50:03Z",
+              "assetId": "c42c9461657a3f80c4b652894bdcef28829ba7ec",
               "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V297nW~T000g0202M{-lo}=@00D-_2?Z-.X0bXM*MKkF",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
-                  "darkVibrant": {
-                    "background": "#683b11",
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#314e56",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 1.7
+                    "population": 1.26,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#683b11",
+                    "foreground": "#fff",
+                    "population": 1.7,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#683b11",
+                    "foreground": "#fff",
+                    "population": 1.7,
+                    "title": "#fff"
                   },
                   "lightMuted": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.11,
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#c7b99c",
-                    "_type": "sanity.imagePaletteSwatch"
+                    "foreground": "#000",
+                    "population": 0.11,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#bc8c67",
+                    "foreground": "#000",
+                    "population": 0.02,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#639e96",
+                    "foreground": "#fff",
+                    "population": 0.28,
+                    "title": "#fff"
                   },
                   "vibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#27a2a9",
                     "foreground": "#fff",
-                    "title": "#fff",
                     "population": 0.06,
-                    "background": "#27a2a9"
-                  },
-                  "dominant": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 1.7,
-                    "background": "#683b11",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 1.26,
-                    "background": "#314e56",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "muted": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.28,
-                    "background": "#639e96",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "lightVibrant": {
-                    "title": "#fff",
-                    "population": 0.02,
-                    "background": "#bc8c67",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
-                },
-                "isOpaque": true,
-                "blurHash": "V297nW~T000g0202M{-lo}=@00D-_2?Z-.X0bXM*MKkF",
-                "_type": "sanity.imageMetadata"
+                }
               },
-              "_type": "sanity.imageAsset",
+              "mimeType": "image/jpeg",
+              "originalFilename": "030324_Riot_Client_T1-Decluttered.jpg",
+              "path": "images/dsfx7636/news_live/c42c9461657a3f80c4b652894bdcef28829ba7ec-1600x1080.jpg",
               "sha1hash": "c42c9461657a3f80c4b652894bdcef28829ba7ec",
               "size": 309496,
-              "assetId": "c42c9461657a3f80c4b652894bdcef28829ba7ec",
-              "path": "images/dsfx7636/news_live/c42c9461657a3f80c4b652894bdcef28829ba7ec-1600x1080.jpg",
-              "_id": "image-c42c9461657a3f80c4b652894bdcef28829ba7ec-1600x1080-jpg",
-              "_createdAt": "2024-04-27T01:50:03Z",
-              "originalFilename": "030324_Riot_Client_T1-Decluttered.jpg",
               "uploadId": "HLDJanBOIWkmxhmuCTQ1fCgY2LcnTKLE",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c42c9461657a3f80c4b652894bdcef28829ba7ec-1600x1080.jpg",
               "dataset": "news_live"
-            },
-            "_type": "image"
+            }
           }
         },
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "En savoir plus"
+        "hideCTAButton": false,
+        "t1CTA": "En savoir plus",
+        "t1Description": "",
+        "t1Subtitle": "Dev Video",
+        "t1Title": "Dev drop TFT : Légendes des encres"
       }
     ],
     "media": {
@@ -1753,111 +1753,111 @@
     },
     "channelsConfiguration": [
       {
-        "t1VideoEmbed": {
-          "provider": "youtube",
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "youtubeAsset": {
-            "_type": "youtube",
-            "videoID": "https://www.youtube.com/watch?v=kdvi9NPzAHA"
-          }
-        },
-        "t1Subtitle": "Teamfight Tactics",
-        "t1CTA": "Watch Now",
-        "hideCTAButton": true,
-        "t1Description": "",
-        "t1Title": "Derrière le hit : Steve Aoki",
+        "_key": "iLWTxlQb",
         "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "path": "images/dsfx7636/news/3c84245bdecc1eb41e2d366f299eee40da0c0c5c-1920x1080.jpg",
-              "size": 459253,
+              "_createdAt": "2024-03-12T09:22:24Z",
+              "_id": "image-3c84245bdecc1eb41e2d366f299eee40da0c0c5c-1920x1080-jpg",
+              "_rev": "DhbT9GQdY22ehEEe59PwmR",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-05-16T21:17:49Z",
               "assetId": "3c84245bdecc1eb41e2d366f299eee40da0c0c5c",
-              "originalFilename": "RG_REMIX-RUMBLE_GAMEPLAY-OVERVIEW-ARTICLE_BANNER-IMAGE_1920X1080.jpg",
+              "extension": "jpg",
               "metadata": {
-                "isOpaque": true,
-                "blurHash": "MJHda.?drA-YXT+m]y$|xbS1E2+us;OGae",
                 "_type": "sanity.imageMetadata",
+                "blurHash": "MJHda.?drA-YXT+m]y$|xbS1E2+us;OGae",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080,
+                  "width": 1920
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
-                  "dominant": {
-                    "foreground": "#000",
-                    "title": "#000",
-                    "population": 5.41,
-                    "background": "#ded5e9",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#582f5c",
                     "foreground": "#fff",
-                    "title": "#fff",
                     "population": 2.6,
-                    "background": "#582f5c"
-                  },
-                  "muted": {
-                    "background": "#b362a2",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 4.97
-                  },
-                  "lightVibrant": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 5.03,
-                    "background": "#9c9fe8",
-                    "_type": "sanity.imagePaletteSwatch"
+                    "title": "#fff"
                   },
                   "darkVibrant": {
-                    "background": "#4f0f92",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#4f0f92",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.36
+                    "population": 0.36,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ded5e9",
+                    "foreground": "#000",
+                    "population": 5.41,
+                    "title": "#000"
                   },
                   "lightMuted": {
-                    "foreground": "#000",
-                    "title": "#000",
-                    "population": 5.41,
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#ded5e9",
-                    "_type": "sanity.imagePaletteSwatch"
+                    "foreground": "#000",
+                    "population": 5.41,
+                    "title": "#000"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9c9fe8",
+                    "foreground": "#000",
+                    "population": 5.03,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b362a2",
+                    "foreground": "#fff",
+                    "population": 4.97,
+                    "title": "#fff"
                   },
                   "vibrant": {
-                    "title": "#fff",
-                    "population": 0.03,
-                    "background": "#d2356a",
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
+                    "background": "#d2356a",
+                    "foreground": "#fff",
+                    "population": 0.03,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1920,
-                  "aspectRatio": 1.7777777777777777,
-                  "height": 1080
                 }
               },
-              "uploadId": "sLEPnxfGqXoHjPMuYg8ThOwxvE28oE01",
-              "_type": "sanity.imageAsset",
-              "extension": "jpg",
-              "_rev": "DhbT9GQdY22ehEEe59PwmR",
               "mimeType": "image/jpeg",
+              "originalFilename": "RG_REMIX-RUMBLE_GAMEPLAY-OVERVIEW-ARTICLE_BANNER-IMAGE_1920X1080.jpg",
+              "path": "images/dsfx7636/news/3c84245bdecc1eb41e2d366f299eee40da0c0c5c-1920x1080.jpg",
               "sha1hash": "3c84245bdecc1eb41e2d366f299eee40da0c0c5c",
-              "_createdAt": "2024-03-12T09:22:24Z",
-              "_id": "image-3c84245bdecc1eb41e2d366f299eee40da0c0c5c-1920x1080-jpg",
-              "_updatedAt": "2024-05-16T21:17:49Z",
+              "size": 459253,
+              "uploadId": "sLEPnxfGqXoHjPMuYg8ThOwxvE28oE01",
               "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3c84245bdecc1eb41e2d366f299eee40da0c0c5c-1920x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+          }
         },
-        "_key": "iLWTxlQb"
+        "hideCTAButton": true,
+        "t1CTA": "Watch Now",
+        "t1Description": "",
+        "t1Subtitle": "Teamfight Tactics",
+        "t1Title": "Derrière le hit : Steve Aoki",
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "youtube",
+            "videoID": "https://www.youtube.com/watch?v=kdvi9NPzAHA"
+          }
+        }
       }
     ],
     "media": {
@@ -1926,110 +1926,110 @@
     },
     "channelsConfiguration": [
       {
-        "t1CTA": "",
-        "t1Title": "",
-        "t1VideoEmbed": {
-          "provider": "youtube",
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "youtubeAsset": {
-            "_type": "youtube",
-            "videoID": "https://www.youtube.com/watch?v=-SVydCSElok"
-          }
-        },
         "_key": "cHgKkKK1",
-        "hideCTAButton": true,
-        "t1Description": "",
         "_type": "clientInternalLinkT1",
-        "t1Subtitle": "",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "sha1hash": "a4de46148808520a1d186fcb492b5beee0556b4f",
-              "assetId": "a4de46148808520a1d186fcb492b5beee0556b4f",
+              "_createdAt": "2024-04-27T01:54:48Z",
               "_id": "image-a4de46148808520a1d186fcb492b5beee0556b4f-1600x1080-jpg",
-              "uploadId": "aL2yd4TMncWFS9XiXdVjAt9XRP77tFNQ",
               "_rev": "lMEtP1FuMP9IX2fXXbdR2Y",
               "_type": "sanity.imageAsset",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a4de46148808520a1d186fcb492b5beee0556b4f-1600x1080.jpg",
               "_updatedAt": "2024-05-09T14:48:29Z",
-              "originalFilename": "110523_TFT_ST1023_VIDEO-CLIENTCARD_DevDrop_T1-Decluttered.jpg",
+              "assetId": "a4de46148808520a1d186fcb492b5beee0556b4f",
               "extension": "jpg",
               "metadata": {
-                "hasAlpha": false,
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V7A,O-EZ03Mv=;0J%N%ynprDRbNC-@k6n#xkRpRMtSOs",
                 "dimensions": {
                   "_type": "sanity.imageDimensions",
-                  "width": 1600,
                   "aspectRatio": 1.4814814814814814,
-                  "height": 1080
+                  "height": 1080,
+                  "width": 1600
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "V7A,O-EZ03Mv=;0J%N%ynprDRbNC-@k6n#xkRpRMtSOs",
-                "_type": "sanity.imageMetadata",
                 "palette": {
-                  "lightVibrant": {
-                    "title": "#fff",
-                    "population": 0.62,
-                    "background": "#c4a7e6",
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
+                    "background": "#4b295d",
+                    "foreground": "#fff",
+                    "population": 1.59,
+                    "title": "#fff"
                   },
                   "darkVibrant": {
-                    "population": 0.37,
-                    "background": "#0a2180",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#0a2180",
                     "foreground": "#fff",
+                    "population": 0.37,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#4b295d",
+                    "foreground": "#fff",
+                    "population": 1.59,
                     "title": "#fff"
                   },
                   "lightMuted": {
-                    "background": "#cdb7b8",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#cdb7b8",
                     "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.52
+                    "population": 0.52,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c4a7e6",
+                    "foreground": "#000",
+                    "population": 0.62,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#a36776",
+                    "foreground": "#fff",
+                    "population": 0.55,
+                    "title": "#fff"
                   },
                   "vibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#eba830",
                     "foreground": "#000",
-                    "title": "#fff",
                     "population": 0.27,
-                    "background": "#eba830"
-                  },
-                  "dominant": {
-                    "population": 1.59,
-                    "background": "#4b295d",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff"
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "background": "#4b295d",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 1.59
-                  },
-                  "muted": {
-                    "population": 0.55,
-                    "background": "#a36776",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
                     "title": "#fff"
                   }
                 }
               },
               "mimeType": "image/jpeg",
+              "originalFilename": "110523_TFT_ST1023_VIDEO-CLIENTCARD_DevDrop_T1-Decluttered.jpg",
               "path": "images/dsfx7636/news/a4de46148808520a1d186fcb492b5beee0556b4f-1600x1080.jpg",
+              "sha1hash": "a4de46148808520a1d186fcb492b5beee0556b4f",
               "size": 399368,
-              "_createdAt": "2024-04-27T01:54:48Z",
+              "uploadId": "aL2yd4TMncWFS9XiXdVjAt9XRP77tFNQ",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a4de46148808520a1d186fcb492b5beee0556b4f-1600x1080.jpg",
               "dataset": "news_live"
             }
-          },
+          }
+        },
+        "hideCTAButton": true,
+        "t1CTA": "",
+        "t1Description": "",
+        "t1Subtitle": "",
+        "t1Title": "",
+        "t1VideoEmbed": {
           "_type": "multimediaAsset",
-          "mediaType": "image"
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "youtube",
+            "videoID": "https://www.youtube.com/watch?v=-SVydCSElok"
+          }
         }
       }
     ],
@@ -2167,84 +2167,84 @@
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "mimeType": "image/jpeg",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/56c3ef98c8b412f2b16baa131bc51f30cd2d36bc-1920x1080.jpg",
-              "path": "images/dsfx7636/news/56c3ef98c8b412f2b16baa131bc51f30cd2d36bc-1920x1080.jpg",
-              "sha1hash": "56c3ef98c8b412f2b16baa131bc51f30cd2d36bc",
-              "size": 427039,
-              "_type": "sanity.imageAsset",
-              "assetId": "56c3ef98c8b412f2b16baa131bc51f30cd2d36bc",
               "_createdAt": "2024-04-27T02:09:31Z",
               "_id": "image-56c3ef98c8b412f2b16baa131bc51f30cd2d36bc-1920x1080-jpg",
-              "originalFilename": "101723_TFT_MID923_COMMS_BaronVsT-Hex_T1-Cluttered.jpg",
-              "extension": "jpg",
+              "_rev": "lMEtP1FuMP9IX2fXXbdR2Y",
+              "_type": "sanity.imageAsset",
               "_updatedAt": "2024-05-09T14:48:29Z",
+              "assetId": "56c3ef98c8b412f2b16baa131bc51f30cd2d36bc",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "M98qW]004n_NwI%NMxoet7Ri00_3.8DiNb",
                 "dimensions": {
                   "_type": "sanity.imageDimensions",
-                  "width": 1920,
                   "aspectRatio": 1.7777777777777777,
-                  "height": 1080
+                  "height": 1080,
+                  "width": 1920
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "M98qW]004n_NwI%NMxoet7Ri00_3.8DiNb",
-                "_type": "sanity.imageMetadata",
                 "palette": {
-                  "lightMuted": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.62,
-                    "background": "#c3bcc6",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.01,
-                    "background": "#eeca40"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 54.75,
-                    "background": "#04142c"
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#2f3350",
                     "foreground": "#fff",
-                    "title": "#fff",
                     "population": 1.55,
-                    "background": "#2f3350"
+                    "title": "#fff"
                   },
-                  "muted": {
-                    "population": 0.68,
-                    "background": "#5fa3a1",
+                  "darkVibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#04142c",
                     "foreground": "#fff",
+                    "population": 54.75,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#04142c",
+                    "foreground": "#fff",
+                    "population": 54.75,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c3bcc6",
+                    "foreground": "#000",
+                    "population": 0.62,
                     "title": "#fff"
                   },
                   "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#59c4ec",
-                    "_type": "sanity.imagePaletteSwatch",
                     "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.11
+                    "population": 0.11,
+                    "title": "#fff"
                   },
-                  "darkVibrant": {
-                    "background": "#04142c",
+                  "muted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#5fa3a1",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 54.75
+                    "population": 0.68,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#eeca40",
+                    "foreground": "#000",
+                    "population": 0.01,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false
+                }
               },
+              "mimeType": "image/jpeg",
+              "originalFilename": "101723_TFT_MID923_COMMS_BaronVsT-Hex_T1-Cluttered.jpg",
+              "path": "images/dsfx7636/news/56c3ef98c8b412f2b16baa131bc51f30cd2d36bc-1920x1080.jpg",
+              "sha1hash": "56c3ef98c8b412f2b16baa131bc51f30cd2d36bc",
+              "size": 427039,
               "uploadId": "yxm6pBmPyMBzhvChURjQfsjrTcvEW4nh",
-              "_rev": "lMEtP1FuMP9IX2fXXbdR2Y",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/56c3ef98c8b412f2b16baa131bc51f30cd2d36bc-1920x1080.jpg",
               "dataset": "news_live"
             }
           }
@@ -2329,84 +2329,84 @@
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ccfb8017e03e77a23054377782e4eed6b95f6089-1920x1080.jpg",
-              "assetId": "ccfb8017e03e77a23054377782e4eed6b95f6089",
               "_createdAt": "2024-04-27T02:04:50Z",
-              "uploadId": "NHN0yQMrt0uHeM1dVVfnYQRZR8a5QZFP",
-              "_rev": "TveqPI7F4qA0WH6AaDhBny",
-              "mimeType": "image/jpeg",
-              "_updatedAt": "2024-04-27T02:04:50Z",
-              "extension": "jpg",
-              "_type": "sanity.imageAsset",
-              "sha1hash": "ccfb8017e03e77a23054377782e4eed6b95f6089",
-              "path": "images/dsfx7636/news_live/ccfb8017e03e77a23054377782e4eed6b95f6089-1920x1080.jpg",
-              "size": 437462,
-              "originalFilename": "TFT_MID923_Client_T1-Cluttered_LastMidset_1920x1080_APorto.jpg",
               "_id": "image-ccfb8017e03e77a23054377782e4eed6b95f6089-1920x1080-jpg",
+              "_rev": "TveqPI7F4qA0WH6AaDhBny",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-04-27T02:04:50Z",
+              "assetId": "ccfb8017e03e77a23054377782e4eed6b95f6089",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "M67-W;00tn-.Q=oZX9aPosXB00~qInM$y5",
                 "dimensions": {
                   "_type": "sanity.imageDimensions",
-                  "width": 1920,
                   "aspectRatio": 1.7777777777777777,
-                  "height": 1080
+                  "height": 1080,
+                  "width": 1920
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "M67-W;00tn-.Q=oZX9aPosXB00~qInM$y5",
-                "_type": "sanity.imageMetadata",
                 "palette": {
-                  "lightVibrant": {
-                    "background": "#b591df",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.61
-                  },
-                  "darkVibrant": {
-                    "population": 1.07,
-                    "background": "#330b7a",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "foreground": "#000",
-                    "title": "#000",
-                    "population": 1.2,
-                    "background": "#d4e4d2",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "vibrant": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.29,
-                    "background": "#620fa3",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "dominant": {
-                    "background": "#d4e4d2",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#000",
-                    "population": 1.2
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
-                    "background": "#2e5f4b",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#2e5f4b",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.41
+                    "population": 0.41,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#330b7a",
+                    "foreground": "#fff",
+                    "population": 1.07,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d4e4d2",
+                    "foreground": "#000",
+                    "population": 1.2,
+                    "title": "#000"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d4e4d2",
+                    "foreground": "#000",
+                    "population": 1.2,
+                    "title": "#000"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b591df",
+                    "foreground": "#000",
+                    "population": 0.61,
+                    "title": "#fff"
                   },
                   "muted": {
-                    "title": "#fff",
-                    "population": 0.48,
-                    "background": "#a58763",
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
+                    "background": "#a58763",
+                    "foreground": "#fff",
+                    "population": 0.48,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#620fa3",
+                    "foreground": "#fff",
+                    "population": 0.29,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false
+                }
               },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_MID923_Client_T1-Cluttered_LastMidset_1920x1080_APorto.jpg",
+              "path": "images/dsfx7636/news_live/ccfb8017e03e77a23054377782e4eed6b95f6089-1920x1080.jpg",
+              "sha1hash": "ccfb8017e03e77a23054377782e4eed6b95f6089",
+              "size": 437462,
+              "uploadId": "NHN0yQMrt0uHeM1dVVfnYQRZR8a5QZFP",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ccfb8017e03e77a23054377782e4eed6b95f6089-1920x1080.jpg",
               "dataset": "news_live"
             }
           },
@@ -2623,83 +2623,83 @@
           "sanityImage": {
             "asset": {
               "_createdAt": "2024-04-27T02:04:49Z",
-              "uploadId": "gBnbOVZ97ebgJMvWhXJl4CzXSQoofExx",
-              "_type": "sanity.imageAsset",
               "_id": "image-58a36d170df86763824107372f8806ab47cdf590-1920x1080-jpg",
-              "size": 354474,
-              "assetId": "58a36d170df86763824107372f8806ab47cdf590",
+              "_rev": "TveqPI7F4qA0WH6AaDhBas",
+              "_type": "sanity.imageAsset",
               "_updatedAt": "2024-04-27T02:04:49Z",
-              "originalFilename": "TFT_SOULFIGHTER_CLIENT_T1-Cluttered_1920x1080_v001_ASteme.jpg",
+              "assetId": "58a36d170df86763824107372f8806ab47cdf590",
               "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "MIECe000t,=xXAtprnI]s9%2KjvzajbvaJ",
                 "dimensions": {
                   "_type": "sanity.imageDimensions",
-                  "width": 1920,
                   "aspectRatio": 1.7777777777777777,
-                  "height": 1080
+                  "height": 1080,
+                  "width": 1920
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "MIECe000t,=xXAtprnI]s9%2KjvzajbvaJ",
-                "_type": "sanity.imageMetadata",
                 "palette": {
+                  "_type": "sanity.imagePalette",
                   "darkMuted": {
-                    "background": "#2a2d42",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#2a2d42",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 1.72
-                  },
-                  "muted": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.02,
-                    "background": "#85955c",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "lightVibrant": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 3.84,
-                    "background": "#7cb1e4",
-                    "_type": "sanity.imagePaletteSwatch"
+                    "population": 1.72,
+                    "title": "#fff"
                   },
                   "darkVibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#721c41",
                     "foreground": "#fff",
-                    "title": "#fff",
                     "population": 0.8,
-                    "background": "#721c41"
-                  },
-                  "lightMuted": {
-                    "background": "#cfd1bd",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#000",
-                    "population": 2.23
-                  },
-                  "vibrant": {
-                    "population": 0.03,
-                    "background": "#44a5ef",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
                     "title": "#fff"
                   },
                   "dominant": {
-                    "background": "#7cb1e4",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#7cb1e4",
                     "foreground": "#000",
-                    "title": "#fff",
-                    "population": 3.84
+                    "population": 3.84,
+                    "title": "#fff"
                   },
-                  "_type": "sanity.imagePalette"
-                },
-                "hasAlpha": false
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#cfd1bd",
+                    "foreground": "#000",
+                    "population": 2.23,
+                    "title": "#000"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#7cb1e4",
+                    "foreground": "#000",
+                    "population": 3.84,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#85955c",
+                    "foreground": "#fff",
+                    "population": 0.02,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#44a5ef",
+                    "foreground": "#fff",
+                    "population": 0.03,
+                    "title": "#fff"
+                  }
+                }
               },
-              "_rev": "TveqPI7F4qA0WH6AaDhBas",
-              "sha1hash": "58a36d170df86763824107372f8806ab47cdf590",
               "mimeType": "image/jpeg",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/58a36d170df86763824107372f8806ab47cdf590-1920x1080.jpg",
+              "originalFilename": "TFT_SOULFIGHTER_CLIENT_T1-Cluttered_1920x1080_v001_ASteme.jpg",
               "path": "images/dsfx7636/news_live/58a36d170df86763824107372f8806ab47cdf590-1920x1080.jpg",
+              "sha1hash": "58a36d170df86763824107372f8806ab47cdf590",
+              "size": 354474,
+              "uploadId": "gBnbOVZ97ebgJMvWhXJl4CzXSQoofExx",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/58a36d170df86763824107372f8806ab47cdf590-1920x1080.jpg",
               "dataset": "news_live"
             },
             "_type": "image"
@@ -2719,84 +2719,84 @@
           "sanityImage": {
             "_type": "image",
             "asset": {
+              "_createdAt": "2024-04-27T02:04:49Z",
+              "_id": "image-497205188bdaeb7458e5a2e97edd04fe80f10b8e-1920x1080-jpg",
+              "_rev": "5s8HTZXGujC5ULoREiuHlR",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-04-27T02:04:49Z",
+              "assetId": "497205188bdaeb7458e5a2e97edd04fe80f10b8e",
               "extension": "jpg",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/497205188bdaeb7458e5a2e97edd04fe80f10b8e-1920x1080.jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "MMJ7,-HrL4MwRjCT=WxbR$Rh%KKitKV@IU",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080,
+                  "width": 1920
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#30334d",
-                    "_type": "sanity.imagePaletteSwatch",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 5.99
-                  },
-                  "muted": {
-                    "background": "#6779af",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 1.48
-                  },
-                  "lightVibrant": {
-                    "background": "#f18cbf",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 1.38
-                  },
-                  "darkVibrant": {
-                    "background": "#6b2b40",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.41
-                  },
-                  "lightMuted": {
-                    "population": 1.8,
-                    "background": "#bca7ce",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
+                    "population": 5.99,
                     "title": "#fff"
                   },
-                  "vibrant": {
-                    "population": 0.09,
-                    "background": "#41acf7",
+                  "darkVibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#6b2b40",
                     "foreground": "#fff",
+                    "population": 6.41,
                     "title": "#fff"
                   },
                   "dominant": {
-                    "population": 6.41,
-                    "background": "#6b2b40",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#6b2b40",
                     "foreground": "#fff",
+                    "population": 6.41,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#bca7ce",
+                    "foreground": "#000",
+                    "population": 1.8,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f18cbf",
+                    "foreground": "#000",
+                    "population": 1.38,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#6779af",
+                    "foreground": "#fff",
+                    "population": 1.48,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#41acf7",
+                    "foreground": "#fff",
+                    "population": 0.09,
                     "title": "#fff"
                   }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "aspectRatio": 1.7777777777777777,
-                  "height": 1080,
-                  "_type": "sanity.imageDimensions",
-                  "width": 1920
-                },
-                "isOpaque": true,
-                "blurHash": "MMJ7,-HrL4MwRjCT=WxbR$Rh%KKitKV@IU",
-                "_type": "sanity.imageMetadata"
+                }
               },
-              "uploadId": "7SIA4YKln0RkmiRkoTqx97trfTgxXTob",
-              "_type": "sanity.imageAsset",
-              "sha1hash": "497205188bdaeb7458e5a2e97edd04fe80f10b8e",
-              "assetId": "497205188bdaeb7458e5a2e97edd04fe80f10b8e",
-              "_id": "image-497205188bdaeb7458e5a2e97edd04fe80f10b8e-1920x1080-jpg",
               "mimeType": "image/jpeg",
-              "size": 543520,
-              "_updatedAt": "2024-04-27T02:04:49Z",
               "originalFilename": "TFT_SOULFIGHTER_CLIENT_T2-NoText_1920x1080_v001_ASteme.jpg",
-              "_rev": "5s8HTZXGujC5ULoREiuHlR",
               "path": "images/dsfx7636/news_live/497205188bdaeb7458e5a2e97edd04fe80f10b8e-1920x1080.jpg",
-              "_createdAt": "2024-04-27T02:04:49Z",
+              "sha1hash": "497205188bdaeb7458e5a2e97edd04fe80f10b8e",
+              "size": 543520,
+              "uploadId": "7SIA4YKln0RkmiRkoTqx97trfTgxXTob",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/497205188bdaeb7458e5a2e97edd04fe80f10b8e-1920x1080.jpg",
               "dataset": "news_live"
             }
           },
@@ -2943,84 +2943,84 @@
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "originalFilename": "TFT_SET822_COMMS_GameplayOverview_T1-Decluttered_1600x1080_V001_ALyu.jpg",
-              "extension": "jpg",
-              "uploadId": "dD6pLdr6YHD1VHy8oAK6BqunqNacXo1D",
-              "mimeType": "image/jpeg",
-              "path": "images/dsfx7636/news_live/a56d80d7c6a18b4a3fd5408623f9ec748e74773f-1600x1080.jpg",
-              "assetId": "a56d80d7c6a18b4a3fd5408623f9ec748e74773f",
+              "_createdAt": "2024-04-27T02:07:51Z",
               "_id": "image-a56d80d7c6a18b4a3fd5408623f9ec748e74773f-1600x1080-jpg",
               "_rev": "5xBFIcRPz0p0p32ItXxJPO",
-              "size": 316511,
               "_type": "sanity.imageAsset",
-              "sha1hash": "a56d80d7c6a18b4a3fd5408623f9ec748e74773f",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a56d80d7c6a18b4a3fd5408623f9ec748e74773f-1600x1080.jpg",
               "_updatedAt": "2024-04-27T02:07:51Z",
+              "assetId": "a56d80d7c6a18b4a3fd5408623f9ec748e74773f",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VVL._U~QD%nV5R-qoxW.NH%0E2a%oyW,bJV^w}sRjJn-",
                 "dimensions": {
                   "_type": "sanity.imageDimensions",
-                  "width": 1600,
                   "aspectRatio": 1.4814814814814814,
-                  "height": 1080
+                  "height": 1080,
+                  "width": 1600
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "VVL._U~QD%nV5R-qoxW.NH%0E2a%oyW,bJV^w}sRjJn-",
-                "_type": "sanity.imageMetadata",
                 "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#4a3966",
+                    "foreground": "#fff",
+                    "population": 1.05,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#5f0a6e",
+                    "foreground": "#fff",
+                    "population": 0.24,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b15e86",
+                    "foreground": "#fff",
+                    "population": 6.97,
+                    "title": "#fff"
+                  },
                   "lightMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c2969e",
                     "foreground": "#000",
-                    "title": "#fff",
                     "population": 5.72,
-                    "background": "#c2969e"
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f5dc8e",
+                    "foreground": "#000",
+                    "population": 1.74,
+                    "title": "#000"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b15e86",
+                    "foreground": "#fff",
+                    "population": 6.97,
+                    "title": "#fff"
                   },
                   "vibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8334d5",
                     "foreground": "#fff",
-                    "title": "#fff",
                     "population": 0.49,
-                    "background": "#8334d5"
-                  },
-                  "dominant": {
-                    "background": "#b15e86",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.97
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "background": "#4a3966",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 1.05
-                  },
-                  "muted": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.97,
-                    "background": "#b15e86",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "lightVibrant": {
-                    "title": "#000",
-                    "population": 1.74,
-                    "background": "#f5dc8e",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
-                  },
-                  "darkVibrant": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.24,
-                    "background": "#5f0a6e",
-                    "_type": "sanity.imagePaletteSwatch"
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false
+                }
               },
-              "_createdAt": "2024-04-27T02:07:51Z",
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_SET822_COMMS_GameplayOverview_T1-Decluttered_1600x1080_V001_ALyu.jpg",
+              "path": "images/dsfx7636/news_live/a56d80d7c6a18b4a3fd5408623f9ec748e74773f-1600x1080.jpg",
+              "sha1hash": "a56d80d7c6a18b4a3fd5408623f9ec748e74773f",
+              "size": 316511,
+              "uploadId": "dD6pLdr6YHD1VHy8oAK6BqunqNacXo1D",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a56d80d7c6a18b4a3fd5408623f9ec748e74773f-1600x1080.jpg",
               "dataset": "news_live"
             }
           }
@@ -3102,84 +3102,84 @@
           "provider": "sanity",
           "sanityImage": {
             "asset": {
-              "_id": "image-d84501fee034679f3616c0f04dbde981ccdd0bfd-1600x1080-jpg",
-              "_updatedAt": "2024-04-27T02:07:51Z",
-              "originalFilename": "TFT_MID823_Client_T1Decluttered_TreasureTroves_1600x1080_v001_ALyu.jpg",
-              "extension": "jpg",
-              "_type": "sanity.imageAsset",
-              "sha1hash": "d84501fee034679f3616c0f04dbde981ccdd0bfd",
               "_createdAt": "2024-04-27T02:07:51Z",
-              "uploadId": "ATkfo75m2ebo0tlZa2woF8tm5LgOGrCO",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d84501fee034679f3616c0f04dbde981ccdd0bfd-1600x1080.jpg",
-              "path": "images/dsfx7636/news_live/d84501fee034679f3616c0f04dbde981ccdd0bfd-1600x1080.jpg",
+              "_id": "image-d84501fee034679f3616c0f04dbde981ccdd0bfd-1600x1080-jpg",
               "_rev": "5xBFIcRPz0p0p32ItXxJ1I",
-              "mimeType": "image/jpeg",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-04-27T02:07:51Z",
+              "assetId": "d84501fee034679f3616c0f04dbde981ccdd0bfd",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VIKl]%E2_4=F=|4mM|9YbcIo0,?H5ROAV@9EV?%LxF=|",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
-                  "dominant": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 7.79,
-                    "background": "#f5b195",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#353f5a",
-                    "_type": "sanity.imagePaletteSwatch",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.73
-                  },
-                  "muted": {
-                    "population": 2.95,
-                    "background": "#aa645d",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "population": 7.79,
-                    "background": "#f5b195",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
+                    "population": 0.73,
                     "title": "#fff"
                   },
                   "darkVibrant": {
-                    "background": "#6f353c",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#6f353c",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 7.18
+                    "population": 7.18,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f5b195",
+                    "foreground": "#000",
+                    "population": 7.79,
+                    "title": "#fff"
                   },
                   "lightMuted": {
-                    "population": 6.32,
-                    "background": "#cbb3cb",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#cbb3cb",
                     "foreground": "#000",
+                    "population": 6.32,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f5b195",
+                    "foreground": "#000",
+                    "population": 7.79,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#aa645d",
+                    "foreground": "#fff",
+                    "population": 2.95,
                     "title": "#fff"
                   },
                   "vibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#e68b5e",
                     "foreground": "#000",
-                    "title": "#fff",
                     "population": 1.15,
-                    "background": "#e68b5e"
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
-                },
-                "isOpaque": true,
-                "blurHash": "VIKl]%E2_4=F=|4mM|9YbcIo0,?H5ROAV@9EV?%LxF=|",
-                "_type": "sanity.imageMetadata"
+                }
               },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_MID823_Client_T1Decluttered_TreasureTroves_1600x1080_v001_ALyu.jpg",
+              "path": "images/dsfx7636/news_live/d84501fee034679f3616c0f04dbde981ccdd0bfd-1600x1080.jpg",
+              "sha1hash": "d84501fee034679f3616c0f04dbde981ccdd0bfd",
               "size": 368860,
-              "assetId": "d84501fee034679f3616c0f04dbde981ccdd0bfd",
+              "uploadId": "ATkfo75m2ebo0tlZa2woF8tm5LgOGrCO",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d84501fee034679f3616c0f04dbde981ccdd0bfd-1600x1080.jpg",
               "dataset": "news_live"
             },
             "_type": "image"
@@ -3199,83 +3199,83 @@
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "assetId": "c7e740e18aaf0b2eae749a2e07ab0c5cc30bae0f",
               "_createdAt": "2024-04-27T02:04:46Z",
-              "extension": "jpg",
-              "uploadId": "SahPLJwSFeTpYshZkkKajBDJduoFZC2l",
-              "path": "images/dsfx7636/news_live/c7e740e18aaf0b2eae749a2e07ab0c5cc30bae0f-1280x720.jpg",
-              "_updatedAt": "2024-04-27T02:04:46Z",
-              "_type": "sanity.imageAsset",
-              "mimeType": "image/jpeg",
-              "size": 276861,
               "_id": "image-c7e740e18aaf0b2eae749a2e07ab0c5cc30bae0f-1280x720-jpg",
-              "originalFilename": "TFT_MID823_Client_T2_TreasureTroves_1280x720_v001_ALyu.jpg",
+              "_rev": "5xBFIcRPz0p0p32ItXwnfU",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-04-27T02:04:46Z",
+              "assetId": "c7e740e18aaf0b2eae749a2e07ab0c5cc30bae0f",
+              "extension": "jpg",
               "metadata": {
-                "dimensions": {
-                  "height": 720,
-                  "_type": "sanity.imageDimensions",
-                  "width": 1280,
-                  "aspectRatio": 1.7777777777777777
-                },
-                "isOpaque": true,
-                "blurHash": "MZNk@vJo~W,.-U=XWAjDs.xWs=xbI;RiWA",
                 "_type": "sanity.imageMetadata",
+                "blurHash": "MZNk@vJo~W,.-U=XWAjDs.xWs=xbI;RiWA",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 720,
+                  "width": 1280
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
-                  "muted": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 5.41,
-                    "background": "#b6696d",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "lightVibrant": {
-                    "background": "#fab093",
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 5.72
+                    "background": "#413a44",
+                    "foreground": "#fff",
+                    "population": 6.44,
+                    "title": "#fff"
                   },
                   "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#7f3944",
-                    "_type": "sanity.imagePaletteSwatch",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.67
-                  },
-                  "lightMuted": {
-                    "background": "#d0bad4",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 6.03
-                  },
-                  "vibrant": {
-                    "background": "#d53e4e",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.51
+                    "population": 6.67,
+                    "title": "#fff"
                   },
                   "dominant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#7f3944",
                     "foreground": "#fff",
-                    "title": "#fff",
                     "population": 6.67,
-                    "background": "#7f3944"
+                    "title": "#fff"
                   },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d0bad4",
+                    "foreground": "#000",
+                    "population": 6.03,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#fab093",
+                    "foreground": "#000",
+                    "population": 5.72,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b6696d",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.44,
-                    "background": "#413a44",
-                    "_type": "sanity.imagePaletteSwatch"
+                    "population": 5.41,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d53e4e",
+                    "foreground": "#fff",
+                    "population": 0.51,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false
+                }
               },
-              "_rev": "5xBFIcRPz0p0p32ItXwnfU",
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_MID823_Client_T2_TreasureTroves_1280x720_v001_ALyu.jpg",
+              "path": "images/dsfx7636/news_live/c7e740e18aaf0b2eae749a2e07ab0c5cc30bae0f-1280x720.jpg",
               "sha1hash": "c7e740e18aaf0b2eae749a2e07ab0c5cc30bae0f",
+              "size": 276861,
+              "uploadId": "SahPLJwSFeTpYshZkkKajBDJduoFZC2l",
               "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c7e740e18aaf0b2eae749a2e07ab0c5cc30bae0f-1280x720.jpg",
               "dataset": "news_live"
             }
@@ -3361,84 +3361,84 @@
           "provider": "sanity",
           "sanityImage": {
             "asset": {
-              "path": "images/dsfx7636/news/0efaef212e8523c6462c7568d8a13d6a792aa102-1280x720.jpg",
-              "_updatedAt": "2024-04-27T01:02:16Z",
-              "extension": "jpg",
-              "sha1hash": "0efaef212e8523c6462c7568d8a13d6a792aa102",
-              "assetId": "0efaef212e8523c6462c7568d8a13d6a792aa102",
-              "uploadId": "H9MibEO91Vztyij9bJxpSBF89LO1Di1e",
-              "size": 163686,
               "_createdAt": "2024-04-27T01:01:38Z",
-              "originalFilename": "TFTSet7_Champs_Traits_T1_Cluttered_opt.jpg",
+              "_id": "image-0efaef212e8523c6462c7568d8a13d6a792aa102-1280x720-jpg",
               "_rev": "5xBFIcRPz0p0p32ItXHvXA",
               "_type": "sanity.imageAsset",
-              "mimeType": "image/jpeg",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0efaef212e8523c6462c7568d8a13d6a792aa102-1280x720.jpg",
-              "_id": "image-0efaef212e8523c6462c7568d8a13d6a792aa102-1280x720-jpg",
+              "_updatedAt": "2024-04-27T01:02:16Z",
+              "assetId": "0efaef212e8523c6462c7568d8a13d6a792aa102",
+              "extension": "jpg",
               "metadata": {
-                "isOpaque": true,
-                "blurHash": "MjHoX;9DD*i@Mc%%VsRPoasoRkogngS5xu",
                 "_type": "sanity.imageMetadata",
+                "blurHash": "MjHoX;9DD*i@Mc%%VsRPoasoRkogngS5xu",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 720,
+                  "width": 1280
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
-                  "lightMuted": {
-                    "population": 4.01,
-                    "background": "#a79bd0",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.31,
-                    "background": "#30a8ed",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "dominant": {
-                    "background": "#81b0e5",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 9.3
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
-                    "population": 9.05,
-                    "background": "#5b3d3c",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#5b3d3c",
                     "foreground": "#fff",
+                    "population": 9.05,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ba4822",
+                    "foreground": "#fff",
+                    "population": 0.04,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#81b0e5",
+                    "foreground": "#000",
+                    "population": 9.3,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#a79bd0",
+                    "foreground": "#000",
+                    "population": 4.01,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#81b0e5",
+                    "foreground": "#000",
+                    "population": 9.3,
                     "title": "#fff"
                   },
                   "muted": {
-                    "background": "#81694d",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#81694d",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 7.87
+                    "population": 7.87,
+                    "title": "#fff"
                   },
-                  "lightVibrant": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 9.3,
-                    "background": "#81b0e5",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "darkVibrant": {
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#30a8ed",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.04,
-                    "background": "#ba4822",
-                    "_type": "sanity.imagePaletteSwatch"
+                    "population": 0.31,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "aspectRatio": 1.7777777777777777,
-                  "height": 720,
-                  "_type": "sanity.imageDimensions",
-                  "width": 1280
                 }
               },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFTSet7_Champs_Traits_T1_Cluttered_opt.jpg",
+              "path": "images/dsfx7636/news/0efaef212e8523c6462c7568d8a13d6a792aa102-1280x720.jpg",
+              "sha1hash": "0efaef212e8523c6462c7568d8a13d6a792aa102",
+              "size": 163686,
+              "uploadId": "H9MibEO91Vztyij9bJxpSBF89LO1Di1e",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0efaef212e8523c6462c7568d8a13d6a792aa102-1280x720.jpg",
               "dataset": "news_live"
             },
             "_type": "image"
@@ -3489,7 +3489,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "dCRBGNDHans",
-        "videoLengthInSeconds": 776,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=dCRBGNDHans"
       }
     },
@@ -3516,13 +3516,13 @@
     },
     "channelsConfiguration": [
       {
-        "t1Subtitle": "Blog TFT",
-        "t1Description": "",
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "",
-        "t1Title": "Blog TFT : novembre 2022",
         "_key": "63zzywzp",
-        "hideCTAButton": false
+        "_type": "clientInternalLinkT1",
+        "hideCTAButton": false,
+        "t1CTA": "",
+        "t1Description": "",
+        "t1Subtitle": "Blog TFT",
+        "t1Title": "Blog TFT : novembre 2022"
       }
     ],
     "media": {
@@ -3715,102 +3715,102 @@
     },
     "channelsConfiguration": [
       {
-        "t1Subtitle": "Dev Video",
-        "t1Description": "",
+        "_key": "PFvrmuZk",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
           "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
+              "_createdAt": "2024-04-27T02:07:47Z",
+              "_id": "image-2f96ed607f238fb79862140bcbe50177f21771f8-1600x1080-jpg",
+              "_rev": "TveqPI7F4qA0WH6AaDhvDm",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-04-27T02:07:47Z",
+              "assetId": "2f96ed607f238fb79862140bcbe50177f21771f8",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V7AlOt1b0y~Cw|;}tRTJr?agt7xZs:SfNG9txG-V9[R*",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
-                  "lightVibrant": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#64422d",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 5.91,
-                    "background": "#c2847b"
+                    "population": 3.92,
+                    "title": "#fff"
                   },
                   "darkVibrant": {
-                    "background": "#5e0f04",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#5e0f04",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.49
+                    "population": 6.49,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#5e0f04",
+                    "foreground": "#fff",
+                    "population": 6.49,
+                    "title": "#fff"
                   },
                   "lightMuted": {
-                    "population": 0.22,
-                    "background": "#98959a",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#98959a",
                     "foreground": "#000",
+                    "population": 0.22,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c2847b",
+                    "foreground": "#fff",
+                    "population": 5.91,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#95744d",
+                    "foreground": "#fff",
+                    "population": 0.07,
                     "title": "#fff"
                   },
                   "vibrant": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 5.14,
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#844318",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "dominant": {
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.49,
-                    "background": "#5e0f04",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "background": "#64422d",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 3.92
-                  },
-                  "muted": {
-                    "population": 0.07,
-                    "background": "#95744d",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
+                    "population": 5.14,
                     "title": "#fff"
                   }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
-                },
-                "isOpaque": true,
-                "blurHash": "V7AlOt1b0y~Cw|;}tRTJr?agt7xZs:SfNG9txG-V9[R*",
-                "_type": "sanity.imageMetadata"
+                }
               },
               "mimeType": "image/jpeg",
-              "sha1hash": "2f96ed607f238fb79862140bcbe50177f21771f8",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2f96ed607f238fb79862140bcbe50177f21771f8-1600x1080.jpg",
-              "size": 596459,
-              "assetId": "2f96ed607f238fb79862140bcbe50177f21771f8",
-              "extension": "jpg",
-              "uploadId": "wwvtOmU9DURkYeWjP3dNkdXiA1m08Qvk",
-              "path": "images/dsfx7636/news_live/2f96ed607f238fb79862140bcbe50177f21771f8-1600x1080.jpg",
               "originalFilename": "TFTSet-7MayLCUT1.jpg",
-              "_rev": "TveqPI7F4qA0WH6AaDhvDm",
-              "_type": "sanity.imageAsset",
-              "_createdAt": "2024-04-27T02:07:47Z",
-              "_id": "image-2f96ed607f238fb79862140bcbe50177f21771f8-1600x1080-jpg",
-              "_updatedAt": "2024-04-27T02:07:47Z",
+              "path": "images/dsfx7636/news_live/2f96ed607f238fb79862140bcbe50177f21771f8-1600x1080.jpg",
+              "sha1hash": "2f96ed607f238fb79862140bcbe50177f21771f8",
+              "size": 596459,
+              "uploadId": "wwvtOmU9DURkYeWjP3dNkdXiA1m08Qvk",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2f96ed607f238fb79862140bcbe50177f21771f8-1600x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset"
+          }
         },
-        "_type": "clientInternalLinkT1",
+        "hideCTAButton": true,
         "t1CTA": "",
-        "t1Title": "TFT Dev Drop: May 2022",
-        "_key": "PFvrmuZk",
-        "hideCTAButton": true
+        "t1Description": "",
+        "t1Subtitle": "Dev Video",
+        "t1Title": "TFT Dev Drop: May 2022"
       }
     ],
     "media": {
@@ -3886,84 +3886,84 @@
           "sanityImage": {
             "_type": "image",
             "asset": {
+              "_createdAt": "2024-04-27T02:06:02Z",
+              "_id": "image-7e3b59b86d3cfd0bee143d5d8f21cdecd480e16f-1920x1080-jpg",
               "_rev": "5s8HTZXGujC5ULoREiuTni",
               "_type": "sanity.imageAsset",
-              "mimeType": "image/jpeg",
-              "sha1hash": "7e3b59b86d3cfd0bee143d5d8f21cdecd480e16f",
-              "_id": "image-7e3b59b86d3cfd0bee143d5d8f21cdecd480e16f-1920x1080-jpg",
-              "originalFilename": "TFT_SET622_Client_T1-Cluttered_1920x1080_v001_ALyu.jpg",
+              "_updatedAt": "2024-04-27T02:06:02Z",
+              "assetId": "7e3b59b86d3cfd0bee143d5d8f21cdecd480e16f",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "M88}Mz004;~nD?9uxwwEXURp00.A%g9I-M",
                 "dimensions": {
                   "_type": "sanity.imageDimensions",
-                  "width": 1920,
                   "aspectRatio": 1.7777777777777777,
-                  "height": 1080
+                  "height": 1080,
+                  "width": 1920
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "M88}Mz004;~nD?9uxwwEXURp00.A%g9I-M",
-                "_type": "sanity.imageMetadata",
                 "palette": {
-                  "lightMuted": {
-                    "title": "#fff",
-                    "population": 0.59,
-                    "background": "#9cbccf",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
-                  },
-                  "vibrant": {
-                    "title": "#fff",
-                    "population": 0.38,
-                    "background": "#239fd4",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "dominant": {
-                    "population": 4.73,
-                    "background": "#675238",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff"
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 4.73,
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#675238",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "muted": {
-                    "title": "#fff",
-                    "population": 0.01,
-                    "background": "#7e9464",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "lightVibrant": {
-                    "background": "#61aef5",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.83
+                    "foreground": "#fff",
+                    "population": 4.73,
+                    "title": "#fff"
                   },
                   "darkVibrant": {
-                    "background": "#0a337e",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#0a337e",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.57
+                    "population": 0.57,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#675238",
+                    "foreground": "#fff",
+                    "population": 4.73,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9cbccf",
+                    "foreground": "#000",
+                    "population": 0.59,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#61aef5",
+                    "foreground": "#000",
+                    "population": 0.83,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#7e9464",
+                    "foreground": "#fff",
+                    "population": 0.01,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#239fd4",
+                    "foreground": "#fff",
+                    "population": 0.38,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false
+                }
               },
-              "uploadId": "6Ejv5iICC4IfxRgVWcX69HqofQ0EDMNe",
-              "size": 353048,
-              "extension": "jpg",
-              "assetId": "7e3b59b86d3cfd0bee143d5d8f21cdecd480e16f",
-              "_updatedAt": "2024-04-27T02:06:02Z",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7e3b59b86d3cfd0bee143d5d8f21cdecd480e16f-1920x1080.jpg",
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_SET622_Client_T1-Cluttered_1920x1080_v001_ALyu.jpg",
               "path": "images/dsfx7636/news_live/7e3b59b86d3cfd0bee143d5d8f21cdecd480e16f-1920x1080.jpg",
-              "_createdAt": "2024-04-27T02:06:02Z",
+              "sha1hash": "7e3b59b86d3cfd0bee143d5d8f21cdecd480e16f",
+              "size": 353048,
+              "uploadId": "6Ejv5iICC4IfxRgVWcX69HqofQ0EDMNe",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7e3b59b86d3cfd0bee143d5d8f21cdecd480e16f-1920x1080.jpg",
               "dataset": "news_live"
             }
           },
@@ -4172,111 +4172,111 @@
     },
     "channelsConfiguration": [
       {
-        "t1Description": "",
+        "_key": "K7fTEBJG",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "uploadId": "5vom07Vpc0PhgL04CpNPLbXASIIIwFea",
-              "sha1hash": "151deb996763a758669e84072034a4181579d48f",
-              "path": "images/dsfx7636/news_live/151deb996763a758669e84072034a4181579d48f-1920x1080.jpg",
+              "_createdAt": "2024-04-20T06:21:17Z",
+              "_id": "image-151deb996763a758669e84072034a4181579d48f-1920x1080-jpg",
+              "_rev": "mUxvYIx9QjgWU0HQCNAEb7",
+              "_type": "sanity.imageAsset",
               "_updatedAt": "2024-04-20T06:21:17Z",
+              "assetId": "151deb996763a758669e84072034a4181579d48f",
               "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "M8Bo]m00JO-pD*~BE1Ip%LIU0L?GogoeE2",
                 "dimensions": {
-                  "width": 1920,
+                  "_type": "sanity.imageDimensions",
                   "aspectRatio": 1.7777777777777777,
                   "height": 1080,
-                  "_type": "sanity.imageDimensions"
+                  "width": 1920
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "M8Bo]m00JO-pD*~BE1Ip%LIU0L?GogoeE2",
-                "_type": "sanity.imageMetadata",
                 "palette": {
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.65,
-                    "background": "#c99f89"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 7.4,
-                    "background": "#553226"
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#553226",
                     "foreground": "#fff",
-                    "title": "#fff",
                     "population": 7.4,
-                    "background": "#553226"
-                  },
-                  "muted": {
-                    "background": "#a47654",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.02
-                  },
-                  "lightVibrant": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.27,
-                    "background": "#ddb099",
-                    "_type": "sanity.imagePaletteSwatch"
+                    "title": "#fff"
                   },
                   "darkVibrant": {
-                    "title": "#fff",
-                    "population": 0,
-                    "background": "#542c0c",
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
+                    "background": "#542c0c",
+                    "foreground": "#fff",
+                    "population": 0,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#553226",
+                    "foreground": "#fff",
+                    "population": 7.4,
+                    "title": "#fff"
                   },
                   "lightMuted": {
-                    "title": "#fff",
-                    "population": 0.4,
-                    "background": "#cdad9a",
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
+                    "background": "#cdad9a",
+                    "foreground": "#000",
+                    "population": 0.4,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ddb099",
+                    "foreground": "#000",
+                    "population": 0.27,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#a47654",
+                    "foreground": "#fff",
+                    "population": 0.02,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c99f89",
+                    "foreground": "#000",
+                    "population": 0.65,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false
+                }
               },
-              "_rev": "mUxvYIx9QjgWU0HQCNAEb7",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/151deb996763a758669e84072034a4181579d48f-1920x1080.jpg",
-              "originalFilename": "TFT_DD2022_Thumb_Christine2_Clean.jpg",
-              "_type": "sanity.imageAsset",
-              "_id": "image-151deb996763a758669e84072034a4181579d48f-1920x1080-jpg",
               "mimeType": "image/jpeg",
+              "originalFilename": "TFT_DD2022_Thumb_Christine2_Clean.jpg",
+              "path": "images/dsfx7636/news_live/151deb996763a758669e84072034a4181579d48f-1920x1080.jpg",
+              "sha1hash": "151deb996763a758669e84072034a4181579d48f",
               "size": 191123,
-              "assetId": "151deb996763a758669e84072034a4181579d48f",
-              "_createdAt": "2024-04-20T06:21:17Z",
+              "uploadId": "5vom07Vpc0PhgL04CpNPLbXASIIIwFea",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/151deb996763a758669e84072034a4181579d48f-1920x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+          }
         },
+        "hideCTAButton": false,
         "t1CTA": "",
-        "_type": "clientInternalLinkT1",
+        "t1Description": "",
+        "t1Subtitle": "",
         "t1Title": "",
         "t1VideoEmbed": {
-          "provider": "youtube",
           "_type": "multimediaAsset",
           "mediaType": "video",
+          "provider": "youtube",
           "youtubeAsset": {
             "_type": "youtube",
             "videoID": "https://www.youtube.com/watch?v=LmIk8BDbhbs"
           }
-        },
-        "t1Subtitle": "",
-        "hideCTAButton": false,
-        "_key": "K7fTEBJG"
+        }
       }
     ],
     "media": {
@@ -4351,84 +4351,84 @@
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "_type": "sanity.imageAsset",
-              "assetId": "76f63211d61ca9f759caeff31e8dba714648a087",
+              "_createdAt": "2024-04-27T02:05:43Z",
               "_id": "image-76f63211d61ca9f759caeff31e8dba714648a087-1650x900-jpg",
-              "uploadId": "7TYX63c7B0VKATPgUgezykt8MmKdrr7K",
-              "path": "images/dsfx7636/news_live/76f63211d61ca9f759caeff31e8dba714648a087-1650x900.jpg",
-              "size": 184345,
-              "originalFilename": "cluttered_-1650_x_900_px.jpg",
+              "_rev": "5xBFIcRPz0p0p32ItXwweO",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-04-27T02:05:43Z",
+              "assetId": "76f63211d61ca9f759caeff31e8dba714648a087",
               "extension": "jpg",
-              "mimeType": "image/jpeg",
-              "sha1hash": "76f63211d61ca9f759caeff31e8dba714648a087",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "MBCrA:C50z[DzqqE?GMym-z=g}pHV@m-rE",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.8333333333333333,
+                  "height": 900,
+                  "width": 1650
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
-                  "darkVibrant": {
-                    "population": 5.06,
-                    "background": "#8f1019",
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#57372f",
                     "foreground": "#fff",
+                    "population": 2.94,
                     "title": "#fff"
                   },
-                  "lightMuted": {
-                    "background": "#714e27",
+                  "darkVibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8f1019",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 6.05,
-                    "background": "#c23d35"
+                    "population": 5.06,
+                    "title": "#fff"
                   },
                   "dominant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c23d35",
                     "foreground": "#fff",
-                    "title": "#fff",
                     "population": 6.05,
-                    "background": "#c23d35"
+                    "title": "#fff"
                   },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "background": "#57372f",
+                  "lightMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#714e27",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 2.94
-                  },
-                  "muted": {
-                    "background": "#7a65ae",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.28
+                    "population": 0,
+                    "title": "#fff"
                   },
                   "lightVibrant": {
-                    "title": "#000",
-                    "population": 0.97,
-                    "background": "#e6d0b8",
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
+                    "background": "#e6d0b8",
+                    "foreground": "#000",
+                    "population": 0.97,
+                    "title": "#000"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#7a65ae",
+                    "foreground": "#fff",
+                    "population": 0.28,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c23d35",
+                    "foreground": "#fff",
+                    "population": 6.05,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1650,
-                  "aspectRatio": 1.8333333333333333,
-                  "height": 900
-                },
-                "isOpaque": true,
-                "blurHash": "MBCrA:C50z[DzqqE?GMym-z=g}pHV@m-rE",
-                "_type": "sanity.imageMetadata"
+                }
               },
-              "_rev": "5xBFIcRPz0p0p32ItXwweO",
+              "mimeType": "image/jpeg",
+              "originalFilename": "cluttered_-1650_x_900_px.jpg",
+              "path": "images/dsfx7636/news_live/76f63211d61ca9f759caeff31e8dba714648a087-1650x900.jpg",
+              "sha1hash": "76f63211d61ca9f759caeff31e8dba714648a087",
+              "size": 184345,
+              "uploadId": "7TYX63c7B0VKATPgUgezykt8MmKdrr7K",
               "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76f63211d61ca9f759caeff31e8dba714648a087-1650x900.jpg",
-              "_createdAt": "2024-04-27T02:05:43Z",
-              "_updatedAt": "2024-04-27T02:05:43Z",
               "dataset": "news_live"
             }
           }
@@ -4507,115 +4507,115 @@
     },
     "channelsConfiguration": [
       {
+        "_key": "sRWSqUpg",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fe19d155a443bef6998e49ac6524acbe39ec9497-1920x1080.jpg",
-              "assetId": "fe19d155a443bef6998e49ac6524acbe39ec9497",
               "_createdAt": "2024-04-27T01:51:14Z",
               "_id": "image-fe19d155a443bef6998e49ac6524acbe39ec9497-1920x1080-jpg",
-              "extension": "jpg",
-              "uploadId": "ZCSnRnQW79PPvz4KgSihwMSAIxPA79Zv",
               "_rev": "5s8HTZXGujC5ULoREirYwp",
-              "mimeType": "image/jpeg",
-              "originalFilename": "TFT_DevDrop_T1_Cluttered_resized.jpg",
               "_type": "sanity.imageAsset",
-              "sha1hash": "fe19d155a443bef6998e49ac6524acbe39ec9497",
-              "size": 231912,
               "_updatedAt": "2024-04-27T01:51:14Z",
+              "assetId": "fe19d155a443bef6998e49ac6524acbe39ec9497",
+              "extension": "jpg",
               "metadata": {
-                "hasAlpha": false,
+                "_type": "sanity.imageMetadata",
+                "blurHash": "MPFr#600Sgn%D%~qIUMyoyM{%gRjRjogR*",
                 "dimensions": {
                   "_type": "sanity.imageDimensions",
-                  "width": 1920,
                   "aspectRatio": 1.7777777777777777,
-                  "height": 1080
+                  "height": 1080,
+                  "width": 1920
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "MPFr#600Sgn%D%~qIUMyoyM{%gRjRjogR*",
-                "_type": "sanity.imageMetadata",
                 "palette": {
-                  "lightVibrant": {
-                    "population": 0.08,
-                    "background": "#f0dfd4",
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#000"
+                    "background": "#503139",
+                    "foreground": "#fff",
+                    "population": 4.41,
+                    "title": "#fff"
                   },
                   "darkVibrant": {
-                    "title": "#fff",
-                    "population": 3.33,
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#300a1e",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "lightMuted": {
-                    "title": "#fff",
-                    "population": 1.85,
-                    "background": "#bfbbb1",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
-                  },
-                  "vibrant": {
-                    "population": 0.03,
-                    "background": "#863c61",
-                    "_type": "sanity.imagePaletteSwatch",
                     "foreground": "#fff",
+                    "population": 3.33,
                     "title": "#fff"
                   },
                   "dominant": {
-                    "background": "#503139",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#503139",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 4.41
+                    "population": 4.41,
+                    "title": "#fff"
                   },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "background": "#503139",
+                  "lightMuted": {
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 4.41
+                    "background": "#bfbbb1",
+                    "foreground": "#000",
+                    "population": 1.85,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f0dfd4",
+                    "foreground": "#000",
+                    "population": 0.08,
+                    "title": "#000"
                   },
                   "muted": {
-                    "background": "#997b68",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#997b68",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.85
+                    "population": 0.85,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#863c61",
+                    "foreground": "#fff",
+                    "population": 0.03,
+                    "title": "#fff"
                   }
                 }
               },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_DevDrop_T1_Cluttered_resized.jpg",
               "path": "images/dsfx7636/news_live/fe19d155a443bef6998e49ac6524acbe39ec9497-1920x1080.jpg",
+              "sha1hash": "fe19d155a443bef6998e49ac6524acbe39ec9497",
+              "size": 231912,
+              "uploadId": "ZCSnRnQW79PPvz4KgSihwMSAIxPA79Zv",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fe19d155a443bef6998e49ac6524acbe39ec9497-1920x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+          }
         },
-        "_key": "sRWSqUpg",
         "hideCTAButton": true,
-        "t1Description": "",
         "t1CTA": "",
-        "t1Title": "Blog : septembre 2021",
+        "t1Description": "",
         "t1Subtitle": "Teamfight Tactics",
-        "_type": "clientInternalLinkT1",
+        "t1Title": "Blog : septembre 2021",
         "t1VideoEmbed": {
+          "_type": "multimediaAsset",
           "mediaType": "video",
+          "provider": "youtube",
           "youtubeAsset": {
             "_type": "youtube",
             "videoID": "https://www.youtube.com/watch?v=qQnoPQXIYPE"
-          },
-          "provider": "youtube",
-          "_type": "multimediaAsset"
+          }
         }
       },
       {
-        "_type": "clientInternalLinkT2",
         "_key": "KreB0O9C",
+        "_type": "clientInternalLinkT2",
         "t2Title": "Blog TFT"
       }
     ],
@@ -4690,84 +4690,84 @@
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "extension": "jpg",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/345e96a2b65379255ae0a657717f6dc9dae95558-1600x1080.jpg",
-              "mimeType": "image/jpeg",
-              "assetId": "345e96a2b65379255ae0a657717f6dc9dae95558",
+              "_createdAt": "2024-04-27T02:07:43Z",
               "_id": "image-345e96a2b65379255ae0a657717f6dc9dae95558-1600x1080-jpg",
-              "sha1hash": "345e96a2b65379255ae0a657717f6dc9dae95558",
-              "size": 413410,
+              "_rev": "TveqPI7F4qA0WH6AaDhuaU",
+              "_type": "sanity.imageAsset",
               "_updatedAt": "2024-04-27T02:07:43Z",
-              "originalFilename": "TFT-ArticleDeepDive-T1-template-_(decluttered)_v2.jpg",
+              "assetId": "345e96a2b65379255ae0a657717f6dc9dae95558",
+              "extension": "jpg",
               "metadata": {
-                "isOpaque": true,
-                "blurHash": "VEIq}Vtm03NgAEk.tlE7R:tP00sn~VahxYMLa1%2Rkoz",
                 "_type": "sanity.imageMetadata",
+                "blurHash": "VEIq}Vtm03NgAEk.tlE7R:tP00sn~VahxYMLa1%2Rkoz",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
-                  "muted": {
-                    "background": "#5dab79",
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#2d5f63",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.74
-                  },
-                  "lightVibrant": {
-                    "foreground": "#000",
-                    "title": "#000",
-                    "population": 2.83,
-                    "background": "#f4e2b0",
-                    "_type": "sanity.imagePaletteSwatch"
+                    "population": 9.7,
+                    "title": "#fff"
                   },
                   "darkVibrant": {
-                    "title": "#fff",
-                    "population": 2.37,
-                    "background": "#5a6620",
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
+                    "background": "#5a6620",
+                    "foreground": "#fff",
+                    "population": 2.37,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#2d5f63",
+                    "foreground": "#fff",
+                    "population": 9.7,
+                    "title": "#fff"
                   },
                   "lightMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ccc69b",
                     "foreground": "#000",
-                    "title": "#fff",
                     "population": 0.75,
-                    "background": "#ccc69b"
-                  },
-                  "vibrant": {
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.32,
-                    "background": "#d2982f",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "dominant": {
-                    "population": 9.7,
-                    "background": "#2d5f63",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
                     "title": "#fff"
                   },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "background": "#2d5f63",
+                  "lightVibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f4e2b0",
+                    "foreground": "#000",
+                    "population": 2.83,
+                    "title": "#000"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#5dab79",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 9.7
+                    "population": 0.74,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d2982f",
+                    "foreground": "#000",
+                    "population": 0.32,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
                 }
               },
-              "uploadId": "6Q9RmlVLVWksQ9reXmQQbLdpUUWfohUb",
-              "_rev": "TveqPI7F4qA0WH6AaDhuaU",
-              "_type": "sanity.imageAsset",
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT-ArticleDeepDive-T1-template-_(decluttered)_v2.jpg",
               "path": "images/dsfx7636/news_live/345e96a2b65379255ae0a657717f6dc9dae95558-1600x1080.jpg",
-              "_createdAt": "2024-04-27T02:07:43Z",
+              "sha1hash": "345e96a2b65379255ae0a657717f6dc9dae95558",
+              "size": 413410,
+              "uploadId": "6Q9RmlVLVWksQ9reXmQQbLdpUUWfohUb",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/345e96a2b65379255ae0a657717f6dc9dae95558-1600x1080.jpg",
               "dataset": "news_live"
             }
           }
@@ -4971,111 +4971,111 @@
     },
     "channelsConfiguration": [
       {
-        "t1Subtitle": "Dev vidéo",
-        "_type": "clientInternalLinkT1",
-        "t1Title": "Blog TFT : mars 2021",
         "_key": "FbrWvuEJ",
-        "t1Description": "",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
+            "_type": "image",
             "asset": {
-              "extension": "jpg",
-              "_type": "sanity.imageAsset",
-              "uploadId": "ljDWRCwHbAmnDVTZcug9xKh18iW33KER",
-              "mimeType": "image/jpeg",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2bcfc48c11598a0499e2b1bafefac1d4a8529889-1600x1080.jpg",
+              "_createdAt": "2024-04-27T02:07:41Z",
               "_id": "image-2bcfc48c11598a0499e2b1bafefac1d4a8529889-1600x1080-jpg",
               "_rev": "TveqPI7F4qA0WH6AaDhu3k",
-              "path": "images/dsfx7636/news_live/2bcfc48c11598a0499e2b1bafefac1d4a8529889-1600x1080.jpg",
-              "size": 415597,
-              "_createdAt": "2024-04-27T02:07:41Z",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-04-27T02:07:41Z",
+              "assetId": "2bcfc48c11598a0499e2b1bafefac1d4a8529889",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VJATWd_N-;t8WV~q.8xvj]Rk-;%Mj]aeRjxus:WBWBay",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
-                  "lightMuted": {
-                    "background": "#b5b6be",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 11.48
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.37,
-                    "background": "#c03a5e"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 11.48,
-                    "background": "#b5b6be"
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
-                    "title": "#fff",
-                    "population": 9.26,
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#3d3236",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "muted": {
-                    "background": "#a06064",
-                    "_type": "sanity.imagePaletteSwatch",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0
-                  },
-                  "lightVibrant": {
-                    "population": 0.19,
-                    "background": "#ba6b7d",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
+                    "population": 9.26,
                     "title": "#fff"
                   },
                   "darkVibrant": {
-                    "background": "#340414",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#340414",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0
+                    "population": 0,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b5b6be",
+                    "foreground": "#000",
+                    "population": 11.48,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b5b6be",
+                    "foreground": "#000",
+                    "population": 11.48,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ba6b7d",
+                    "foreground": "#fff",
+                    "population": 0.19,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#a06064",
+                    "foreground": "#fff",
+                    "population": 0,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c03a5e",
+                    "foreground": "#fff",
+                    "population": 0.37,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
-                },
-                "isOpaque": true,
-                "blurHash": "VJATWd_N-;t8WV~q.8xvj]Rk-;%Mj]aeRjxus:WBWBay",
-                "_type": "sanity.imageMetadata"
+                }
               },
-              "sha1hash": "2bcfc48c11598a0499e2b1bafefac1d4a8529889",
-              "assetId": "2bcfc48c11598a0499e2b1bafefac1d4a8529889",
-              "_updatedAt": "2024-04-27T02:07:41Z",
+              "mimeType": "image/jpeg",
               "originalFilename": "TFT_Dev_Drop_T1_Decluttered.jpg",
+              "path": "images/dsfx7636/news_live/2bcfc48c11598a0499e2b1bafefac1d4a8529889-1600x1080.jpg",
+              "sha1hash": "2bcfc48c11598a0499e2b1bafefac1d4a8529889",
+              "size": 415597,
+              "uploadId": "ljDWRCwHbAmnDVTZcug9xKh18iW33KER",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2bcfc48c11598a0499e2b1bafefac1d4a8529889-1600x1080.jpg",
               "dataset": "news_live"
-            },
-            "_type": "image"
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+            }
+          }
         },
+        "hideCTAButton": true,
         "t1CTA": "",
+        "t1Description": "",
+        "t1Subtitle": "Dev vidéo",
+        "t1Title": "Blog TFT : mars 2021",
         "t1VideoEmbed": {
+          "_type": "multimediaAsset",
           "mediaType": "video",
+          "provider": "youtube",
           "youtubeAsset": {
             "_type": "youtube",
             "videoID": "https://www.youtube.com/watch?v=Bqpsk8d8i_4"
-          },
-          "provider": "youtube",
-          "_type": "multimediaAsset"
-        },
-        "hideCTAButton": true
+          }
+        }
       }
     ],
     "media": {
@@ -5210,7 +5210,7 @@
         "width": 1215,
         "aspectRatio": 1.6945606694560669
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/9bb7865270e3193e631619fb53d6287d2d341b35-1215x717.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9bb7865270e3193e631619fb53d6287d2d341b35-1215x717.jpg",
       "colors": {
         "primary": "#231712",
         "secondary": "#F9ECDC",
@@ -5662,7 +5662,7 @@
         "width": 1215,
         "aspectRatio": 1.6945606694560669
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/216b65d9b80814d4ca010d3068cfb84c785e4ad4-1215x717.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/216b65d9b80814d4ca010d3068cfb84c785e4ad4-1215x717.jpg",
       "colors": {
         "primary": "#181D30",
         "secondary": "#F3DCF9",
