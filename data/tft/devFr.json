@@ -330,107 +330,107 @@
     },
     "channelsConfiguration": [
       {
+        "_key": "58b01f7f0c39",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-04-17T13:21:30Z",
+              "_id": "image-c39efaa542680f7895d27fa6fcba8debd00be845-1600x1080-jpg",
+              "_rev": "ueSUZDbd7t6LqWqu7KEWW8",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-04-22T14:00:42Z",
+              "assetId": "c39efaa542680f7895d27fa6fcba8debd00be845",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V5BMPp0z07=A:Y4.Wa~AR.0f00|Y#jOu%}Di%1tRo#xs",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#453127",
+                    "foreground": "#fff",
+                    "population": 7.21,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#0f4440",
+                    "foreground": "#fff",
+                    "population": 5.87,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#453127",
+                    "foreground": "#fff",
+                    "population": 7.21,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#afbeca",
+                    "foreground": "#000",
+                    "population": 1.07,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#edb478",
+                    "foreground": "#000",
+                    "population": 0.42,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#6076ae",
+                    "foreground": "#fff",
+                    "population": 2.76,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ba7b47",
+                    "foreground": "#fff",
+                    "population": 0.82,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "Riot_Client_T1-Decluttered.jpg",
+              "path": "images/dsfx7636/news_live/c39efaa542680f7895d27fa6fcba8debd00be845-1600x1080.jpg",
+              "sha1hash": "c39efaa542680f7895d27fa6fcba8debd00be845",
+              "size": 344315,
+              "uploadId": "PtZAMur8zrdDpNHYFM4qGPCx1pOyDRLr",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c39efaa542680f7895d27fa6fcba8debd00be845-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
         "t1VideoEmbed": {
-          "provider": "youtube",
           "_type": "multimediaAsset",
           "mediaType": "video",
+          "provider": "youtube",
           "youtubeAsset": {
             "_type": "videoYoutube",
             "videoID": "2ihjj03Cg-M"
           }
-        },
-        "hideCTAButton": true,
-        "backdropImage": {
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "metadata": {
-                "isOpaque": true,
-                "blurHash": "V5BMPp0z07=A:Y4.Wa~AR.0f00|Y#jOu%}Di%1tRo#xs",
-                "_type": "sanity.imageMetadata",
-                "palette": {
-                  "lightVibrant": {
-                    "population": 0.42,
-                    "background": "#edb478",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "background": "#0f4440",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 5.87
-                  },
-                  "lightMuted": {
-                    "background": "#afbeca",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 1.07
-                  },
-                  "vibrant": {
-                    "title": "#fff",
-                    "population": 0.82,
-                    "background": "#ba7b47",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "dominant": {
-                    "background": "#453127",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 7.21
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "title": "#fff",
-                    "population": 7.21,
-                    "background": "#453127",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 2.76,
-                    "background": "#6076ae"
-                  }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600
-                }
-              },
-              "uploadId": "PtZAMur8zrdDpNHYFM4qGPCx1pOyDRLr",
-              "_type": "sanity.imageAsset",
-              "sha1hash": "c39efaa542680f7895d27fa6fcba8debd00be845",
-              "path": "images/dsfx7636/news_live/c39efaa542680f7895d27fa6fcba8debd00be845-1600x1080.jpg",
-              "size": 344315,
-              "assetId": "c39efaa542680f7895d27fa6fcba8debd00be845",
-              "_updatedAt": "2025-04-22T14:00:42Z",
-              "_rev": "ueSUZDbd7t6LqWqu7KEWW8",
-              "originalFilename": "Riot_Client_T1-Decluttered.jpg",
-              "extension": "jpg",
-              "mimeType": "image/jpeg",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c39efaa542680f7895d27fa6fcba8debd00be845-1600x1080.jpg",
-              "_createdAt": "2025-04-17T13:21:30Z",
-              "_id": "image-c39efaa542680f7895d27fa6fcba8debd00be845-1600x1080-jpg",
-              "dataset": "news_live"
-            }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity"
-        },
-        "_type": "clientInternalLinkT1",
-        "_key": "58b01f7f0c39"
+        }
       }
     ],
     "media": {
@@ -561,109 +561,109 @@
     },
     "channelsConfiguration": [
       {
-        "t1Title": "Cyber City",
         "_key": "fc99516c6e69",
-        "t1VideoEmbed": {
-          "provider": "youtube",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
           "_type": "multimediaAsset",
-          "mediaType": "video",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "cb5mePr31eg"
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-03-14T05:52:30Z",
+              "_id": "image-274a30f8e201bc1d332390e4153e897505d49d47-1600x1080-jpg",
+              "_rev": "nZB9db8bWm6kVNwNtfXOP2",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-04-08T10:31:19Z",
+              "assetId": "274a30f8e201bc1d332390e4153e897505d49d47",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V67dbG-??dxut2M]RiNFbEt700ITD$NGWHxwt7xHV]E0",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#35355c",
+                    "foreground": "#fff",
+                    "population": 4.32,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#391c6c",
+                    "foreground": "#fff",
+                    "population": 0.3,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#35355c",
+                    "foreground": "#fff",
+                    "population": 4.32,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#aaaece",
+                    "foreground": "#000",
+                    "population": 1.47,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b2addd",
+                    "foreground": "#000",
+                    "population": 0.21,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#6b57a0",
+                    "foreground": "#fff",
+                    "population": 0.88,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#5c3c9c",
+                    "foreground": "#fff",
+                    "population": 0.02,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_S1425_Thumbnails_Client-T1-Decluttered_DevDrop_16000x1080_v002_SUMMONER.jpg",
+              "path": "images/dsfx7636/news/274a30f8e201bc1d332390e4153e897505d49d47-1600x1080.jpg",
+              "sha1hash": "274a30f8e201bc1d332390e4153e897505d49d47",
+              "size": 199981,
+              "uploadId": "5jz4DaSZd2FMZsT1njnkMvf5jiNcqd4R",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/274a30f8e201bc1d332390e4153e897505d49d47-1600x1080.jpg",
+              "dataset": "news_live"
+            }
           }
         },
         "hideCTAButton": true,
         "t1Subtitle": "Dev drop TFT",
-        "backdropImage": {
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_updatedAt": "2025-04-08T10:31:19Z",
-              "metadata": {
-                "isOpaque": true,
-                "blurHash": "V67dbG-??dxut2M]RiNFbEt700ITD$NGWHxwt7xHV]E0",
-                "_type": "sanity.imageMetadata",
-                "palette": {
-                  "dominant": {
-                    "background": "#35355c",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 4.32
-                  },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 4.32,
-                    "background": "#35355c",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.88,
-                    "background": "#6b57a0"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 0.21,
-                    "background": "#b2addd"
-                  },
-                  "darkVibrant": {
-                    "title": "#fff",
-                    "population": 0.3,
-                    "background": "#391c6c",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
-                    "title": "#fff",
-                    "population": 1.47,
-                    "background": "#aaaece"
-                  },
-                  "vibrant": {
-                    "background": "#5c3c9c",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.02
-                  }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "_type": "sanity.imageDimensions"
-                }
-              },
-              "_rev": "nZB9db8bWm6kVNwNtfXOP2",
-              "_createdAt": "2025-03-14T05:52:30Z",
-              "_id": "image-274a30f8e201bc1d332390e4153e897505d49d47-1600x1080-jpg",
-              "originalFilename": "TFT_S1425_Thumbnails_Client-T1-Decluttered_DevDrop_16000x1080_v002_SUMMONER.jpg",
-              "extension": "jpg",
-              "_type": "sanity.imageAsset",
-              "mimeType": "image/jpeg",
-              "size": 199981,
-              "assetId": "274a30f8e201bc1d332390e4153e897505d49d47",
-              "uploadId": "5jz4DaSZd2FMZsT1njnkMvf5jiNcqd4R",
-              "sha1hash": "274a30f8e201bc1d332390e4153e897505d49d47",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/274a30f8e201bc1d332390e4153e897505d49d47-1600x1080.jpg",
-              "path": "images/dsfx7636/news/274a30f8e201bc1d332390e4153e897505d49d47-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          },
+        "t1Title": "Cyber City",
+        "t1VideoEmbed": {
           "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity"
-        },
-        "_type": "clientInternalLinkT1"
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "cb5mePr31eg"
+          }
+        }
       }
     ],
     "media": {
@@ -795,16 +795,7 @@
     "channelsConfiguration": [
       {
         "_key": "df5eea1bcafb",
-        "t1VideoEmbed": {
-          "provider": "youtube",
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "_6T2ImzHMaY"
-          }
-        },
-        "hideCTAButton": true,
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
           "_type": "multimediaAsset",
           "mediaType": "image",
@@ -812,89 +803,98 @@
           "sanityImage": {
             "_type": "image",
             "asset": {
+              "_createdAt": "2025-01-27T19:38:33Z",
+              "_id": "image-163bed15a759fbada0968ba03ebad45fe328c653-1600x1080-jpg",
+              "_rev": "MBs86ihGgxetNe5QoyOVPV",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-03-22T00:10:02Z",
+              "assetId": "163bed15a759fbada0968ba03ebad45fe328c653",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V5CX=]x]={xt02_kEfv~M|Fv02M|I;xF.6?G$QBT%1s.",
                 "dimensions": {
                   "_type": "sanity.imageDimensions",
-                  "width": 1600,
                   "aspectRatio": 1.4814814814814814,
-                  "height": 1080
+                  "height": 1080,
+                  "width": 1600
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "V5CX=]x]={xt02_kEfv~M|Fv02M|I;xF.6?G$QBT%1s.",
-                "_type": "sanity.imageMetadata",
                 "palette": {
-                  "darkVibrant": {
-                    "background": "#8b0d09",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 4.73
-                  },
-                  "lightMuted": {
-                    "foreground": "#000",
-                    "title": "#000",
-                    "population": 0.22,
-                    "background": "#e1ccbb",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "vibrant": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.55,
-                    "background": "#da4f24",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "dominant": {
-                    "background": "#8b0d09",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 4.73
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
-                    "background": "#473c29",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#473c29",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 4.64
+                    "population": 4.64,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8b0d09",
+                    "foreground": "#fff",
+                    "population": 4.73,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8b0d09",
+                    "foreground": "#fff",
+                    "population": 4.73,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#e1ccbb",
+                    "foreground": "#000",
+                    "population": 0.22,
+                    "title": "#000"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#e8c69e",
+                    "foreground": "#000",
+                    "population": 0.05,
+                    "title": "#000"
                   },
                   "muted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9f7961",
                     "foreground": "#fff",
-                    "title": "#fff",
                     "population": 1.69,
-                    "background": "#9f7961"
+                    "title": "#fff"
                   },
-                  "lightVibrant": {
-                    "title": "#000",
-                    "population": 0.05,
-                    "background": "#e8c69e",
+                  "vibrant": {
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000"
+                    "background": "#da4f24",
+                    "foreground": "#fff",
+                    "population": 0.55,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false
+                }
               },
-              "_type": "sanity.imageAsset",
-              "size": 341093,
-              "_createdAt": "2025-01-27T19:38:33Z",
-              "originalFilename": "TFT_LNY25_THUMB_DevDoubleUp_1600x1080.jpg",
-              "extension": "jpg",
-              "uploadId": "T9ijmx1JqDALYk9tDoh49Hhd29gdaNCw",
-              "_rev": "MBs86ihGgxetNe5QoyOVPV",
               "mimeType": "image/jpeg",
-              "_id": "image-163bed15a759fbada0968ba03ebad45fe328c653-1600x1080-jpg",
-              "assetId": "163bed15a759fbada0968ba03ebad45fe328c653",
-              "sha1hash": "163bed15a759fbada0968ba03ebad45fe328c653",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/163bed15a759fbada0968ba03ebad45fe328c653-1600x1080.jpg",
+              "originalFilename": "TFT_LNY25_THUMB_DevDoubleUp_1600x1080.jpg",
               "path": "images/dsfx7636/news/163bed15a759fbada0968ba03ebad45fe328c653-1600x1080.jpg",
-              "_updatedAt": "2025-03-22T00:10:02Z",
+              "sha1hash": "163bed15a759fbada0968ba03ebad45fe328c653",
+              "size": 341093,
+              "uploadId": "T9ijmx1JqDALYk9tDoh49Hhd29gdaNCw",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/163bed15a759fbada0968ba03ebad45fe328c653-1600x1080.jpg",
               "dataset": "news_live"
             }
           }
         },
-        "_type": "clientInternalLinkT1"
+        "hideCTAButton": true,
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "_6T2ImzHMaY"
+          }
+        }
       }
     ],
     "media": {
@@ -1026,7 +1026,7 @@
     "channelsConfiguration": [
       {
         "_key": "c2b60d04d29f",
-        "t1Description": "Mises à jour inédites de TFT : première d'Into the Arcane le 25 novembre à 15h CET.",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
           "_type": "multimediaAsset",
           "mediaType": "image",
@@ -1034,89 +1034,89 @@
           "sanityImage": {
             "_type": "image",
             "asset": {
+              "_createdAt": "2024-11-21T20:40:15Z",
+              "_id": "image-c569d18f4bc6c8a23f03e283e836403d00b241d5-1600x1080-jpg",
+              "_rev": "KFPdjtNswOAQxKendhlQKy",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-12-13T06:55:54Z",
+              "assetId": "c569d18f4bc6c8a23f03e283e836403d00b241d5",
+              "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VDJ;b=oe0MafkW}FWpI;aySg02WV^%oew01IoKbvX7sA",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
                 "palette": {
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 8.09,
-                    "background": "#7f0912"
-                  },
                   "_type": "sanity.imagePalette",
                   "darkMuted": {
-                    "title": "#fff",
-                    "population": 0,
+                    "_type": "sanity.imagePaletteSwatch",
                     "background": "#8e0a14",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "muted": {
-                    "background": "#802518",
-                    "_type": "sanity.imagePaletteSwatch",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0
+                    "population": 0,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#7f0912",
+                    "foreground": "#fff",
+                    "population": 8.09,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#7f0912",
+                    "foreground": "#fff",
+                    "population": 8.09,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8d3c0b",
+                    "foreground": "#fff",
+                    "population": 0,
+                    "title": "#fff"
                   },
                   "lightVibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f5b188",
                     "foreground": "#000",
-                    "title": "#fff",
                     "population": 7.74,
-                    "background": "#f5b188"
+                    "title": "#fff"
                   },
-                  "darkVibrant": {
-                    "title": "#fff",
-                    "population": 8.09,
-                    "background": "#7f0912",
+                  "muted": {
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "lightMuted": {
-                    "population": 0,
-                    "background": "#8d3c0b",
-                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#802518",
                     "foreground": "#fff",
+                    "population": 0,
                     "title": "#fff"
                   },
                   "vibrant": {
-                    "population": 6.72,
-                    "background": "#d94b37",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d94b37",
                     "foreground": "#fff",
+                    "population": 6.72,
                     "title": "#fff"
                   }
-                },
-                "hasAlpha": false,
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 1600,
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080
-                },
-                "isOpaque": true,
-                "blurHash": "VDJ;b=oe0MafkW}FWpI;aySg02WV^%oew01IoKbvX7sA",
-                "_type": "sanity.imageMetadata"
+                }
               },
-              "uploadId": "S2qqBzAuxKNpRgkmnaxyOXV4AC5s2cZY",
               "mimeType": "image/jpeg",
-              "sha1hash": "c569d18f4bc6c8a23f03e283e836403d00b241d5",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/c569d18f4bc6c8a23f03e283e836403d00b241d5-1600x1080.jpg",
-              "path": "images/dsfx7636/news/c569d18f4bc6c8a23f03e283e836403d00b241d5-1600x1080.jpg",
-              "_createdAt": "2024-11-21T20:40:15Z",
-              "_id": "image-c569d18f4bc6c8a23f03e283e836403d00b241d5-1600x1080-jpg",
-              "_updatedAt": "2024-12-13T06:55:54Z",
-              "extension": "jpg",
-              "_rev": "KFPdjtNswOAQxKendhlQKy",
-              "assetId": "c569d18f4bc6c8a23f03e283e836403d00b241d5",
-              "_type": "sanity.imageAsset",
-              "size": 362647,
               "originalFilename": "TFT_ST1324_CC_PRE-Premiere_T1-Decluttered_v001_optimized.jpg",
+              "path": "images/dsfx7636/news/c569d18f4bc6c8a23f03e283e836403d00b241d5-1600x1080.jpg",
+              "sha1hash": "c569d18f4bc6c8a23f03e283e836403d00b241d5",
+              "size": 362647,
+              "uploadId": "S2qqBzAuxKNpRgkmnaxyOXV4AC5s2cZY",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/c569d18f4bc6c8a23f03e283e836403d00b241d5-1600x1080.jpg",
               "dataset": "news_live"
             }
           }
         },
-        "_type": "clientInternalLinkT1",
+        "t1Description": "Mises à jour inédites de TFT : première d'Into the Arcane le 25 novembre à 15h CET.",
         "t1Title": "Le jeu évolue"
       }
     ],
@@ -1159,7 +1159,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "F9Ug4Wg3liY",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 779,
         "url": "https://www.youtube.com/watch?v=F9Ug4Wg3liY"
       }
     },
@@ -1186,139 +1186,139 @@
     },
     "channelsConfiguration": [
       {
-        "t1VideoEmbed": {
-          "provider": "youtube",
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "F9Ug4Wg3liY"
-          }
-        },
-        "hideCTAButton": true,
-        "t1Subtitle": "Dev drop TFT",
+        "_key": "9f4a6580c66c",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
             "asset": {
-              "size": 121385,
+              "_createdAt": "2024-11-08T04:56:50Z",
+              "_id": "image-4b1b057893c12048f7d93d33af3261dcfa828b2d-1600x1080-jpg",
+              "_rev": "pUSD55BbKwcTZOl8z42DzQ",
+              "_type": "sanity.imageAsset",
               "_updatedAt": "2024-11-25T02:35:36Z",
+              "assetId": "4b1b057893c12048f7d93d33af3261dcfa828b2d",
               "extension": "jpg",
               "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V17Bl[.A0]FX4NqG+OGfIn%~P:vMQ,WT*O8wghvhgMR5",
                 "dimensions": {
                   "_type": "sanity.imageDimensions",
-                  "width": 1600,
                   "aspectRatio": 1.4814814814814814,
-                  "height": 1080
+                  "height": 1080,
+                  "width": 1600
                 },
+                "hasAlpha": false,
                 "isOpaque": true,
-                "blurHash": "V17Bl[.A0]FX4NqG+OGfIn%~P:vMQ,WT*O8wghvhgMR5",
-                "_type": "sanity.imageMetadata",
                 "palette": {
-                  "lightMuted": {
-                    "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0,
-                    "background": "#28706c",
-                    "_type": "sanity.imagePaletteSwatch"
-                  },
-                  "vibrant": {
-                    "population": 7.26,
-                    "background": "#29736f",
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#512956",
                     "foreground": "#fff",
+                    "population": 7.75,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#0b6a63",
+                    "foreground": "#fff",
+                    "population": 0.11,
                     "title": "#fff"
                   },
                   "dominant": {
-                    "population": 7.75,
-                    "background": "#512956",
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#512956",
                     "foreground": "#fff",
+                    "population": 7.75,
                     "title": "#fff"
                   },
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "title": "#fff",
-                    "population": 7.75,
-                    "background": "#512956",
+                  "lightMuted": {
                     "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#fff"
-                  },
-                  "muted": {
-                    "population": 4.44,
-                    "background": "#73b7af",
-                    "_type": "sanity.imagePaletteSwatch",
-                    "foreground": "#000",
+                    "background": "#28706c",
+                    "foreground": "#fff",
+                    "population": 0,
                     "title": "#fff"
                   },
                   "lightVibrant": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9ddcd8",
                     "foreground": "#000",
-                    "title": "#000",
                     "population": 0,
-                    "background": "#9ddcd8"
+                    "title": "#000"
                   },
-                  "darkVibrant": {
+                  "muted": {
                     "_type": "sanity.imagePaletteSwatch",
+                    "background": "#73b7af",
+                    "foreground": "#000",
+                    "population": 4.44,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#29736f",
                     "foreground": "#fff",
-                    "title": "#fff",
-                    "population": 0.11,
-                    "background": "#0b6a63"
+                    "population": 7.26,
+                    "title": "#fff"
                   }
-                },
-                "hasAlpha": false
+                }
               },
-              "_rev": "pUSD55BbKwcTZOl8z42DzQ",
-              "assetId": "4b1b057893c12048f7d93d33af3261dcfa828b2d",
-              "uploadId": "LZlip7ZV4VdbWI71ouDFm9khGweAYX82",
-              "sha1hash": "4b1b057893c12048f7d93d33af3261dcfa828b2d",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/4b1b057893c12048f7d93d33af3261dcfa828b2d-1600x1080.jpg",
+              "mimeType": "image/jpeg",
               "opt": {
                 "media": {
                   "tags": [
                     {
+                      "_createdAt": "2024-05-30T00:31:04Z",
+                      "_id": "1257WALiBIVf9XCQetNROh",
                       "_rev": "ZgPiUE9lJ1tcRKuFnRhGVF",
                       "_type": "media.tag",
-                      "name": {
-                        "current": "T1 Backdrop",
-                        "_type": "slug"
-                      },
-                      "_id": "1257WALiBIVf9XCQetNROh",
                       "_updatedAt": "2024-07-09T21:00:00Z",
-                      "_createdAt": "2024-05-30T00:31:04Z",
+                      "name": {
+                        "_type": "slug",
+                        "current": "T1 Backdrop"
+                      },
                       "dataset": "news_live"
                     },
                     {
                       "_createdAt": "2024-04-24T03:44:09Z",
+                      "_id": "xL4mW6qp8pgFe8kPyEcjqd",
                       "_rev": "ZgPiUE9lJ1tcRKuFnRgqXh",
                       "_type": "media.tag",
-                      "name": {
-                        "current": "Teamfight Tactics",
-                        "_type": "slug"
-                      },
-                      "_id": "xL4mW6qp8pgFe8kPyEcjqd",
                       "_updatedAt": "2024-07-09T20:58:03Z",
+                      "name": {
+                        "_type": "slug",
+                        "current": "Teamfight Tactics"
+                      },
                       "dataset": "news_live"
                     }
                   ]
                 }
               },
-              "_id": "image-4b1b057893c12048f7d93d33af3261dcfa828b2d-1600x1080-jpg",
-              "_type": "sanity.imageAsset",
-              "mimeType": "image/jpeg",
-              "path": "images/dsfx7636/news/4b1b057893c12048f7d93d33af3261dcfa828b2d-1600x1080.jpg",
-              "_createdAt": "2024-11-08T04:56:50Z",
               "originalFilename": "TFT_ST1324_CC_DevDrop-1_T1-Decluttered_1600x1080_v001_optimized.jpg",
+              "path": "images/dsfx7636/news/4b1b057893c12048f7d93d33af3261dcfa828b2d-1600x1080.jpg",
+              "sha1hash": "4b1b057893c12048f7d93d33af3261dcfa828b2d",
+              "size": 121385,
+              "uploadId": "LZlip7ZV4VdbWI71ouDFm9khGweAYX82",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/4b1b057893c12048f7d93d33af3261dcfa828b2d-1600x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+          }
         },
-        "_type": "clientInternalLinkT1",
+        "hideCTAButton": true,
+        "t1Subtitle": "Dev drop TFT",
         "t1Title": "Into the Arcane",
-        "_key": "9f4a6580c66c"
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "F9Ug4Wg3liY"
+          }
+        }
       }
     ],
     "media": {
@@ -1673,17 +1673,17 @@
     },
     "channelsConfiguration": [
       {
-        "t1Description": "Utilisons ce que nous avons appris dans Mega Remix pour le prochain ensemble !",
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "En savoir plus",
-        "t1Title": "Leçons de Mega Remix",
         "_key": "F61S7Epb",
+        "_type": "clientInternalLinkT1",
         "hideCTAButton": false,
-        "t1Subtitle": "Teamfight Tactics"
+        "t1CTA": "En savoir plus",
+        "t1Description": "Utilisons ce que nous avons appris dans Mega Remix pour le prochain ensemble !",
+        "t1Subtitle": "Teamfight Tactics",
+        "t1Title": "Leçons de Mega Remix"
       },
       {
-        "_type": "clientInternalLinkT2",
         "_key": "oBmSPavo",
+        "_type": "clientInternalLinkT2",
         "t2Title": "Leçons de Mega Remix"
       }
     ],
@@ -2159,7 +2159,8 @@
     },
     "channelsConfiguration": [
       {
-        "t1Description": "",
+        "_key": "KYwQIwbP",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
           "_type": "multimediaAsset",
           "mediaType": "image",
@@ -2249,12 +2250,11 @@
             }
           }
         },
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "",
-        "t1Title": "Baron v T-Hex",
-        "_key": "KYwQIwbP",
         "hideCTAButton": false,
-        "t1Subtitle": "Teamfight Tactics"
+        "t1CTA": "",
+        "t1Description": "",
+        "t1Subtitle": "Teamfight Tactics",
+        "t1Title": "Baron v T-Hex"
       }
     ],
     "media": {
@@ -2321,10 +2321,11 @@
     },
     "channelsConfiguration": [
       {
-        "hideCTAButton": false,
-        "t1Subtitle": "Teamfight Tactics",
-        "t1Description": "Alex Cole, Mort et Rodger détaillent l'histoire des ensembles de mi-parcours, leur rôle et leur fin.",
+        "_key": "L7sP7R71",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
@@ -2409,14 +2410,13 @@
               "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ccfb8017e03e77a23054377782e4eed6b95f6089-1920x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+          }
         },
-        "_type": "clientInternalLinkT1",
+        "hideCTAButton": false,
         "t1CTA": "En savoir plus",
-        "t1Title": "PT : ensembles de mi-parcours",
-        "_key": "L7sP7R71"
+        "t1Description": "Alex Cole, Mort et Rodger détaillent l'histoire des ensembles de mi-parcours, leur rôle et leur fin.",
+        "t1Subtitle": "Teamfight Tactics",
+        "t1Title": "PT : ensembles de mi-parcours"
       }
     ],
     "media": {
@@ -2483,8 +2483,8 @@
     },
     "channelsConfiguration": [
       {
-        "_type": "clientInternalLinkT2",
         "_key": "0DjvQQVx",
+        "_type": "clientInternalLinkT2",
         "t2Title": "Parlons Tactics : EAJ"
       }
     ],
@@ -2615,12 +2615,13 @@
     "channelsConfiguration": [
       {
         "_key": "di96PsSK",
-        "hideCTAButton": false,
-        "t1Subtitle": "Teamfight Tactics",
-        "t1Description": "",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
+            "_type": "image",
             "asset": {
               "_createdAt": "2024-04-27T02:04:49Z",
               "_id": "image-58a36d170df86763824107372f8806ab47cdf590-1920x1080-jpg",
@@ -2701,20 +2702,21 @@
               "uploadId": "gBnbOVZ97ebgJMvWhXJl4CzXSQoofExx",
               "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/58a36d170df86763824107372f8806ab47cdf590-1920x1080.jpg",
               "dataset": "news_live"
-            },
-            "_type": "image"
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+            }
+          }
         },
-        "_type": "clientInternalLinkT1",
+        "hideCTAButton": false,
         "t1CTA": "En savoir plus",
+        "t1Description": "",
+        "t1Subtitle": "Teamfight Tactics",
         "t1Title": ""
       },
       {
         "_key": "dWER4bu4",
-        "t2Title": "TFT : Combat spirituel et le Dôme de Crocc",
+        "_type": "clientInternalLinkT2",
         "t2Image": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
@@ -2799,11 +2801,9 @@
               "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/497205188bdaeb7458e5a2e97edd04fe80f10b8e-1920x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+          }
         },
-        "_type": "clientInternalLinkT2"
+        "t2Title": "TFT : Combat spirituel et le Dôme de Crocc"
       }
     ],
     "media": {
@@ -2934,8 +2934,8 @@
     },
     "channelsConfiguration": [
       {
-        "t1Subtitle": "Teamfight Tactics",
-        "t1Description": "Utilisons ce que nous avons appris dans L'Attaque des monstres ! pour le prochain ensemble !",
+        "_key": "VYAwFE14",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
           "_type": "multimediaAsset",
           "mediaType": "image",
@@ -3025,11 +3025,11 @@
             }
           }
         },
-        "_type": "clientInternalLinkT1",
+        "hideCTAButton": false,
         "t1CTA": "En savoir plus",
-        "t1Title": "L'Attaque des monstres ! : Les leçons",
-        "_key": "VYAwFE14",
-        "hideCTAButton": false
+        "t1Description": "Utilisons ce que nous avons appris dans L'Attaque des monstres ! pour le prochain ensemble !",
+        "t1Subtitle": "Teamfight Tactics",
+        "t1Title": "L'Attaque des monstres ! : Les leçons"
       }
     ],
     "media": {
@@ -3096,11 +3096,17 @@
     },
     "channelsConfiguration": [
       {
-        "t1Subtitle": "Teamfight Tactics",
+        "_key": "6opVfl22",
+        "_type": "clientInternalLinkT1",
+        "hideCTAButton": false,
+        "t1CTA": "",
         "t1Description": "",
         "t1Image": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
+            "_type": "image",
             "asset": {
               "_createdAt": "2024-04-27T02:07:51Z",
               "_id": "image-d84501fee034679f3616c0f04dbde981ccdd0bfd-1600x1080-jpg",
@@ -3181,20 +3187,18 @@
               "uploadId": "ATkfo75m2ebo0tlZa2woF8tm5LgOGrCO",
               "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d84501fee034679f3616c0f04dbde981ccdd0bfd-1600x1080.jpg",
               "dataset": "news_live"
-            },
-            "_type": "image"
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+            }
+          }
         },
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "",
-        "t1Title": "",
-        "_key": "6opVfl22",
-        "hideCTAButton": false
+        "t1Subtitle": "Teamfight Tactics",
+        "t1Title": ""
       },
       {
+        "_key": "1TC5D7Ou",
+        "_type": "clientInternalLinkT2",
         "t2Image": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
@@ -3279,12 +3283,8 @@
               "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c7e740e18aaf0b2eae749a2e07ab0c5cc30bae0f-1280x720.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+          }
         },
-        "_type": "clientInternalLinkT2",
-        "_key": "1TC5D7Ou",
         "t2Title": ""
       }
     ],
@@ -3352,14 +3352,14 @@
     },
     "channelsConfiguration": [
       {
-        "t1Title": "Leçons de L'ère des dragons",
         "_key": "eevsqlB3",
-        "hideCTAButton": false,
-        "t1Subtitle": "Teamfight Tactics",
-        "t1Description": "Utilisons ce que nous avons appris dans L'ère des dragons pour le prochain ensemble !",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
+            "_type": "image",
             "asset": {
               "_createdAt": "2024-04-27T01:01:38Z",
               "_id": "image-0efaef212e8523c6462c7568d8a13d6a792aa102-1280x720-jpg",
@@ -3440,14 +3440,14 @@
               "uploadId": "H9MibEO91Vztyij9bJxpSBF89LO1Di1e",
               "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0efaef212e8523c6462c7568d8a13d6a792aa102-1280x720.jpg",
               "dataset": "news_live"
-            },
-            "_type": "image"
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+            }
+          }
         },
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "En savoir plus"
+        "hideCTAButton": false,
+        "t1CTA": "En savoir plus",
+        "t1Description": "Utilisons ce que nous avons appris dans L'ère des dragons pour le prochain ensemble !",
+        "t1Subtitle": "Teamfight Tactics",
+        "t1Title": "Leçons de L'ère des dragons"
       }
     ],
     "media": {
@@ -3878,10 +3878,10 @@
     "channelsConfiguration": [
       {
         "_key": "2elcjhiV",
-        "hideCTAButton": false,
-        "t1Subtitle": "Teamfight Tactics",
-        "t1Description": "Taking what we learned from Gizmos & Gadgets into the next set!",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
           "provider": "sanity",
           "sanityImage": {
             "_type": "image",
@@ -3966,12 +3966,12 @@
               "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7e3b59b86d3cfd0bee143d5d8f21cdecd480e16f-1920x1080.jpg",
               "dataset": "news_live"
             }
-          },
-          "_type": "multimediaAsset",
-          "mediaType": "image"
+          }
         },
-        "_type": "clientInternalLinkT1",
+        "hideCTAButton": false,
         "t1CTA": "Learn More",
+        "t1Description": "Taking what we learned from Gizmos & Gadgets into the next set!",
+        "t1Subtitle": "Teamfight Tactics",
         "t1Title": "Gizmos & Gadgets Learnings"
       }
     ],
@@ -4039,9 +4039,9 @@
     },
     "channelsConfiguration": [
       {
-        "t2Title": "Parlons Tactics",
+        "_key": "teoEaVH7",
         "_type": "clientInternalLinkT2",
-        "_key": "teoEaVH7"
+        "t2Title": "Parlons Tactics"
       }
     ],
     "media": {
@@ -4343,7 +4343,8 @@
     },
     "channelsConfiguration": [
       {
-        "t1Description": "Utiliser ce que nous avons appris dans Gadgets en folie et au-delà !",
+        "_key": "OwGb7X6m",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
           "_type": "multimediaAsset",
           "mediaType": "image",
@@ -4433,12 +4434,11 @@
             }
           }
         },
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "En savoir plus",
-        "t1Title": "Leçons retenues de Jugement",
-        "_key": "OwGb7X6m",
         "hideCTAButton": false,
-        "t1Subtitle": "Teamfight Tactics"
+        "t1CTA": "En savoir plus",
+        "t1Description": "Utiliser ce que nous avons appris dans Gadgets en folie et au-delà !",
+        "t1Subtitle": "Teamfight Tactics",
+        "t1Title": "Leçons retenues de Jugement"
       }
     ],
     "media": {
@@ -4683,6 +4683,8 @@
     },
     "channelsConfiguration": [
       {
+        "_key": "0OeHcsl7",
+        "_type": "clientInternalLinkT1",
         "backdropImage": {
           "_type": "multimediaAsset",
           "mediaType": "image",
@@ -4772,13 +4774,11 @@
             }
           }
         },
-        "_type": "clientInternalLinkT1",
-        "t1CTA": "",
-        "t1Title": "",
-        "_key": "0OeHcsl7",
         "hideCTAButton": false,
+        "t1CTA": "",
+        "t1Description": "",
         "t1Subtitle": "",
-        "t1Description": ""
+        "t1Title": ""
       }
     ],
     "media": {
@@ -5390,12 +5390,12 @@
     },
     "channelsConfiguration": [
       {
-        "_type": "clientInternalLinkT2",
-        "_key": "k9od1YsF"
+        "_key": "k9od1YsF",
+        "_type": "clientInternalLinkT2"
       },
       {
-        "_type": "clientInternalLinkT1",
         "_key": "uVHL5VLs",
+        "_type": "clientInternalLinkT1",
         "hideCTAButton": false
       }
     ],
@@ -5587,8 +5587,8 @@
     },
     "channelsConfiguration": [
       {
-        "_type": "clientInternalLinkT2",
         "_key": "TUwncKZ1",
+        "_type": "clientInternalLinkT2",
         "t2Title": "Les origines de TFT"
       }
     ],
