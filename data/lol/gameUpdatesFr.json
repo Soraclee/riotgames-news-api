@@ -1,5 +1,132 @@
 [
   {
+    "title": "TFT Paris Open : billetterie et informations",
+    "publishedAt": "2025-08-20T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/tft-paris-open-ticket-sales-and-event-info/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1db5aca291cf21ce5cab4691f54c0591b16ec8eb-1920x1080.jpg",
+      "colors": {
+        "primary": "#B891A0",
+        "secondary": "#2F2933",
+        "label": "#5F3344"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Voilà quelques infos du TFT Paris Open : dates et prix des billets, format de l'événement et plus."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d03aa0cc-adbc-41ce-a22e-e1b832950eec.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "xZQvzsMlQJS6HYbyT9BPag",
+      "publishDate": "2025-08-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Présentation de Yasuo héraut de la nuit libéré",
+    "publishedAt": "2025-08-18T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "28eAJkMqUM0",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=28eAJkMqUM0"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d649acdb8fd6327710f9ec1afc2ab986566a0543-1920x1080.jpg",
+      "colors": {
+        "primary": "#2A3754",
+        "secondary": "#DCEFF9",
+        "label": "#0B152C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Une nouvelle ère d'obscurité commence ! Suivez la voie du Chaos avec Yasuo héraut de la nuit."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "f88cb668-1e12-4f78-9951-19df080f9e27.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "pKuLECMVmaiyLARBmfilYy",
+      "publishDate": "2025-08-18T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 25.16",
     "publishedAt": "2025-08-12T18:00:00.000Z",
     "action": {
@@ -4629,133 +4756,6 @@
       "contentLocale": "fr-fr",
       "rev": "O0syOADLMvCWbGv9huxqob",
       "publishDate": "2025-03-04T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Variante fantastique Zed fléau galactique quantique",
-    "publishedAt": "2025-02-20T18:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "nXv0y7PtuDg",
-        "videoLengthInSeconds": 35,
-        "url": "https://www.youtube.com/watch?v=nXv0y7PtuDg"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/08c37180ae55129f0978cd54ea22aea68c87ecfd-1920x1080.jpg",
-      "colors": {
-        "primary": "#140A13",
-        "secondary": "#FFF8D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Il n'arrêtera pas avant d'avoir arraché chaque étoile."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "1863b3fe-b7fd-40fd-9c79-90af8b312ca7.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "owsRDYK97YIrmlquh2MdJ0",
-      "publishDate": "2025-02-20T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 13.6 de Teamfight Tactics (2025)",
-    "publishedAt": "2025-02-19T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-13-6-notes-2025"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ab2a8c02799e11f864d33f01886fad8bf61436a0-1920x1080.jpg",
-      "colors": {
-        "primary": "#0F0A15",
-        "secondary": "#FFD6E8",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le patch 13.6 se concentre sur les buffs des types et des champions qui n'ont pas été assez mis en vedette dans ce set ou dans la série sur laquelle le set est basé (mais ce n'était qu'une coïncidence)."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "b0aa4214-49d7-4e3d-adad-8eba0dee45fc.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "migwtNgFHTMRSJnXl9HeEa",
-      "publishDate": "2025-02-19T19:00:00.000Z"
     }
   }
 ]

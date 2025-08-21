@@ -1,5 +1,68 @@
 [
   {
+    "title": "TFT Paris Open Ticket Sales and Event Info",
+    "publishedAt": "2025-08-20T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/tft-paris-open-ticket-sales-and-event-info/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1db5aca291cf21ce5cab4691f54c0591b16ec8eb-1920x1080.jpg",
+      "colors": {
+        "primary": "#B891A0",
+        "secondary": "#2F2933",
+        "label": "#5F3344"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Check out the initial event details including ticket sales dates, prices, event format and more!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d03aa0cc-adbc-41ce-a22e-e1b832950eec.en-us",
+      "contentLocale": "en-us",
+      "rev": "zZnyOGt25TdOcjQJdZo0uQ",
+      "publishDate": "2025-08-20T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Nightbringer Yasuo Unbound Showcase",
     "publishedAt": "2025-08-18T16:00:00.000Z",
     "action": {
@@ -4683,70 +4746,6 @@
       "contentLocale": "en-us",
       "rev": "EXWhl9xH47XIWFC7gEM2C1",
       "publishDate": "2025-05-29T20:15:00.000Z"
-    }
-  },
-  {
-    "title": "Chibi Shork Cosplay Briar Showcase",
-    "publishedAt": "2025-05-29T13:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "JInQRDHgigM",
-        "videoLengthInSeconds": 44,
-        "url": "https://www.youtube.com/watch?v=JInQRDHgigM"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e66797c4362aa8d9aa3b79e44b90907262a20dab-1920x1080.jpg",
-      "colors": {
-        "primary": "#332D1A",
-        "secondary": "#F9E8DC",
-        "label": "#040301"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Sooo hungry…for a brand new chibi! Chibi Briar and Chibi Shork Cosplay Briar are ready to take a bite out of the Convergence during Patch 14.5."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "8e5b6b19-489e-4dea-988d-caeadb1e9c59.en-us",
-      "contentLocale": "en-us",
-      "rev": "fDXQAyrm8j9lAzYYZ2T1jo",
-      "publishDate": "2025-05-29T13:00:00.000Z"
     }
   }
 ]

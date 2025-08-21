@@ -1,5 +1,132 @@
 [
   {
+    "title": "TFT Paris Open : billetterie et informations",
+    "publishedAt": "2025-08-20T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/tft-paris-open-ticket-sales-and-event-info/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1db5aca291cf21ce5cab4691f54c0591b16ec8eb-1920x1080.jpg",
+      "colors": {
+        "primary": "#B891A0",
+        "secondary": "#2F2933",
+        "label": "#5F3344"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Voilà quelques infos du TFT Paris Open : dates et prix des billets, format de l'événement et plus."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d03aa0cc-adbc-41ce-a22e-e1b832950eec.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "xZQvzsMlQJS6HYbyT9BPag",
+      "publishDate": "2025-08-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Présentation de Yasuo héraut de la nuit libéré",
+    "publishedAt": "2025-08-18T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "28eAJkMqUM0",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=28eAJkMqUM0"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d649acdb8fd6327710f9ec1afc2ab986566a0543-1920x1080.jpg",
+      "colors": {
+        "primary": "#2A3754",
+        "secondary": "#DCEFF9",
+        "label": "#0B152C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Une nouvelle ère d'obscurité commence ! Suivez la voie du Chaos avec Yasuo héraut de la nuit."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "f88cb668-1e12-4f78-9951-19df080f9e27.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "pKuLECMVmaiyLARBmfilYy",
+      "publishDate": "2025-08-18T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 25.16",
     "publishedAt": "2025-08-12T18:00:00.000Z",
     "action": {
@@ -4620,130 +4747,6 @@
       "contentLocale": "fr-fr",
       "rev": "v6lQ8FkCz75nF0QUIQqwaS",
       "publishDate": "2025-05-28T21:00:00.000Z"
-    }
-  },
-  {
-    "title": "Fonctionnalité « Communauté Pride »",
-    "publishedAt": "2025-05-28T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/community/pride-community-feature"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d09a5c90cf95b26d75214af58754174c5e93f8fe-1920x1080.jpg",
-      "colors": {
-        "primary": "#B8998C",
-        "secondary": "#33292F",
-        "label": "#412D23"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez les incroyables créateur·ices qui rendent League brillant, audacieux et passionnant."
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "7250895d-c6a6-4c4d-a2aa-abfb375291fb.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wiuC30KxDfxIK6ypfb5b6E",
-      "publishDate": "2025-05-28T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 25.11",
-    "publishedAt": "2025-05-27T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-11-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9d36f1e322fe135fa49179751dfab12060da3985-1920x1080.jpg",
-      "colors": {
-        "primary": "#A888B8",
-        "secondary": "#2B2933",
-        "label": "#4D305A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Croquez à pleines dents dans le patch 25.11 🦷"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "5da2a965-65db-4a89-aea0-20fa74514832.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "v6lQ8FkCz75nF0QUIOqznQ",
-      "publishDate": "2025-05-27T18:00:00.000Z"
     }
   }
 ]
