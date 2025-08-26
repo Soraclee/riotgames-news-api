@@ -1,5 +1,68 @@
 [
   {
+    "title": "Le début de la fin",
+    "publishedAt": "2025-08-25T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=Myx2AU_GxNU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 870,
+        "width": 1547,
+        "aspectRatio": 1.77816091954023
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/77ffb171d6f7264de4d2590c185b225eb9383e8e-1547x870.jpg",
+      "colors": {
+        "primary": "#221115",
+        "secondary": "#F9DCE0",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un terrible cauchemar… ou une vision de l'avenir ?"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "e160196e-db91-4fd6-a7f1-a510744407ba.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "68rjxphlXZSjQXKl4T0XNk",
+      "publishDate": "2025-08-25T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Bande-son originale de K.O. Coliseum",
     "publishedAt": "2025-08-04T16:00:00.000Z",
     "action": {
@@ -7168,70 +7231,6 @@
       "contentLocale": "fr-fr",
       "rev": "ja9Zsf51p979tL8WxpWEF4",
       "publishDate": "2023-01-10T09:00:00.000Z"
-    }
-  },
-  {
-    "title": "Élus de l'hiver 2022 | Musique des skins officielle - League of Legends",
-    "publishedAt": "2022-12-07T18:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "GJLHlBRqKAI",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=GJLHlBRqKAI"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/519fbb2b87ac0f5303be3bd69cbca9e65a4a1a05-1280x720.jpg",
-      "colors": {
-        "primary": "#16222C",
-        "secondary": "#DCEDF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Baladez-vous à travers les paysages enneigés avec la musique officielle des skins Élus de l'hiver 2022."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt07b2827a78713af9.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wqQE3hWIWpUAV3VUi6OCFw",
-      "publishDate": "2022-12-07T18:00:00.000Z"
     }
   }
 ]

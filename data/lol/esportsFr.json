@@ -1,5 +1,69 @@
 [
   {
+    "title": "Pengu présente… | Teaser du TFT Pro Circuit (TPC)",
+    "publishedAt": "2025-08-25T14:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "arRvhEEtxlY",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=arRvhEEtxlY"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8299d574e4a0b4dc58e2a8d3ab270391c48262cb-1920x1080.jpg",
+      "colors": {
+        "primary": "#361B1B",
+        "secondary": "#F9F0DC",
+        "label": "#080202"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Préparez-vous pour la première œuvre de Pengu et assistez à la première du TFT Pro Circuit !"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "fd0d8fd3-0b0e-46cd-ad58-8b60509cf4fe.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "gNHneN2ML3XicBjoRLOVOK",
+      "publishDate": "2025-08-25T14:00:00.000Z"
+    }
+  },
+  {
     "title": "TFT Pro Circuit : tout ce qu'il faut savoir",
     "publishedAt": "2025-08-22T15:00:00.000Z",
     "action": {
@@ -5255,169 +5319,6 @@
       "contentLocale": "fr-fr",
       "rev": "CK5Oetwu6foT4G1mbPI0ja",
       "publishDate": "2024-04-26T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Suivez la RL EMEA Golden Spatula Cup n°1 !",
-    "publishedAt": "2024-04-22T15:30:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.twitch.tv/teamfighttactics"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "JZFuRdxY",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-26T13:00:04Z",
-              "_id": "image-71fd2a3d752739bc50b37560923cf5c7a45fb73e-1600x1080-jpg",
-              "_rev": "EXnOwDgSqyLiyHD1omt5Ut",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2025-03-31T21:56:20Z",
-              "assetId": "71fd2a3d752739bc50b37560923cf5c7a45fb73e",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "V|Opuv~qRjM{t7t7WAoNfiWBt6WBjbayoeX5oMbHWUj?",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#5a4136",
-                    "foreground": "#fff",
-                    "population": 1.46,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#3d1e66",
-                    "foreground": "#fff",
-                    "population": 0,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#8c5ace",
-                    "foreground": "#fff",
-                    "population": 4.88,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#d09da8",
-                    "foreground": "#000",
-                    "population": 3.02,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#dec1a4",
-                    "foreground": "#000",
-                    "population": 2.27,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#927267",
-                    "foreground": "#fff",
-                    "population": 3.48,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#8c5ace",
-                    "foreground": "#fff",
-                    "population": 4.88,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "Copy_of_TFT_RL_SET_11_-_CP_-_T3_-_GSC1_-_TUNE_IN_fixed.jpg",
-              "path": "images/dsfx7636/news_live/71fd2a3d752739bc50b37560923cf5c7a45fb73e-1600x1080.jpg",
-              "sha1hash": "71fd2a3d752739bc50b37560923cf5c7a45fb73e",
-              "size": 526170,
-              "uploadId": "cX5AkhQAo0HzcSy3FZT919o8MvWvuXMv",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/71fd2a3d752739bc50b37560923cf5c7a45fb73e-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": false,
-        "t1CTA": "",
-        "t1Description": "",
-        "t1Subtitle": "",
-        "t1Title": ""
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ecb1b63eeb9794f420e2d6ce5e1f66386c15a4cf-1280x720.jpg",
-      "colors": {
-        "primary": "#1B1B36",
-        "secondary": "#F0DCF9",
-        "label": "#020208"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La saison compétitive du TFT Rising Legends EMEA est de retour ! Suivez la Golden Spatula Cup n°1."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltf553e88d7a99c0bf.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "X59rv1xDPcH5jdaixIl85y",
-      "publishDate": "2024-04-22T15:30:00.000Z"
     }
   }
 ]

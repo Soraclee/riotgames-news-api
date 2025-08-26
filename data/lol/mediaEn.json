@@ -1,5 +1,69 @@
 [
   {
+    "title": "Beginning of the End",
+    "publishedAt": "2025-08-25T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "Myx2AU_GxNU",
+        "videoLengthInSeconds": 71,
+        "url": "https://www.youtube.com/watch?v=Myx2AU_GxNU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 870,
+        "width": 1547,
+        "aspectRatio": 1.77816091954023
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/77ffb171d6f7264de4d2590c185b225eb9383e8e-1547x870.jpg",
+      "colors": {
+        "primary": "#221115",
+        "secondary": "#F9DCE0",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A terrible nightmare… or a vision of what’s to come?"
+    },
+    "category": {
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "46066634-5160-40c4-8a30-3d6a82f800d5.en-us",
+      "contentLocale": "en-us",
+      "rev": "68rjxphlXZSjQXKl4T0XNk",
+      "publishDate": "2025-08-25T15:00:00.000Z"
+    }
+  },
+  {
     "title": "K.O. Coliseum Original Soundtrack",
     "publishedAt": "2025-08-04T16:00:00.000Z",
     "action": {
@@ -445,69 +509,6 @@
     }
   },
   {
-    "title": "The Demon’s Hand – Motion Comic",
-    "publishedAt": "2025-05-20T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg",
-      "colors": {
-        "primary": "#B8A78F",
-        "secondary": "#332D29",
-        "label": "#453825"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "If you challenge a demon, you best play a winning hand. Watch the motion comic now!"
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.en-us",
-      "contentLocale": "en-us",
-      "rev": "KRA11LO4pDDnBAdEM0Bb56",
-      "publishDate": "2025-05-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "The Fourth Principle – Motion Comic",
     "publishedAt": "2025-05-20T15:00:00.000Z",
     "action": {
@@ -565,6 +566,69 @@
     },
     "analytics": {
       "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.en-us",
+      "contentLocale": "en-us",
+      "rev": "KRA11LO4pDDnBAdEM0Bb56",
+      "publishDate": "2025-05-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "The Demon’s Hand – Motion Comic",
+    "publishedAt": "2025-05-20T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8A78F",
+        "secondary": "#332D29",
+        "label": "#453825"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "If you challenge a demon, you best play a winning hand. Watch the motion comic now!"
+    },
+    "category": {
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.en-us",
       "contentLocale": "en-us",
       "rev": "KRA11LO4pDDnBAdEM0Bb56",
       "publishDate": "2025-05-20T15:00:00.000Z"
@@ -7782,184 +7846,6 @@
       "contentLocale": "en-us",
       "rev": "bxuuTlbyftRPueMcYQcQIj",
       "publishDate": "2023-07-21T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Tournament of Souls - Coming Alive | Cinematic",
-    "publishedAt": "2023-07-20T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "rvaV-3qCWX4",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=rvaV-3qCWX4"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "IOUxlnLv",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-27T01:49:54Z",
-              "_id": "image-5a4a4858e3a3069529f256931ee249a8dd9f963e-1350x759-jpg",
-              "_rev": "5xBFIcRPz0p0p32ItXum0C",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-04-27T01:49:54Z",
-              "assetId": "5a4a4858e3a3069529f256931ee249a8dd9f963e",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "MTK.O[_N%fIVVsDh9st5IVR+RgI:IARitR",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.7786561264822134,
-                  "height": 759,
-                  "width": 1350
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#32574b",
-                    "foreground": "#fff",
-                    "population": 0.88,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#103e41",
-                    "foreground": "#fff",
-                    "population": 0.49,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#82a34c",
-                    "foreground": "#fff",
-                    "population": 5.5,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#cbd3b2",
-                    "foreground": "#000",
-                    "population": 5.41,
-                    "title": "#000"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#c6e28c",
-                    "foreground": "#000",
-                    "population": 0.69,
-                    "title": "#000"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#82a34c",
-                    "foreground": "#fff",
-                    "population": 5.5,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#31bebe",
-                    "foreground": "#fff",
-                    "population": 1.35,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "072023_Client_Overview_Marquee_Classic_T1.jpg",
-              "path": "images/dsfx7636/news_live/5a4a4858e3a3069529f256931ee249a8dd9f963e-1350x759.jpg",
-              "sha1hash": "5a4a4858e3a3069529f256931ee249a8dd9f963e",
-              "size": 326365,
-              "uploadId": "Y8yZMhrN1hTo7dXPpBTZVtyJcgKWn6wn",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5a4a4858e3a3069529f256931ee249a8dd9f963e-1350x759.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1CTA": "WATCH NOW",
-        "t1Description": "In the fight of a lifetime, you may get knocked down. But never knocked out.",
-        "t1Subtitle": "Cinematic",
-        "t1Title": "Tournament of Souls",
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "youtube",
-            "videoID": "https://www.youtube.com/watch?v=rvaV-3qCWX4"
-          }
-        }
-      },
-      {
-        "_key": "gftBWf9i",
-        "_type": "clientInternalLinkT2",
-        "t2Title": "Tournament of Souls Cinematic"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a70957556a30bb3b3cfaaaabab5d75255856544c-1920x1080.jpg",
-      "colors": {
-        "primary": "#623831",
-        "secondary": "#F9ECDC",
-        "label": "#3C160F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "In the fight of a lifetime, you may get knocked down. But never knocked out."
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt292e742b5f80c41e.en-us",
-      "contentLocale": "en-us",
-      "rev": "5oZd24h28sxsR5vy6hZfXY",
-      "publishDate": "2023-07-20T15:00:00.000Z"
     }
   }
 ]
