@@ -1,5 +1,69 @@
 [
   {
+    "title": "Bande-annonce de l'acte 1 de la saison 3",
+    "publishedAt": "2025-08-27T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "cz_f9KOMIsg",
+        "videoLengthInSeconds": 103,
+        "url": "https://www.youtube.com/watch?v=cz_f9KOMIsg"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/755c928ceb4847b70d10a2cc56557a9d55a35c32-1920x1080.jpg",
+      "colors": {
+        "primary": "#13090A",
+        "secondary": "#EEFFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les pétales tombent... et la Rose noire éclot. Les Épreuves du crépuscule commencent maintenant."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "cdd45380-d532-4f52-8eb2-d45c807be536.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "QrUGPqrQFFDDxIYUsDRbE7",
+      "publishDate": "2025-08-27T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 15.3 de Teamfight Tactics",
     "publishedAt": "2025-08-26T18:00:00.000Z",
     "action": {
@@ -120,7 +184,7 @@
     "analytics": {
       "contentId": "3c0a58f3-096a-4647-8905-b8b0f17c70e3.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "73N4EZnJIRj0Hk4XdJWUsg",
+      "rev": "QrUGPqrQFFDDxIYUsFKqqt",
       "publishDate": "2025-08-26T18:00:00.000Z"
     }
   },
@@ -163,11 +227,11 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d283fa6b4f162ea1b1faf091fed29c24b5b6c09a-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3e50bd540ab5d568a24624d59f7fb28cfa92c324-1920x1080.jpg",
       "colors": {
-        "primary": "#06090D",
-        "secondary": "#FFD6D6",
-        "label": "#000000"
+        "primary": "#48243E",
+        "secondary": "#F9DCEB",
+        "label": "#1D0717"
       },
       "mimeType": "image/jpeg"
     },
@@ -183,7 +247,7 @@
     "analytics": {
       "contentId": "645da0a0-46f0-40fb-8399-e93dc1c9c4cb.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "SQ7DIFyKgMmeZn2hSdHVf2",
+      "rev": "JzlmaRRucPJPLFXFPIglPu",
       "publishDate": "2025-08-26T15:00:00.000Z"
     }
   },
@@ -4692,70 +4756,6 @@
       "contentLocale": "fr-fr",
       "rev": "O0syOADLMvCWbGv9hv86d7",
       "publishDate": "2025-03-16T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Skins et mode : Arena Grande Ordalie",
-    "publishedAt": "2025-03-05T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "SnbPjmSswO0",
-        "videoLengthInSeconds": 101,
-        "url": "https://www.youtube.com/watch?v=SnbPjmSswO0"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ba9bbd0ad087b39015b274ac76af3022c1d350ba-1920x1080.jpg",
-      "colors": {
-        "primary": "#201110",
-        "secondary": "#F9EDDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Défi. Sacrifice. Triomphe. Tel est notre héritage."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "41f691d8-5047-4aed-b2ff-9dec6141fc9e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "HvvwZlkVCRUwIRz2p1QMWG",
-      "publishDate": "2025-03-05T16:00:00.000Z"
     }
   }
 ]
