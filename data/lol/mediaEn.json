@@ -35,14 +35,14 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 870,
-        "width": 1547,
-        "aspectRatio": 1.77816091954023
+        "height": 864,
+        "width": 1536,
+        "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/77ffb171d6f7264de4d2590c185b225eb9383e8e-1547x870.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/04abec4a98236384cbccf51655e2b9e841880c50-1536x864.jpg",
       "colors": {
-        "primary": "#221115",
-        "secondary": "#F9DCE0",
+        "primary": "#030502",
+        "secondary": "#D9FFD6",
         "label": "#000000"
       },
       "mimeType": "image/jpeg"
@@ -59,7 +59,7 @@
     "analytics": {
       "contentId": "46066634-5160-40c4-8a30-3d6a82f800d5.en-us",
       "contentLocale": "en-us",
-      "rev": "QrUGPqrQFFDDxIYUsDO9z1",
+      "rev": "x3L476FKt4ltzErremkmif",
       "publishDate": "2025-08-25T15:00:00.000Z"
     }
   },
@@ -509,69 +509,6 @@
     }
   },
   {
-    "title": "The Fourth Principle – Motion Comic",
-    "publishedAt": "2025-05-20T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=txMCSiJ3tzc"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d749e556f05c69b54a9d061544aba643e499384b-1920x1080.jpg",
-      "colors": {
-        "primary": "#432622",
-        "secondary": "#F9E8DC",
-        "label": "#170806"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Is greatness born from sacrifice… or something else? Watch the motion comic now!"
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.en-us",
-      "contentLocale": "en-us",
-      "rev": "KRA11LO4pDDnBAdEM0Bb56",
-      "publishDate": "2025-05-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "The Demon’s Hand – Motion Comic",
     "publishedAt": "2025-05-20T15:00:00.000Z",
     "action": {
@@ -629,6 +566,69 @@
     },
     "analytics": {
       "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.en-us",
+      "contentLocale": "en-us",
+      "rev": "KRA11LO4pDDnBAdEM0Bb56",
+      "publishDate": "2025-05-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "The Fourth Principle – Motion Comic",
+    "publishedAt": "2025-05-20T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=txMCSiJ3tzc"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d749e556f05c69b54a9d061544aba643e499384b-1920x1080.jpg",
+      "colors": {
+        "primary": "#432622",
+        "secondary": "#F9E8DC",
+        "label": "#170806"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Is greatness born from sacrifice… or something else? Watch the motion comic now!"
+    },
+    "category": {
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.en-us",
       "contentLocale": "en-us",
       "rev": "KRA11LO4pDDnBAdEM0Bb56",
       "publishDate": "2025-05-20T15:00:00.000Z"
