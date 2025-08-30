@@ -1,5 +1,69 @@
 [
   {
+    "title": "Musique de Xin Zhao",
+    "publishedAt": "2025-08-29T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "TAsP-kpbM3w",
+        "videoLengthInSeconds": 288,
+        "url": "https://www.youtube.com/watch?v=TAsP-kpbM3w"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e2ea568b431bfe54ddfac674384f3d4692f1576b-1920x1080.jpg",
+      "colors": {
+        "primary": "#46232C",
+        "secondary": "#F9E4DC",
+        "label": "#1B070C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un guerrier. Un gardien. Découvrez la nouvelle musique pour Xin Zhao, Sénéchal de Demacia."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "304fa773-84b1-42a3-aca4-12e384d6dbfe.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "eSp692mjem6lotCbLQ85jj",
+      "publishDate": "2025-08-29T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Le début de la fin",
     "publishedAt": "2025-08-25T15:00:00.000Z",
     "action": {
@@ -7058,179 +7122,6 @@
       "contentLocale": "fr-fr",
       "rev": "qZXvkjig7TQff0ZQAF4wgo",
       "publishDate": "2023-03-04T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Au bord de l'infini",
-    "publishedAt": "2023-01-10T09:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "hn-q2-0_hMs",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=hn-q2-0_hMs"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "oDo00njF",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-27T01:54:19Z",
-              "_id": "image-19096bc66ec6164d9121e2484726dc60fc167e2d-1600x1080-jpg",
-              "_rev": "EXnOwDgSqyLiyHD1olr8xr",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2025-03-31T20:16:11Z",
-              "assetId": "19096bc66ec6164d9121e2484726dc60fc167e2d",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "V67L1fRiZ2n+Xn?KW.MbjZkrD4j?PBa|ogv#V?pKkCVr",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#392c49",
-                    "foreground": "#fff",
-                    "population": 6.77,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#0f4e70",
-                    "foreground": "#fff",
-                    "population": 0.16,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#392c49",
-                    "foreground": "#fff",
-                    "population": 6.77,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#9481a1",
-                    "foreground": "#fff",
-                    "population": 0.01,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#4eaed1",
-                    "foreground": "#fff",
-                    "population": 2.4,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#4f648e",
-                    "foreground": "#fff",
-                    "population": 6.36,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#3785b5",
-                    "foreground": "#fff",
-                    "population": 2.79,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "011022_The_Brink_Of_Infinity_T1_Decluttered.jpg",
-              "path": "images/dsfx7636/news_live/19096bc66ec6164d9121e2484726dc60fc167e2d-1600x1080.jpg",
-              "sha1hash": "19096bc66ec6164d9121e2484726dc60fc167e2d",
-              "size": 363049,
-              "uploadId": "Was9o0r71ljRfTCiPFMZAnwZrZ7bH44k",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/19096bc66ec6164d9121e2484726dc60fc167e2d-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1CTA": "Regarder",
-        "t1Description": "",
-        "t1Subtitle": "",
-        "t1Title": "",
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "youtube",
-            "videoID": "https://www.youtube.com/watch?v=hn-q2-0_hMs"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/92afb6674c495e9753fd12d3eb4bf00c42bc188f-1920x1080.jpg",
-      "colors": {
-        "primary": "#121425",
-        "secondary": "#DCE7F9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Tous les ans, nous nous unissons, à l'aube d'un nouveau commencement."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt02a1933152b836ce.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ja9Zsf51p979tL8WxpWEF4",
-      "publishDate": "2023-01-10T09:00:00.000Z"
     }
   }
 ]

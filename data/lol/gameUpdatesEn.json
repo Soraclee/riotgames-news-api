@@ -64,6 +64,70 @@
     }
   },
   {
+    "title": "Chibi Coven Morgana Showcase",
+    "publishedAt": "2025-08-27T16:00:41.044Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "_Z0UKDVRDHo",
+        "videoLengthInSeconds": 37,
+        "url": "https://www.youtube.com/watch?v=_Z0UKDVRDHo"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/574956539e48de01670dbf70fab83f1c5cbe4bb7-1920x1080.jpg",
+      "colors": {
+        "primary": "#342D1A",
+        "secondary": "#F9EADC",
+        "label": "#050401"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Something witchy this way comes to the Convergence!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "28698c7a-5e4b-42c6-b3df-b5d1a525a510.en-us",
+      "contentLocale": "en-us",
+      "rev": "eSp692mjem6lotCbLQ8GYw",
+      "publishDate": "2025-08-27T16:00:41.044Z"
+    }
+  },
+  {
     "title": "Season 3 Act 1 Trailer",
     "publishedAt": "2025-08-27T15:00:00.000Z",
     "action": {
@@ -4695,69 +4759,6 @@
       "contentLocale": "en-us",
       "rev": "l7Wtp1RWy1i0rjy7fyhk8g",
       "publishDate": "2025-03-18T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Portal into the Convergence",
-    "publishedAt": "2025-03-17T14:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/portal-into-the-convergence/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/c70f8d34a6566e44843807049d7d6298da6f7bbd-1920x1080.jpg",
-      "colors": {
-        "primary": "#221611",
-        "secondary": "#F9F6DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Now you can warp around the Convergence with all-new custom Portals."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "0a510546-eda4-4a16-b32b-e72bc4b3c569.en-us",
-      "contentLocale": "en-us",
-      "rev": "O0syOADLMvCWbGv9hw9o0p",
-      "publishDate": "2025-03-17T14:00:00.000Z"
     }
   }
 ]
