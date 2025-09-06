@@ -1,5 +1,66 @@
 [
   {
+    "title": "Collection des Champions Paris",
+    "publishedAt": "2025-09-05T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/fr-fr/news/champions-paris-merch-collection"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a2e9241b0f0a356cee78ae76902d46d23fac70ce-1920x1080.jpg",
+      "colors": {
+        "primary": "#231612",
+        "secondary": "#F9E8DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Célébrez les Champions Paris avec cette nouvelle collection en édition limitée !"
+    },
+    "category": {
+      "title": "E-sport",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "4e73b3ae-34ae-4832-9beb-2e1f9bf17e69.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "3DyBLnTmXKzIntk3K4VIK5",
+      "publishDate": "2025-09-05T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Champions Paris : tout ce qu'il faut savoir",
     "publishedAt": "2025-09-04T18:00:00.000Z",
     "action": {
@@ -4534,68 +4595,6 @@
       "contentLocale": "fr-fr",
       "rev": "PRtLPLb7ailioMdEIwRac6",
       "publishDate": "2025-01-21T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Bande-annonce des LI VCT 2025",
-    "publishedAt": "2025-01-10T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=YU_1hne0HQc"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e8608b89f6f61f8d09a2a9f03ea7b1b51e6e6cae-1280x720.jpg",
-      "colors": {
-        "primary": "#281814",
-        "secondary": "#F9E4DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Goldenboy, Pansy, Achilios et Alan se demandent quel lancement de LI est le plus incontournable."
-    },
-    "category": {
-      "title": "E-sport",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "b4ed1d2a-1ccf-4683-b430-91c065e3bd81.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "AZUIJW7j09tZUT5vUPSQp2",
-      "publishDate": "2025-01-10T16:00:00.000Z"
     }
   }
 ]
