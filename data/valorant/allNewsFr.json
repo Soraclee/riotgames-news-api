@@ -1,5 +1,67 @@
 [
   {
+    "title": "Clip musical des Champions 2025",
+    "publishedAt": "2025-09-09T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=cLx3tyzht3Y"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/89e19991c5c9dd918c9ab2f826a78510a779ca51-1920x1080.jpg",
+      "colors": {
+        "primary": "#B86B46",
+        "secondary": "#332929",
+        "label": "#432E24"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez l'hymne officiel des Champions 2025 et son clip « Last Shot » par templuv et 347aidan."
+    },
+    "category": {
+      "title": "Annonces",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "a4304c15-275a-4982-88fb-0d3423cb5bd2.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "SnaNiXoeyTxPexg8koQvFt",
+      "publishDate": "2025-09-09T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Collection des Champions Paris",
     "publishedAt": "2025-09-05T15:00:00.000Z",
     "action": {
@@ -4534,67 +4596,6 @@
       "contentLocale": "fr-fr",
       "rev": "AZUIJW7j09tZUT5vUChTsm",
       "publishDate": "2025-01-31T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 10.01 de VALORANT",
-    "publishedAt": "2025-01-21T14:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/valorant-patch-notes-10-01"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ac072df67bb8ca59ae6d0acb7c9250d6eac23ee1-1920x1080.jpg",
-      "colors": {
-        "primary": "#B8A488",
-        "secondary": "#332D29",
-        "label": "#7F6744"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les boucliers de rang ont été ajoutés en mode Compétition. C'est l'heure du grind !"
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "170fe2a5-37c9-4769-b6d1-757943b80f28.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "PRtLPLb7ailioMdEIwRac6",
-      "publishDate": "2025-01-21T14:00:00.000Z"
     }
   }
 ]
