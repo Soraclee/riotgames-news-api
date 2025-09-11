@@ -1,5 +1,66 @@
 [
   {
+    "title": "Shotcall For Champions",
+    "publishedAt": "2025-09-10T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/en-us/news/shotcall-for-champions"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d2faccdae3f3d71f7acd4a85aa479e829ff69136-1920x1080.jpg",
+      "colors": {
+        "primary": "#452823",
+        "secondary": "#F9EFDC",
+        "label": "#1A0A06"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Watch Predict, Win!"
+    },
+    "category": {
+      "title": "Esports",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "6ba4ce1f-5a58-4103-9f9f-8a9ed040fc4a.en-us",
+      "contentLocale": "en-us",
+      "rev": "19x5P0I7l537I1X0kYsjJX",
+      "publishDate": "2025-09-10T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Champions Paris MERCH COLLECTION",
     "publishedAt": "2025-09-05T15:00:00.000Z",
     "action": {
@@ -4556,68 +4617,6 @@
       "contentLocale": "en-us",
       "rev": "wqQE3hWIWpUAV3VUi2R7iy",
       "publishDate": "2024-04-18T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Ways I Play: Leading with Clove Like a Pro",
-    "publishedAt": "2024-04-17T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=e_1pTxpV2kM"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/88edfc09491fd094087e5a58ef86509f1d4a937a-1920x1080.jpg",
-      "colors": {
-        "primary": "#B85242",
-        "secondary": "#332E29",
-        "label": "#291816"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "VALORANT's newest agent is here, and our pros are ready to show you how to lead with them!"
-    },
-    "category": {
-      "title": "Esports",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt31f8009b2166bec4.en-us",
-      "contentLocale": "en-us",
-      "rev": "tG8aRZvgYHVPamBbJEbmer",
-      "publishDate": "2024-04-17T18:00:00.000Z"
     }
   }
 ]
