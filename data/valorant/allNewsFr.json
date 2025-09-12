@@ -1,5 +1,66 @@
 [
   {
+    "title": "Regarder, c'est gagner : Champions Paris",
+    "publishedAt": "2025-09-11T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/fr-fr/news/watch-and-earn-champions-paris"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/285502b8de45892a69172505fb8a8e9ecc35b70e-1920x1080.jpg",
+      "colors": {
+        "primary": "#0B0705",
+        "secondary": "#FFF3D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Suivez les matchs en direct et gagnez des drops exclusifs !"
+    },
+    "category": {
+      "title": "E-sport",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "9a8cadf3-e8ca-4426-b929-c756a97be6cd.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "fdiHhrN8lYkg1mPyJf7FWa",
+      "publishDate": "2025-09-11T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Shotcall pour les Champions",
     "publishedAt": "2025-09-10T15:00:00.000Z",
     "action": {
@@ -4535,67 +4596,6 @@
       "contentLocale": "fr-fr",
       "rev": "G2Pne6mPtpKt2Am6rFhlf3",
       "publishDate": "2025-02-04T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation des capsules de saison 2025 du VCT !",
-    "publishedAt": "2025-02-02T14:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://valorantesports.com/fr-fr/news/introducing-the-2025-vct-season-capsule"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/b738f6773a68cc3e10104e25fd5b51e229e648da-1920x1080.jpg",
-      "colors": {
-        "primary": "#2A1815",
-        "secondary": "#F7F9DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les capsules de saison offrent aux fans la possibilité de soutenir l’intégralité des équipes de la ligue, puisqu'une partie des revenus est partagée équitablement entre toutes les équipes du VCT."
-    },
-    "category": {
-      "title": "E-sport",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "0a96c34c-68e3-47df-bbe6-d9e570c07c48.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "gyue8i6Ml48841i3gt6h4m",
-      "publishDate": "2025-02-02T14:00:00.000Z"
     }
   }
 ]

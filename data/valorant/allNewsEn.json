@@ -1,5 +1,66 @@
 [
   {
+    "title": "Watch and Earn: Champions Paris",
+    "publishedAt": "2025-09-11T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/en-us/news/watch-and-earn-champions-paris"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/285502b8de45892a69172505fb8a8e9ecc35b70e-1920x1080.jpg",
+      "colors": {
+        "primary": "#0B0705",
+        "secondary": "#FFF3D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Watch the live matches and snag exclusive Drops while you tune in!"
+    },
+    "category": {
+      "title": "Esports",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "9a8cadf3-e8ca-4426-b929-c756a97be6cd.en-us",
+      "contentLocale": "en-us",
+      "rev": "fdiHhrN8lYkg1mPyJf7FWa",
+      "publishDate": "2025-09-11T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Shotcall For Champions",
     "publishedAt": "2025-09-10T15:00:00.000Z",
     "action": {
@@ -4550,68 +4611,6 @@
       "contentLocale": "en-us",
       "rev": "HvvwZlkVCRUwIRz2ovJ0A3",
       "publishDate": "2025-03-18T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "VCT 2025 Stage 1 Hype Trailer",
-    "publishedAt": "2025-03-13T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=jcwAO-RcgUw"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f96ae76c8e4e36058e827981e6189da40568fc42-1920x1080.jpg",
-      "colors": {
-        "primary": "#211013",
-        "secondary": "#F9DFDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "The best VALORANT players from around the globe begin the road to Masters Toronto."
-    },
-    "category": {
-      "title": "Esports",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "59df4ce4-08c1-4ee7-98c7-5966f28d499c.en-us",
-      "contentLocale": "en-us",
-      "rev": "YEeVJZ7CPuP4bbUKQrOikM",
-      "publishDate": "2025-03-13T16:00:00.000Z"
     }
   }
 ]
