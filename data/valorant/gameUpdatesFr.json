@@ -1,5 +1,66 @@
 [
   {
+    "title": "AFK et abandon de file",
+    "publishedAt": "2025-09-15T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/behavior-update-afks-dodges"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ca92e3e2ff4a631a75b13f28e07511fa87532c67-1920x1080.jpg",
+      "colors": {
+        "primary": "#B82221",
+        "secondary": "#332F29",
+        "label": "#2D1818"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Mesures contre les joueurs qui abusent des systèmes d'AFK et d'abandon de la file d'attente."
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "db734463-cb03-4c0d-9911-57238d7afdf1.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "19x5P0I7l537I1X0lNtRJT",
+      "publishDate": "2025-09-15T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 11.05 de VALORANT",
     "publishedAt": "2025-09-02T13:00:00.000Z",
     "action": {
@@ -4534,68 +4595,6 @@
       "contentLocale": "fr-fr",
       "rev": "jEln45CgOQD4spzxfGiF6Z",
       "publishDate": "2023-12-05T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "DRIFT // Bande-annonce de carte du CME – VALORANT",
-    "publishedAt": "2023-12-03T17:15:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=dpBnlwX7o7Y"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/fb4c606e68d4e33abb25852a817e2857bbae8536-1920x1080.jpg",
-      "colors": {
-        "primary": "#7DA6B8",
-        "secondary": "#332931",
-        "label": "#2D4954"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Bienvenue au paradis, agents. Drift atterrit dans l'épisode 07 : acte III."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt1173f37403acfdd9.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaEHy75",
-      "publishDate": "2023-12-03T17:15:00.000Z"
     }
   }
 ]

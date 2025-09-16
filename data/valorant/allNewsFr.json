@@ -1,5 +1,66 @@
 [
   {
+    "title": "AFK et abandon de file",
+    "publishedAt": "2025-09-15T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/behavior-update-afks-dodges"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ca92e3e2ff4a631a75b13f28e07511fa87532c67-1920x1080.jpg",
+      "colors": {
+        "primary": "#B82221",
+        "secondary": "#332F29",
+        "label": "#2D1818"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Mesures contre les joueurs qui abusent des systèmes d'AFK et d'abandon de la file d'attente."
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "db734463-cb03-4c0d-9911-57238d7afdf1.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "19x5P0I7l537I1X0lNtRJT",
+      "publishDate": "2025-09-15T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Regarder, c'est gagner : Champions Paris",
     "publishedAt": "2025-09-11T15:00:00.000Z",
     "action": {
@@ -4535,67 +4596,6 @@
       "contentLocale": "fr-fr",
       "rev": "PgOVk8o0lOm5VJulXH2brA",
       "publishDate": "2025-02-04T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 10.02 de VALORANT",
-    "publishedAt": "2025-02-04T14:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/valorant-patch-notes-10-02"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/712679b8563beba051bfdc52f37a58aec0d72039-1920x1080.jpg",
-      "colors": {
-        "primary": "#1E130F",
-        "secondary": "#EAD6FF",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Petit patch, grosses corrections de bugs pour les agents et plus encore."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "d767ceec-0d9e-45c7-8b88-490efa82931e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "G2Pne6mPtpKt2Am6rFhlf3",
-      "publishDate": "2025-02-04T14:00:00.000Z"
     }
   }
 ]
