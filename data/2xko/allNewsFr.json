@@ -1,5 +1,67 @@
 [
   {
+    "title": "Kit de stream 2XKO",
+    "publishedAt": "2025-09-16T14:30:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/announcements/2xko-stream-kit"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4b6da9164b81bec806b8cc84a1be2ef2e45a7a06-1920x1080.jpg",
+      "colors": {
+        "primary": "#5FB8AC",
+        "secondary": "#292A33",
+        "label": "#325D57"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Améliorez vos streams avec style grâce à 2XKO."
+    },
+    "category": {
+      "title": "Announcements",
+      "description": "Used for general announcements for 2XKO.",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "2d9fd28e-b64b-44bd-8314-64b047160c45.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Y0D90uUBLWhWMOo4df2WV7",
+      "publishDate": "2025-09-16T14:30:00.000Z"
+    }
+  },
+  {
     "title": "Les nouveautés de la bêta fermée de 2XKO",
     "publishedAt": "2025-09-08T15:00:00.000Z",
     "action": {
