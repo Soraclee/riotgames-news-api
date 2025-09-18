@@ -1,5 +1,176 @@
 [
   {
+    "title": "Ao Shin’s Ascent Trailer",
+    "publishedAt": "2025-09-17T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "_36Q8dgeOU0",
+        "videoLengthInSeconds": 178,
+        "url": "https://www.youtube.com/watch?v=_36Q8dgeOU0"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "7333724ac18b",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-09-11T22:35:29Z",
+              "_id": "image-117046671e82a9a7309edfdfeb47fe655d689489-1600x1080-jpg",
+              "_rev": "0qVVOmxCKHh2FDbjEaSVDw",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-09-11T22:35:29Z",
+              "assetId": "117046671e82a9a7309edfdfeb47fe655d689489",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VBE.3E=|00NLt3amNI-VxtIo00NG~VaxnnEHxWIUE1%2",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#453253",
+                    "foreground": "#fff",
+                    "population": 3.46,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#604d18",
+                    "foreground": "#fff",
+                    "population": 0.31,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8c6888",
+                    "foreground": "#fff",
+                    "population": 5.76,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d2b7b1",
+                    "foreground": "#000",
+                    "population": 2.12,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f7debf",
+                    "foreground": "#000",
+                    "population": 0.94,
+                    "title": "#000"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8c6888",
+                    "foreground": "#fff",
+                    "population": 5.76,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b57d4a",
+                    "foreground": "#fff",
+                    "population": 0.03,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_AoShinsAscent_Thumbnails_Client_RevealTrailer_Ascent_T1_Decluttered_1600x1080_v003_NMcVittie.jpg",
+              "path": "images/dsfx7636/news_live/117046671e82a9a7309edfdfeb47fe655d689489-1600x1080.jpg",
+              "sha1hash": "117046671e82a9a7309edfdfeb47fe655d689489",
+              "size": 171432,
+              "uploadId": "rY2WHUeoabVmA6iQkJEXKr1KyyHQc8uM",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/117046671e82a9a7309edfdfeb47fe655d689489-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
+        "t1Subtitle": "TFT Game Mode Trailer",
+        "t1Title": "Ao Shin’s Ascent",
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "_36Q8dgeOU0"
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8c0485bc32d71efbb30dcd21f33b174e5fb207a3-1920x1080.jpg",
+      "colors": {
+        "primary": "#43223B",
+        "secondary": "#F9DEDC",
+        "label": "#170613"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A new, limited-time game mode has come to the Convergence."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "bddbcca4-16e7-4a93-bbef-9c2a3dbe357d.en-us",
+      "contentLocale": "en-us",
+      "rev": "NfnGfm6udwjBxonlC05SCE",
+      "publishDate": "2025-09-17T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 15.4 notes",
     "publishedAt": "2025-09-09T18:00:00.000Z",
     "action": {
@@ -4292,68 +4463,6 @@
     }
   },
   {
-    "title": "Cyber City Tactician’s Crown Primer",
-    "publishedAt": "2025-07-02T13:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/esports/cyber-city-tacticians-crown-primer"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e4e71370d5ae0b5ecfdaa23ff0801c40b3b54bcd-1920x1080.jpg",
-      "colors": {
-        "primary": "#08110D",
-        "secondary": "#FBFFD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Get the download on the Cyber City Tactician’s Crown."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "38abe071-4e05-41c2-9bd6-0dc5b06a5fa0.en-us",
-      "contentLocale": "en-us",
-      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
-      "publishDate": "2025-07-02T13:00:00.000Z"
-    }
-  },
-  {
     "title": "Cyber City: Tactician’s Crown",
     "publishedAt": "2025-07-02T13:00:00.000Z",
     "action": {
@@ -4518,6 +4627,68 @@
     },
     "analytics": {
       "contentId": "4a196301-a91a-41d7-8d1f-721f905a695d.en-us",
+      "contentLocale": "en-us",
+      "rev": "p5nSRBft0Fa6JmWKCpEBjb",
+      "publishDate": "2025-07-02T13:00:00.000Z"
+    }
+  },
+  {
+    "title": "Cyber City Tactician’s Crown Primer",
+    "publishedAt": "2025-07-02T13:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/esports/cyber-city-tacticians-crown-primer"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e4e71370d5ae0b5ecfdaa23ff0801c40b3b54bcd-1920x1080.jpg",
+      "colors": {
+        "primary": "#08110D",
+        "secondary": "#FBFFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Get the download on the Cyber City Tactician’s Crown."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "38abe071-4e05-41c2-9bd6-0dc5b06a5fa0.en-us",
       "contentLocale": "en-us",
       "rev": "p5nSRBft0Fa6JmWKCpEBjb",
       "publishDate": "2025-07-02T13:00:00.000Z"
@@ -7216,68 +7387,6 @@
       "contentLocale": "en-us",
       "rev": "sl3HE6aTFbIMJKWgDkIf2i",
       "publishDate": "2025-05-01T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Teamfight Tactics patch 14.3 notes (2025)",
-    "publishedAt": "2025-04-29T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/teamfight-tactics-patch-14-3-notes-2025"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e30d91bdb78f2f31a35f4efc63167a3ca2ebbb57-1280x720.jpg",
-      "colors": {
-        "primary": "#334065",
-        "secondary": "#DCF1F9",
-        "label": "#101D40"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Patch 14.3 brings new Hacks, Opening Encounters, balance changes, and a rework for Kobuko."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "7870c6af-485d-4e07-9965-ec483954caa5.en-us",
-      "contentLocale": "en-us",
-      "rev": "xCAQSJhF97p2wotMQ6R33g",
-      "publishDate": "2025-04-29T18:00:00.000Z"
     }
   }
 ]
