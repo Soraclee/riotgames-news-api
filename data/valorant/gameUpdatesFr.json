@@ -1,5 +1,66 @@
 [
   {
+    "title": "Bêta vérification Riot Mobile",
+    "publishedAt": "2025-09-18T13:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/riot-mobile-verification-beta"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f8d00bbd5797fc458a8ecaa6d75ec4bbf595a92e-1920x1080.png",
+      "colors": {
+        "primary": "#140F1F",
+        "secondary": "#D6EEFF",
+        "label": "#050505"
+      },
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Certains comptes devront bientôt activer l'AMF via Riot mobile."
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "26e5f49b-d5a0-4787-b39b-3a08f6cb5292.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "P0Cqj0pOM2PE6JIoEe9SnR",
+      "publishDate": "2025-09-18T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 11.06 de VALORANT",
     "publishedAt": "2025-09-16T13:00:00.000Z",
     "action": {
@@ -4533,68 +4594,6 @@
       "contentLocale": "fr-fr",
       "rev": "IN03FCy14OOjYlZR33hTLa",
       "publishDate": "2024-01-09T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "JUGEMENT // Cinématique de l'épisode 8 – VALORANT",
-    "publishedAt": "2024-01-08T14:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=8--OCKCX8qQ"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/34c3970e58ee51cfd9b13fb5ff32029a7a3edc3f-1920x1080.jpg",
-      "colors": {
-        "primary": "#1E0F11",
-        "secondary": "#EEF9DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Jetez-vous dans la mêlée et gravez votre nom dans leur mémoire dans l'épisode 8 : AUDACE."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt517f55311e782eff.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "dJpBm4OmhtpmiAEkDNLOpO",
-      "publishDate": "2024-01-08T14:00:00.000Z"
     }
   }
 ]
