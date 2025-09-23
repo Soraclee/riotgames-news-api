@@ -1,5 +1,69 @@
 [
   {
+    "title": "Bande-annonce du skin Xin Zhao des Worlds",
+    "publishedAt": "2025-09-22T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "bT9bCkWS_II",
+        "videoLengthInSeconds": 47,
+        "url": "https://www.youtube.com/watch?v=bT9bCkWS_II"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4f78cddd5ad21147494d623cfb217abbf606c00b-1920x1080.jpg",
+      "colors": {
+        "primary": "#243A47",
+        "secondary": "#DCF4F9",
+        "label": "#07141C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Soutenez votre équipe et faites partie de leur légende avec le skin Xin Zhao Épreuves du crépuscule."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "da59ebce-af17-4c66-a0c0-709bda6d863e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "vv6BWqMjCo6H2L7rEsjwJu",
+      "publishDate": "2025-09-22T16:00:00.000Z"
+    }
+  },
+  {
     "title": "LoL Esports fête ses 15 ans !",
     "publishedAt": "2025-09-20T03:00:00.000Z",
     "action": {
@@ -4682,69 +4746,6 @@
       "contentLocale": "fr-fr",
       "rev": "WZrXKASL6APzE6Syw0QPzb",
       "publishDate": "2025-06-24T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Produits dérivés MSI 2025",
-    "publishedAt": "2025-06-20T21:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://merch.riotgames.com/collection/MSI-2025/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-msi25"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8f938e3ddb53a95a69408dd8cdf155d5629f067c-1920x1080.jpg",
-      "colors": {
-        "primary": "#45232A",
-        "secondary": "#EFDCF9",
-        "label": "#1A060A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Rivalités, rédemption et beau jeu vous attendent avec les produits dérivés officiels MSI 2025 !"
-    },
-    "category": {
-      "title": "Produits dérivés",
-      "description": "Découvrez les produits dérivés officiels et parcourez les dernières collections de la boutique.",
-      "machineName": "merch"
-    },
-    "analytics": {
-      "contentId": "4817e02f-7f42-4aa8-8e34-8ec7f7fdc9fc.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "1RWJXTC5FbH6OsLShxg3v2",
-      "publishDate": "2025-06-20T21:00:00.000Z"
     }
   }
 ]
