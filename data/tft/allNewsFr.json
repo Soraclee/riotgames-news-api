@@ -1,5 +1,69 @@
 [
   {
+    "title": "Galerie thématique Yuumi et ses amis",
+    "publishedAt": "2025-09-26T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "x3umtw-q4JU",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=x3umtw-q4JU"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/13e6f0dc0023e4ce6f0ef06c31b422c7b55fcba6-1920x1080.jpg",
+      "colors": {
+        "primary": "#2F2549",
+        "secondary": "#DCF0F9",
+        "label": "#0E081E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Yuumi abeille chibi, Kapi des sources spirituelles et l'arène « Yuumi et ses amis » jouent dans TFT."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "a4e6684e-5c4e-44aa-b7e3-34bc84147ef9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "cqVQ2onYSg12kUB1UsnFdt",
+      "publishDate": "2025-09-26T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 15.5 de Teamfight Tactics",
     "publishedAt": "2025-09-23T18:00:00.000Z",
     "action": {
@@ -8089,70 +8153,6 @@
       "contentLocale": "fr-fr",
       "rev": "a6AbJDhZcUVIiP8usKyeLf",
       "publishDate": "2025-04-10T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation du champion Janna Miss météo chibi",
-    "publishedAt": "2025-04-08T13:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "hUVgPTXeoZs",
-        "videoLengthInSeconds": 41,
-        "url": "https://www.youtube.com/watch?v=hUVgPTXeoZs"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ff43b3f065b56789c468b93e13e9de9a81b94432-1920x1080.jpg",
-      "colors": {
-        "primary": "#655233",
-        "secondary": "#F9F2DC",
-        "label": "#402E10"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "NEWSFLASH ! Janna miss météo chibi est arrivée dans la Convergence !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "ce3015c6-ba0a-4c5e-a94d-8952ad7536ad.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "UQJxDctsMNKpiCcXYYGsvx",
-      "publishDate": "2025-04-08T13:00:00.000Z"
     }
   }
 ]
