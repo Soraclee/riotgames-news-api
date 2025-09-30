@@ -1,5 +1,69 @@
 [
   {
+    "title": "Présentation de Senna de l'Ouest libérée",
+    "publishedAt": "2025-09-29T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "_4jib6yi4q4",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=_4jib6yi4q4"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c3a05654749c04f8d9ec26554ca0aa533253771b-1920x1080.jpg",
+      "colors": {
+        "primary": "#4D4427",
+        "secondary": "#F9F5DC",
+        "label": "#231D09"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Prête à relancer le feu des Enfers !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "f4932f69-4a29-42f1-a82b-ab5405f915e0.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "0742gjWSBB384Ylbi41jsq",
+      "publishDate": "2025-09-29T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Galerie thématique Yuumi et ses amis",
     "publishedAt": "2025-09-26T16:00:00.000Z",
     "action": {
@@ -7431,70 +7495,6 @@
       "contentLocale": "fr-fr",
       "rev": "pjc0gZ7zw0jnhEKON1m3kK",
       "publishDate": "2025-01-07T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Focus sur Warwick d'Arcane libéré",
-    "publishedAt": "2024-12-16T16:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "leFFmWSRS24",
-        "videoLengthInSeconds": 42,
-        "url": "https://www.youtube.com/watch?v=leFFmWSRS24"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6c226f1aff3d9b87100db2935242b38684b05007-1920x1080.jpg",
-      "colors": {
-        "primary": "#261813",
-        "secondary": "#FFD6DB",
-        "label": "#0A0A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Que la chasse commence ! Venez découvrir de plus près le prochain champion libéré."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "29051e34-8e9d-475e-8e95-c43ec94d9bb3.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "YU4kCQh9dJYVB9mWoNRXX9",
-      "publishDate": "2024-12-16T16:00:00.000Z"
     }
   }
 ]

@@ -1,5 +1,69 @@
 [
   {
+    "title": "Présentation de Senna de l'Ouest libérée",
+    "publishedAt": "2025-09-29T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "_4jib6yi4q4",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=_4jib6yi4q4"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c3a05654749c04f8d9ec26554ca0aa533253771b-1920x1080.jpg",
+      "colors": {
+        "primary": "#4D4427",
+        "secondary": "#F9F5DC",
+        "label": "#231D09"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Prête à relancer le feu des Enfers !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "c1bde5be-9afd-472b-a938-f6f4c21bdf91.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "0742gjWSBB384Ylbi41jsq",
+      "publishDate": "2025-09-29T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Galerie thématique Yuumi et ses amis",
     "publishedAt": "2025-09-26T16:00:00.000Z",
     "action": {
@@ -379,68 +443,6 @@
     }
   },
   {
-    "title": "Notes de patch 25.18",
-    "publishedAt": "2025-09-09T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-18-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/48b067811f39c659aa6f5d230701846fde1ebcd4-1920x1080.jpg",
-      "colors": {
-        "primary": "#281914",
-        "secondary": "#F9EEDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Fêtons le patch 25.18 avec les vainqueurs des Worlds 2024, T1 !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "d4c5e025-058c-42d1-945a-3df0eea57ad8.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "jkPIp3rjqwbSPRWYGsrEEs",
-      "publishDate": "2025-09-09T18:00:00.000Z"
-    }
-  },
-  {
     "title": "Notes de patch 15.4 de Teamfight Tactics",
     "publishedAt": "2025-09-09T18:00:00.000Z",
     "action": {
@@ -500,6 +502,68 @@
       "contentId": "fb62de6a-9104-4c63-b9c1-6c9bf548edb8.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "CUM6Ckg6r7Io8wN5ers8U5",
+      "publishDate": "2025-09-09T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.18",
+    "publishedAt": "2025-09-09T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-18-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/48b067811f39c659aa6f5d230701846fde1ebcd4-1920x1080.jpg",
+      "colors": {
+        "primary": "#281914",
+        "secondary": "#F9EEDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Fêtons le patch 25.18 avec les vainqueurs des Worlds 2024, T1 !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d4c5e025-058c-42d1-945a-3df0eea57ad8.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "jkPIp3rjqwbSPRWYGsrEEs",
       "publishDate": "2025-09-09T18:00:00.000Z"
     }
   },
@@ -1074,6 +1138,68 @@
     }
   },
   {
+    "title": "Notes de patch 25.16",
+    "publishedAt": "2025-08-12T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-16-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6cf156a1013a70fec232d94109198ef22c67f88f-1920x1080.jpg",
+      "colors": {
+        "primary": "#B87E60",
+        "secondary": "#302933",
+        "label": "#30221A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Patch 25.16 paré au décollage !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "9589ba47-48c1-4f14-abc5-680bee2b9320.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "3fm2m1c6z6nDOg3CQOKjBs",
+      "publishDate": "2025-08-12T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 15.2 de Teamfight Tactics",
     "publishedAt": "2025-08-12T18:00:00.000Z",
     "action": {
@@ -1133,68 +1259,6 @@
       "contentId": "e1b5882e-5b3d-4b92-a7b8-3b0d6681bff3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "RDk8LZ6lvi22BNccBUpBtU",
-      "publishDate": "2025-08-12T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 25.16",
-    "publishedAt": "2025-08-12T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-16-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6cf156a1013a70fec232d94109198ef22c67f88f-1920x1080.jpg",
-      "colors": {
-        "primary": "#B87E60",
-        "secondary": "#302933",
-        "label": "#30221A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Patch 25.16 paré au décollage !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "9589ba47-48c1-4f14-abc5-680bee2b9320.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "3fm2m1c6z6nDOg3CQOKjBs",
       "publishDate": "2025-08-12T18:00:00.000Z"
     }
   },
@@ -1664,6 +1728,68 @@
     }
   },
   {
+    "title": "Notes de patch 25.15",
+    "publishedAt": "2025-07-29T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-15-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 945,
+        "width": 1600,
+        "aspectRatio": 1.693121693121693
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/34110880f719109a3b6b8e00628efe50f28df746-1600x945.jpg",
+      "colors": {
+        "primary": "#2E5C54",
+        "secondary": "#DCF9EB",
+        "label": "#0D352F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le patch 25.15 est posé. Sa peau hydratée. Son humeur rayonnante. Certains diraient qu'il vit sa meilleure vie."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "0eabce91-89ee-4749-af09-c1664b5bd586.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "4pgQ5PU6ij2TECBOL0cHO7",
+      "publishDate": "2025-07-29T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 15.1 de Teamfight Tactics (2025)",
     "publishedAt": "2025-07-29T18:00:00.000Z",
     "action": {
@@ -1723,68 +1849,6 @@
       "contentId": "de34c9b2-87c1-435e-a382-88c322d949de.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "WZrXKASL6APzE6Syw2AN1T",
-      "publishDate": "2025-07-29T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 25.15",
-    "publishedAt": "2025-07-29T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-15-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 945,
-        "width": 1600,
-        "aspectRatio": 1.693121693121693
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/34110880f719109a3b6b8e00628efe50f28df746-1600x945.jpg",
-      "colors": {
-        "primary": "#2E5C54",
-        "secondary": "#DCF9EB",
-        "label": "#0D352F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le patch 25.15 est posé. Sa peau hydratée. Son humeur rayonnante. Certains diraient qu'il vit sa meilleure vie."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "0eabce91-89ee-4749-af09-c1664b5bd586.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "4pgQ5PU6ij2TECBOL0cHO7",
       "publishDate": "2025-07-29T18:00:00.000Z"
     }
   },
@@ -1980,6 +2044,68 @@
     }
   },
   {
+    "title": "Notes de patch 25.14",
+    "publishedAt": "2025-07-15T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-14-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9288c429e91ba647725549ddc2536ab3ec402d17-1920x1080.jpg",
+      "colors": {
+        "primary": "#27203F",
+        "secondary": "#DCE7F9",
+        "label": "#080512"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Mettez votre détermination à l'épreuve avec Yunara, Foi inébranlable, dans le patch 25.14"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "12e3e749-e919-45d6-92fc-601858c0a6ca.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "p5nSRBft0Fa6JmWKDRcXBb",
+      "publishDate": "2025-07-15T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 14.8 Teamfight Tactics (2025)",
     "publishedAt": "2025-07-15T18:00:00.000Z",
     "action": {
@@ -2039,68 +2165,6 @@
       "contentId": "4ec1fe47-66dd-4988-b831-841ef3e9e4df.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "p5nSRBft0Fa6JmWKDELt9b",
-      "publishDate": "2025-07-15T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 25.14",
-    "publishedAt": "2025-07-15T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-14-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9288c429e91ba647725549ddc2536ab3ec402d17-1920x1080.jpg",
-      "colors": {
-        "primary": "#27203F",
-        "secondary": "#DCE7F9",
-        "label": "#080512"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Mettez votre détermination à l'épreuve avec Yunara, Foi inébranlable, dans le patch 25.14"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "12e3e749-e919-45d6-92fc-601858c0a6ca.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "p5nSRBft0Fa6JmWKDRcXBb",
       "publishDate": "2025-07-15T18:00:00.000Z"
     }
   },
@@ -4696,70 +4760,6 @@
       "contentLocale": "fr-fr",
       "rev": "nZB9db8bWm6kVNwNsffRm8",
       "publishDate": "2025-04-02T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Galerie PROJET : À la pointe de la technologie",
-    "publishedAt": "2025-04-02T13:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "xZrTWUKz5FU",
-        "videoLengthInSeconds": 52,
-        "url": "https://www.youtube.com/watch?v=xZrTWUKz5FU"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0f6ea352178acf40875ec7a9b1aeea8e6df80124-1920x1080.jpg",
-      "colors": {
-        "primary": "#535FB8",
-        "secondary": "#292D33",
-        "label": "#191C2F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Passez à la vitesse supérieure avec l'arène PROJET : Chute libre et PROJET : Vayne libérée."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "c9918c7a-0b76-4d8e-8dbd-43cc5d747ef6.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "0mVDgmsCLsQaRQOaoZgm84",
-      "publishDate": "2025-04-02T13:00:00.000Z"
     }
   }
 ]

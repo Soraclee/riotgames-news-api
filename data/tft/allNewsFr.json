@@ -1,5 +1,69 @@
 [
   {
+    "title": "Présentation de Senna de l'Ouest libérée",
+    "publishedAt": "2025-09-29T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "_4jib6yi4q4",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=_4jib6yi4q4"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c3a05654749c04f8d9ec26554ca0aa533253771b-1920x1080.jpg",
+      "colors": {
+        "primary": "#4D4427",
+        "secondary": "#F9F5DC",
+        "label": "#231D09"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Prête à relancer le feu des Enfers !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "f4932f69-4a29-42f1-a82b-ab5405f915e0.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "0742gjWSBB384Ylbi41jsq",
+      "publishDate": "2025-09-29T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Galerie thématique Yuumi et ses amis",
     "publishedAt": "2025-09-26T16:00:00.000Z",
     "action": {
@@ -7981,178 +8045,6 @@
       "contentLocale": "fr-fr",
       "rev": "sl3HE6aTFbIMJKWgDQBNcK",
       "publishDate": "2025-04-15T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Mini cinématique Dualité de l'aube",
-    "publishedAt": "2025-04-10T14:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "ni775yqqcr8",
-        "videoLengthInSeconds": 54,
-        "url": "https://www.youtube.com/watch?v=ni775yqqcr8"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "457c5011bd6b",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2025-04-09T18:30:51Z",
-              "_id": "image-7e95890efa57e66542eb44b711220ac6b06f02e9-1600x1080-jpg",
-              "_rev": "Fa8h1HN3DlhXEocYFcIj3q",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2025-04-15T17:45:21Z",
-              "assetId": "7e95890efa57e66542eb44b711220ac6b06f02e9",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "V68|@~Gv00@E0Jo~K*nM*{NL00iv^-PB-rvy+GTLCSxA",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#6a386c",
-                    "foreground": "#fff",
-                    "population": 7.51,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#041c4c",
-                    "foreground": "#fff",
-                    "population": 5.58,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#6a386c",
-                    "foreground": "#fff",
-                    "population": 7.51,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#c5d3df",
-                    "foreground": "#000",
-                    "population": 1.22,
-                    "title": "#000"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#8cdaec",
-                    "foreground": "#000",
-                    "population": 0,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#b65c8a",
-                    "foreground": "#fff",
-                    "population": 7.12,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#32bdde",
-                    "foreground": "#000",
-                    "population": 4.35,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "Riot_Client_T1-Decluttered.jpg",
-              "path": "images/dsfx7636/news/7e95890efa57e66542eb44b711220ac6b06f02e9-1600x1080.jpg",
-              "sha1hash": "7e95890efa57e66542eb44b711220ac6b06f02e9",
-              "size": 264788,
-              "uploadId": "w8MKxeSjrV0cGxVP9MJr6PxY3eqV3E7k",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7e95890efa57e66542eb44b711220ac6b06f02e9-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1Description": "Yone héraut de l'aube prestige chibi nous fait profiter de ses talents légendaire dans TFT.",
-        "t1Subtitle": "Mini cinématique",
-        "t1Title": "Dualité de l'aube",
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "ni775yqqcr8"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9c40a725dc491379fc010a00238ae838775a377d-1920x1080.jpg",
-      "colors": {
-        "primary": "#202340",
-        "secondary": "#DCEBF9",
-        "label": "#050614"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Yone héraut de l'aube prestige chibi nous fait profiter de ses talents légendaire dans TFT."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "da3f4b33-c667-4736-9290-a15294bf3d3f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "a6AbJDhZcUVIiP8usKyeLf",
-      "publishDate": "2025-04-10T14:00:00.000Z"
     }
   }
 ]

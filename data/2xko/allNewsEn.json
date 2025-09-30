@@ -1,5 +1,68 @@
 [
   {
+    "title": "Teemo Gameplay Reveal Trailer",
+    "publishedAt": "2025-09-29T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "A8-Uw_sypMs",
+        "videoLengthInSeconds": 140,
+        "url": "https://www.youtube.com/watch?v=A8-Uw_sypMs"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a26b790e61fb6260d03c344ce7963f6e8eb72219-1920x1080.jpg",
+      "colors": {
+        "primary": "#A7ADB8",
+        "secondary": "#332C29",
+        "label": "#2B3850"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Reporting for duty. Teemo’s the 10th champ to hit the 2XKO roster."
+    },
+    "category": {
+      "title": "Game Updates",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "a7d286d2-3777-47ae-af46-49fae9d77860.en-us",
+      "contentLocale": "en-us",
+      "rev": "60ovE67nMcFrW6Ogp6Ye9B",
+      "publishDate": "2025-09-29T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Yasuo Gameplay Trailer",
     "publishedAt": "2025-09-26T15:00:00.000Z",
     "action": {
@@ -1000,6 +1063,67 @@
     "title": "2XKO Closed Beta Announcement",
     "publishedAt": "2025-07-22T15:00:00.000Z",
     "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/2xko-closedbeta-announcement"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/11d051dcd9fc6c90d204d052dcf8c051af95c3d2-1920x1080.jpg",
+      "colors": {
+        "primary": "#2E5B58",
+        "secondary": "#DCF9E2",
+        "label": "#0D3431"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The 2XKO Closed Beta starts September 9, 2025. Read on for all the details."
+    },
+    "category": {
+      "title": "Game Updates",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "8f89a9b8-e717-453b-82c9-0a521d0655be.en-us",
+      "contentLocale": "en-us",
+      "rev": "xoZoUjzkFWZVGLdT4jOLO3",
+      "publishDate": "2025-07-22T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "2XKO Closed Beta Announcement",
+    "publishedAt": "2025-07-22T15:00:00.000Z",
+    "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "vr6Y96D3_Ro",
@@ -1056,67 +1180,6 @@
       "contentId": "dda86a69-7a18-42bd-a5c6-e84e6ca1a1f5.en-us",
       "contentLocale": "en-us",
       "rev": "tYfwQ5yrDWjUrDQ1P6B0Mt",
-      "publishDate": "2025-07-22T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "2XKO Closed Beta Announcement",
-    "publishedAt": "2025-07-22T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/2xko-closedbeta-announcement"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/11d051dcd9fc6c90d204d052dcf8c051af95c3d2-1920x1080.jpg",
-      "colors": {
-        "primary": "#2E5B58",
-        "secondary": "#DCF9E2",
-        "label": "#0D3431"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "The 2XKO Closed Beta starts September 9, 2025. Read on for all the details."
-    },
-    "category": {
-      "title": "Game Updates",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "8f89a9b8-e717-453b-82c9-0a521d0655be.en-us",
-      "contentLocale": "en-us",
-      "rev": "xoZoUjzkFWZVGLdT4jOLO3",
       "publishDate": "2025-07-22T15:00:00.000Z"
     }
   },
@@ -1429,67 +1492,6 @@
     }
   },
   {
-    "title": "2XKO Basic Controls",
-    "publishedAt": "2024-08-07T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/2xko-basic-controls"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7dc4cb4f1c30634670fba5564b9b6e2cdc8f14db-1920x1080.jpg",
-      "colors": {
-        "primary": "#274E43",
-        "secondary": "#EFF9DC",
-        "label": "#09241D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Learn the basics of how to play 2XKO with our beginner’s guide."
-    },
-    "category": {
-      "title": "Game Updates",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "31d68fab-92bc-45f8-90cf-bdd3e9fabaae",
-      "contentLocale": "en-us",
-      "rev": "Na4rGdANtziFPBVG26KXie",
-      "publishDate": "2024-08-07T15:00:00.000Z"
-    }
-  },
-  {
     "title": "What’s in 2XKO Alpha Lab?",
     "publishedAt": "2024-08-07T15:00:00.000Z",
     "action": {
@@ -1548,6 +1550,67 @@
       "contentId": "a57d323e-bb5e-4c55-8e1a-747adbd1a027",
       "contentLocale": "en-us",
       "rev": "fEWTiWxyBhUC7kPi9rfYK2",
+      "publishDate": "2024-08-07T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "2XKO Basic Controls",
+    "publishedAt": "2024-08-07T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/2xko-basic-controls"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7dc4cb4f1c30634670fba5564b9b6e2cdc8f14db-1920x1080.jpg",
+      "colors": {
+        "primary": "#274E43",
+        "secondary": "#EFF9DC",
+        "label": "#09241D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Learn the basics of how to play 2XKO with our beginner’s guide."
+    },
+    "category": {
+      "title": "Game Updates",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "31d68fab-92bc-45f8-90cf-bdd3e9fabaae",
+      "contentLocale": "en-us",
+      "rev": "Na4rGdANtziFPBVG26KXie",
       "publishDate": "2024-08-07T15:00:00.000Z"
     }
   },
@@ -2114,132 +2177,6 @@
     }
   },
   {
-    "title": "Devs Play Duos",
-    "publishedAt": "2024-03-11T13:00:47.714Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "F4a7UzySL9o",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=F4a7UzySL9o"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/1f37f6bbeb92b7352010eac608a81e2bf88fe010-1920x1080.jpg",
-      "colors": {
-        "primary": "#0F101E",
-        "secondary": "#FFD6F1",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Four devs face off to put 2XKO’s 2v2 tag-team system to the test."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "2xko_dev"
-    },
-    "analytics": {
-      "contentId": "94af89a6-043a-4147-a6b3-3c80b1703cbb",
-      "contentLocale": "en-us",
-      "rev": "oOylPWK65J0ej1lvdcnxVH",
-      "publishDate": "2024-03-11T13:00:47.714Z"
-    }
-  },
-  {
-    "title": "Introducing Duo Play",
-    "publishedAt": "2024-03-11T13:00:46.401Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "_KalbPq3Ic4",
-        "videoLengthInSeconds": 218,
-        "url": "https://www.youtube.com/watch?v=_KalbPq3Ic4"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b93f3aa1f5aa9ee485ccf295af30d36ca2e6059b-1920x1080.jpg",
-      "colors": {
-        "primary": "#221428",
-        "secondary": "#F1DCF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A quick rundown of 2XKO’s 2v2 tag-based gameplay from Game Director Shaun Rivera."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "2xko_dev"
-    },
-    "analytics": {
-      "contentId": "de914f00-37a9-4a3e-9569-3398663610d3",
-      "contentLocale": "en-us",
-      "rev": "fEWTiWxyBhUC7kPi9rfYK2",
-      "publishDate": "2024-03-11T13:00:46.401Z"
-    }
-  },
-  {
     "title": "New Champion: Yasuo",
     "publishedAt": "2024-03-11T13:00:36.610Z",
     "action": {
@@ -2367,6 +2304,196 @@
     }
   },
   {
+    "title": "Devs Play Duos",
+    "publishedAt": "2024-03-11T13:00:47.714Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "F4a7UzySL9o",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=F4a7UzySL9o"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/1f37f6bbeb92b7352010eac608a81e2bf88fe010-1920x1080.jpg",
+      "colors": {
+        "primary": "#0F101E",
+        "secondary": "#FFD6F1",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Four devs face off to put 2XKO’s 2v2 tag-team system to the test."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "2xko_dev"
+    },
+    "analytics": {
+      "contentId": "94af89a6-043a-4147-a6b3-3c80b1703cbb",
+      "contentLocale": "en-us",
+      "rev": "oOylPWK65J0ej1lvdcnxVH",
+      "publishDate": "2024-03-11T13:00:47.714Z"
+    }
+  },
+  {
+    "title": "Introducing Duo Play",
+    "publishedAt": "2024-03-11T13:00:46.401Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "_KalbPq3Ic4",
+        "videoLengthInSeconds": 218,
+        "url": "https://www.youtube.com/watch?v=_KalbPq3Ic4"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b93f3aa1f5aa9ee485ccf295af30d36ca2e6059b-1920x1080.jpg",
+      "colors": {
+        "primary": "#221428",
+        "secondary": "#F1DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A quick rundown of 2XKO’s 2v2 tag-based gameplay from Game Director Shaun Rivera."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "2xko_dev"
+    },
+    "analytics": {
+      "contentId": "de914f00-37a9-4a3e-9569-3398663610d3",
+      "contentLocale": "en-us",
+      "rev": "fEWTiWxyBhUC7kPi9rfYK2",
+      "publishDate": "2024-03-11T13:00:46.401Z"
+    }
+  },
+  {
+    "title": "2XKO - Sign Up for Playtests",
+    "publishedAt": "2024-03-11T13:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://survey.alchemer.com/s3/7676011/Playtest-Signup"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "focalPoint": "center",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ffcc53b7775624ed89e8ebddc6b7f686a3fb0b2e-1920x1080.png",
+      "colors": {
+        "primary": "#14190C",
+        "secondary": "#F4FFD6",
+        "label": "#010101"
+      },
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Sign yourself up for upcoming 2XKO playtests. Note: This sign-up is specifically for playtests. Even if you've registered your email before, you need to sign up again."
+    },
+    "category": {
+      "title": "Announcements",
+      "description": "Used for general announcements for 2XKO.",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "f3c96b8b-f23c-4eaf-8c5c-01fdfb713c41",
+      "contentLocale": "en-us",
+      "rev": "oOylPWK65J0ej1lvdcnxVH",
+      "publishDate": "2024-03-11T13:00:00.000Z"
+    }
+  },
+  {
     "title": "How to Play 2XKO (2023)",
     "publishedAt": "2024-03-11T13:00:00.000Z",
     "action": {
@@ -2489,70 +2616,6 @@
       "contentId": "6500f63f-9493-4b53-b033-51adb3fa4c05",
       "contentLocale": "en-us",
       "rev": "fEWTiWxyBhUC7kPi9rfYK2",
-      "publishDate": "2024-03-11T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "2XKO - Sign Up for Playtests",
-    "publishedAt": "2024-03-11T13:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://survey.alchemer.com/s3/7676011/Playtest-Signup"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "focalPoint": "center",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ffcc53b7775624ed89e8ebddc6b7f686a3fb0b2e-1920x1080.png",
-      "colors": {
-        "primary": "#14190C",
-        "secondary": "#F4FFD6",
-        "label": "#010101"
-      },
-      "mimeType": "image/png"
-    },
-    "description": {
-      "type": "html",
-      "body": "Sign yourself up for upcoming 2XKO playtests. Note: This sign-up is specifically for playtests. Even if you've registered your email before, you need to sign up again."
-    },
-    "category": {
-      "title": "Announcements",
-      "description": "Used for general announcements for 2XKO.",
-      "machineName": "announcements"
-    },
-    "analytics": {
-      "contentId": "f3c96b8b-f23c-4eaf-8c5c-01fdfb713c41",
-      "contentLocale": "en-us",
-      "rev": "oOylPWK65J0ej1lvdcnxVH",
       "publishDate": "2024-03-11T13:00:00.000Z"
     }
   }
