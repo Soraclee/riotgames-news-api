@@ -1,5 +1,68 @@
 [
   {
+    "title": "La vérité – Bande dessinée animée",
+    "publishedAt": "2025-10-03T14:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=Y5kmbWaLCjI"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b7df2aeed9eeec3254874fd3c6a8eb071b17087d-1920x1080.jpg",
+      "colors": {
+        "primary": "#493325",
+        "secondary": "#F9EDDC",
+        "label": "#1E1108"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La vérité derrière la chute des Darkin... et leur retour. Regardez la bande dessinée animée !"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "230a7822-d25b-4b10-b052-8d8f464138fe.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UIzBTmPAVbl8XyiDBCnMcQ",
+      "publishDate": "2025-10-03T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Worlds 2025 | Hymne orchestral - League of Legends",
     "publishedAt": "2025-10-03T03:00:00.000Z",
     "action": {
@@ -636,69 +699,6 @@
     }
   },
   {
-    "title": "Le quatrième principe - Bande dessinée animée",
-    "publishedAt": "2025-05-20T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=txMCSiJ3tzc"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d749e556f05c69b54a9d061544aba643e499384b-1920x1080.jpg",
-      "colors": {
-        "primary": "#432622",
-        "secondary": "#F9E8DC",
-        "label": "#170806"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La grandeur naît-elle du sacrifice... ou d'autre chose ? Découvrez la bande dessinée animée !"
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tdMbenkpDyXWNl15ejKINA",
-      "publishDate": "2025-05-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "La Main du démon - Bande dessinée animée",
     "publishedAt": "2025-05-20T15:00:00.000Z",
     "action": {
@@ -756,6 +756,69 @@
     },
     "analytics": {
       "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "tdMbenkpDyXWNl15ejKINA",
+      "publishDate": "2025-05-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Le quatrième principe - Bande dessinée animée",
+    "publishedAt": "2025-05-20T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=txMCSiJ3tzc"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d749e556f05c69b54a9d061544aba643e499384b-1920x1080.jpg",
+      "colors": {
+        "primary": "#432622",
+        "secondary": "#F9E8DC",
+        "label": "#170806"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La grandeur naît-elle du sacrifice... ou d'autre chose ? Découvrez la bande dessinée animée !"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tdMbenkpDyXWNl15ejKINA",
       "publishDate": "2025-05-20T15:00:00.000Z"
@@ -7059,69 +7122,6 @@
       "contentLocale": "fr-fr",
       "rev": "5oZd24h28sxsR5vy6hYHDA",
       "publishDate": "2023-03-21T00:00:00.000Z"
-    }
-  },
-  {
-    "title": "Milio, la Douce flamme",
-    "publishedAt": "2023-03-07T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=ohg3esTNoqc"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3a34895e2b443f30428680d9f4003cc56f7d3f07-1280x720.jpg",
-      "colors": {
-        "primary": "#090406",
-        "secondary": "#FFEED6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La maison, c'est dans la chaleur du cœur."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt8189ac838bc6c52a.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wqQE3hWIWpUAV3VUi6OCFw",
-      "publishDate": "2023-03-07T16:00:00.000Z"
     }
   }
 ]
