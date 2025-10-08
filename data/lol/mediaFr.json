@@ -2,6 +2,7 @@
   {
     "title": "La vérité – Bande dessinée animée",
     "publishedAt": "2025-10-03T14:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -65,6 +66,7 @@
   {
     "title": "Worlds 2025 | Hymne orchestral - League of Legends",
     "publishedAt": "2025-10-03T03:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -129,6 +131,7 @@
   {
     "title": "Musique de Xin Zhao",
     "publishedAt": "2025-08-29T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -256,6 +259,7 @@
   {
     "title": "Bande-son originale de K.O. Coliseum",
     "publishedAt": "2025-08-04T16:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -320,6 +324,7 @@
   {
     "title": "Playlist Fleur spirituelle onsen x Chillhop Lofi",
     "publishedAt": "2025-07-30T18:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -383,6 +388,7 @@
   {
     "title": "Couverture de manga K.O. Coliseum",
     "publishedAt": "2025-07-24T15:30:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -446,6 +452,7 @@
   {
     "title": "Musique de Yunara",
     "publishedAt": "2025-07-18T20:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -510,6 +517,7 @@
   {
     "title": "K.O. Coliseum OP | Cinématique de set",
     "publishedAt": "2025-07-11T13:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -574,6 +582,7 @@
   {
     "title": "Musique Morgana fleur spirituelle",
     "publishedAt": "2025-06-26T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -638,6 +647,7 @@
   {
     "title": "Héraut de la ruine - Bande dessinée animée",
     "publishedAt": "2025-05-20T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -699,71 +709,9 @@
     }
   },
   {
-    "title": "La Main du démon - Bande dessinée animée",
-    "publishedAt": "2025-05-20T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg",
-      "colors": {
-        "primary": "#B8A78F",
-        "secondary": "#332D29",
-        "label": "#453825"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Si vous provoquez un démon, assurez-vous d'avoir une bonne main. Découvrez la bande dessinée animée."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tdMbenkpDyXWNl15ejKINA",
-      "publishDate": "2025-05-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Le quatrième principe - Bande dessinée animée",
     "publishedAt": "2025-05-20T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -825,8 +773,73 @@
     }
   },
   {
+    "title": "La Main du démon - Bande dessinée animée",
+    "publishedAt": "2025-05-20T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8A78F",
+        "secondary": "#332D29",
+        "label": "#453825"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Si vous provoquez un démon, assurez-vous d'avoir une bonne main. Découvrez la bande dessinée animée."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "tdMbenkpDyXWNl15ejKINA",
+      "publishDate": "2025-05-20T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Téléchargez gratuitement le kit de streaming Fleur Spirituelle",
     "publishedAt": "2025-05-14T16:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
@@ -952,6 +965,7 @@
   {
     "title": "Musique du skin Mordekaiser Sahn-Uzal",
     "publishedAt": "2025-04-17T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -1016,6 +1030,7 @@
   {
     "title": "Here, Tomorrow",
     "publishedAt": "2025-04-14T15:03:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -1144,6 +1159,7 @@
   {
     "title": "Musique de LeBlanc",
     "publishedAt": "2025-04-03T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -1208,6 +1224,7 @@
   {
     "title": "Bande-son originale Cyber City",
     "publishedAt": "2025-04-02T16:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -1272,6 +1289,7 @@
   {
     "title": "Flash info",
     "publishedAt": "2025-03-22T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -1591,6 +1609,7 @@
   {
     "title": "Musique de Mel",
     "publishedAt": "2025-01-23T16:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -1655,6 +1674,7 @@
   {
     "title": "Le pont entre les mondes",
     "publishedAt": "2025-01-21T16:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -1719,6 +1739,7 @@
   {
     "title": "Bienvenue à Noxus",
     "publishedAt": "2025-01-07T16:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
@@ -1882,6 +1903,7 @@
   {
     "title": "Musique de Viktor",
     "publishedAt": "2024-12-12T18:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -2061,6 +2083,7 @@
   {
     "title": "Cinématique Into the Arcane (version complète)",
     "publishedAt": "2024-12-11T20:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -2125,6 +2148,7 @@
   {
     "title": "Bande originale de Into the Arcane",
     "publishedAt": "2024-12-06T20:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -2189,6 +2213,7 @@
   {
     "title": "Cinématique de lancement Into the Arcane, partie 1",
     "publishedAt": "2024-11-18T16:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -2253,6 +2278,7 @@
   {
     "title": "Bande-annonce du set TFT : Into the Arcane",
     "publishedAt": "2024-11-02T18:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -2317,6 +2343,7 @@
   {
     "title": "Paint the Town Blue",
     "publishedAt": "2024-10-30T16:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -2381,6 +2408,7 @@
   {
     "title": "Blood Sweat & Tears",
     "publishedAt": "2024-10-26T13:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
@@ -2572,6 +2600,7 @@
   {
     "title": "Arcane: Bande-annonce « Come Play »",
     "publishedAt": "2024-10-16T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -2774,6 +2803,7 @@
   {
     "title": "Musique de Teemo",
     "publishedAt": "2024-10-03T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -2942,6 +2972,7 @@
   {
     "title": "Heavy Is The Crown avec Linkin Park",
     "publishedAt": "2024-09-24T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
@@ -3005,6 +3036,7 @@
   {
     "title": "Arcane : saison 2 | Bande-annonce officielle",
     "publishedAt": "2024-09-05T12:00:00.000Z",
+    "promoCardSize": "large",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -3263,6 +3295,7 @@
   {
     "title": "Against All Odds",
     "publishedAt": "2024-07-22T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -3327,6 +3360,7 @@
   {
     "title": "Musique d'Aurora",
     "publishedAt": "2024-07-20T18:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -3391,6 +3425,7 @@
   {
     "title": "Ouvrez les yeux.",
     "publishedAt": "2024-06-19T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -3592,6 +3627,7 @@
   {
     "title": "Musique de Lee Sin",
     "publishedAt": "2024-05-10T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -3656,6 +3692,7 @@
   {
     "title": "Musique de Skarner",
     "publishedAt": "2024-04-02T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -3727,6 +3764,7 @@
   {
     "title": "Bandle Tale | BA officielle de lancement",
     "publishedAt": "2024-02-21T17:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -3905,6 +3943,7 @@
   {
     "title": "Musique officielle du Festival lunaire 2024",
     "publishedAt": "2024-02-09T16:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -3969,6 +4008,7 @@
   {
     "title": "Le vœu d'un prince | Cinématique du Festival lunaire 2024",
     "publishedAt": "2024-02-07T21:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -4033,6 +4073,7 @@
   {
     "title": "Musique de Smolder",
     "publishedAt": "2024-02-06T16:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -4206,6 +4247,7 @@
   {
     "title": "Toujours là | Cinématique de la saison 2024",
     "publishedAt": "2024-01-10T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -4290,6 +4332,7 @@
   {
     "title": "Récompenses Prime gratuites : 14 déc. - 11 janv.",
     "publishedAt": "2023-12-14T20:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
@@ -4458,6 +4501,7 @@
   {
     "title": "Peaxy vous fait (re)découvrir les Worlds 23 à Séoul !",
     "publishedAt": "2023-12-06T00:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -4631,6 +4675,7 @@
   {
     "title": "Teaser du gameplay de la saison 2024",
     "publishedAt": "2023-11-19T10:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -4695,6 +4740,7 @@
   {
     "title": "HEARTSTEEL - PARANOIA : bêtisier",
     "publishedAt": "2023-11-08T16:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -4868,6 +4914,7 @@
   {
     "title": "Song of Nunu | Bande-annonce de lancement",
     "publishedAt": "2023-11-01T16:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -4952,6 +4999,7 @@
   {
     "title": "HEARTSTEEL - PARANOIA",
     "publishedAt": "2023-10-23T15:00:00.000Z",
+    "promoCardSize": "large",
     "action": {
       "type": "weblink",
       "payload": {
@@ -5026,6 +5074,7 @@
   {
     "title": "Song of Nunu | You and Me Makes Us",
     "publishedAt": "2023-10-18T18:30:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -5090,6 +5139,7 @@
   {
     "title": "Jax, Maître d'armes - Musique de champion",
     "publishedAt": "2023-10-10T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -5154,6 +5204,7 @@
   {
     "title": "GODS ft. NewJeans",
     "publishedAt": "2023-10-04T05:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -5218,6 +5269,7 @@
   {
     "title": "Hymne orchestral du Mondial 2023",
     "publishedAt": "2023-09-27T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -5282,6 +5334,7 @@
   {
     "title": "Le chant de la sirène - Teaser des skins de l'assemblée 2023",
     "publishedAt": "2023-09-25T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -5346,6 +5399,7 @@
   {
     "title": "Musique de Briar",
     "publishedAt": "2023-09-13T19:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -5410,6 +5464,7 @@
   {
     "title": "Focus sur Briar",
     "publishedAt": "2023-09-13T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -5677,6 +5732,7 @@
   {
     "title": "Faim dévorante",
     "publishedAt": "2023-08-30T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -5850,6 +5906,7 @@
   {
     "title": "Song of Nunu | Vidéo d'aperçu",
     "publishedAt": "2023-08-23T19:15:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -6122,6 +6179,7 @@
   {
     "title": "Musique officielle de Combattants spirituels",
     "publishedAt": "2023-07-22T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -6186,6 +6244,7 @@
   {
     "title": "Focus sur Naafiri",
     "publishedAt": "2023-07-21T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -6257,6 +6316,7 @@
   {
     "title": "Tournoi des âmes - Coming Alive | Cinématique",
     "publishedAt": "2023-07-20T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -6435,6 +6495,7 @@
   {
     "title": "Musique de Naafiri",
     "publishedAt": "2023-07-12T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -6499,6 +6560,7 @@
   {
     "title": "LE TEMPS ET L'ESPACE | HYMNE DE CONVERGENCE",
     "publishedAt": "2023-05-21T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -6563,6 +6625,7 @@
   {
     "title": "Bande-son officielle des Guerriers d'encre 2023",
     "publishedAt": "2023-05-03T21:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -6627,6 +6690,7 @@
   {
     "title": "Che Lingo - Rules (Are Meant To Break) | MSI 2023 - League of Legends",
     "publishedAt": "2023-04-21T16:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -6707,6 +6771,7 @@
   {
     "title": "Lancement de The Mageseeker: A League of Legends Story",
     "publishedAt": "2023-04-18T17:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -7063,6 +7128,7 @@
   {
     "title": "Actualités des devs : l'avenir des mi-parcours",
     "publishedAt": "2023-03-21T00:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {

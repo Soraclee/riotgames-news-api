@@ -1,5 +1,69 @@
 [
   {
+    "title": "Bande-annonce de gameplay de Warwick",
+    "publishedAt": "2025-10-07T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "6_ztib3bQVc",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=6_ztib3bQVc"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bb05b87a0c6edfab5ab24644b8c8ad5dc3177d21-1920x1080.jpg",
+      "colors": {
+        "primary": "#2C2B55",
+        "secondary": "#F9E5DC",
+        "label": "#0D0B2D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Vous êtes pris au piège ! Warwick, le nouveau champion 2XKO est maintenant disponible."
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "3c6d69e8-564c-4ff4-917b-0d0217a5446b.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "hsCz07sHDQZnVcsk9Fi5lD",
+      "publishDate": "2025-10-07T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Accès anticipé de 2XKO : Ce qui vous attend",
     "publishedAt": "2025-10-06T18:30:00.000Z",
     "action": {
@@ -188,6 +252,7 @@
   {
     "title": "Ce qu'il faut savoir : 2XKO à l'Evo France",
     "publishedAt": "2025-10-02T06:45:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -313,6 +378,7 @@
   {
     "title": "Bande-annonce de gameplay de Teemo",
     "publishedAt": "2025-09-29T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -376,6 +442,7 @@
   {
     "title": "Bande-annonce de gameplay de Yasuo",
     "publishedAt": "2025-09-26T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -439,6 +506,7 @@
   {
     "title": "Bande-annonce de gameplay d'Ekko",
     "publishedAt": "2025-09-25T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -565,6 +633,7 @@
   {
     "title": "Bande-annonce de gameplay de Darius",
     "publishedAt": "2025-09-23T19:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -628,6 +697,7 @@
   {
     "title": "Annonce de l'accès anticipé de 2XKO",
     "publishedAt": "2025-09-23T16:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
@@ -1187,6 +1257,7 @@
   {
     "title": "Vi - Présentation du gameplay",
     "publishedAt": "2025-07-22T15:30:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
@@ -1373,6 +1444,7 @@
   {
     "title": "Dev Update de mars 2025",
     "publishedAt": "2025-04-09T16:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
@@ -1433,69 +1505,9 @@
     }
   },
   {
-    "title": "Les nouveautés de l'Alpha Lab 2",
-    "publishedAt": "2025-03-27T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/whats-new-in-alpha-lab-2"
-      }
-    },
-    "product": {
-      "title": "2XKO (fr-fr)",
-      "machineName": "2xko",
-      "id": "product.project_l.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a963087c6307ae59d423fd80c090e133e9336e33-1920x1080.jpg",
-      "colors": {
-        "primary": "#1A0E1C",
-        "secondary": "#FFD6E7",
-        "label": "#030303"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Une liste complète des nouveautés prévues pour le prochain playtest de 2XKO."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "163d11cf-4d25-4454-8c4c-b150313af3ee.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "PdiNDqd28RLrQnAZ4aPaLV",
-      "publishDate": "2025-03-27T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Alpha Lab 2 de 2XKO : présentation et FAQ",
     "publishedAt": "2025-03-27T16:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -1555,8 +1567,71 @@
     }
   },
   {
+    "title": "Les nouveautés de l'Alpha Lab 2",
+    "publishedAt": "2025-03-27T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/whats-new-in-alpha-lab-2"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a963087c6307ae59d423fd80c090e133e9336e33-1920x1080.jpg",
+      "colors": {
+        "primary": "#1A0E1C",
+        "secondary": "#FFD6E7",
+        "label": "#030303"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Une liste complète des nouveautés prévues pour le prochain playtest de 2XKO."
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "163d11cf-4d25-4454-8c4c-b150313af3ee.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "PdiNDqd28RLrQnAZ4aPaLV",
+      "publishDate": "2025-03-27T16:00:00.000Z"
+    }
+  },
+  {
     "title": "2XKO : bilan du mois de novembre 2024",
     "publishedAt": "2024-11-11T17:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -1681,6 +1756,7 @@
   {
     "title": "Commandes de base de 2XKO",
     "publishedAt": "2024-08-07T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -1742,6 +1818,7 @@
   {
     "title": "Bon à savoir - 2XKO à l’Evo 2024",
     "publishedAt": "2024-07-16T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
@@ -1994,6 +2071,7 @@
   {
     "title": "Visiter Runeterra",
     "publishedAt": "2024-03-21T17:23:09Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -2054,70 +2132,9 @@
     }
   },
   {
-    "title": "2XKO - Les fans à l'œuvre",
-    "publishedAt": "2024-03-11T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.riotgames.com/fr/actus/2xko-wallpapers-social-kit-fr"
-      }
-    },
-    "product": {
-      "title": "2XKO (fr-fr)",
-      "machineName": "2xko",
-      "id": "product.project_l.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d951af99ecd063eae46aa235d7fd5f43498d9d8b-1920x1080.jpg",
-      "colors": {
-        "primary": "#404623",
-        "secondary": "#F2F9DC",
-        "label": "#171B07"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Montrez votre savoir-faire sur les réseaux grâce à un kit artistique gratuit."
-    },
-    "category": {
-      "title": "Communauté",
-      "machineName": "2xko_community"
-    },
-    "analytics": {
-      "contentId": "bcf44977-3b68-4b09-b853-eef2e13a5dfc",
-      "contentLocale": "fr-fr",
-      "rev": "5y7swPKAcYPWMoG0msJpUr",
-      "publishDate": "2024-03-11T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Aperçu de 2024",
     "publishedAt": "2024-03-11T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -2178,8 +2195,72 @@
     }
   },
   {
+    "title": "2XKO - Les fans à l'œuvre",
+    "publishedAt": "2024-03-11T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.riotgames.com/fr/actus/2xko-wallpapers-social-kit-fr"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d951af99ecd063eae46aa235d7fd5f43498d9d8b-1920x1080.jpg",
+      "colors": {
+        "primary": "#404623",
+        "secondary": "#F2F9DC",
+        "label": "#171B07"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Montrez votre savoir-faire sur les réseaux grâce à un kit artistique gratuit."
+    },
+    "category": {
+      "title": "Communauté",
+      "machineName": "2xko_community"
+    },
+    "analytics": {
+      "contentId": "bcf44977-3b68-4b09-b853-eef2e13a5dfc",
+      "contentLocale": "fr-fr",
+      "rev": "5y7swPKAcYPWMoG0msJpUr",
+      "publishDate": "2024-03-11T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Nouveau champion : Yasuo",
     "publishedAt": "2024-03-11T13:00:36.610Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -2241,8 +2322,73 @@
     }
   },
   {
+    "title": "Duos de devs",
+    "publishedAt": "2024-03-11T13:00:47.714Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "F4a7UzySL9o",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=F4a7UzySL9o"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/1f37f6bbeb92b7352010eac608a81e2bf88fe010-1920x1080.jpg",
+      "colors": {
+        "primary": "#0F101E",
+        "secondary": "#FFD6F1",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Quatre devs s'essaient au 2 contre 2 en équipe dans 2XKO."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "2xko_dev"
+    },
+    "analytics": {
+      "contentId": "f88ba59a-7dce-4d13-8222-a584856aaccf",
+      "contentLocale": "fr-fr",
+      "rev": "FWfcFyz4v76XPZNTIGCYlV",
+      "publishDate": "2024-03-11T13:00:47.714Z"
+    }
+  },
+  {
     "title": "Présentation du système de duos",
     "publishedAt": "2024-03-11T13:00:46.401Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -2306,6 +2452,7 @@
   {
     "title": "Project L est désormais 2XKO",
     "publishedAt": "2024-03-11T13:00:59.565Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
@@ -2365,69 +2512,6 @@
       "contentLocale": "fr-fr",
       "rev": "PdiNDqd28RLrQnAZ4aPaLV",
       "publishDate": "2024-03-11T13:00:59.565Z"
-    }
-  },
-  {
-    "title": "Duos de devs",
-    "publishedAt": "2024-03-11T13:00:47.714Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "F4a7UzySL9o",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=F4a7UzySL9o"
-      }
-    },
-    "product": {
-      "title": "2XKO (fr-fr)",
-      "machineName": "2xko",
-      "id": "product.project_l.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/1f37f6bbeb92b7352010eac608a81e2bf88fe010-1920x1080.jpg",
-      "colors": {
-        "primary": "#0F101E",
-        "secondary": "#FFD6F1",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Quatre devs s'essaient au 2 contre 2 en équipe dans 2XKO."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "2xko_dev"
-    },
-    "analytics": {
-      "contentId": "f88ba59a-7dce-4d13-8222-a584856aaccf",
-      "contentLocale": "fr-fr",
-      "rev": "FWfcFyz4v76XPZNTIGCYlV",
-      "publishDate": "2024-03-11T13:00:47.714Z"
     }
   },
   {
@@ -2496,6 +2580,7 @@
   {
     "title": "Inscrivez-vous pour les tests",
     "publishedAt": "2024-03-11T13:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
@@ -2560,6 +2645,7 @@
   {
     "title": "Avant-goût de l'année 2024",
     "publishedAt": "2024-03-11T13:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
