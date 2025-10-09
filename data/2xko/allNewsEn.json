@@ -1,5 +1,69 @@
 [
   {
+    "title": "Warwick Dev Update",
+    "publishedAt": "2025-10-08T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "l9DqqDZzsCE",
+        "videoLengthInSeconds": 1013,
+        "url": "https://www.youtube.com/watch?v=l9DqqDZzsCE"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/32bb2f04f4ca931b04105f3734deecfca7a7e0a8-1920x1080.jpg",
+      "colors": {
+        "primary": "#1D170E",
+        "secondary": "#F7FFD6",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Designers Peter Rosas and Steve Bankert talk through Warwick’s kit."
+    },
+    "category": {
+      "title": "Game Updates",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "a6538e7e-4af8-4221-ae34-bfe19e78e6a2.en-us",
+      "contentLocale": "en-us",
+      "rev": "ET4YDnxWmLrVOkmhiJqgi9",
+      "publishDate": "2025-10-08T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Warwick Gameplay Reveal Trailer",
     "publishedAt": "2025-10-07T15:00:00.000Z",
     "promoCardSize": "small",
@@ -182,7 +246,7 @@
     "analytics": {
       "contentId": "165e0350-df8b-47f5-8259-3bb3f2ba2898.en-us",
       "contentLocale": "en-us",
-      "rev": "UsaWKKSJ1KBsilFyMnwuaR",
+      "rev": "UsaWKKSJ1KBsilFyN8TV3d",
       "publishDate": "2025-10-06T17:00:00.000Z"
     }
   },
@@ -877,7 +941,7 @@
     "analytics": {
       "contentId": "abaf7d83-3831-4202-94a2-4ec4b1a15b5a.en-us",
       "contentLocale": "en-us",
-      "rev": "eOCinNlmE6shES1twZVhaQ",
+      "rev": "EkG99xuRrB0fs4jnvZG4Jw",
       "publishDate": "2025-09-23T14:30:00.000Z"
     }
   },
@@ -2571,6 +2635,70 @@
     }
   },
   {
+    "title": "New Champion: Yasuo",
+    "publishedAt": "2024-03-11T13:00:36.610Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "T4zqkjXdYT0",
+        "videoLengthInSeconds": 249,
+        "url": "https://www.youtube.com/watch?v=T4zqkjXdYT0"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7c50c501e9f9902fee52fa7219e4f339efb1b733-1920x1080.jpg",
+      "colors": {
+        "primary": "#264724",
+        "secondary": "#DCF9E6",
+        "label": "#081C07"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Face the wind with Yasuo the Unforgiven, who joins the 2XKO roster alongside Ekko, Ahri, and Darius."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "2xko_dev"
+    },
+    "analytics": {
+      "contentId": "c0635e5a-4ab9-443e-aa62-ff9d451dd092",
+      "contentLocale": "en-us",
+      "rev": "oOylPWK65J0ej1lvdcnxVH",
+      "publishDate": "2024-03-11T13:00:36.610Z"
+    }
+  },
+  {
     "title": "Devs Play Duos",
     "publishedAt": "2024-03-11T13:00:47.714Z",
     "promoCardSize": "small",
@@ -2699,70 +2827,6 @@
     }
   },
   {
-    "title": "New Champion: Yasuo",
-    "publishedAt": "2024-03-11T13:00:36.610Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "T4zqkjXdYT0",
-        "videoLengthInSeconds": 249,
-        "url": "https://www.youtube.com/watch?v=T4zqkjXdYT0"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7c50c501e9f9902fee52fa7219e4f339efb1b733-1920x1080.jpg",
-      "colors": {
-        "primary": "#264724",
-        "secondary": "#DCF9E6",
-        "label": "#081C07"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Face the wind with Yasuo the Unforgiven, who joins the 2XKO roster alongside Ekko, Ahri, and Darius."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "2xko_dev"
-    },
-    "analytics": {
-      "contentId": "c0635e5a-4ab9-443e-aa62-ff9d451dd092",
-      "contentLocale": "en-us",
-      "rev": "oOylPWK65J0ej1lvdcnxVH",
-      "publishDate": "2024-03-11T13:00:36.610Z"
-    }
-  },
-  {
     "title": "Project L is Now 2XKO",
     "publishedAt": "2024-03-11T13:00:59.565Z",
     "promoCardSize": "small",
@@ -2825,6 +2889,71 @@
       "contentLocale": "en-us",
       "rev": "HUA1CUqD6JWans6tYCVGVK",
       "publishDate": "2024-03-11T13:00:59.565Z"
+    }
+  },
+  {
+    "title": "2XKO - Sign Up for Playtests",
+    "publishedAt": "2024-03-11T13:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://survey.alchemer.com/s3/7676011/Playtest-Signup"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "focalPoint": "center",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ffcc53b7775624ed89e8ebddc6b7f686a3fb0b2e-1920x1080.png",
+      "colors": {
+        "primary": "#14190C",
+        "secondary": "#F4FFD6",
+        "label": "#010101"
+      },
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Sign yourself up for upcoming 2XKO playtests. Note: This sign-up is specifically for playtests. Even if you've registered your email before, you need to sign up again."
+    },
+    "category": {
+      "title": "Announcements",
+      "description": "Used for general announcements for 2XKO.",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "f3c96b8b-f23c-4eaf-8c5c-01fdfb713c41",
+      "contentLocale": "en-us",
+      "rev": "oOylPWK65J0ej1lvdcnxVH",
+      "publishDate": "2024-03-11T13:00:00.000Z"
     }
   },
   {
@@ -2951,71 +3080,6 @@
       "contentId": "6500f63f-9493-4b53-b033-51adb3fa4c05",
       "contentLocale": "en-us",
       "rev": "fEWTiWxyBhUC7kPi9rfYK2",
-      "publishDate": "2024-03-11T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "2XKO - Sign Up for Playtests",
-    "publishedAt": "2024-03-11T13:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://survey.alchemer.com/s3/7676011/Playtest-Signup"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "focalPoint": "center",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ffcc53b7775624ed89e8ebddc6b7f686a3fb0b2e-1920x1080.png",
-      "colors": {
-        "primary": "#14190C",
-        "secondary": "#F4FFD6",
-        "label": "#010101"
-      },
-      "mimeType": "image/png"
-    },
-    "description": {
-      "type": "html",
-      "body": "Sign yourself up for upcoming 2XKO playtests. Note: This sign-up is specifically for playtests. Even if you've registered your email before, you need to sign up again."
-    },
-    "category": {
-      "title": "Announcements",
-      "description": "Used for general announcements for 2XKO.",
-      "machineName": "announcements"
-    },
-    "analytics": {
-      "contentId": "f3c96b8b-f23c-4eaf-8c5c-01fdfb713c41",
-      "contentLocale": "en-us",
-      "rev": "oOylPWK65J0ej1lvdcnxVH",
       "publishDate": "2024-03-11T13:00:00.000Z"
     }
   }
