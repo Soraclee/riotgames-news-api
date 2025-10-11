@@ -1,5 +1,175 @@
 [
   {
+    "title": "Présentation de T1 Pyke libéré",
+    "publishedAt": "2025-10-10T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "BNd-fYPOMh8",
+        "videoLengthInSeconds": 33,
+        "url": "https://www.youtube.com/watch?v=BNd-fYPOMh8"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "82474aac4258",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-10-09T16:13:10Z",
+              "_id": "image-57eab9feb7a363069a7d0e46254d29d8ab01d48c-1600x1080-jpg",
+              "_rev": "yAGwVgN05vvOS4HOYwyZL3",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-10-09T16:13:10Z",
+              "assetId": "57eab9feb7a363069a7d0e46254d29d8ab01d48c",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V48D;3PU?@%0I@4UrXIVRkoe57r?Z*R+sl4qoft7kWa#",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#544433",
+                    "foreground": "#fff",
+                    "population": 4.34,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#5e350f",
+                    "foreground": "#fff",
+                    "population": 0.02,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#544433",
+                    "foreground": "#fff",
+                    "population": 4.34,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#834a15",
+                    "foreground": "#fff",
+                    "population": 0,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ecba8c",
+                    "foreground": "#000",
+                    "population": 0,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#af8e68",
+                    "foreground": "#fff",
+                    "population": 0.42,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#db7b23",
+                    "foreground": "#fff",
+                    "population": 0,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_ST1525_Thumbnails_Client_T1-Decluttered_T1-PYKE-UNBOUND_[1600x1080]_V001.jpg",
+              "path": "images/dsfx7636/news_live/57eab9feb7a363069a7d0e46254d29d8ab01d48c-1600x1080.jpg",
+              "sha1hash": "57eab9feb7a363069a7d0e46254d29d8ab01d48c",
+              "size": 746479,
+              "uploadId": "bgh9GuhQ6mE7q5QmKOMrHOrqymAAtxIK",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/57eab9feb7a363069a7d0e46254d29d8ab01d48c-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "BNd-fYPOMh8"
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f13e1f818846c2ae69b6d21b45c2982d9135b041-1920x1080.jpg",
+      "colors": {
+        "primary": "#17140B",
+        "secondary": "#FFFFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Monstrueuse est la couronne. Montez sur le trône avec T1 Pyke libéré, déchaîné dans TFT."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "ed999ccd-3b44-42de-bb23-de5bf50c107b.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "EkG99xuRrB0fs4jnvqdUGF",
+      "publishDate": "2025-10-10T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Génie mortel | Keria x T1 Pyke libéré",
     "publishedAt": "2025-10-08T01:30:00.000Z",
     "promoCardSize": "small",
@@ -7821,175 +7991,6 @@
       "contentLocale": "fr-fr",
       "rev": "ZKQ63h0HhTysFdBEEAaAgM",
       "publishDate": "2025-04-22T15:30:00.000Z"
-    }
-  },
-  {
-    "title": "Un set repart en tournée | Dev video",
-    "publishedAt": "2025-04-22T14:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "2ihjj03Cg-M",
-        "videoLengthInSeconds": 176,
-        "url": "https://www.youtube.com/watch?v=2ihjj03Cg-M"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "58b01f7f0c39",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2025-04-17T13:21:30Z",
-              "_id": "image-c39efaa542680f7895d27fa6fcba8debd00be845-1600x1080-jpg",
-              "_rev": "ueSUZDbd7t6LqWqu7KEWW8",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2025-04-22T14:00:42Z",
-              "assetId": "c39efaa542680f7895d27fa6fcba8debd00be845",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "V5BMPp0z07=A:Y4.Wa~AR.0f00|Y#jOu%}Di%1tRo#xs",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#453127",
-                    "foreground": "#fff",
-                    "population": 7.21,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#0f4440",
-                    "foreground": "#fff",
-                    "population": 5.87,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#453127",
-                    "foreground": "#fff",
-                    "population": 7.21,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#afbeca",
-                    "foreground": "#000",
-                    "population": 1.07,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#edb478",
-                    "foreground": "#000",
-                    "population": 0.42,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#6076ae",
-                    "foreground": "#fff",
-                    "population": 2.76,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#ba7b47",
-                    "foreground": "#fff",
-                    "population": 0.82,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "Riot_Client_T1-Decluttered.jpg",
-              "path": "images/dsfx7636/news_live/c39efaa542680f7895d27fa6fcba8debd00be845-1600x1080.jpg",
-              "sha1hash": "c39efaa542680f7895d27fa6fcba8debd00be845",
-              "size": 344315,
-              "uploadId": "PtZAMur8zrdDpNHYFM4qGPCx1pOyDRLr",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c39efaa542680f7895d27fa6fcba8debd00be845-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "2ihjj03Cg-M"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c1465ad53fbf53c656c666c4c7e4d4a36604c9db-1920x1080.jpg",
-      "colors": {
-        "primary": "#251712",
-        "secondary": "#D6EEFF",
-        "label": "#0A0A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un retour de set ? Non, la tournée retrouvailles du siècle. Mega Remix revient à partir du 14 mai."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "2787db6c-17cf-4363-a1c4-b2ad226c9765.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "a6AbJDhZcUVIiP8usKyPrl",
-      "publishDate": "2025-04-22T14:00:00.000Z"
     }
   }
 ]
