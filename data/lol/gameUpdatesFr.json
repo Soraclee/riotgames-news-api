@@ -1,5 +1,70 @@
 [
   {
+    "title": "Excellence immortelle | Faker x T1 Yone chibi",
+    "publishedAt": "2025-10-13T01:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "_EdKgpw1RvU",
+        "videoLengthInSeconds": 75,
+        "url": "https://www.youtube.com/watch?v=_EdKgpw1RvU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/339244a87a2eec7c9ef5a922d23fab91ef4e0595-1920x1080.jpg",
+      "colors": {
+        "primary": "#0F0E07",
+        "secondary": "#FFECD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Être le meilleur ou rien. T1 Yone chibi est prêt pour le prochain match TFT parfait le 22 octobre."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "874f8dcd-d9d8-4437-900e-e88a07428b64.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "nnzZ31xI8HKHcTfJeuUWGA",
+      "publishDate": "2025-10-13T01:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation de T1 Pyke libéré",
     "publishedAt": "2025-10-10T16:00:00.000Z",
     "promoCardSize": "small",
@@ -4739,69 +4804,6 @@
       "contentLocale": "fr-fr",
       "rev": "OTz9Kc8N8M6tkO4YjyKz7l",
       "publishDate": "2025-04-16T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 14.2 Teamfight Tactics (2025)",
-    "publishedAt": "2025-04-15T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-14-2-notes-2025/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1139,
-        "width": 1920,
-        "aspectRatio": 1.6856892010535558
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/098f965fd5ab11872bf8d3d2596c98bfed6acb4f-1920x1139.jpg",
-      "colors": {
-        "primary": "#B86C36",
-        "secondary": "#33292A",
-        "label": "#17110C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Préparez-vous à hacker dans le patch 14.2 avec ses changements de types, ses changements d'optimisations et les nouvelles options des armureries de cadeaux de Double Up."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "1eb77b3e-2f58-4931-86cd-4c7d10774ff0.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "UQJxDctsMNKpiCcXYYHgiH",
-      "publishDate": "2025-04-15T18:00:00.000Z"
     }
   }
 ]
