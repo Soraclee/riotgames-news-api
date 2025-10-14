@@ -1,5 +1,70 @@
 [
   {
+    "title": "Clip de l'hymne des Worlds 2025",
+    "publishedAt": "2025-10-13T13:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "pzt6SmvGpXk",
+        "videoLengthInSeconds": 252,
+        "url": "https://www.youtube.com/watch?v=pzt6SmvGpXk"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c34e93deb99bb1ce8e3becc5020adf2e220cbb6b-1920x1080.jpg",
+      "colors": {
+        "primary": "#1A1830",
+        "secondary": "#E0DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez dès maintenant le clip animé de « Sacrifice » avec  G.E.M. (鄧紫棋) !"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "c4c96b7a-1e51-41be-8412-7efa9dd4d51c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "yRE61yIqvds1h3Ib2nl0p4",
+      "publishDate": "2025-10-13T13:00:00.000Z"
+    }
+  },
+  {
     "title": "La vérité – Bande dessinée animée",
     "publishedAt": "2025-10-03T14:00:00.000Z",
     "promoCardSize": "small",
@@ -7123,71 +7188,6 @@
       "contentLocale": "fr-fr",
       "rev": "wqQE3hWIWpUAV3VUi6OCFw",
       "publishDate": "2023-04-18T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Actualités des devs : l'avenir des mi-parcours",
-    "publishedAt": "2023-03-21T00:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "Rjd0eXmmKL4",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=Rjd0eXmmKL4"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 2160,
-        "width": 3840,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0aa416c27d5d3f7210184f6148c8290a5fdfc5eb-3840x2160.jpg",
-      "colors": {
-        "primary": "#342D1A",
-        "secondary": "#F9F3DC",
-        "label": "#050401"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Riot Mort et Peter Whalen échangent sur l'avenir des mi-parcours de TFT."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.bltcd2f5ed98cf3ba1e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "5oZd24h28sxsR5vy6hYHDA",
-      "publishDate": "2023-03-21T00:00:00.000Z"
     }
   }
 ]

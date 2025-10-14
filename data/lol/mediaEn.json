@@ -1,5 +1,70 @@
 [
   {
+    "title": "Worlds 2025 Anthem Music Video",
+    "publishedAt": "2025-10-13T13:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "pzt6SmvGpXk",
+        "videoLengthInSeconds": 252,
+        "url": "https://www.youtube.com/watch?v=pzt6SmvGpXk"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c34e93deb99bb1ce8e3becc5020adf2e220cbb6b-1920x1080.jpg",
+      "colors": {
+        "primary": "#1A1830",
+        "secondary": "#E0DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Watch the music video for “Sacrifice” ft. G.E.M. (鄧紫棋) now!"
+    },
+    "category": {
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "c4c96b7a-1e51-41be-8412-7efa9dd4d51c.en-us",
+      "contentLocale": "en-us",
+      "rev": "yRE61yIqvds1h3Ib2nl0p4",
+      "publishDate": "2025-10-13T13:00:00.000Z"
+    }
+  },
+  {
     "title": "The Truth – Motion Comic",
     "publishedAt": "2025-10-03T14:00:00.000Z",
     "promoCardSize": "small",
@@ -7511,185 +7576,6 @@
       "contentLocale": "en-us",
       "rev": "bxuuTlbyftRPueMcYQd6tD",
       "publishDate": "2023-09-13T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Feeding Frenzy",
-    "publishedAt": "2023-08-30T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "bzVTONHA5h4",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=bzVTONHA5h4"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "VlBEzUs9",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-27T01:49:51Z",
-              "_id": "image-89645973404888a96a57997e8c4b207c1a3fa901-1280x720-jpg",
-              "_rev": "5xBFIcRPz0p0p32ItXulmo",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-04-27T01:49:51Z",
-              "assetId": "89645973404888a96a57997e8c4b207c1a3fa901",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "M46j::0dm+pxRP~CEKa0krWB56=yS$iwoz",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.7777777777777777,
-                  "height": 720,
-                  "width": 1280
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#5b2f2c",
-                    "foreground": "#fff",
-                    "population": 2.93,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#3b0414",
-                    "foreground": "#fff",
-                    "population": 0.07,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#5b2f2c",
-                    "foreground": "#fff",
-                    "population": 2.93,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#cdb3a1",
-                    "foreground": "#000",
-                    "population": 0.36,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#f18894",
-                    "foreground": "#000",
-                    "population": 0,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#aa725f",
-                    "foreground": "#fff",
-                    "population": 0.31,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#ec5a6b",
-                    "foreground": "#fff",
-                    "population": 0.42,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "Briar-overview-T1(normal)_Pre_Frenzy.jpg",
-              "path": "images/dsfx7636/news_live/89645973404888a96a57997e8c4b207c1a3fa901-1280x720.jpg",
-              "sha1hash": "89645973404888a96a57997e8c4b207c1a3fa901",
-              "size": 382258,
-              "uploadId": "82t1o0GwttAmhMTAtDciBNSf9j3FcaJ1",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/89645973404888a96a57997e8c4b207c1a3fa901-1280x720.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": false,
-        "t1CTA": "WATCH NOW",
-        "t1Description": "Are you friend or food?",
-        "t1Subtitle": "Cinematic",
-        "t1Title": "Feeding Frenzy",
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "youtube",
-            "videoID": "https://www.youtube.com/watch?v=bzVTONHA5h4"
-          }
-        }
-      },
-      {
-        "_key": "JivluZkQ",
-        "_type": "clientInternalLinkT2",
-        "t2Title": "Feeding Frenzy"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d026bb6b19105fe88ede0fbfbffbc8b49886008b-1920x1080.jpg",
-      "colors": {
-        "primary": "#1E0F10",
-        "secondary": "#FFEBD6",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Are you friend or food?"
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blta7d2124b76a40a8b.en-us",
-      "contentLocale": "en-us",
-      "rev": "bxuuTlbyftRPueMcYQd6tD",
-      "publishDate": "2023-08-30T15:00:00.000Z"
     }
   }
 ]
