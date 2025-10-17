@@ -63,6 +63,71 @@
     }
   },
   {
+    "title": "Dev Doodles : ARAM",
+    "publishedAt": "2025-10-14T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "KPEOvAPFM7c",
+        "videoLengthInSeconds": 319,
+        "url": "https://www.youtube.com/watch?v=KPEOvAPFM7c"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6d4081e7f2ea7a636649874820218cea29dc138a-1920x1080.jpg",
+      "colors": {
+        "primary": "#2E5C46",
+        "secondary": "#DCF9DC",
+        "label": "#0D3522"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Des parties personnalisées au premier mode permanent de League, voici l'histoire du mode ARAM."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de la création de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "422e0d14-752b-4005-9bed-1c52068db7b7.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "IBklTdck8m1asrJdSMfrrA",
+      "publishDate": "2025-10-14T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Pick'em des Worlds",
     "publishedAt": "2025-10-13T18:30:00.000Z",
     "action": {
@@ -4720,71 +4785,6 @@
       "contentLocale": "fr-fr",
       "rev": "MIk80cVlKH2qTGsYe7V8DN",
       "publishDate": "2025-07-29T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Annonces pour K.O. Coliseum et l’avenir de TFT Esports",
-    "publishedAt": "2025-07-29T13:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "LOjA2Ej1R18",
-        "videoLengthInSeconds": 294,
-        "url": "https://www.youtube.com/watch?v=LOjA2Ej1R18"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7b8fa7fbd7cc66823ea95143a82d46d83d71b789-1920x1080.jpg",
-      "colors": {
-        "primary": "#11080F",
-        "secondary": "#FFD6FB",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez toutes les nouveautés à venir pour TFT Esports ! Du lancement du nouveau Pro Circuit TFT, à la refonte des événements du palier 2, en passant par le Paris Open, voici tout ce qui vous attend pour la prochaine saison de TFT Esports."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "a233ae51-df24-44c8-ad30-843177e6fb95.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ICdTnj8FwQdzrJbycspDCY",
-      "publishDate": "2025-07-29T13:00:00.000Z"
     }
   }
 ]
