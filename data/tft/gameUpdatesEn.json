@@ -1,5 +1,174 @@
 [
   {
+    "title": "Peaceful Panda-monium Mini Cinematic",
+    "publishedAt": "2025-10-17T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "ngHVRp03w4w",
+        "videoLengthInSeconds": 42,
+        "url": "https://www.youtube.com/watch?v=ngHVRp03w4w"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "28507cc22a48",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-10-16T14:57:36Z",
+              "_id": "image-51eab5a183b2630461d8f6997e8b45a2fe893fc9-1600x1080-jpg",
+              "_rev": "qGYlKjEB3WdT6zjTnVrlJL",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-10-16T14:57:36Z",
+              "assetId": "51eab5a183b2630461d8f6997e8b45a2fe893fc9",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VDF=~^00J5-;-W00?b?GIoE200~qIVIU%fM_agRj%MM_",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#2d394b",
+                    "foreground": "#fff",
+                    "population": 8.29,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#113861",
+                    "foreground": "#fff",
+                    "population": 0.4,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#2d394b",
+                    "foreground": "#fff",
+                    "population": 8.29,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b1bec1",
+                    "foreground": "#000",
+                    "population": 1.55,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d5a4ce",
+                    "foreground": "#000",
+                    "population": 0,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b25f6c",
+                    "foreground": "#fff",
+                    "population": 0.01,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#b45ba7",
+                    "foreground": "#fff",
+                    "population": 0.05,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_15.17_Peaceful-Panda-Monium_Working-Files_GisljamiTFT_ST1525_Thumbnails_Client_T1-Decluttered_Teahouse_[1600x1080]_V.jpg",
+              "path": "images/dsfx7636/news_live/51eab5a183b2630461d8f6997e8b45a2fe893fc9-1600x1080.jpg",
+              "sha1hash": "51eab5a183b2630461d8f6997e8b45a2fe893fc9",
+              "size": 530152,
+              "uploadId": "SHWPfnabJNoey9d89UgUD83HPFx9yJ3r",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/51eab5a183b2630461d8f6997e8b45a2fe893fc9-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "ngHVRp03w4w"
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/da72533487baeb1321664917a409d22315f67b6b-1920x1080.jpg",
+      "colors": {
+        "primary": "#9EA5B8",
+        "secondary": "#292D33",
+        "label": "#2B3650"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Enjoy a beary relaxing game with the Tearoom of Tranquility Arena, coming to TFT on October 23!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "e768d6a6-b797-41a6-9e1c-01bf0ecdfadd.en-us",
+      "contentLocale": "en-us",
+      "rev": "qGYlKjEB3WdT6zjTnbjaOR",
+      "publishDate": "2025-10-17T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Chibi Spirit Blossom Yunara Showcase",
     "publishedAt": "2025-10-13T16:00:00.000Z",
     "promoCardSize": "small",
@@ -7710,177 +7879,6 @@
       "contentLocale": "en-us",
       "rev": "FQNmVQTZhgJpNXJSQPmvPA",
       "publishDate": "2025-01-24T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Prestige Porcelain Ezreal Chibi Champion Showcase",
-    "publishedAt": "2025-01-23T19:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "Uzt906GhkLI",
-        "videoLengthInSeconds": 36,
-        "url": "https://www.youtube.com/watch?v=Uzt906GhkLI"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "f1b01dbd7d41",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2025-01-20T18:50:39Z",
-              "_id": "image-8ed73efe8d6560831c5aa4587d243e857b58fa22-1600x1080-jpg",
-              "_rev": "MR81IxNMHV2jhCLrbK324S",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2025-02-19T20:28:54Z",
-              "assetId": "8ed73efe8d6560831c5aa4587d243e857b58fa22",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "VGH1xLv}R2t3tU~paKROoJtSEgRkR:s:s+M{baogs:Rj",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#523133",
-                    "foreground": "#fff",
-                    "population": 0.08,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#887710",
-                    "foreground": "#fff",
-                    "population": 0.01,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#a6813d",
-                    "foreground": "#fff",
-                    "population": 10.28,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#9ba4c3",
-                    "foreground": "#000",
-                    "population": 1.97,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#dbaa86",
-                    "foreground": "#000",
-                    "population": 0.44,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#999164",
-                    "foreground": "#fff",
-                    "population": 7.59,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#a6813d",
-                    "foreground": "#fff",
-                    "population": 10.28,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "TFT_LNY25_THUMB_ChibiChampionShowcase_PorceleinEz_1600x1080.jpg",
-              "path": "images/dsfx7636/news/8ed73efe8d6560831c5aa4587d243e857b58fa22-1600x1080.jpg",
-              "sha1hash": "8ed73efe8d6560831c5aa4587d243e857b58fa22",
-              "size": 216193,
-              "uploadId": "XDSJhcrHTipigMCFyZKrPr1WBZBHAeLi",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8ed73efe8d6560831c5aa4587d243e857b58fa22-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "autoplay": false,
-            "videoID": "Uzt906GhkLI"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0247dae2d9ed978b33e22cbe25f18d8f16a932e5-1920x1080.jpg",
-      "colors": {
-        "primary": "#615431",
-        "secondary": "#F9EEDC",
-        "label": "#3B2F0F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Who’s got the coolest cat ears in the Convergence? This guy! Chibi Prestige Porcelain Ezreal is out now."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "898c7281-0518-4be6-90bc-be598f0ee27d.en-us",
-      "contentLocale": "en-us",
-      "rev": "migwtNgFHTMRSJnXl9HMsw",
-      "publishDate": "2025-01-23T19:00:00.000Z"
     }
   }
 ]
