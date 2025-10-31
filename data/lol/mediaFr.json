@@ -1,5 +1,69 @@
 [
   {
+    "title": "L'avertissement - Bande dessinée animée",
+    "publishedAt": "2025-10-30T13:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=gbXh9hyS8Uk"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/15e9a2ef0e0759020ec01ae0b59c16e875286226-1280x720.jpg",
+      "colors": {
+        "primary": "#B86C3D",
+        "secondary": "#33292B",
+        "label": "#16100C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Lors des Épreuves du crépuscule, Xin Zhao fait face à ses plus grandes peurs."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "0d521194-a905-424c-b38b-8f331693b368.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "icux85kMx7226mM88AeqRQ",
+      "publishDate": "2025-10-30T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Clip de l'hymne des Worlds 2025",
     "publishedAt": "2025-10-13T13:00:00.000Z",
     "promoCardSize": "medium",
@@ -6831,363 +6895,6 @@
       "contentLocale": "fr-fr",
       "rev": "bxuuTlbyftRPueMcYQe3vh",
       "publishDate": "2023-04-21T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Lancement de The Mageseeker: A League of Legends Story",
-    "publishedAt": "2023-04-18T17:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "PWJSAALVzV0",
-        "videoLengthInSeconds": 161,
-        "url": "https://www.youtube.com/watch?v=PWJSAALVzV0"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "wPMMKmtE",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-27T01:51:55Z",
-              "_id": "image-d6a45ed3764e5c41b096573f54df201c0d01ca21-1600x1080-jpg",
-              "_rev": "TveqPI7F4qA0WH6AaDeC1M",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-04-27T01:51:55Z",
-              "assetId": "d6a45ed3764e5c41b096573f54df201c0d01ca21",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "VCAvVIOk0Jn.xs5z$m$kR~a*9qR*$,n,kC=*RiEIogf,",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#2c3259",
-                    "foreground": "#fff",
-                    "population": 6.3,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#4a0963",
-                    "foreground": "#fff",
-                    "population": 1.71,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#2c3259",
-                    "foreground": "#fff",
-                    "population": 6.3,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#b8897b",
-                    "foreground": "#fff",
-                    "population": 1.1,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#c197d5",
-                    "foreground": "#000",
-                    "population": 5.65,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#515396",
-                    "foreground": "#fff",
-                    "population": 1.37,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#a638cd",
-                    "foreground": "#fff",
-                    "population": 0.28,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "STARBLITZ-LOL_CLIENT-T1_DECLUTTERED.jpg",
-              "path": "images/dsfx7636/news_live/d6a45ed3764e5c41b096573f54df201c0d01ca21-1600x1080.jpg",
-              "sha1hash": "d6a45ed3764e5c41b096573f54df201c0d01ca21",
-              "size": 342270,
-              "uploadId": "JGbPBZwiRNZTKQyaW6n9DVTd1LxBtLFE",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d6a45ed3764e5c41b096573f54df201c0d01ca21-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1CTA": "",
-        "t1Description": "Regardez la bande-annonce de lancement de The Mageseeker: A League of Legends Story maintenant.",
-        "t1Image": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-27T01:51:58Z",
-              "_id": "image-5f242b395617ee6ab57672247aaa6b0b97a6c4f9-1920x1080-jpg",
-              "_rev": "5xBFIcRPz0p0p32ItXuyc0",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-04-27T01:51:58Z",
-              "assetId": "5f242b395617ee6ab57672247aaa6b0b97a6c4f9",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "M8CFf80J00?HVs0c^B$*V[bvSTWkw~f+i]",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.7777777777777777,
-                  "height": 1080,
-                  "width": 1920
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#2a3156",
-                    "foreground": "#fff",
-                    "population": 8.04,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#36116b",
-                    "foreground": "#fff",
-                    "population": 0.11,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#2a3156",
-                    "foreground": "#fff",
-                    "population": 8.04,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#dbbae1",
-                    "foreground": "#000",
-                    "population": 1.65,
-                    "title": "#000"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#c08bd7",
-                    "foreground": "#000",
-                    "population": 7.44,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#50568d",
-                    "foreground": "#fff",
-                    "population": 8.02,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#b23ad1",
-                    "foreground": "#fff",
-                    "population": 0.2,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "MAGESEEKER-LOL_CLIENT-T1_CLUTTERED_opt_2.jpg",
-              "path": "images/dsfx7636/news_live/5f242b395617ee6ab57672247aaa6b0b97a6c4f9-1920x1080.jpg",
-              "sha1hash": "5f242b395617ee6ab57672247aaa6b0b97a6c4f9",
-              "size": 435658,
-              "uploadId": "qgKH5p7oFYUoGaIH6nHb1JOj0Hbwo2YO",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5f242b395617ee6ab57672247aaa6b0b97a6c4f9-1920x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "t1Subtitle": "",
-        "t1Title": "Vidéo lancement The Mageseeker",
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "youtube",
-            "videoID": "https://www.youtube.com/watch?v=PWJSAALVzV0"
-          }
-        }
-      },
-      {
-        "_key": "VAhY8W7k",
-        "_type": "clientInternalLinkT2",
-        "t2Image": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-20T06:22:26Z",
-              "_id": "image-afa25a4f5e6f0b0372f37402d422f85ddfad4670-1920x1080-jpg",
-              "_rev": "mUxvYIx9QjgWU0HQCNAQnt",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-04-20T06:22:26Z",
-              "assetId": "afa25a4f5e6f0b0372f37402d422f85ddfad4670",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "M8Am0~Su00fl?H0vw%]=act9=kNYI,s?X9",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.7777777777777777,
-                  "height": 1080,
-                  "width": 1920
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#2a3259",
-                    "foreground": "#fff",
-                    "population": 7.1,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#591082",
-                    "foreground": "#fff",
-                    "population": 1.35,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#2a3259",
-                    "foreground": "#fff",
-                    "population": 7.1,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#b5a2a2",
-                    "foreground": "#000",
-                    "population": 1.06,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#c49fda",
-                    "foreground": "#000",
-                    "population": 6.35,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#7b51b3",
-                    "foreground": "#fff",
-                    "population": 4.37,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#ac41c9",
-                    "foreground": "#fff",
-                    "population": 0.49,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "STARBLITZ-LOL_CLIENT-T2.jpg",
-              "path": "images/dsfx7636/news_live/afa25a4f5e6f0b0372f37402d422f85ddfad4670-1920x1080.jpg",
-              "sha1hash": "afa25a4f5e6f0b0372f37402d422f85ddfad4670",
-              "size": 380712,
-              "uploadId": "GZ0jXkpYiaMVZK8WYfHt4SmUTMk9LidF",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/afa25a4f5e6f0b0372f37402d422f85ddfad4670-1920x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "t2Title": "Vidéo lancement The Mageseeker"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/afa25a4f5e6f0b0372f37402d422f85ddfad4670-1920x1080.jpg",
-      "colors": {
-        "primary": "#181427",
-        "secondary": "#F3DCF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Regardez la bande-annonce de lancement de The Mageseeker: A League of Legends Story."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt87c5663b286ec856.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wqQE3hWIWpUAV3VUi6OCFw",
-      "publishDate": "2023-04-18T17:00:00.000Z"
     }
   }
 ]
