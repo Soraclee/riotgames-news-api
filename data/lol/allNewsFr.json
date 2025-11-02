@@ -1,5 +1,70 @@
 [
   {
+    "title": "L'histoire à ce jour : 2025",
+    "publishedAt": "2025-11-01T08:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "LckhttQtsqU",
+        "videoLengthInSeconds": 140,
+        "url": "https://www.youtube.com/watch?v=LckhttQtsqU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0da67a7d2dd1ded88bb3e8c6d3dbc039bd391dfe-1280x720.jpg",
+      "colors": {
+        "primary": "#2E172A",
+        "secondary": "#F9E8DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Revivez tous les événements majeurs qui ont précédé le dénouement de la saison 2025."
+    },
+    "category": {
+      "title": "Histoire",
+      "description": "Histoires, bandes dessinées et univers de Runeterra.",
+      "machineName": "lore"
+    },
+    "analytics": {
+      "contentId": "d3bb398a-5bf6-4d41-b49a-7b41b60d09dd.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "JM2s2Bo6t4XAV7QJYqC3wu",
+      "publishDate": "2025-11-01T08:00:00.000Z"
+    }
+  },
+  {
     "title": "Pull à capuche à fermeture éclair des Worlds 2025",
     "publishedAt": "2025-10-31T21:00:00.000Z",
     "promoCardSize": "small",
@@ -4708,88 +4773,6 @@
       "contentLocale": "fr-fr",
       "rev": "RDk8LZ6lvi22BNccBUpBtU",
       "publishDate": "2025-08-12T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Bande-annonce de la mise à jour de Xin Zhao",
-    "publishedAt": "2025-08-12T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "xXd7-9aNzbg",
-        "videoLengthInSeconds": 82,
-        "url": "https://www.youtube.com/watch?v=xXd7-9aNzbg"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "08e8b17a886d",
-        "_type": "clientInternalLinkT1",
-        "t1Description": "Des arènes de Noxus au trône de Demacia : voilà la légende Xin Zhao.",
-        "t1Subtitle": "Sénéchal de Demacia",
-        "t1Title": "XIN ZHAO",
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "xXd7-9aNzbg"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bc2211e9889098bd3294503b8358525051f5b721-1920x1080.jpg",
-      "colors": {
-        "primary": "#614731",
-        "secondary": "#F9EADC",
-        "label": "#3B230F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Des arènes de Noxus au trône de Demacia : voilà la légende Xin Zhao."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "4972e09b-443e-49f1-aaee-23a05ca82f3f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "KDO1mZjw0URCxxxFcuaqqg",
-      "publishDate": "2025-08-12T15:00:00.000Z"
     }
   }
 ]

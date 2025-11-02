@@ -1,5 +1,66 @@
 [
   {
+    "title": "Nouvelle collection des VCT Game Changers",
+    "publishedAt": "2025-11-01T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/fr-fr/news/vct-game-changers-championship-merch-collection-2025"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4b1b9ebf52a46202c51f88963677bf21bd317e5e-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8945C",
+        "secondary": "#332929",
+        "label": "#57482F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les nouveaux produits dérivés en édition limitée seront disponibles le 13 novembre à 18 CET !"
+    },
+    "category": {
+      "title": "E-sport",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "e55f3570-22e1-49bf-8355-44c0f659a8dc.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "grG03jN4PtbQ8FJDjU3zC5",
+      "publishDate": "2025-11-01T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du VCT Ascension EMEA : Format et dates",
     "publishedAt": "2025-10-13T08:00:00.000Z",
     "action": {
@@ -3603,69 +3664,6 @@
     }
   },
   {
-    "title": "Capsules d'équipes du VCT 2024 // Bande-annonce de présentation",
-    "publishedAt": "2024-02-21T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=PQ8laFnssvo"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/16f919ee23b9002c4db514c8718f67d1fdd349f5-1920x1080.jpg",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#D6E3FF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "C'est le moment de représenter votre équipe favorite en jeu ! \n\nAvec les nouvelles capsules d'équipes imaginées en partenariat avec les équipes du VCT 2024, arborez fièrement vos couleurs avec le porte-bonheur, le graffiti, la carte de joueur et le skin de Classic."
-    },
-    "category": {
-      "title": "E-sport",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltb3ba903ca1d94651.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaEHy75",
-      "publishDate": "2024-02-21T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Présentation des capsules autour des équipes du VCT 2024.",
     "publishedAt": "2024-02-21T15:00:00.000Z",
     "promoCardSize": "small",
@@ -3725,6 +3723,69 @@
       "contentId": "articles.bltb69df328233b619b.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tG8aRZvgYHVPamBbJEbwZx",
+      "publishDate": "2024-02-21T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Capsules d'équipes du VCT 2024 // Bande-annonce de présentation",
+    "publishedAt": "2024-02-21T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=PQ8laFnssvo"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/16f919ee23b9002c4db514c8718f67d1fdd349f5-1920x1080.jpg",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#D6E3FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "C'est le moment de représenter votre équipe favorite en jeu ! \n\nAvec les nouvelles capsules d'équipes imaginées en partenariat avec les équipes du VCT 2024, arborez fièrement vos couleurs avec le porte-bonheur, le graffiti, la carte de joueur et le skin de Classic."
+    },
+    "category": {
+      "title": "E-sport",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.bltb3ba903ca1d94651.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "RIpKXTkqwHOEY4MEaEHy75",
       "publishDate": "2024-02-21T15:00:00.000Z"
     }
   },
@@ -4608,69 +4669,6 @@
       "contentLocale": "fr-fr",
       "rev": "dJpBm4OmhtpmiAEkDNLOpO",
       "publishDate": "2023-08-22T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "LES CHAMPIONS DE VALORANT, C'EST POUR LES MOUTONS !",
-    "publishedAt": "2023-08-14T14:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=NDL7qhaHegc"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b6bbe2c51eede31443f879a83640e4eefd3faa55-1920x1080.jpg",
-      "colors": {
-        "primary": "#2A1517",
-        "secondary": "#F9E3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Yo ! C'est encore le Random ! Je viens vous rappeler de tenir bon et de ne pas regarder les play-offs des VALORANT Champions Los Angeles le 16 août."
-    },
-    "category": {
-      "title": "E-sport",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt4a3302109d1a4ca4.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJEcLBV",
-      "publishDate": "2023-08-14T14:00:00.000Z"
     }
   }
 ]

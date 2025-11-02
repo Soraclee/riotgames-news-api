@@ -1,5 +1,70 @@
 [
   {
+    "title": "L'histoire à ce jour : 2025",
+    "publishedAt": "2025-11-01T08:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "LckhttQtsqU",
+        "videoLengthInSeconds": 140,
+        "url": "https://www.youtube.com/watch?v=LckhttQtsqU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0da67a7d2dd1ded88bb3e8c6d3dbc039bd391dfe-1280x720.jpg",
+      "colors": {
+        "primary": "#2E172A",
+        "secondary": "#F9E8DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Revivez tous les événements majeurs qui ont précédé le dénouement de la saison 2025."
+    },
+    "category": {
+      "title": "Histoire",
+      "description": "Histoires, bandes dessinées et univers de Runeterra.",
+      "machineName": "lore"
+    },
+    "analytics": {
+      "contentId": "d3bb398a-5bf6-4d41-b49a-7b41b60d09dd.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "JM2s2Bo6t4XAV7QJYqC3wu",
+      "publishDate": "2025-11-01T08:00:00.000Z"
+    }
+  },
+  {
     "title": "Précédemment dans les Gardiens des étoiles",
     "publishedAt": "2022-07-09T15:00:00.000Z",
     "promoCardSize": "small",

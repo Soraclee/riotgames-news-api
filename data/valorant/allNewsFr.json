@@ -1,5 +1,66 @@
 [
   {
+    "title": "Nouvelle collection des VCT Game Changers",
+    "publishedAt": "2025-11-01T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/fr-fr/news/vct-game-changers-championship-merch-collection-2025"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4b1b9ebf52a46202c51f88963677bf21bd317e5e-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8945C",
+        "secondary": "#332929",
+        "label": "#57482F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les nouveaux produits dérivés en édition limitée seront disponibles le 13 novembre à 18 CET !"
+    },
+    "category": {
+      "title": "E-sport",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "e55f3570-22e1-49bf-8355-44c0f659a8dc.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "grG03jN4PtbQ8FJDjU3zC5",
+      "publishDate": "2025-11-01T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 11.09 de VALORANT",
     "publishedAt": "2025-10-28T13:00:00.000Z",
     "action": {
@@ -4516,68 +4577,6 @@
       "contentLocale": "fr-fr",
       "rev": "QlYo5IHQ9wz2v0F6k2Q7tq",
       "publishDate": "2025-04-01T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 10.06 de VALORANT",
-    "publishedAt": "2025-04-01T13:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/valorant-patch-notes-10-06"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f8d663f096bd319dffdc300edcfc2185fa8a41c5-1920x1080.jpg",
-      "colors": {
-        "primary": "#A0A3B8",
-        "secondary": "#292A33",
-        "label": "#3E4573"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Nouvelle mécanique et buff de KAY/O, plus un tas de corrections de bugs."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "c8142acd-bf5f-45d0-a1ef-48a296be08d1.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtKUmxjE",
-      "publishDate": "2025-04-01T13:00:00.000Z"
     }
   }
 ]
