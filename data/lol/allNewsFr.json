@@ -1,5 +1,68 @@
 [
   {
+    "title": "Teaser de la finale des Worlds 2025",
+    "publishedAt": "2025-11-06T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=m7vBSiYn1nI"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c19de0feba3e9124dd53f8b0edc56a34fd0222ec-1920x1080.jpg",
+      "colors": {
+        "primary": "#1C110E",
+        "secondary": "#F9DCDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'heure est bientôt venue de sacrer les prochains champions Qui entrera\ndans la légende lors de la finale des Worlds 2025 ?"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "68a594f8-7534-4c32-b9b8-267dbe6a4320.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "2lskUyG8IUb0wnwuIDH1Qi",
+      "publishDate": "2025-11-06T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Tactician's Crown de K.O. Coliseum",
     "publishedAt": "2025-11-05T14:00:00.000Z",
     "promoCardSize": "medium",
@@ -319,68 +382,6 @@
     }
   },
   {
-    "title": "Cérémonie d'ouverture du Mondial 2025 par Mastercard",
-    "publishedAt": "2025-11-04T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/fr-fr/news/worlds-2025-opening-ceremony-presented-by-mastercard"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3cc9cfc3a09345e9c2bfea2a2bd4c18cc8ed9139-1920x1080.jpg",
-      "colors": {
-        "primary": "#1A100D",
-        "secondary": "#FFE0D6",
-        "label": "#010101"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Avec G.E.M., Anyma, Chrissy Costanza et TEYA"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "bf5ebc10-767f-4516-8ca5-cb93f8bc6bf8.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "lrTRBQClIW75S5I9TAinmE",
-      "publishDate": "2025-11-04T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Meilleures actions - Phase finale",
     "publishedAt": "2025-11-04T16:00:00.000Z",
     "action": {
@@ -440,6 +441,68 @@
       "contentId": "article.c90667dd-b417-4b93-ad8a-70d86a80a9b1.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "lrTRBQClIW75S5I9TAirgP",
+      "publishDate": "2025-11-04T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Cérémonie d'ouverture du Mondial 2025 par Mastercard",
+    "publishedAt": "2025-11-04T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/worlds-2025-opening-ceremony-presented-by-mastercard"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3cc9cfc3a09345e9c2bfea2a2bd4c18cc8ed9139-1920x1080.jpg",
+      "colors": {
+        "primary": "#1A100D",
+        "secondary": "#FFE0D6",
+        "label": "#010101"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Avec G.E.M., Anyma, Chrissy Costanza et TEYA"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "bf5ebc10-767f-4516-8ca5-cb93f8bc6bf8.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "lrTRBQClIW75S5I9TAinmE",
       "publishDate": "2025-11-04T16:00:00.000Z"
     }
   },
@@ -953,68 +1016,6 @@
     }
   },
   {
-    "title": "Nouveau format du LEC 2026 : développer l'expérience de LoL Esports EMEA",
-    "publishedAt": "2025-10-23T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/fr-fr/news/lec-2026-format-update-evolving-the-lol-esports-emea-experience"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5e198795715b90fff53b73e45709aa7b22e646f5-1920x1080.jpg",
-      "colors": {
-        "primary": "#223643",
-        "secondary": "#DCF6F9",
-        "label": "#061017"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Nouveau format, réorganisation des segments et amélioration des Roadtrips : le LEC 2026 s'annonce exceptionnel !"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "7b611bfa-0d84-4ddd-b1c3-8bd3b4f140b1.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "oXUltfYkN3PM5iClxiiIUo",
-      "publishDate": "2025-10-23T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Présentation de T1 Yone chibi",
     "publishedAt": "2025-10-23T16:00:00.000Z",
     "promoCardSize": "small",
@@ -1076,6 +1077,68 @@
       "contentId": "9766779e-b5c9-458c-b3ff-0788a1212cd3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "v1TMw0qfUmS7pBkg4uR4mP",
+      "publishDate": "2025-10-23T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Nouveau format du LEC 2026 : développer l'expérience de LoL Esports EMEA",
+    "publishedAt": "2025-10-23T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/lec-2026-format-update-evolving-the-lol-esports-emea-experience"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5e198795715b90fff53b73e45709aa7b22e646f5-1920x1080.jpg",
+      "colors": {
+        "primary": "#223643",
+        "secondary": "#DCF6F9",
+        "label": "#061017"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Nouveau format, réorganisation des segments et amélioration des Roadtrips : le LEC 2026 s'annonce exceptionnel !"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "7b611bfa-0d84-4ddd-b1c3-8bd3b4f140b1.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "oXUltfYkN3PM5iClxiiIUo",
       "publishDate": "2025-10-23T16:00:00.000Z"
     }
   },
@@ -2489,14 +2552,13 @@
     }
   },
   {
-    "title": "Écrivez votre légende | Worlds 2025",
+    "title": "Secretlab OSS @ Worlds 2025",
     "publishedAt": "2025-10-06T15:00:00.000Z",
     "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=eBiPnl4v9-0"
+        "url": "https://lolesports.com/fr-fr/news/secretlab-oss-at-worlds-2025"
       }
     },
     "product": {
@@ -2528,17 +2590,17 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e776e558f9af9ac245cb6e2349dffd6b5a4e77eb-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b212c348d58c02935e78b5a2bf333e0982b6c453-1920x1080.jpg",
       "colors": {
-        "primary": "#46233C",
-        "secondary": "#F9DCF3",
-        "label": "#1B0715"
+        "primary": "#080910",
+        "secondary": "#D6E3FF",
+        "label": "#000000"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "L'heure est venue d'entrer dans la légende. À vous de le mériter. Bienvenue aux Worlds 2025."
+      "body": "Le partenaire officiel des chaises de LoL Esports vous présente le TITAN Evo édition Worlds 2025 avec un accoudoir Infinite Precision."
     },
     "category": {
       "title": "E-sport",
@@ -2546,9 +2608,9 @@
       "machineName": "esports"
     },
     "analytics": {
-      "contentId": "ff21be31-73f6-43c6-813a-38b73c6eab40.fr-fr",
+      "contentId": "e820c1e5-f3d2-4abc-88fa-df7c4136de07.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Wma5gH6EhMnuJDbYXLBoLn",
+      "rev": "EkG99xuRrB0fs4jnvBXJnf",
       "publishDate": "2025-10-06T15:00:00.000Z"
     }
   },
@@ -2616,6 +2678,70 @@
     }
   },
   {
+    "title": "Écrivez votre légende | Worlds 2025",
+    "publishedAt": "2025-10-06T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=eBiPnl4v9-0"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e776e558f9af9ac245cb6e2349dffd6b5a4e77eb-1920x1080.jpg",
+      "colors": {
+        "primary": "#46233C",
+        "secondary": "#F9DCF3",
+        "label": "#1B0715"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'heure est venue d'entrer dans la légende. À vous de le mériter. Bienvenue aux Worlds 2025."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "ff21be31-73f6-43c6-813a-38b73c6eab40.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Wma5gH6EhMnuJDbYXLBoLn",
+      "publishDate": "2025-10-06T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Résumé du Dev Update : ARAM du chaos, smurfs et +",
     "publishedAt": "2025-10-06T15:00:00.000Z",
     "promoCardSize": "small",
@@ -2675,69 +2801,6 @@
       "contentId": "0aeb34aa-660d-41b1-bfaa-9cf7606cc551.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "EkG99xuRrB0fs4jnvDmYm1",
-      "publishDate": "2025-10-06T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Secretlab OSS @ Worlds 2025",
-    "publishedAt": "2025-10-06T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/fr-fr/news/secretlab-oss-at-worlds-2025"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b212c348d58c02935e78b5a2bf333e0982b6c453-1920x1080.jpg",
-      "colors": {
-        "primary": "#080910",
-        "secondary": "#D6E3FF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le partenaire officiel des chaises de LoL Esports vous présente le TITAN Evo édition Worlds 2025 avec un accoudoir Infinite Precision."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "e820c1e5-f3d2-4abc-88fa-df7c4136de07.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "EkG99xuRrB0fs4jnvBXJnf",
       "publishDate": "2025-10-06T15:00:00.000Z"
     }
   },
@@ -3505,6 +3568,68 @@
     }
   },
   {
+    "title": "Notes de patch 25.19",
+    "publishedAt": "2025-09-23T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-19-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c63cc79e8864772a88319e9aa166c2d38e39d914-1920x1080.jpg",
+      "colors": {
+        "primary": "#2E1718",
+        "secondary": "#DEDCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Votre destin est scellé dans le patch 25.19 💫"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d9135b0b-66b2-4374-a090-a096cb89441f.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "cEhzNMXn79iJNoal6F7SM0",
+      "publishDate": "2025-09-23T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 15.5 de Teamfight Tactics",
     "publishedAt": "2025-09-23T18:00:00.000Z",
     "promoCardSize": "medium",
@@ -3565,68 +3690,6 @@
       "contentId": "92c1c7d9-41f0-4bde-8bbc-a3dfa19ef9ca.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "Dyz3qB5zCw9tTbbDlLfD31",
-      "publishDate": "2025-09-23T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 25.19",
-    "publishedAt": "2025-09-23T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-19-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c63cc79e8864772a88319e9aa166c2d38e39d914-1920x1080.jpg",
-      "colors": {
-        "primary": "#2E1718",
-        "secondary": "#DEDCF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Votre destin est scellé dans le patch 25.19 💫"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "d9135b0b-66b2-4374-a090-a096cb89441f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "cEhzNMXn79iJNoal6F7SM0",
       "publishDate": "2025-09-23T18:00:00.000Z"
     }
   },
@@ -4135,6 +4198,68 @@
     }
   },
   {
+    "title": "Notes de patch 25.18",
+    "publishedAt": "2025-09-09T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-18-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/48b067811f39c659aa6f5d230701846fde1ebcd4-1920x1080.jpg",
+      "colors": {
+        "primary": "#281914",
+        "secondary": "#F9EEDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Fêtons le patch 25.18 avec les vainqueurs des Worlds 2024, T1 !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d4c5e025-058c-42d1-945a-3df0eea57ad8.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "jkPIp3rjqwbSPRWYGsrEEs",
+      "publishDate": "2025-09-09T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 15.4 de Teamfight Tactics",
     "publishedAt": "2025-09-09T18:00:00.000Z",
     "action": {
@@ -4194,68 +4319,6 @@
       "contentId": "fb62de6a-9104-4c63-b9c1-6c9bf548edb8.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "CUM6Ckg6r7Io8wN5ers8U5",
-      "publishDate": "2025-09-09T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 25.18",
-    "publishedAt": "2025-09-09T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-18-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/48b067811f39c659aa6f5d230701846fde1ebcd4-1920x1080.jpg",
-      "colors": {
-        "primary": "#281914",
-        "secondary": "#F9EEDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Fêtons le patch 25.18 avec les vainqueurs des Worlds 2024, T1 !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "d4c5e025-058c-42d1-945a-3df0eea57ad8.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "jkPIp3rjqwbSPRWYGsrEEs",
       "publishDate": "2025-09-09T18:00:00.000Z"
     }
   },
@@ -4709,69 +4772,6 @@
       "contentLocale": "fr-fr",
       "rev": "QrUGPqrQFFDDxIYUsDRbE7",
       "publishDate": "2025-08-27T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 15.3 de Teamfight Tactics",
-    "publishedAt": "2025-08-26T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-15-3-notes/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/45f2183d01697e6cab997a701b06b36124f80acd-1920x1080.jpg",
-      "colors": {
-        "primary": "#4F2728",
-        "secondary": "#F9F4DC",
-        "label": "#26090A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Bienvenue dans ce nouvel épisode de K.O. Coliseum ! Nous avons des équilibrages pour des unités, des objets et certains de nos types prismatiques pour les rendre plus accessibles !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "21913c76-57d7-4775-b5bf-1ec7ceb679e5.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "73N4EZnJIRj0Hk4XdJYHse",
-      "publishDate": "2025-08-26T18:00:00.000Z"
     }
   }
 ]
