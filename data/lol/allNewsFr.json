@@ -1,5 +1,69 @@
 [
   {
+    "title": "Cinématique de la saison 3 : La fin du Crépuscule",
+    "publishedAt": "2025-11-07T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "bDMqoIq1kjo",
+        "videoLengthInSeconds": 280,
+        "url": "https://www.youtube.com/watch?v=bDMqoIq1kjo"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0e84b8fac3fb06272479dc88773fa08c3eddfdea-1280x720.jpg",
+      "colors": {
+        "primary": "#201310",
+        "secondary": "#F5F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Il y a des siècles de cela, Zaahen a fait un choix. Aujourd'hui, Xin Zhao doit faire le sien."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "c3bf299d-501c-43f6-9a8a-fb1ced76ae18.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "VQqwldzxT3lROMAX0n8BEe",
+      "publishDate": "2025-11-07T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Teaser de la finale des Worlds 2025",
     "publishedAt": "2025-11-06T16:00:00.000Z",
     "action": {
@@ -693,7 +757,7 @@
     "analytics": {
       "contentId": "d3bb398a-5bf6-4d41-b49a-7b41b60d09dd.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "JM2s2Bo6t4XAV7QJYqC3wu",
+      "rev": "VQqwldzxT3lROMAX0n8BEe",
       "publishDate": "2025-11-01T08:00:00.000Z"
     }
   },
@@ -4707,71 +4771,6 @@
       "contentLocale": "fr-fr",
       "rev": "QrUGPqrQFFDDxIYUsF1XGh",
       "publishDate": "2025-08-27T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Bande-annonce de l'acte 1 de la saison 3",
-    "publishedAt": "2025-08-27T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "cz_f9KOMIsg",
-        "videoLengthInSeconds": 103,
-        "url": "https://www.youtube.com/watch?v=cz_f9KOMIsg"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/755c928ceb4847b70d10a2cc56557a9d55a35c32-1920x1080.jpg",
-      "colors": {
-        "primary": "#13090A",
-        "secondary": "#EEFFD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les pétales tombent... et la Rose noire éclot. Les Épreuves du crépuscule commencent maintenant."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "cdd45380-d532-4f52-8eb2-d45c807be536.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "QrUGPqrQFFDDxIYUsDRbE7",
-      "publishDate": "2025-08-27T15:00:00.000Z"
     }
   }
 ]

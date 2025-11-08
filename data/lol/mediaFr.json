@@ -1,5 +1,69 @@
 [
   {
+    "title": "Cinématique de la saison 3 : La fin du Crépuscule",
+    "publishedAt": "2025-11-07T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "bDMqoIq1kjo",
+        "videoLengthInSeconds": 280,
+        "url": "https://www.youtube.com/watch?v=bDMqoIq1kjo"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0e84b8fac3fb06272479dc88773fa08c3eddfdea-1280x720.jpg",
+      "colors": {
+        "primary": "#201310",
+        "secondary": "#F5F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Il y a des siècles de cela, Zaahen a fait un choix. Aujourd'hui, Xin Zhao doit faire le sien."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "c3bf299d-501c-43f6-9a8a-fb1ced76ae18.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "VQqwldzxT3lROMAX0n8BEe",
+      "publishDate": "2025-11-07T16:00:00.000Z"
+    }
+  },
+  {
     "title": "L'avertissement - Bande dessinée animée",
     "publishedAt": "2025-10-30T13:00:00.000Z",
     "promoCardSize": "small",
@@ -774,14 +838,14 @@
     }
   },
   {
-    "title": "La Main du démon - Bande dessinée animée",
+    "title": "Héraut de la ruine - Bande dessinée animée",
     "publishedAt": "2025-05-20T15:00:00.000Z",
     "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
         "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
+        "url": "https://www.youtube.com/watch?v=lEIq_Apwa9k"
       }
     },
     "product": {
@@ -813,17 +877,17 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/92c7480b87a90f9f2c6e625d4ac7680e3b508d73-1920x1080.jpg",
       "colors": {
-        "primary": "#B8A78F",
-        "secondary": "#332D29",
-        "label": "#453825"
+        "primary": "#4D2C27",
+        "secondary": "#F9EFDC",
+        "label": "#230D09"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Si vous provoquez un démon, assurez-vous d'avoir une bonne main. Découvrez la bande dessinée animée."
+      "body": "Un rituel arcanique. Une union profane. Un colosse invincible. Découvrez la bande dessinée animée !"
     },
     "category": {
       "title": "Média",
@@ -831,7 +895,7 @@
       "machineName": "media"
     },
     "analytics": {
-      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
+      "contentId": "9f3d40d2-9a2b-4dff-8724-827695f51c1a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tdMbenkpDyXWNl15ejKINA",
       "publishDate": "2025-05-20T15:00:00.000Z"
@@ -902,14 +966,14 @@
     }
   },
   {
-    "title": "Héraut de la ruine - Bande dessinée animée",
+    "title": "La Main du démon - Bande dessinée animée",
     "publishedAt": "2025-05-20T15:00:00.000Z",
     "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
         "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=lEIq_Apwa9k"
+        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
       }
     },
     "product": {
@@ -941,17 +1005,17 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/92c7480b87a90f9f2c6e625d4ac7680e3b508d73-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg",
       "colors": {
-        "primary": "#4D2C27",
-        "secondary": "#F9EFDC",
-        "label": "#230D09"
+        "primary": "#B8A78F",
+        "secondary": "#332D29",
+        "label": "#453825"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Un rituel arcanique. Une union profane. Un colosse invincible. Découvrez la bande dessinée animée !"
+      "body": "Si vous provoquez un démon, assurez-vous d'avoir une bonne main. Découvrez la bande dessinée animée."
     },
     "category": {
       "title": "Média",
@@ -959,7 +1023,7 @@
       "machineName": "media"
     },
     "analytics": {
-      "contentId": "9f3d40d2-9a2b-4dff-8724-827695f51c1a.fr-fr",
+      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tdMbenkpDyXWNl15ejKINA",
       "publishDate": "2025-05-20T15:00:00.000Z"
@@ -6814,87 +6878,6 @@
       "contentLocale": "fr-fr",
       "rev": "qZXvkjig7TQff0ZQAF4Gqm",
       "publishDate": "2023-05-03T21:00:00.000Z"
-    }
-  },
-  {
-    "title": "Che Lingo - Rules (Are Meant To Break) | MSI 2023 - League of Legends",
-    "publishedAt": "2023-04-21T16:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "kE19Ac234Zo",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=kE19Ac234Zo"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "CWMEXq4e",
-        "_type": "clientInternalLinkT1",
-        "hideCTAButton": false,
-        "t1CTA": "",
-        "t1Description": "",
-        "t1Subtitle": "",
-        "t1Title": "MSI 2023 Anthem"
-      },
-      {
-        "_key": "xfZMh1zE",
-        "_type": "clientInternalLinkT2",
-        "t2Title": "MSI 2023 Anthem"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9579a1cb15581de388264dec57c150b354dc9e9a-1920x1080.jpg",
-      "colors": {
-        "primary": "#B80000",
-        "secondary": "#332C29",
-        "label": "#120A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Brisez le moule. Dépassez les attentes. Bravez l'inconnu. Voici l'hymne du MSI 2023."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt8a6d696e9c99a68f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "bxuuTlbyftRPueMcYQe3vh",
-      "publishDate": "2023-04-21T16:00:00.000Z"
     }
   }
 ]
