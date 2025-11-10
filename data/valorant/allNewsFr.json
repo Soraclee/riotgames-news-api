@@ -1,5 +1,67 @@
 [
   {
+    "title": "Refonte de Harbor // Moment en or - VALORANT",
+    "publishedAt": "2025-11-09T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=V_Fcef6Kgb4"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/56c0686ec889e8df8bbf482f3932162ae9bc31d4-1920x1080.jpg",
+      "colors": {
+        "primary": "#35532A",
+        "secondary": "#F9F2DC",
+        "label": "#132A0B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le bracelet de Harbor reçoit de nouveaux tours qui vont faire des vagues parmi ses ennemis."
+    },
+    "category": {
+      "title": "Annonces",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "476dd169-bece-4964-83b7-d7a02b593f9d.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "sGkIk287ePKL9HXo2XsPPj",
+      "publishDate": "2025-11-09T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Game Changers Championship 2025 : explication du format",
     "publishedAt": "2025-11-07T16:00:00.000Z",
     "action": {
@@ -4516,68 +4578,6 @@
       "contentLocale": "fr-fr",
       "rev": "1OHV7GMsUZDY4IFuSWW1ql",
       "publishDate": "2025-04-29T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 10.07 de VALORANT",
-    "publishedAt": "2025-04-15T13:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/valorant-patch-notes-10-07"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/1c1776bd1bdd921061a53953d81a393ef69ce633-1920x1080.jpg",
-      "colors": {
-        "primary": "#A8A4B8",
-        "secondary": "#2B2933",
-        "label": "#342C51"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Corrections de bugs pour les agents et l'interface, nouvelle vue chronologique pour les consoles, et plus encore."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "b20d5aa6-831b-4559-90a7-877cc64930d2.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "liBwLfU12KkZimf6bTt2QE",
-      "publishDate": "2025-04-15T13:00:00.000Z"
     }
   }
 ]

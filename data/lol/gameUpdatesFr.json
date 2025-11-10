@@ -1,5 +1,132 @@
 [
   {
+    "title": "Découvrez Zaahen, l'Incorruptible",
+    "publishedAt": "2025-11-09T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "g2PGlqYkS_Y",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=g2PGlqYkS_Y"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f302cf75e950948bfc26749d4ea28ffb29319ff9-1280x720.jpg",
+      "colors": {
+        "primary": "#120912",
+        "secondary": "#FFE5D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le nouveau champion Darkin de League est là ! Endurcissez-vous, et chassez les déchus."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "b415ea79-b8a8-49ba-81b2-3b7f3bdcdd92.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "0ROdypgMxh3pyl1XddrS00",
+      "publishDate": "2025-11-09T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Détails des compétences de Zaahen",
+    "publishedAt": "2025-11-09T11:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/zaahen-abilities-rundown"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5255b8c8fc9946d9313a244ef6f1a91d046b0bde-1920x1080.jpg",
+      "colors": {
+        "primary": "#190C0D",
+        "secondary": "#FFE6D6",
+        "label": "#010101"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Je combattrai la corruption, ou je mourrai en essayant."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "07634ed1-b205-4dee-b7de-13f87f93d54d.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "0ROdypgMxh3pyl1XddrVk0",
+      "publishDate": "2025-11-09T11:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 15.8 de Teamfight Tactics",
     "publishedAt": "2025-11-04T19:00:00.000Z",
     "promoCardSize": "medium",
@@ -4675,135 +4802,6 @@
       "contentLocale": "fr-fr",
       "rev": "eiG9asEqpfVdDmhafZHZLc",
       "publishDate": "2025-05-26T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation de Dieu-roi Garen libéré",
-    "publishedAt": "2025-05-15T13:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "dt2G663FHJk",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=dt2G663FHJk"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5ad6853915abe92e7c1b9a69e5822851fd2a1205-1920x1080.jpg",
-      "colors": {
-        "primary": "#252212",
-        "secondary": "#FFD6F1",
-        "label": "#0A0A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Dieu des rois et roi des dieux... Venez contempler la puissance de Garen dans le patch 14.4 de TFT."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "61d033ae-0576-40a0-b7b0-08de8ecfff90.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "sl3HE6aTFbIMJKWgDkIodi",
-      "publishDate": "2025-05-15T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 14.4 Teamfight Tactics (2025)",
-    "publishedAt": "2025-05-13T18:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-14-4-notes-2025/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0c7f7ea583ebdd55f365e1723fa1a67102207728-1920x1080.jpg",
-      "colors": {
-        "primary": "#2E2B56",
-        "secondary": "#DCF9F3",
-        "label": "#0E0C2E"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Entre équilibrages et Golem aléatoire, le patch 14.4 de Cyber City marque le retour vers l'ordre naturel des choses."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "26a51de4-d03c-45fb-af3d-a63e560ef803.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "2PhjpEhvG0DjozDJZf1k0r",
-      "publishDate": "2025-05-13T18:00:00.000Z"
     }
   }
 ]
