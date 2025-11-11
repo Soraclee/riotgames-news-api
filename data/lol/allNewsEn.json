@@ -1,5 +1,70 @@
 [
   {
+    "title": "Zaahen Champion Spotlight",
+    "publishedAt": "2025-11-10T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "S3F9CpeiSNE",
+        "videoLengthInSeconds": 193,
+        "url": "https://www.youtube.com/watch?v=S3F9CpeiSNE"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e332f1058065d5e59b31c92bd4b1aff7ab974384-1280x720.jpg",
+      "colors": {
+        "primary": "#241213",
+        "secondary": "#FFEFD6",
+        "label": "#090909"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The moment for mercy is past. Break your enemies until only you remain with Zaahen, the Unsundered."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "7394d9f6-1bba-4484-ac01-b7d2d3f80878.en-us",
+      "contentLocale": "en-us",
+      "rev": "v2WY2rXgjmfHxusH4tDpwY",
+      "publishDate": "2025-11-10T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Witness Zaahen, the Unsundered",
     "publishedAt": "2025-11-09T16:00:00.000Z",
     "action": {
@@ -59,7 +124,7 @@
     "analytics": {
       "contentId": "b415ea79-b8a8-49ba-81b2-3b7f3bdcdd92.en-us",
       "contentLocale": "en-us",
-      "rev": "0ROdypgMxh3pyl1XddrS00",
+      "rev": "v2WY2rXgjmfHxusH4tDpwY",
       "publishDate": "2025-11-09T16:00:00.000Z"
     }
   },
@@ -2746,6 +2811,68 @@
     }
   },
   {
+    "title": "Patch 25.20 Notes",
+    "publishedAt": "2025-10-07T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-20-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/254636fdfd0bc8eadcdae0f7b80c32208a5e6d47-1920x1080.jpg",
+      "colors": {
+        "primary": "#261513",
+        "secondary": "#FFD6F1",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Get ready for Worlds with patch 25.20!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "ce04728a-bf86-426d-a1df-833a59088521.en-us",
+      "contentLocale": "en-us",
+      "rev": "UsaWKKSJ1KBsilFyNJvRSP",
+      "publishDate": "2025-10-07T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 15.6 notes",
     "publishedAt": "2025-10-07T18:00:00.000Z",
     "action": {
@@ -2805,68 +2932,6 @@
       "contentId": "88b8b555-2d9e-495b-906e-2f490104db18.en-us",
       "contentLocale": "en-us",
       "rev": "N1EOfh1cnmpqQzaVgZCFrZ",
-      "publishDate": "2025-10-07T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.20 Notes",
-    "publishedAt": "2025-10-07T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-20-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/254636fdfd0bc8eadcdae0f7b80c32208a5e6d47-1920x1080.jpg",
-      "colors": {
-        "primary": "#261513",
-        "secondary": "#FFD6F1",
-        "label": "#0A0A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Get ready for Worlds with patch 25.20!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "ce04728a-bf86-426d-a1df-833a59088521.en-us",
-      "contentLocale": "en-us",
-      "rev": "UsaWKKSJ1KBsilFyNJvRSP",
       "publishDate": "2025-10-07T18:00:00.000Z"
     }
   },
@@ -2935,6 +3000,69 @@
     }
   },
   {
+    "title": "Account Penalties and Enforcement FAQ",
+    "publishedAt": "2025-10-06T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/account-penalties-and-enforcement-faq"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e07b8610e518fb3233523d6286277e87121986d0-1920x1080.jpg",
+      "colors": {
+        "primary": "#151B2A",
+        "secondary": "#F9E7DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Answers to some commonly asked player questions about account penalties and enforcement."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "557a602b-b039-421e-872f-33daa729bbda.en-us",
+      "contentLocale": "en-us",
+      "rev": "x4upSj2I2b2gSerpXp7l4V",
+      "publishDate": "2025-10-06T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Secretlab OSS @ Worlds 2025",
     "publishedAt": "2025-10-06T15:00:00.000Z",
     "promoCardSize": "medium",
@@ -2994,70 +3122,6 @@
       "contentId": "e820c1e5-f3d2-4abc-88fa-df7c4136de07.en-us",
       "contentLocale": "en-us",
       "rev": "xJx4q1o94kgucIxeidbEot",
-      "publishDate": "2025-10-06T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "EARN YOUR LEGACY | Worlds 2025",
-    "publishedAt": "2025-10-06T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=eBiPnl4v9-0"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e776e558f9af9ac245cb6e2349dffd6b5a4e77eb-1920x1080.jpg",
-      "colors": {
-        "primary": "#46233C",
-        "secondary": "#F9DCF3",
-        "label": "#1B0715"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "This is your legacy – if you can earn it. Welcome to Worlds 2025."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional Teamfight Tactics.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "ff21be31-73f6-43c6-813a-38b73c6eab40.en-us",
-      "contentLocale": "en-us",
-      "rev": "Wma5gH6EhMnuJDbYXLBoLn",
       "publishDate": "2025-10-06T15:00:00.000Z"
     }
   },
@@ -3127,13 +3191,14 @@
     }
   },
   {
-    "title": "Account Penalties and Enforcement FAQ",
+    "title": "EARN YOUR LEGACY | Worlds 2025",
     "publishedAt": "2025-10-06T15:00:00.000Z",
-    "promoCardSize": "small",
+    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/en-us/news/dev/account-penalties-and-enforcement-faq"
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=eBiPnl4v9-0"
       }
     },
     "product": {
@@ -3165,27 +3230,27 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e07b8610e518fb3233523d6286277e87121986d0-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e776e558f9af9ac245cb6e2349dffd6b5a4e77eb-1920x1080.jpg",
       "colors": {
-        "primary": "#151B2A",
-        "secondary": "#F9E7DC",
-        "label": "#000000"
+        "primary": "#46233C",
+        "secondary": "#F9DCF3",
+        "label": "#1B0715"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Answers to some commonly asked player questions about account penalties and enforcement."
+      "body": "This is your legacy – if you can earn it. Welcome to Worlds 2025."
     },
     "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
+      "title": "Esports",
+      "description": "The world stage for professional Teamfight Tactics.",
+      "machineName": "esports"
     },
     "analytics": {
-      "contentId": "557a602b-b039-421e-872f-33daa729bbda.en-us",
+      "contentId": "ff21be31-73f6-43c6-813a-38b73c6eab40.en-us",
       "contentLocale": "en-us",
-      "rev": "x4upSj2I2b2gSerpXp7l4V",
+      "rev": "Wma5gH6EhMnuJDbYXLBoLn",
       "publishDate": "2025-10-06T15:00:00.000Z"
     }
   },
@@ -4523,6 +4588,68 @@
     }
   },
   {
+    "title": "Patch 25.18 Notes",
+    "publishedAt": "2025-09-09T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-18-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/48b067811f39c659aa6f5d230701846fde1ebcd4-1920x1080.jpg",
+      "colors": {
+        "primary": "#281914",
+        "secondary": "#F9EEDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Celebrate patch 25.18 with our ‘24 World’s Winners, T1!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d4c5e025-058c-42d1-945a-3df0eea57ad8.en-us",
+      "contentLocale": "en-us",
+      "rev": "19x5P0I7l537I1X0klJIVK",
+      "publishDate": "2025-09-09T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 15.4 notes",
     "publishedAt": "2025-09-09T18:00:00.000Z",
     "action": {
@@ -4582,68 +4709,6 @@
       "contentId": "fb62de6a-9104-4c63-b9c1-6c9bf548edb8.en-us",
       "contentLocale": "en-us",
       "rev": "CUM6Ckg6r7Io8wN5ers8U5",
-      "publishDate": "2025-09-09T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.18 Notes",
-    "publishedAt": "2025-09-09T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-18-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/48b067811f39c659aa6f5d230701846fde1ebcd4-1920x1080.jpg",
-      "colors": {
-        "primary": "#281914",
-        "secondary": "#F9EEDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Celebrate patch 25.18 with our ‘24 World’s Winners, T1!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "d4c5e025-058c-42d1-945a-3df0eea57ad8.en-us",
-      "contentLocale": "en-us",
-      "rev": "19x5P0I7l537I1X0klJIVK",
       "publishDate": "2025-09-09T18:00:00.000Z"
     }
   },
@@ -4709,68 +4774,6 @@
       "contentLocale": "en-us",
       "rev": "3DyBLnTmXKzIntk3K42txt",
       "publishDate": "2025-09-05T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "LTA North Promotion Tournament",
-    "publishedAt": "2025-09-04T17:00:38.745Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/en-us/news/lta-north-promotion-tournament"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 900,
-        "width": 1600,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d52d4efe67276e2d6d5e4f1f2047ff4667793dd6-1600x900.jpg",
-      "colors": {
-        "primary": "#2B66B8",
-        "secondary": "#293033",
-        "label": "#10161E"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Everything you need to know about the LTA North Promotion Tournament"
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional Teamfight Tactics.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "d5e19e5f-a7b3-4392-a509-3c8ad3843b28.en-us",
-      "contentLocale": "en-us",
-      "rev": "vv6BWqMjCo6H2L7rELhOtu",
-      "publishDate": "2025-09-04T17:00:38.745Z"
     }
   }
 ]
