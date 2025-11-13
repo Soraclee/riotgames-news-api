@@ -1,5 +1,66 @@
 [
   {
+    "title": "Aperçu de Rell",
+    "publishedAt": "2025-11-12T02:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "uXP0ZYP-044",
+        "videoLengthInSeconds": 141,
+        "url": "https://www.youtube.com/watch?v=uXP0ZYP-044"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b4bf76c8c502f31aa829cef982749b77d9c186f1-1920x1080.jpg",
+      "colors": {
+        "primary": "#11170B",
+        "secondary": "#FFF4D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "En selle ! La Faille accueille Rell, Vierge de fer, dès le 14 novembre CET !"
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "8d6b89b9-24e6-4bd8-bfae-7714216b0403.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "jNvN3YxS65ovgJly9s8yrm",
+      "publishDate": "2025-11-12T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 6.3c de Wild Rift",
     "publishedAt": "2025-11-05T10:00:00.000Z",
     "promoCardSize": "small",
@@ -4444,66 +4505,6 @@
       "contentLocale": "fr-fr",
       "rev": "CsJhS699U5wscrFy6U6o4J",
       "publishDate": "2024-11-06T00:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 5.3a de Wild Rift",
-    "publishedAt": "2024-10-30T16:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-patch-notes-5-3a"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 2478,
-        "width": 4200,
-        "aspectRatio": 1.694915254237288
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9d6f20c4dc1fce48f8907563319a4d7a1f49b1e4-4200x2478.jpg",
-      "colors": {
-        "primary": "#1E130F",
-        "secondary": "#FFE4D6",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Attention ! Derrière vous ! Une cheffe de guerre !"
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "b2b38564-55dc-4073-8c46-7345aac20b84.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "1v7MRIpZS1A0E2ougUxOBL",
-      "publishDate": "2024-10-30T16:00:00.000Z"
     }
   }
 ]
