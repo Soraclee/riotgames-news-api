@@ -1,5 +1,68 @@
 [
   {
+    "title": "Plus de 5 millions de dollars collectés. Choisissez votre association.",
+    "publishedAt": "2025-11-13T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://charityvote.riotgames.com/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/484c6b47e48103a74acbbeae7bf8f2c43c758af9-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8B8AE",
+        "secondary": "#332929",
+        "label": "#ADAD66"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Vous vous êtes déjà demandé où vont les dons récoltés par le Riot Games Social Impact Fund ? Sachez que vous pouvez voter pour choisir la cause qui sera soutenue !"
+    },
+    "category": {
+      "title": "Annonces",
+      "description": "Les dernières actualités de l'équipe du jeu.",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "f779dea6-04a9-4cc0-8858-7b915fe9032c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "CKTmwdvGVYzb3H9Olqjdxc",
+      "publishDate": "2025-11-13T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Veste Viktor et Jayce d'Arcane",
     "publishedAt": "2025-11-11T22:00:00.000Z",
     "promoCardSize": "medium",
@@ -4704,70 +4767,6 @@
       "contentLocale": "fr-fr",
       "rev": "CUM6Ckg6r7Io8wN5ers8U5",
       "publishDate": "2025-09-09T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Derrière le hit : ASCA - K.O Coliseum",
-    "publishedAt": "2025-09-05T17:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "XoLVQ8lLMhE",
-        "videoLengthInSeconds": 177,
-        "url": "https://www.youtube.com/watch?v=XoLVQ8lLMhE"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/124ac8138ff34acd0b6a6a7c22373a23107fd457-1920x1080.jpg",
-      "colors": {
-        "primary": "#201310",
-        "secondary": "#F9E3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez l'origine de la création de Fighter!! avec Asca !"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "7419d2f6-ba1d-4346-8446-bf6b03cbfe0d.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "3DyBLnTmXKzIntk3K42txt",
-      "publishDate": "2025-09-05T17:00:00.000Z"
     }
   }
 ]

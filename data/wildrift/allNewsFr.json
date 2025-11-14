@@ -1,5 +1,65 @@
 [
   {
+    "title": "Plus de 5 millions de dollars collectés. Choisissez votre association.",
+    "publishedAt": "2025-11-13T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://charityvote.riotgames.com/"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/484c6b47e48103a74acbbeae7bf8f2c43c758af9-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8B8AE",
+        "secondary": "#332929",
+        "label": "#ADAD66"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Vous vous êtes déjà demandé où vont les dons récoltés par le Riot Games Social Impact Fund ? Sachez que vous pouvez voter pour choisir la cause qui sera soutenue !"
+    },
+    "category": {
+      "title": "Annonces",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "601cb1f2-d312-423f-99e1-c2940acd688d.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iVI8toYjOS57tW3vY10yqi",
+      "publishDate": "2025-11-13T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Aperçu de Rell",
     "publishedAt": "2025-11-12T02:00:00.000Z",
     "action": {
@@ -4443,68 +4503,6 @@
       "contentLocale": "fr-fr",
       "rev": "0h6e4MYEG0xbOjLBGGn4hm",
       "publishDate": "2024-11-13T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Aperçu du champion Ambessa",
-    "publishedAt": "2024-11-06T00:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "cr30O3us3JE",
-        "videoLengthInSeconds": 95,
-        "url": "https://www.youtube.com/watch?v=cr30O3us3JE"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/4a21f98252c6213886f01cabfbdf8c9dd55b6984-1920x1080.jpg",
-      "colors": {
-        "primary": "#15100A",
-        "secondary": "#FFFAD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "L'ère des Medarda commence. Inclinez-vous devant la Matriarche de guerre, ou son pouvoir vous balayera le 7 novembre UTC !"
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "2962d73d-ca40-4f84-85e5-abfdbd497daf.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "CsJhS699U5wscrFy6U6o4J",
-      "publishDate": "2024-11-06T00:00:00.000Z"
     }
   }
 ]
