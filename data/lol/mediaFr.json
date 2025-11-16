@@ -1,5 +1,69 @@
 [
   {
+    "title": "Mini cinématique K/DA Ahri libérée",
+    "publishedAt": "2025-11-15T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "TcFyKY8UTcA",
+        "videoLengthInSeconds": 60,
+        "url": "https://www.youtube.com/watch?v=TcFyKY8UTcA"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/801215b2a88e838d961c5d1ca6b9b4386ceff27e-1920x1080.jpg",
+      "colors": {
+        "primary": "#532A4E",
+        "secondary": "#F0DCF9",
+        "label": "#2A0B26"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Tout a conduit à cet instant."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "189503e8-29cc-40a1-9d60-3f9c3bb40127.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Y9XcD1MBWSj4a8m4nYvqi5",
+      "publishDate": "2025-11-15T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Cinématique de TFT Lore & Legends",
     "publishedAt": "2025-11-09T07:45:00.000Z",
     "action": {
@@ -966,70 +1030,6 @@
     }
   },
   {
-    "title": "Le quatrième principe - Bande dessinée animée",
-    "publishedAt": "2025-05-20T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=txMCSiJ3tzc"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d749e556f05c69b54a9d061544aba643e499384b-1920x1080.jpg",
-      "colors": {
-        "primary": "#432622",
-        "secondary": "#F9E8DC",
-        "label": "#170806"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La grandeur naît-elle du sacrifice... ou d'autre chose ? Découvrez la bande dessinée animée !"
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tdMbenkpDyXWNl15ejKINA",
-      "publishDate": "2025-05-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "La Main du démon - Bande dessinée animée",
     "publishedAt": "2025-05-20T15:00:00.000Z",
     "promoCardSize": "small",
@@ -1088,6 +1088,70 @@
     },
     "analytics": {
       "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "tdMbenkpDyXWNl15ejKINA",
+      "publishDate": "2025-05-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Le quatrième principe - Bande dessinée animée",
+    "publishedAt": "2025-05-20T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=txMCSiJ3tzc"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d749e556f05c69b54a9d061544aba643e499384b-1920x1080.jpg",
+      "colors": {
+        "primary": "#432622",
+        "secondary": "#F9E8DC",
+        "label": "#170806"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La grandeur naît-elle du sacrifice... ou d'autre chose ? Découvrez la bande dessinée animée !"
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tdMbenkpDyXWNl15ejKINA",
       "publishDate": "2025-05-20T15:00:00.000Z"
