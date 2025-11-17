@@ -1,5 +1,68 @@
 [
   {
+    "title": "Aperçu du set Lore & Legends",
+    "publishedAt": "2025-11-16T18:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/lore-and-legends-overview"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/dd96e5fd82611087dfe9c6539f31b27e5dec1dd1-1920x1080.jpg",
+      "colors": {
+        "primary": "#5B382E",
+        "secondary": "#F9EBDC",
+        "label": "#34160D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Déverrouillez des champions et partez à la découverte des légendes de Runeterra."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "de5fab88-e27c-41d0-ad43-c6fddb9b2f84.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Ic3kixMkY8uQgblwpMWqe0",
+      "publishDate": "2025-11-16T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Mini cinématique K/DA Ahri libérée",
     "publishedAt": "2025-11-15T15:00:00.000Z",
     "action": {
@@ -8597,71 +8660,6 @@
       "contentLocale": "fr-fr",
       "rev": "ofx9tRtnpX7Fm6wQUxtnBU",
       "publishDate": "2025-06-07T01:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation de Kayle aux ailes éthérées chibi",
-    "publishedAt": "2025-05-30T13:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "otdzK651ljc",
-        "videoLengthInSeconds": 38,
-        "url": "https://www.youtube.com/watch?v=otdzK651ljc"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/866609bc03515ea02073dcd4b902830c3cf4d978-1920x1080.jpg",
-      "colors": {
-        "primary": "#2C2816",
-        "secondary": "#E0DCF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La Convergence est sous sa juridiction. Kayle aux ailes éthérées chibi est opérationnelle dans TFT."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "3d21a359-b61c-455c-b7a9-5d103bbc23a1.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "uY2KhJjd7mzrwWNcNGvju9",
-      "publishDate": "2025-05-30T13:00:00.000Z"
     }
   }
 ]
