@@ -1,5 +1,75 @@
 [
   {
+    "title": "Rejoignez l'Everfrost Challenge",
+    "publishedAt": "2025-11-17T17:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://ftw.riotgames.com/league-of-legends/challenges/everfrost"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "0b3275680821",
+        "_type": "clientInternalLinkT1",
+        "t1CTA": "Rejoindre"
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 844,
+        "width": 1500,
+        "aspectRatio": 1.7772511848341233
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7ff1d182f0b8c4e3d37d6a63a019a5830f44af2f-1500x844.jpg",
+      "colors": {
+        "primary": "#686CB8",
+        "secondary": "#332930",
+        "label": "#2C2E52"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Soutenez votre créateur préféré en accomplissant des objectifs en jeu. Gagnez des points, déverrouillez des buffs et grimpez dans le classement pour recevoir des récompenses."
+    },
+    "category": {
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "2e5cf806-8770-4bb6-9342-9451d2aff773.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "SF1JO0mWsGhz1DsAejXnem",
+      "publishDate": "2025-11-17T17:00:00.000Z"
+    }
+  },
+  {
     "title": "Aperçu du set Lore & Legends",
     "publishedAt": "2025-11-16T18:00:00.000Z",
     "action": {
@@ -4707,69 +4777,6 @@
       "contentLocale": "fr-fr",
       "rev": "NfnGfm6udwjBxonlC05SCE",
       "publishDate": "2025-09-17T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Tout ce que vous devez savoir sur la LEC XPO",
-    "publishedAt": "2025-09-12T14:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/fr-fr/news/everything-you-need-to-know-about-the-lec-xpo"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fafaf6941084f78490df4f63483f9590fbfd5b7f-1920x1080.jpg",
-      "colors": {
-        "primary": "#532E2A",
-        "secondary": "#F9EBDC",
-        "label": "#2A0E0B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Encore plus de LEC, de League of Legends et de passion en un seul endroit !"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "6ac1a8b5-6334-4ef3-be14-231538e70e30.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "E0IKZ6bLljnoa26Mw218q5",
-      "publishDate": "2025-09-12T14:00:00.000Z"
     }
   }
 ]
