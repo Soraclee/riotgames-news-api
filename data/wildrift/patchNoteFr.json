@@ -1,5 +1,60 @@
 [
   {
+    "title": "Mise à jour de la configuration d'appareil minimale requise pour Wild Rift",
+    "publishedAt": "2025-11-24T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/wild-rift-minimum-device-specification-requirements-update"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 4725,
+        "width": 8000,
+        "aspectRatio": 1.693121693121693
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/32ec0af8e042619bdeaedeef3796d9a2b5a8642f-8000x4725.jpg",
+      "colors": {
+        "primary": "#272E4D",
+        "secondary": "#E3DCF9",
+        "label": "#090E23"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "078e197b-b641-4605-adf2-d20ab0ba2697.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "GUa2UfCcVl2fsIlnO6qcfc",
+      "publishDate": "2025-11-24T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 6.3d de Wild Rift",
     "publishedAt": "2025-11-19T10:00:00.000Z",
     "action": {
@@ -4426,66 +4481,6 @@
       "contentLocale": "fr-fr",
       "rev": "lESIXfhUM7GwGlQ32xdj5n",
       "publishDate": "2022-11-02T21:30:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 3.4b de Wild Rift",
-    "publishedAt": "2022-10-19T21:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-patch-notes-3-4b/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5d9d4f14a55a7276cf03d8e7e80025d64d3655d3-1920x1080.jpg",
-      "colors": {
-        "primary": "#15222A",
-        "secondary": "#E2F9DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Vex fait son apparition, les équilibrages se répartissent partout dans la Faille et l'entraînement doit commencer : bienvenue dans le patch 3.4b !"
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt379bab9d2e35698f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "lESIXfhUM7GwGlQ32xa4pP",
-      "publishDate": "2022-10-19T21:00:00.000Z"
     }
   }
 ]

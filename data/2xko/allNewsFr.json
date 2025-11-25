@@ -1754,6 +1754,67 @@
     "title": "Annonce de la bêta fermée de 2XKO",
     "publishedAt": "2025-07-22T15:00:00.000Z",
     "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/2xko-closedbeta-announcement"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/11d051dcd9fc6c90d204d052dcf8c051af95c3d2-1920x1080.jpg",
+      "colors": {
+        "primary": "#2E5B58",
+        "secondary": "#DCF9E2",
+        "label": "#0D3431"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La bêta fermée de 2XKO commence le 9 septembre 2025. Lisez la suite de l'article pour plus de détails."
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "8f89a9b8-e717-453b-82c9-0a521d0655be.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "i9beD5FcgHJjbrB7ruG7eL",
+      "publishDate": "2025-07-22T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Annonce de la bêta fermée de 2XKO",
+    "publishedAt": "2025-07-22T15:00:00.000Z",
+    "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "FEqIzg_eQts",
@@ -1810,67 +1871,6 @@
       "contentId": "dda86a69-7a18-42bd-a5c6-e84e6ca1a1f5.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "xoZoUjzkFWZVGLdT4jOzax",
-      "publishDate": "2025-07-22T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Annonce de la bêta fermée de 2XKO",
-    "publishedAt": "2025-07-22T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/2xko-closedbeta-announcement"
-      }
-    },
-    "product": {
-      "title": "2XKO (fr-fr)",
-      "machineName": "2xko",
-      "id": "product.project_l.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/11d051dcd9fc6c90d204d052dcf8c051af95c3d2-1920x1080.jpg",
-      "colors": {
-        "primary": "#2E5B58",
-        "secondary": "#DCF9E2",
-        "label": "#0D3431"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La bêta fermée de 2XKO commence le 9 septembre 2025. Lisez la suite de l'article pour plus de détails."
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "8f89a9b8-e717-453b-82c9-0a521d0655be.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "i9beD5FcgHJjbrB7ruG7eL",
       "publishDate": "2025-07-22T15:00:00.000Z"
     }
   },
@@ -2691,6 +2691,70 @@
     }
   },
   {
+    "title": "Présentation du système de duos",
+    "publishedAt": "2024-03-11T13:00:46.401Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "_KalbPq3Ic4",
+        "videoLengthInSeconds": 218,
+        "url": "https://www.youtube.com/watch?v=_KalbPq3Ic4"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b93f3aa1f5aa9ee485ccf295af30d36ca2e6059b-1920x1080.jpg",
+      "colors": {
+        "primary": "#221428",
+        "secondary": "#F1DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un aperçu rapide du gameplay des relais en 2c2 de 2XKO par le Game Director, Shaun Rivera."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "2xko_dev"
+    },
+    "analytics": {
+      "contentId": "6df948cb-5126-4ad7-80bb-11803710b184",
+      "contentLocale": "fr-fr",
+      "rev": "PdiNDqd28RLrQnAZ4aPaLV",
+      "publishDate": "2024-03-11T13:00:46.401Z"
+    }
+  },
+  {
     "title": "Duos de devs",
     "publishedAt": "2024-03-11T13:00:47.714Z",
     "promoCardSize": "small",
@@ -2755,15 +2819,15 @@
     }
   },
   {
-    "title": "Présentation du système de duos",
-    "publishedAt": "2024-03-11T13:00:46.401Z",
+    "title": "Nouveau champion : Yasuo",
+    "publishedAt": "2024-03-11T13:00:36.610Z",
     "promoCardSize": "small",
     "action": {
       "type": "youtube_video",
       "payload": {
-        "youtubeId": "_KalbPq3Ic4",
-        "videoLengthInSeconds": 218,
-        "url": "https://www.youtube.com/watch?v=_KalbPq3Ic4"
+        "youtubeId": "T4zqkjXdYT0",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=T4zqkjXdYT0"
       }
     },
     "product": {
@@ -2795,27 +2859,27 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b93f3aa1f5aa9ee485ccf295af30d36ca2e6059b-1920x1080.jpg",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7c50c501e9f9902fee52fa7219e4f339efb1b733-1920x1080.jpg",
       "colors": {
-        "primary": "#221428",
-        "secondary": "#F1DCF9",
-        "label": "#000000"
+        "primary": "#264724",
+        "secondary": "#DCF9E6",
+        "label": "#081C07"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Un aperçu rapide du gameplay des relais en 2c2 de 2XKO par le Game Director, Shaun Rivera."
+      "body": "Faites face au vent avec Yasuo, Disgracié, qui rejoint 2XKO aux côtés d'Ekko, Ahri et Darius."
     },
     "category": {
       "title": "Dev",
       "machineName": "2xko_dev"
     },
     "analytics": {
-      "contentId": "6df948cb-5126-4ad7-80bb-11803710b184",
+      "contentId": "86a1977b-7ffd-4968-bede-e64604fd92c4",
       "contentLocale": "fr-fr",
-      "rev": "PdiNDqd28RLrQnAZ4aPaLV",
-      "publishDate": "2024-03-11T13:00:46.401Z"
+      "rev": "0PBmBZJKPzUeUbjMTjYqcA",
+      "publishDate": "2024-03-11T13:00:36.610Z"
     }
   },
   {
@@ -2881,70 +2945,6 @@
       "contentLocale": "fr-fr",
       "rev": "PdiNDqd28RLrQnAZ4aPaLV",
       "publishDate": "2024-03-11T13:00:59.565Z"
-    }
-  },
-  {
-    "title": "Nouveau champion : Yasuo",
-    "publishedAt": "2024-03-11T13:00:36.610Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "T4zqkjXdYT0",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=T4zqkjXdYT0"
-      }
-    },
-    "product": {
-      "title": "2XKO (fr-fr)",
-      "machineName": "2xko",
-      "id": "product.project_l.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg",
-        "colors": {
-          "primary": "#cdf564",
-          "secondary": "#F1F9DC",
-          "label": "#29340D"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7c50c501e9f9902fee52fa7219e4f339efb1b733-1920x1080.jpg",
-      "colors": {
-        "primary": "#264724",
-        "secondary": "#DCF9E6",
-        "label": "#081C07"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Faites face au vent avec Yasuo, Disgracié, qui rejoint 2XKO aux côtés d'Ekko, Ahri et Darius."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "2xko_dev"
-    },
-    "analytics": {
-      "contentId": "86a1977b-7ffd-4968-bede-e64604fd92c4",
-      "contentLocale": "fr-fr",
-      "rev": "0PBmBZJKPzUeUbjMTjYqcA",
-      "publishDate": "2024-03-11T13:00:36.610Z"
     }
   },
   {
