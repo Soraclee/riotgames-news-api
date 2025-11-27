@@ -1,5 +1,70 @@
 [
   {
+    "title": "Mini cinématique Dieu-roi Darius libéré",
+    "publishedAt": "2025-11-26T16:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "3nii6lAs6os",
+        "videoLengthInSeconds": 36,
+        "url": "https://www.youtube.com/watch?v=3nii6lAs6os"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4834cd06c2d17f64a298839256715cd268aecf47-1920x1080.jpg",
+      "colors": {
+        "primary": "#23121A",
+        "secondary": "#F9F5DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les loups sont à vos portes…"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "36f9f4c5-d201-4e88-ab7f-33af58b32169.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "QbDEAKR56OcKxt0hufWPMQ",
+      "publishDate": "2025-11-26T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Comment dominer en jeu avec Zaahen",
     "publishedAt": "2025-11-24T19:00:00.000Z",
     "promoCardSize": "medium",
@@ -4738,71 +4803,6 @@
       "contentLocale": "fr-fr",
       "rev": "ofx9tRtnpX7Fm6wQUxjTYC",
       "publishDate": "2025-06-09T15:15:00.000Z"
-    }
-  },
-  {
-    "title": "Mini cinématique Fête des 6 ans",
-    "publishedAt": "2025-06-07T01:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "6FgnOlG2ULE",
-        "videoLengthInSeconds": 54,
-        "url": "https://www.youtube.com/watch?v=6FgnOlG2ULE"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a086b7d6f4755a23afd3758e7259479176b41b51-1920x1080.jpg",
-      "colors": {
-        "primary": "#402B55",
-        "secondary": "#F9E2DC",
-        "label": "#1C0B2D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un gâteau à son anniv' ? C'est dépassé. Maintenant, on a une dimension parallèle remplie de gâteaux."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "7d43aa81-135c-441e-a475-c88577248bab.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "uY2KhJjd7mzrwWNcNGw6N3",
-      "publishDate": "2025-06-07T01:00:00.000Z"
     }
   }
 ]
