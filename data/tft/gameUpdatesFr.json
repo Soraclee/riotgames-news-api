@@ -1,5 +1,70 @@
 [
   {
+    "title": "Mini cinématique de l'arène Champs de Volrachnun",
+    "publishedAt": "2025-11-27T03:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "39YnYT-gr8g",
+        "videoLengthInSeconds": 50,
+        "url": "https://www.youtube.com/watch?v=39YnYT-gr8g"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8f7efde8f06e6c918d9a3a1d72665a6eeea0e888-1920x1080.jpg",
+      "colors": {
+        "primary": "#2C2116",
+        "secondary": "#F9F2DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Ignacio se prépare au combat pour devenir la première petite légende digne de l'attention de Loup."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "adb17f5a-226d-4658-bb90-0fa3c2389388.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "GUa2UfCcVl2fsIlnOPBxzQ",
+      "publishDate": "2025-11-27T03:00:00.000Z"
+    }
+  },
+  {
     "title": "Mini cinématique Dieu-roi Darius libéré",
     "publishedAt": "2025-11-26T16:00:00.000Z",
     "promoCardSize": "medium",
@@ -173,7 +238,7 @@
     "analytics": {
       "contentId": "83bcb5aa-4704-4cf1-9dac-621d60387c38.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Pe6l8OjTplVSEpxUpAMnu7",
+      "rev": "GUa2UfCcVl2fsIlnOPBxzQ",
       "publishDate": "2025-11-26T16:00:00.000Z"
     }
   },
@@ -8193,68 +8258,6 @@
       "contentLocale": "fr-fr",
       "rev": "MBs86ihGgxetNe5Qoxu8QD",
       "publishDate": "2025-03-18T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Mécaniques : Cyber City",
-    "publishedAt": "2025-03-18T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/mechanics-cyber-city"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/630951aebfd646649972d79fbfbee585a975c10f-1920x1080.jpg",
-      "colors": {
-        "primary": "#3B53B8",
-        "secondary": "#293133",
-        "label": "#161928"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les systèmes existants, des optimisations aux boutiques, ont été hackés dans le set Cyber City !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "54053f5b-f155-4bdc-8f55-82758fc99039.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "8QRzT8YuZEmTpSBtKA4FyS",
-      "publishDate": "2025-03-18T16:00:00.000Z"
     }
   }
 ]
