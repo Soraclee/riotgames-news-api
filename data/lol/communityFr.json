@@ -1,5 +1,67 @@
 [
   {
+    "title": "Zoom sur l'art de la communauté : Pour Demacia !",
+    "publishedAt": "2025-12-01T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/community/community-art-spotlight-for-demacia"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 563,
+        "width": 1000,
+        "aspectRatio": 1.7761989342806395
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5c6572af89e3c81dfcc214aebc36a650885cc18c-1000x563.jpg",
+      "colors": {
+        "primary": "#38271C",
+        "secondary": "#F9E8DC",
+        "label": "#0A0603"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Des cosplays et illustrations réalisés par les fans."
+    },
+    "category": {
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "c3d610a9-da8e-46d3-8cf3-e180da77eec9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "W4U2EmOAgqJYqCuckcQGNk",
+      "publishDate": "2025-12-01T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Rejoignez l'Everfrost Challenge",
     "publishedAt": "2025-11-17T17:00:00.000Z",
     "action": {
@@ -9520,70 +9582,6 @@
       "contentLocale": "fr-fr",
       "rev": "qZXvkjig7TQff0ZQAF41ha",
       "publishDate": "2021-11-16T15:45:00.000Z"
-    }
-  },
-  {
-    "title": "League of Legends Créateur d'avatar",
-    "publishedAt": "2021-11-12T16:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://euw.leagueoflegends.com/fr/featured/events/avatar-creator"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b37ce94fbbcae9f4b1399cc71019d618dbc51832-1280x720.jpg",
-      "colors": {
-        "primary": "#181F31",
-        "secondary": "#F9E5DC",
-        "label": "#000102"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Personnalisez votre avatar de League of Legends avec des coiffures, des tenues, des accessoires, des arrière-plans et autres !"
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "articles.blt9833b3e3de4048ed.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "aTsF1lrk733vX3pv2YTVi9",
-      "publishDate": "2021-11-12T16:00:00.000Z"
     }
   }
 ]
