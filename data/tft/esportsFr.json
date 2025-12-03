@@ -1,5 +1,165 @@
 [
   {
+    "title": "Participez à la compétition Lore & Legends !",
+    "publishedAt": "2025-12-02T14:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/esports/compete-in-lore--legends"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "956c9683f49b",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-11-29T12:56:50Z",
+              "_id": "image-403c0fce865a40425f41392979b1af307d31126f-1920x1080-jpg",
+              "_rev": "X48zFltoQ32i2fLVyIYiHI",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-11-29T12:56:50Z",
+              "assetId": "403c0fce865a40425f41392979b1af307d31126f",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "M{Lg*C?wxaafM|tSW=RjWBofj]WAR*s:oM",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080,
+                  "width": 1920
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#46392c",
+                    "foreground": "#fff",
+                    "population": 6.26,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#76380e",
+                    "foreground": "#fff",
+                    "population": 0.73,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9f7f5d",
+                    "foreground": "#fff",
+                    "population": 6.27,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d3b2cd",
+                    "foreground": "#000",
+                    "population": 1.04,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#dce3fa",
+                    "foreground": "#000",
+                    "population": 5.56,
+                    "title": "#000"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9f7f5d",
+                    "foreground": "#fff",
+                    "population": 6.27,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#cc485a",
+                    "foreground": "#fff",
+                    "population": 0.52,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "No Text Thumbnail Showmatch Client.jpg",
+              "path": "images/dsfx7636/news_live/403c0fce865a40425f41392979b1af307d31126f-1920x1080.jpg",
+              "sha1hash": "403c0fce865a40425f41392979b1af307d31126f",
+              "size": 336627,
+              "uploadId": "Qw2hfirPJtDToULGWvzhwvZUVW5UOJkp",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/403c0fce865a40425f41392979b1af307d31126f-1920x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "t1CTA": "En savoir plus",
+        "t1Description": "Voici tout ce que vous devez savoir à propos de l'écosystème compétitif de Lore & Legends.",
+        "t1Subtitle": "E-sport du set 16"
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d32b28dd579d9a5f9479904ac0d2963616e68b84-1920x1080.jpg",
+      "colors": {
+        "primary": "#B8B6A5",
+        "secondary": "#292D33",
+        "label": "#90894E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La couronne est à votre portée : il est temps de rejoindre le combat."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "3a6c8662-81c6-4e6c-a22f-d9f45fb7efb7.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "64K4yVENk5uFdH9xGctXGB",
+      "publishDate": "2025-12-02T14:00:00.000Z"
+    }
+  },
+  {
     "title": "WithoutYou REMPORTE LA TACTICIAN'S CROWN !",
     "publishedAt": "2025-11-19T16:00:00.000Z",
     "promoCardSize": "small",
@@ -125,6 +285,69 @@
       "contentLocale": "fr-fr",
       "rev": "Q4aXa9Izrf7t285mIwkqE5",
       "publishDate": "2025-11-09T08:45:00.000Z"
+    }
+  },
+  {
+    "title": "Informations Tactician's Crown de K.O. Coliseum",
+    "publishedAt": "2025-11-05T14:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/esports/ko-coliseum-tacticians-crown-event-primer"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1651,
+        "width": 2934,
+        "aspectRatio": 1.7771047849788006
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/960788b028e85637e0bb6e1956c11656d1dee467-2934x1651.png",
+      "colors": {
+        "primary": "#B84847",
+        "secondary": "#2A2933",
+        "label": "#633635"
+      },
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Plus de détails sur les dates, le format, la cagnotte de l'événement et plus encore."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "a1d8d749-4bcc-401d-ae10-013b79528494.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Ic3kixMkY8uQgblwpHyezA",
+      "publishDate": "2025-11-05T14:00:00.000Z"
     }
   },
   {
@@ -297,69 +520,6 @@
       "contentId": "e2f10fb7-4001-4d1d-acf5-680c46a925c7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "Z7jWOZ59CIMbipgF4AQulh",
-      "publishDate": "2025-11-05T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Informations Tactician's Crown de K.O. Coliseum",
-    "publishedAt": "2025-11-05T14:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/esports/ko-coliseum-tacticians-crown-event-primer"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1651,
-        "width": 2934,
-        "aspectRatio": 1.7771047849788006
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/960788b028e85637e0bb6e1956c11656d1dee467-2934x1651.png",
-      "colors": {
-        "primary": "#B84847",
-        "secondary": "#2A2933",
-        "label": "#633635"
-      },
-      "mimeType": "image/png"
-    },
-    "description": {
-      "type": "html",
-      "body": "Plus de détails sur les dates, le format, la cagnotte de l'événement et plus encore."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "a1d8d749-4bcc-401d-ae10-013b79528494.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "Ic3kixMkY8uQgblwpHyezA",
       "publishDate": "2025-11-05T14:00:00.000Z"
     }
   },
@@ -2216,6 +2376,69 @@
     }
   },
   {
+    "title": "Tactician's Crown d'Into the Arcane",
+    "publishedAt": "2025-03-05T14:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/esports/into-the-arcane-tacticians-crown-primer"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6789c15354f6cdb7abba61861107e432536aa374-1920x1080.jpg",
+      "colors": {
+        "primary": "#251219",
+        "secondary": "#F9ECDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le guide indispensable pour le prochain événement TFT mondial !"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "1ae7187e-1a22-4fe9-b319-b4a7b53a418e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "p1E1t9c6MmuSwvdT9C6RwH",
+      "publishDate": "2025-03-05T14:00:00.000Z"
+    }
+  },
+  {
     "title": "En route pour la Tactician’s Crown Into the Arcane",
     "publishedAt": "2025-03-05T14:00:00.000Z",
     "action": {
@@ -2383,69 +2606,6 @@
       "contentId": "cbaeb680-d5c8-45ca-8047-ce51b912eb4f.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "O0syOADLMvCWbGv9huzBw5",
-      "publishDate": "2025-03-05T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Tactician's Crown d'Into the Arcane",
-    "publishedAt": "2025-03-05T14:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/esports/into-the-arcane-tacticians-crown-primer"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6789c15354f6cdb7abba61861107e432536aa374-1920x1080.jpg",
-      "colors": {
-        "primary": "#251219",
-        "secondary": "#F9ECDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le guide indispensable pour le prochain événement TFT mondial !"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "1ae7187e-1a22-4fe9-b319-b4a7b53a418e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "p1E1t9c6MmuSwvdT9C6RwH",
       "publishDate": "2025-03-05T14:00:00.000Z"
     }
   },
@@ -5189,69 +5349,6 @@
     }
   },
   {
-    "title": "Vous voulez assister au TFT Vegas Open ?",
-    "publishedAt": "2023-08-11T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/esports/so-you-want-to-attend-the-tft-vegas-open/"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3a684e7475c810acda15e2e1f6038689923e6800-1920x1080.jpg",
-      "colors": {
-        "primary": "#3E2C58",
-        "secondary": "#F9F7DC",
-        "label": "#1B0C30"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Détails de l'événement, inscription, format, récompenses et plus encore !"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt81614561e162caf5.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "kRa0sLdvlB8lPXh7mw1I6n",
-      "publishDate": "2023-08-11T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Règles du tournoi de TFT Global",
     "publishedAt": "2023-08-11T15:00:00.000Z",
     "promoCardSize": "small",
@@ -5311,6 +5408,69 @@
       "contentId": "articles.blt56edbeec32fb8337.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "lS1Ty4LAywj5knEG1njQdN",
+      "publishDate": "2023-08-11T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Vous voulez assister au TFT Vegas Open ?",
+    "publishedAt": "2023-08-11T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/esports/so-you-want-to-attend-the-tft-vegas-open/"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3a684e7475c810acda15e2e1f6038689923e6800-1920x1080.jpg",
+      "colors": {
+        "primary": "#3E2C58",
+        "secondary": "#F9F7DC",
+        "label": "#1B0C30"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Détails de l'événement, inscription, format, récompenses et plus encore !"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blt81614561e162caf5.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "kRa0sLdvlB8lPXh7mw1I6n",
       "publishDate": "2023-08-11T15:00:00.000Z"
     }
   },
@@ -6343,170 +6503,6 @@
       "contentLocale": "fr-fr",
       "rev": "xuZL20aPaBsXnexenDSCui",
       "publishDate": "2023-04-28T08:00:00.000Z"
-    }
-  },
-  {
-    "title": "TFT Rising Legends : début du Superbrawl vendredi.",
-    "publishedAt": "2023-04-25T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://risinglegends.teamfighttactics.leagueoflegends.com/news/superbrawl-viewer's-guide-2"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "QFROnxTr",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-27T01:54:35Z",
-              "_id": "image-46bcadb3c891ed86fcab6d3922e5bebfa55173b7-1600x1080-jpg",
-              "_rev": "5xBFIcRPz0p0p32ItXvSco",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-04-27T01:54:35Z",
-              "assetId": "46bcadb3c891ed86fcab6d3922e5bebfa55173b7",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "VDK+jT_h33,30}VVpd#[ONQ{8w8y-oXUY2qynhTAp0M{",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#94046d",
-                    "foreground": "#fff",
-                    "population": 0,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#91046b",
-                    "foreground": "#fff",
-                    "population": 0.28,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#faf6f7",
-                    "foreground": "#000",
-                    "population": 6.5,
-                    "title": "#000"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#faf6f7",
-                    "foreground": "#000",
-                    "population": 6.5,
-                    "title": "#000"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#e15ee6",
-                    "foreground": "#fff",
-                    "population": 5.71,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#a06b8a",
-                    "foreground": "#fff",
-                    "population": 2.55,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#1cdfc0",
-                    "foreground": "#000",
-                    "population": 2.56,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "TFT_RL_SB_T1.jpg",
-              "path": "images/dsfx7636/news_live/46bcadb3c891ed86fcab6d3922e5bebfa55173b7-1600x1080.jpg",
-              "sha1hash": "46bcadb3c891ed86fcab6d3922e5bebfa55173b7",
-              "size": 1239555,
-              "uploadId": "PaF5mMek9HWO7zREXDuRfb8QxbIetAMD",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/46bcadb3c891ed86fcab6d3922e5bebfa55173b7-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": false,
-        "t1CTA": "",
-        "t1Description": "",
-        "t1Subtitle": "",
-        "t1Title": ""
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b32e3ae492899426f1ed2b3dec4efed5754545fe-1280x720.jpg",
-      "colors": {
-        "primary": "#B83C70",
-        "secondary": "#332929",
-        "label": "#3B202B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Ce week-end, c'est Superbrawl."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt92353ea7a4bc5838.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "xuZL20aPaBsXnexenDSCui",
-      "publishDate": "2023-04-25T16:00:00.000Z"
     }
   }
 ]
