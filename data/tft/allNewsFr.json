@@ -1,5 +1,69 @@
 [
   {
+    "title": "Teamfight Tactics : Lore & Legends",
+    "publishedAt": "2025-12-03T20:00:00.000Z",
+    "promoCardSize": "large",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/set-overview/teamfight-tactics-lore-and-legends"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8309c4b233c43f0af18045d20f86102028b92ef4-1920x1080.jpg",
+      "colors": {
+        "primary": "#643532",
+        "secondary": "#F9DCE1",
+        "label": "#3F1310"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Réveillez les légendes de Runeterra les plus emblématiques dans le plus grand set de TFT jamais créé !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "3c763bfa-5e86-47b4-9643-646aab748c78.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "W2Ccw5HEg9Sopso6ntUxVn",
+      "publishDate": "2025-12-03T20:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 16.1 de TFT",
     "publishedAt": "2025-12-02T19:00:00.000Z",
     "action": {
@@ -119,7 +183,7 @@
     "analytics": {
       "contentId": "ef216dcc-f1bd-462c-93a9-96c1181b1500.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "PtxNrJeG6OTbALdALDQZq3",
+      "rev": "W2Ccw5HEg9Sopso6nv8D1f",
       "publishDate": "2025-12-02T17:00:00.000Z"
     }
   },
@@ -291,7 +355,7 @@
     "analytics": {
       "contentId": "5a0bfeb5-47a8-4f53-bb3f-eb1fe3363698.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "PtxNrJeG6OTbALdALDQRpX",
+      "rev": "W2Ccw5HEg9Sopso6ntUxVn",
       "publishDate": "2025-12-02T16:00:00.000Z"
     }
   },
@@ -451,7 +515,7 @@
     "analytics": {
       "contentId": "3a6c8662-81c6-4e6c-a22f-d9f45fb7efb7.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "64K4yVENk5uFdH9xGdVp73",
+      "rev": "W2Ccw5HEg9Sopso6nqBIZf",
       "publishDate": "2025-12-02T14:00:00.000Z"
     }
   },
@@ -8417,178 +8481,6 @@
       "contentLocale": "fr-fr",
       "rev": "p5nSRBft0Fa6JmWKDCZy9b",
       "publishDate": "2025-07-12T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Dev drop TFT : K.O. Coliseum",
-    "publishedAt": "2025-07-11T17:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "XYzgy90NXg0",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=XYzgy90NXg0"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "2ba4b0386a80",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2025-07-13T05:55:02Z",
-              "_id": "image-e5527e9162ad53877cb8bc10d31e2ff75a16c630-1600x1080-jpg",
-              "_rev": "DibL6rBB4tqcOw37bcTL08",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2025-07-13T05:55:02Z",
-              "assetId": "e5527e9162ad53877cb8bc10d31e2ff75a16c630",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "V7ECdv[C4TQVI803oy*Gbu,x8^S]noRRXfD4i{$^%eEj",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#4c4429",
-                    "foreground": "#fff",
-                    "population": 2.09,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#8a0409",
-                    "foreground": "#fff",
-                    "population": 5.45,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#8a0409",
-                    "foreground": "#fff",
-                    "population": 5.45,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#c3a68b",
-                    "foreground": "#000",
-                    "population": 5.05,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#84efa1",
-                    "foreground": "#000",
-                    "population": 0.48,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#9c7760",
-                    "foreground": "#fff",
-                    "population": 4.06,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#e7e50b",
-                    "foreground": "#000",
-                    "population": 2.87,
-                    "title": "#000"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "TFT_ST1525_Thumbnails_Client_T1-Decluttered_DevDrop_[1600x1080]_V001_SUMMONER_pt_BR.jpg",
-              "path": "images/dsfx7636/news_live/e5527e9162ad53877cb8bc10d31e2ff75a16c630-1600x1080.jpg",
-              "sha1hash": "e5527e9162ad53877cb8bc10d31e2ff75a16c630",
-              "size": 281074,
-              "uploadId": "Sqtv82BC9Zvp5KLCfhsO8ENfUwinr60d",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e5527e9162ad53877cb8bc10d31e2ff75a16c630-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1Subtitle": "Dev drop TFT",
-        "t1Title": "K.O. Coliseum",
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "XYzgy90NXg0"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/907255af63786377dbc621bd6f7ccd5e7b18eda1-1920x1080.jpg",
-      "colors": {
-        "primary": "#4E4327",
-        "secondary": "#E9F9DC",
-        "label": "#241C09"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Formez votre équipe et battez-vous pour atteindre le top 4."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de la création de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "c4be0bb0-0712-462b-a481-61e33eb14d15.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "MZ9Dgo1Fp8CcoMqA8aHh2T",
-      "publishDate": "2025-07-11T17:00:00.000Z"
     }
   }
 ]

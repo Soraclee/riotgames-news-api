@@ -1,5 +1,69 @@
 [
   {
+    "title": "Teamfight Tactics : Lore & Legends",
+    "publishedAt": "2025-12-03T20:00:00.000Z",
+    "promoCardSize": "large",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/set-overview/teamfight-tactics-lore-and-legends"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8309c4b233c43f0af18045d20f86102028b92ef4-1920x1080.jpg",
+      "colors": {
+        "primary": "#643532",
+        "secondary": "#F9DCE1",
+        "label": "#3F1310"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Réveillez les légendes de Runeterra les plus emblématiques dans le plus grand set de TFT jamais créé !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "3c763bfa-5e86-47b4-9643-646aab748c78.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "W2Ccw5HEg9Sopso6ntUxVn",
+      "publishDate": "2025-12-03T20:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 16.1 de TFT",
     "publishedAt": "2025-12-02T19:00:00.000Z",
     "action": {
@@ -119,7 +183,7 @@
     "analytics": {
       "contentId": "ef216dcc-f1bd-462c-93a9-96c1181b1500.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "PtxNrJeG6OTbALdALDQZq3",
+      "rev": "W2Ccw5HEg9Sopso6ntWbbv",
       "publishDate": "2025-12-02T17:00:00.000Z"
     }
   },
@@ -291,7 +355,7 @@
     "analytics": {
       "contentId": "5a0bfeb5-47a8-4f53-bb3f-eb1fe3363698.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "PtxNrJeG6OTbALdALDQRpX",
+      "rev": "W2Ccw5HEg9Sopso6ntUxVn",
       "publishDate": "2025-12-02T16:00:00.000Z"
     }
   },
@@ -8310,69 +8374,6 @@
       "contentLocale": "fr-fr",
       "rev": "liBwLfU12KkZimf6b79CGG",
       "publishDate": "2025-04-02T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Teamfight Tactics – notes du patch 14.1 (2025)",
-    "publishedAt": "2025-04-01T18:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-14-1-notes-2025"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/084fcda7277f12459ac79bef5214e9db7edc7615-1280x720.jpg",
-      "colors": {
-        "primary": "#1F1C37",
-        "secondary": "#E8DCF9",
-        "label": "#030209"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Bienvenue dans notre nouveau set : Cyber City. Relancez, hackez ou explosez pour conquérir votre territoire !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "20a18741-a4b2-4bf4-9d7f-c0681df21dbe.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "votbv1mhlfMu1iwdiDQdz7",
-      "publishDate": "2025-04-01T18:00:00.000Z"
     }
   }
 ]
