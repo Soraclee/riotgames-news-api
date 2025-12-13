@@ -1,5 +1,62 @@
 [
   {
+    "title": "COME HOME // Phoenix Visual Short - VALORANT",
+    "publishedAt": "2025-12-12T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=leBWiCo2WzQ"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/27e61d907d15cfa6d415b557f2c91abffc733e5b-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Phoenix and Mary recall the events of First Light and the one night that changed their lives forever."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "9a06f789-e5a7-4ce3-82d8-38380c584272.en-us",
+      "contentLocale": "en-us",
+      "rev": "07YJXk6y7C2vKeKGJE8N42",
+      "publishDate": "2025-12-12T15:00:00.000Z"
+    }
+  },
+  {
     "title": "VALORANT Patch Notes 11.11",
     "publishedAt": "2025-12-02T14:00:00.000Z",
     "promoCardSize": "small",
@@ -4147,62 +4204,6 @@
       "contentLocale": "en-us",
       "rev": "rE19qWqXtwbnyVyXlNlVlI",
       "publishDate": "2024-05-29T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "VALORANT Patch Notes 8.09",
-    "publishedAt": "2024-05-14T13:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/valorant-patch-notes-8-09/"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f20c04f67421ad38bef18e3d4a703aa3001d8b5c-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Brimmy with a stimmy? How about Brimmy with appropriately sized smokes?"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt7984c0ab76198056.en-us",
-      "contentLocale": "en-us",
-      "rev": "lESIXfhUM7GwGlQ32u8zFz",
-      "publishDate": "2024-05-14T13:00:00.000Z"
     }
   }
 ]
