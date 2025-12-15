@@ -1,5 +1,63 @@
 [
   {
+    "title": "What’s Next in 2026",
+    "publishedAt": "2025-12-14T12:45:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "M9apBMca7s8",
+        "videoLengthInSeconds": 337,
+        "url": "https://www.youtube.com/watch?v=M9apBMca7s8"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ec32c56e3478062082bf7cc25c153298ea15098c-1920x1080.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Geoff and Peter sit down with us to reflect and share what’s coming to the Convergence in 2026."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of Teamfight Tactics.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "9e5184d8-a66a-418d-8fd5-728b3a541ec5.en-us",
+      "contentLocale": "en-us",
+      "rev": "jP9f0Lvfh33UmCHqkL6RH9",
+      "publishDate": "2025-12-14T12:45:00.000Z"
+    }
+  },
+  {
     "title": "TFT Dev Drop: Lore & Legends",
     "publishedAt": "2025-11-14T14:00:00.000Z",
     "action": {

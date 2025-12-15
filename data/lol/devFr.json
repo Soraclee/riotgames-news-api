@@ -1,5 +1,65 @@
 [
   {
+    "title": "L'avenir de 2026",
+    "publishedAt": "2025-12-14T12:45:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "w2kGFUoCt24",
+        "videoLengthInSeconds": 337,
+        "url": "https://www.youtube.com/watch?v=w2kGFUoCt24"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ec32c56e3478062082bf7cc25c153298ea15098c-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Geoff et Peter nous parlent de ce qui attend la Convergence en 2026."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "2c34b006-8bc3-42e9-a51f-92488842c5be.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "jP9f0Lvfh33UmCHqkL6P29",
+      "publishDate": "2025-12-14T12:45:00.000Z"
+    }
+  },
+  {
     "title": "Dev Update : Saison 1 2026 - thème, gameplay et autres",
     "publishedAt": "2025-12-01T16:05:00.000Z",
     "promoCardSize": "small",
@@ -4927,64 +4987,6 @@
       "contentLocale": "fr-fr",
       "rev": "jEln45CgOQD4spzxfEektM",
       "publishDate": "2024-04-11T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Changements des récompenses de classement en 2024",
-    "publishedAt": "2024-04-08T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-ranked-rewards-in-2024/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/945dafab1fec92b5fd5a9cb0f582284e8872d887-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Informations détaillées à propos des changements des récompenses de classement en 2024"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.bltc6d3a9773afbf47c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaIIaU7",
-      "publishDate": "2024-04-08T15:00:00.000Z"
     }
   }
 ]
