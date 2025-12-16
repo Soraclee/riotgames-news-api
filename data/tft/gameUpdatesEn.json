@@ -1,5 +1,168 @@
 [
   {
+    "title": "Chibi Gwen Celebration Mini Cinematic",
+    "publishedAt": "2025-12-15T02:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "6eDwvf_OHqE",
+        "videoLengthInSeconds": 43,
+        "url": "https://www.youtube.com/watch?v=6eDwvf_OHqE"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "144dffdeb538",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2025-12-11T22:55:55Z",
+              "_id": "image-69e87a96c811093eb5b7f8c8bdd4e138a4e1ec56-1600x1080-jpg",
+              "_rev": "jP9f0Lvfh33UmCHqkBz9Jb",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-12-11T22:55:55Z",
+              "assetId": "69e87a96c811093eb5b7f8c8bdd4e138a4e1ec56",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VGI|@MqG1QF@Mc00Y$=Nr_S$0]mqS@bW-CJQRowawNOX",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#3f2c45",
+                    "foreground": "#fff",
+                    "population": 3.36,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#682121",
+                    "foreground": "#fff",
+                    "population": 0.44,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9c53ac",
+                    "foreground": "#fff",
+                    "population": 5.11,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#caa2c6",
+                    "foreground": "#000",
+                    "population": 4.06,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ea9bc0",
+                    "foreground": "#000",
+                    "population": 3.34,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9c53ac",
+                    "foreground": "#fff",
+                    "population": 5.11,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#39e3e2",
+                    "foreground": "#000",
+                    "population": 2.89,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_ST1525_Thumbnails_Client_T1-Decluttered_ChibiGwen_[1920x1080]_V001_SUMMONER_optimized.jpg",
+              "path": "images/dsfx7636/news_live/69e87a96c811093eb5b7f8c8bdd4e138a4e1ec56-1600x1080.jpg",
+              "sha1hash": "69e87a96c811093eb5b7f8c8bdd4e138a4e1ec56",
+              "size": 465690,
+              "uploadId": "PyVY5swQu11nqnzImuDoXuH0dNud8Ekl",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/69e87a96c811093eb5b7f8c8bdd4e138a4e1ec56-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "6eDwvf_OHqE"
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/455e9f9adf049d0817503be520cb517697b98c99-1920x1080.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "It’s time to celebrate all things Gwen with the arrival of Chibi Crystal Rose Gwen and more!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "c084de14-3e35-4ebd-85b8-3cc9a3da1c90.en-us",
+      "contentLocale": "en-us",
+      "rev": "DpEqgallskzUvV1rx8TrLK",
+      "publishDate": "2025-12-15T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Off to the Races | Lunar Revel 2026 Event Tease",
     "publishedAt": "2025-12-14T14:00:00.000Z",
     "promoCardSize": "medium",
@@ -8226,63 +8389,6 @@
       "contentLocale": "en-us",
       "rev": "a6AbJDhZcUVIiP8usKzJoV",
       "publishDate": "2025-04-10T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Cyber City Crews: Sky-High Lo-Fi",
-    "publishedAt": "2025-04-03T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=LnPzNRwNKDI"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#ffb60d"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7bcb24e4680a17c9322ffb8ff19f5b026e67e95-1920x1080.jpg?accountingTag=TFT",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Lofi beats to kick back and relax-to-the-sounds-of-the-Cyber-City to."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "4f3132e4-26f5-4ce6-b9bb-1a06642514f9.en-us",
-      "contentLocale": "en-us",
-      "rev": "sl3HE6aTFbIMJKWgDQBzdI",
-      "publishDate": "2025-04-03T15:00:00.000Z"
     }
   }
 ]

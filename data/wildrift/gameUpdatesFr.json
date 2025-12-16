@@ -1,5 +1,62 @@
 [
   {
+    "title": "Aperçu de Kog'Maw",
+    "publishedAt": "2025-12-15T10:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "sfzprUG44X8",
+        "videoLengthInSeconds": 112,
+        "url": "https://www.youtube.com/watch?v=sfzprUG44X8"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1176c8222e191553a13efdd43fd737dd0810d99b-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Prévisions météo : pluies acides. Kog'Maw, Gueule des abysses, débarque dans la Faille le 11 décembre CET ☔☣️"
+    },
+    "category": {
+      "title": "Actualités",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "de5076a8-997c-433a-9b46-b9cf6a23a714.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "8yVd61Lhf71n1gJ3NwNi1G",
+      "publishDate": "2025-12-15T10:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 6.3e de Wild Rift",
     "publishedAt": "2025-12-03T10:00:00.000Z",
     "promoCardSize": "small",
@@ -4073,61 +4130,6 @@
       "contentLocale": "fr-fr",
       "rev": "jvX45fVrMTONcXvY2BYfJQ",
       "publishDate": "2024-10-17T01:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 5.3 de WR",
-    "publishedAt": "2024-10-16T16:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-patch-notes-5-3"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1848,
-        "width": 4000,
-        "aspectRatio": 2.1645021645021645
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/4ac88c6b3d7d9906b7653ec19b2b3a4424388895-4000x1848.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Heimerdinger est arrivé !"
-    },
-    "category": {
-      "title": "Actualités",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "0d9c944c-0f7c-4ece-bde3-69f55589d6fa.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ZxCjdMWwjhy9DmKAIh3UFL",
-      "publishDate": "2024-10-16T16:00:00.000Z"
     }
   }
 ]
