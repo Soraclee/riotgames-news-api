@@ -1,5 +1,60 @@
 [
   {
+    "title": "VCT 2025: Season Wrap-Up",
+    "publishedAt": "2025-12-16T20:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/en-us/news/vct-2025-season-wrap-up"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cc0f13bcb1371cbfe1e216a7dc223eeeb0a9d945-1600x900.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Leo Faria shares his closing thoughts on the past season of the VCT."
+    },
+    "category": {
+      "title": "Esports",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "f14896e8-2c62-4d9e-a57e-9483e7af8b5a.en-us",
+      "contentLocale": "en-us",
+      "rev": "6fkS0zSoDl66qjC9xCkQzD",
+      "publishDate": "2025-12-16T20:00:00.000Z"
+    }
+  },
+  {
     "title": "COME HOME // Phoenix Visual Short - VALORANT",
     "publishedAt": "2025-12-12T15:00:00.000Z",
     "promoCardSize": "small",
@@ -1684,7 +1739,7 @@
       "type": "weblink",
       "payload": {
         "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=W3KTduAZxt0"
+        "url": "https://www.youtube.com/watch?v=Q4ZdRYQmHvM"
       }
     },
     "product": {
@@ -1729,7 +1784,7 @@
     "analytics": {
       "contentId": "e0596356-89a9-4266-902c-597967cc5372.en-us",
       "contentLocale": "en-us",
-      "rev": "UIzBTmPAVbl8XyiDBS2faE",
+      "rev": "6fkS0zSoDl66qjC9xCacFW",
       "publishDate": "2025-10-05T10:35:00.000Z"
     }
   },
@@ -2406,61 +2461,6 @@
     }
   },
   {
-    "title": "Replays: Everything You Need to Know",
-    "publishedAt": "2025-09-16T13:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/replays-everything-you-need-to-know"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4a54cd48e3ba2e5ca991e337c65f9d7ffafe76a2-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Detailed information and Frequently Asked Questions for the VALORANT Replay system."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of VALORANT.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "a7106833-af58-4db7-bc6d-bfc4fac78b25.en-us",
-      "contentLocale": "en-us",
-      "rev": "vv6BWqMjCo6H2L7rELErPu",
-      "publishDate": "2025-09-16T13:00:00.000Z"
-    }
-  },
-  {
     "title": "VALORANT Patch Notes 11.06",
     "publishedAt": "2025-09-16T13:00:00.000Z",
     "action": {
@@ -2512,6 +2512,61 @@
       "contentId": "18f0cb77-eb97-4961-bd79-8dd3544f1c03.en-us",
       "contentLocale": "en-us",
       "rev": "ivTIFZsY9TboiM6br16Gqt",
+      "publishDate": "2025-09-16T13:00:00.000Z"
+    }
+  },
+  {
+    "title": "Replays: Everything You Need to Know",
+    "publishedAt": "2025-09-16T13:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/replays-everything-you-need-to-know"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4a54cd48e3ba2e5ca991e337c65f9d7ffafe76a2-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Detailed information and Frequently Asked Questions for the VALORANT Replay system."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of VALORANT.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "a7106833-af58-4db7-bc6d-bfc4fac78b25.en-us",
+      "contentLocale": "en-us",
+      "rev": "vv6BWqMjCo6H2L7rELErPu",
       "publishDate": "2025-09-16T13:00:00.000Z"
     }
   },
@@ -4137,63 +4192,6 @@
       "contentLocale": "en-us",
       "rev": "ofx9tRtnpX7Fm6wQUwjGcU",
       "publishDate": "2025-06-24T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Team Tarik vs Team Toast play Corrode | New Map Showmatch | VALORANT",
-    "publishedAt": "2025-06-22T18:30:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=e59mQv4ponw"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/02c5503a8a9814082072c8d82ba666e55ddb2fc0-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Watch as Team Tarik vs. Team Toast play the first live match on the new VALORANT Map Corrode."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional VALORANT.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "174d32c5-85a5-4a8e-9145-1f8ffa28d7d8.en-us",
-      "contentLocale": "en-us",
-      "rev": "1RWJXTC5FbH6OsLSi6QsmK",
-      "publishDate": "2025-06-22T18:30:00.000Z"
     }
   }
 ]
