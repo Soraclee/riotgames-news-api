@@ -1,5 +1,65 @@
 [
   {
+    "title": "Galerie thématique Célébration de Gwen",
+    "publishedAt": "2025-12-17T09:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "uTXzR37qlXg",
+        "videoLengthInSeconds": 42,
+        "url": "https://www.youtube.com/watch?v=uTXzR37qlXg"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e7306fb1a9e92c5c1b14bc8466e339813cafdfc3-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Tout le monde adore Gwen !"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "a4933cc1-8611-4163-8520-dbd0ec1d1ef2.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "CKSCO5KPsSeS62dMyt6sRL",
+      "publishDate": "2025-12-17T09:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du LEC Versus 2026",
     "publishedAt": "2025-12-16T15:00:00.000Z",
     "action": {
@@ -467,7 +527,7 @@
     "analytics": {
       "contentId": "f834d4d1-2b96-4c20-901a-93e6e3a50635.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "64K4yVENk5uFdH9xGcgQqp",
+      "rev": "qfw0tsFoAJsTXLf2HTGehL",
       "publishDate": "2025-12-02T19:00:00.000Z"
     }
   },
@@ -4352,66 +4412,6 @@
       "contentLocale": "fr-fr",
       "rev": "LS0q3fUUSfGii0qNQjoqYF",
       "publishDate": "2025-10-13T18:30:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation de Yunara fleur spirituelle chibi",
-    "publishedAt": "2025-10-13T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "ryaFxRBkLpA",
-        "videoLengthInSeconds": 40,
-        "url": "https://www.youtube.com/watch?v=ryaFxRBkLpA"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c1c99a3ddf5eff1631af2279f9c0faf8433b8341-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Elle ne se bat jamais l'estomac vide ! Cette vierge du sanctuaire est prête à se resservir dans TFT."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "a6c7d795-e9e0-4d0d-bf60-4703ad467062.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "GKfuTkhcFTzxzWhcvwvwlZ",
-      "publishDate": "2025-10-13T16:00:00.000Z"
     }
   }
 ]
