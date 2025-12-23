@@ -1805,6 +1805,61 @@
     "title": "Annonce de la bêta fermée de 2XKO",
     "publishedAt": "2025-07-22T15:00:00.000Z",
     "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/2xko-closedbeta-announcement"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/11d051dcd9fc6c90d204d052dcf8c051af95c3d2-1920x1080.jpg?accountingTag=2XKO",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La bêta fermée de 2XKO commence le 9 septembre 2025. Lisez la suite de l'article pour plus de détails."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "8f89a9b8-e717-453b-82c9-0a521d0655be.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "fy1kVIjOdM9YCfGR6RN60v",
+      "publishDate": "2025-07-22T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Annonce de la bêta fermée de 2XKO",
+    "publishedAt": "2025-07-22T15:00:00.000Z",
+    "action": {
       "type": "youtube_video",
       "payload": {
         "youtubeId": "FEqIzg_eQts",
@@ -1853,61 +1908,6 @@
     },
     "analytics": {
       "contentId": "dda86a69-7a18-42bd-a5c6-e84e6ca1a1f5.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "fy1kVIjOdM9YCfGR6RN60v",
-      "publishDate": "2025-07-22T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Annonce de la bêta fermée de 2XKO",
-    "publishedAt": "2025-07-22T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/2xko-closedbeta-announcement"
-      }
-    },
-    "product": {
-      "title": "2XKO (fr-fr)",
-      "machineName": "2xko",
-      "id": "product.project_l.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
-        "colors": {
-          "primary": "#cdf564"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/11d051dcd9fc6c90d204d052dcf8c051af95c3d2-1920x1080.jpg?accountingTag=2XKO",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La bêta fermée de 2XKO commence le 9 septembre 2025. Lisez la suite de l'article pour plus de détails."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "8f89a9b8-e717-453b-82c9-0a521d0655be.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "fy1kVIjOdM9YCfGR6RN60v",
       "publishDate": "2025-07-22T15:00:00.000Z"

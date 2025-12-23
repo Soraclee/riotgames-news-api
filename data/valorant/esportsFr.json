@@ -55,6 +55,62 @@
     }
   },
   {
+    "title": "VCT 2025 : récapitulatif de saison",
+    "publishedAt": "2025-12-16T20:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/fr-fr/news/vct-2025-season-wrap-up"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cc0f13bcb1371cbfe1e216a7dc223eeeb0a9d945-1600x900.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Leo Faria partage ses impressions sur la saison 2025 du VCT."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de VALORANT.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "f14896e8-2c62-4d9e-a57e-9483e7af8b5a.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "AH1G324vyf2PUj4fHUaXnS",
+      "publishDate": "2025-12-16T20:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du KICKOFF du VCT EMEA 2026",
     "publishedAt": "2025-12-11T15:00:00.000Z",
     "promoCardSize": "small",
@@ -4149,63 +4205,6 @@
       "contentLocale": "fr-fr",
       "rev": "dJpBm4OmhtpmiAEkDNLy0s",
       "publishDate": "2023-12-11T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "RÉCOMPENSES DE VISIONNAGE DU CHAMPIONNAT DES GAME CHANGERS 2023",
-    "publishedAt": "2023-11-27T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://valorantesports.com/news/watch-and-earn-during-game-changers-championship-2023/"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/aa4d1fb592ec8652d152fe5e734d9f74d7a89dc1-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Regardez les matchs en direct pendant le Championnat des Game Changers pour avoir une chance de recevoir deux drops exclusifs, ainsi qu'un aperçu de la nouvelle carte pour Combat à mort par équipe le dernier jour !"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de VALORANT.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt03c1a09646d6c9ac.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "dJpBm4OmhtpmiAEkDNLOpO",
-      "publishDate": "2023-11-27T16:00:00.000Z"
     }
   }
 ]
