@@ -1,5 +1,64 @@
 [
   {
+    "title": "Festival lunaire 2026 | Retour : Festival des bêtes",
+    "publishedAt": "2026-01-05T08:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/lunar-revel-2026-revival-festival-of-beasts/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/604f108a0be1aa7d2f0ff6dd98e6f0dd07c3e5c1-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Fêtez le Festival lunaire avec le retour temporaire du set Festival des bêtes."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d35c2dea-35bb-427e-b204-d2dee89219b9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "eOAeM47HZHX2UbuVeAlGiw",
+      "publishDate": "2026-01-05T08:00:00.000Z"
+    }
+  },
+  {
     "title": "Galerie thématique Célébration de Gwen",
     "publishedAt": "2025-12-17T09:00:00.000Z",
     "promoCardSize": "medium",
@@ -4354,64 +4413,6 @@
       "contentLocale": "fr-fr",
       "rev": "cq6zs2aKk6uNADJOpy9njF",
       "publishDate": "2025-10-14T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Pick'em des Worlds",
-    "publishedAt": "2025-10-13T18:30:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://lolesports.com/fr-FR/pickems/113475452383887518"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5ddcf393ea635023a32d0f363d0b6c65ed17f891-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Faites vos prédictions - Gagnez des récompenses"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "961a3b0d-ba27-468f-83aa-bdce9e6e30df.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "LS0q3fUUSfGii0qNQjoqYF",
-      "publishDate": "2025-10-13T18:30:00.000Z"
     }
   }
 ]

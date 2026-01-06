@@ -345,65 +345,6 @@
     }
   },
   {
-    "title": "Bel’Veth Featured Story",
-    "publishedAt": "2022-05-20T19:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://universe.leagueoflegends.com/en_US/story/belveth-color-story/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f309fab519f5c07b3f259cabd4279fd72168c3e0-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Read Bel’Veth’s featured story on Universe."
-    },
-    "category": {
-      "title": "Lore",
-      "description": "Champion stories, comic releases, and more from the world of Runeterra.",
-      "machineName": "lore"
-    },
-    "analytics": {
-      "contentId": "articles.bltd19951723baa6fbc.en-us",
-      "contentLocale": "en-us",
-      "rev": "5oZd24h28sxsR5vy6hZKxj",
-      "publishDate": "2022-05-20T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Bel’Veth on Universe",
     "publishedAt": "2022-05-20T19:00:00.000Z",
     "promoCardSize": "small",
@@ -457,6 +398,65 @@
     },
     "analytics": {
       "contentId": "articles.blt39950e589b144bfb.en-us",
+      "contentLocale": "en-us",
+      "rev": "5oZd24h28sxsR5vy6hZKxj",
+      "publishDate": "2022-05-20T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Bel’Veth Featured Story",
+    "publishedAt": "2022-05-20T19:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://universe.leagueoflegends.com/en_US/story/belveth-color-story/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f309fab519f5c07b3f259cabd4279fd72168c3e0-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Read Bel’Veth’s featured story on Universe."
+    },
+    "category": {
+      "title": "Lore",
+      "description": "Champion stories, comic releases, and more from the world of Runeterra.",
+      "machineName": "lore"
+    },
+    "analytics": {
+      "contentId": "articles.bltd19951723baa6fbc.en-us",
       "contentLocale": "en-us",
       "rev": "5oZd24h28sxsR5vy6hZKxj",
       "publishDate": "2022-05-20T19:00:00.000Z"
