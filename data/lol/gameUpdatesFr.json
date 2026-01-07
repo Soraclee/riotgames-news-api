@@ -1,5 +1,65 @@
 [
   {
+    "title": "Présentation de Neeko superfan chibi",
+    "publishedAt": "2026-01-06T14:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "5JT30Rh_Gf4",
+        "videoLengthInSeconds": 30,
+        "url": "https://www.youtube.com/watch?v=5JT30Rh_Gf4"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c690412edf1825b5838ec9d3cb999744d55b36e8-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "« Personne ne s'attend à ce que Neeko ne soit pas Neeko et soit Pas-Neeko à la place ! »"
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "616f45de-e179-44a5-a8ce-046096e76747.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "HLlIn6EedyaUpuU5BzCXvm",
+      "publishDate": "2026-01-06T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Festival lunaire 2026 | Retour : Festival des bêtes",
     "publishedAt": "2026-01-05T08:00:00.000Z",
     "promoCardSize": "small",
@@ -4372,65 +4432,6 @@
       "contentLocale": "fr-fr",
       "rev": "p5nSRBft0Fa6JmWKDCaphb",
       "publishDate": "2025-07-15T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "TFT | Aperçu du set K.O. Coliseum",
-    "publishedAt": "2025-07-14T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/tft-ko-coliseum-overview"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1505e2b6c09974ff7b19137bf595e233cfafc3df-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez en avant-première les combats inspirés des animes les plus épiques de l'été !"
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "39d0da50-1f1e-426f-969f-956669a20360.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "p5nSRBft0Fa6JmWKD0szHb",
-      "publishDate": "2025-07-14T15:00:00.000Z"
     }
   }
 ]

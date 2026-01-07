@@ -1,5 +1,62 @@
 [
   {
+    "title": "Bienvenue dans la saison 2026 // Dev Updates",
+    "publishedAt": "2026-01-06T14:15:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=4HuT4WPCkbs"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/533544df754db58a8c23538a1651f4c56425abd8-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le décor est planté pour une nouvelle année de VALORANT."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de VALORANT.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "a13d4f64-357b-4b04-ab62-dfe568f9f6ac.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "j2ap1btEXETerAmP70TpqE",
+      "publishDate": "2026-01-06T14:15:00.000Z"
+    }
+  },
+  {
     "title": "Replays : Tout ce qu'il faut savoir",
     "publishedAt": "2025-09-16T13:00:00.000Z",
     "action": {
@@ -4144,61 +4201,6 @@
       "contentLocale": "fr-fr",
       "rev": "dJpBm4OmhtpmiAEkDNKqD8",
       "publishDate": "2020-12-17T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "L'état des agents - décembre 2020",
-    "publishedAt": "2020-12-16T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/state-of-the-agents-dec-2020/"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a6ca137c031e56a80c52d7007406e959fcd11fb9-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le producteur des personnages, John Goscicki, nous apporte un dernier passage en revue de l'état de nos agents… et de leur avenir."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de VALORANT.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt3c2e042c16532c30.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "U7LY2KH8zVMf9lZyDOMiBl",
-      "publishDate": "2020-12-16T16:00:00.000Z"
     }
   }
 ]

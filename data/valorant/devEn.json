@@ -1,5 +1,62 @@
 [
   {
+    "title": "Welcome to Season 2026 // Dev Updates",
+    "publishedAt": "2026-01-06T14:15:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=jRi3VWoRgX4"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/533544df754db58a8c23538a1651f4c56425abd8-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The stage is set for a new year of VALORANT."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of VALORANT.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "a13d4f64-357b-4b04-ab62-dfe568f9f6ac.en-us",
+      "contentLocale": "en-us",
+      "rev": "j2ap1btEXETerAmP70TpqE",
+      "publishDate": "2026-01-06T14:15:00.000Z"
+    }
+  },
+  {
     "title": "Replays: Everything You Need to Know",
     "publishedAt": "2025-09-16T13:00:00.000Z",
     "action": {
@@ -4146,61 +4203,6 @@
       "contentLocale": "en-us",
       "rev": "dJpBm4OmhtpmiAEkDNLIDG",
       "publishDate": "2020-12-17T18:05:00.000Z"
-    }
-  },
-  {
-    "title": "End of Year: Esports Team",
-    "publishedAt": "2020-12-17T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/end-of-year-esports-team/"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/48e9810ff3b4d43ecab3e72983ef5c8f8b97edba-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Thank you from the esports team for a groundbreak year!"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of VALORANT.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt878626a8cdba5981.en-us",
-      "contentLocale": "en-us",
-      "rev": "dJpBm4OmhtpmiAEkDNLIDG",
-      "publishDate": "2020-12-17T18:00:00.000Z"
     }
   }
 ]
