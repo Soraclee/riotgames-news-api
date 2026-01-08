@@ -1,5 +1,64 @@
 [
   {
+    "title": "Le Salut (ft. Forts) | Cinématique de la saison 1 Pour Demacia 2026",
+    "publishedAt": "2026-01-07T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=e3D7Fj1PsWk"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/517b2c208ed3a58ae49d46e35012e1f786d22dd5-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'espoir brille toujours même dans les heures les plus sombres."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "article.ac522713-6044-4525-85db-0ccdd85077b5.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "puf92RgZeWK6QVA2fx4dJM",
+      "publishDate": "2026-01-07T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Musique de Zaahen",
     "publishedAt": "2025-11-20T16:00:00.000Z",
     "promoCardSize": "small",
@@ -1010,65 +1069,6 @@
     }
   },
   {
-    "title": "La Main du démon - Bande dessinée animée",
-    "publishedAt": "2025-05-20T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Si vous provoquez un démon, assurez-vous d'avoir une bonne main. Découvrez la bande dessinée animée."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "tdMbenkpDyXWNl15ejKINA",
-      "publishDate": "2025-05-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Le quatrième principe - Bande dessinée animée",
     "publishedAt": "2025-05-20T15:00:00.000Z",
     "promoCardSize": "small",
@@ -1122,6 +1122,65 @@
     },
     "analytics": {
       "contentId": "8938fb6d-f518-4d95-a8fa-4023f7e94679.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "tdMbenkpDyXWNl15ejKINA",
+      "publishDate": "2025-05-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "La Main du démon - Bande dessinée animée",
+    "publishedAt": "2025-05-20T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=a6LOPGz3JdE"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Si vous provoquez un démon, assurez-vous d'avoir une bonne main. Découvrez la bande dessinée animée."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "dbd765de-df7a-4abf-a8c5-af6eb2b731bc.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tdMbenkpDyXWNl15ejKINA",
       "publishDate": "2025-05-20T15:00:00.000Z"
