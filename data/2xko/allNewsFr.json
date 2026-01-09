@@ -119,7 +119,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "E5GqqnRmKtU",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 249,
         "url": "https://www.youtube.com/watch?v=E5GqqnRmKtU"
       }
     },
@@ -680,7 +680,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "6_ztib3bQVc",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 94,
         "url": "https://www.youtube.com/watch?v=6_ztib3bQVc"
       }
     },
@@ -1861,6 +1861,63 @@
     "title": "Annonce de la bêta fermée de 2XKO",
     "publishedAt": "2025-07-22T15:00:00.000Z",
     "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "FEqIzg_eQts",
+        "videoLengthInSeconds": 115,
+        "url": "https://www.youtube.com/watch?v=FEqIzg_eQts"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7d7094ca423845aba58a0f9d116ad553bdf3abe8-1920x1080.jpg?accountingTag=2XKO",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La bêta fermée de 2XKO commence le 9 septembre avec un nouveau champion : Vi, Cogne de Piltover."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "dda86a69-7a18-42bd-a5c6-e84e6ca1a1f5.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "fy1kVIjOdM9YCfGR6RN60v",
+      "publishDate": "2025-07-22T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Annonce de la bêta fermée de 2XKO",
+    "publishedAt": "2025-07-22T15:00:00.000Z",
+    "action": {
       "type": "weblink",
       "payload": {
         "url": "/fr-fr/news/game-updates/2xko-closedbeta-announcement"
@@ -1907,63 +1964,6 @@
     },
     "analytics": {
       "contentId": "8f89a9b8-e717-453b-82c9-0a521d0655be.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "fy1kVIjOdM9YCfGR6RN60v",
-      "publishDate": "2025-07-22T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Annonce de la bêta fermée de 2XKO",
-    "publishedAt": "2025-07-22T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "FEqIzg_eQts",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=FEqIzg_eQts"
-      }
-    },
-    "product": {
-      "title": "2XKO (fr-fr)",
-      "machineName": "2xko",
-      "id": "product.project_l.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
-        "colors": {
-          "primary": "#cdf564"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7d7094ca423845aba58a0f9d116ad553bdf3abe8-1920x1080.jpg?accountingTag=2XKO",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La bêta fermée de 2XKO commence le 9 septembre avec un nouveau champion : Vi, Cogne de Piltover."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "dda86a69-7a18-42bd-a5c6-e84e6ca1a1f5.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "fy1kVIjOdM9YCfGR6RN60v",
       "publishDate": "2025-07-22T15:00:00.000Z"
@@ -2704,63 +2704,6 @@
     }
   },
   {
-    "title": "Nouveau champion : Yasuo",
-    "publishedAt": "2024-03-11T13:00:36.610Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "T4zqkjXdYT0",
-        "videoLengthInSeconds": 249,
-        "url": "https://www.youtube.com/watch?v=T4zqkjXdYT0"
-      }
-    },
-    "product": {
-      "title": "2XKO (fr-fr)",
-      "machineName": "2xko",
-      "id": "product.project_l.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
-        "colors": {
-          "primary": "#cdf564"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7c50c501e9f9902fee52fa7219e4f339efb1b733-1920x1080.jpg?accountingTag=2XKO",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Faites face au vent avec Yasuo, Disgracié, qui rejoint 2XKO aux côtés d'Ekko, Ahri et Darius."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "2xko_dev"
-    },
-    "analytics": {
-      "contentId": "86a1977b-7ffd-4968-bede-e64604fd92c4",
-      "contentLocale": "fr-fr",
-      "rev": "fy1kVIjOdM9YCfGR6RN60v",
-      "publishDate": "2024-03-11T13:00:36.610Z"
-    }
-  },
-  {
     "title": "Présentation du système de duos",
     "publishedAt": "2024-03-11T13:00:46.401Z",
     "promoCardSize": "small",
@@ -2933,6 +2876,63 @@
     }
   },
   {
+    "title": "Nouveau champion : Yasuo",
+    "publishedAt": "2024-03-11T13:00:36.610Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "T4zqkjXdYT0",
+        "videoLengthInSeconds": 249,
+        "url": "https://www.youtube.com/watch?v=T4zqkjXdYT0"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7c50c501e9f9902fee52fa7219e4f339efb1b733-1920x1080.jpg?accountingTag=2XKO",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Faites face au vent avec Yasuo, Disgracié, qui rejoint 2XKO aux côtés d'Ekko, Ahri et Darius."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "2xko_dev"
+    },
+    "analytics": {
+      "contentId": "86a1977b-7ffd-4968-bede-e64604fd92c4",
+      "contentLocale": "fr-fr",
+      "rev": "fy1kVIjOdM9YCfGR6RN60v",
+      "publishDate": "2024-03-11T13:00:36.610Z"
+    }
+  },
+  {
     "title": "Comment jouer à 2XKO (2023)",
     "publishedAt": "2024-03-11T13:00:00.000Z",
     "action": {
@@ -2996,7 +2996,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "5EFQxwqwWF8",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 177,
         "url": "https://www.youtube.com/watch?v=5EFQxwqwWF8"
       }
     },

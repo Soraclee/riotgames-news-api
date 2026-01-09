@@ -1,5 +1,63 @@
 [
   {
+    "title": "Lancement de la saison 2026 : Lol Esports",
+    "publishedAt": "2026-01-08T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/season-start-2026-lol-esports"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/34b66c77840e66a28e0b2a847ac0f828dc8efa2c-1600x900.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Bienvenue pour le lancement de la saison 2026 !"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "a07035e3-11b4-4f2f-b7e8-f34a23a9b8a2.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "redZpSO2R3Ek4oPzjJ2QWr",
+      "publishDate": "2026-01-08T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du LEC Versus 2026",
     "publishedAt": "2025-12-16T15:00:00.000Z",
     "action": {
@@ -231,66 +289,6 @@
     }
   },
   {
-    "title": "Tactician's Crown de K.O. Coliseum",
-    "publishedAt": "2025-11-05T14:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "vFq6rImTr4U",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=vFq6rImTr4U"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f7f2261c5b1d7cc582e70e32052d6e948bdc46d5-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les meilleurs combattants. Les plus beaux combats. Ne manquez pas ça."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "bab02ce8-53ed-4adc-9a9e-613453d5c17d.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "DnJH9e7ZPr5omJnEDk4dpH",
-      "publishDate": "2025-11-05T14:00:00.000Z"
-    }
-  },
-  {
     "title": "Informations Tactician's Crown de K.O. Coliseum",
     "publishedAt": "2025-11-05T14:00:00.000Z",
     "promoCardSize": "small",
@@ -350,13 +348,15 @@
     }
   },
   {
-    "title": "Meilleures actions - Phase finale",
-    "publishedAt": "2025-11-04T16:00:00.000Z",
+    "title": "Tactician's Crown de K.O. Coliseum",
+    "publishedAt": "2025-11-05T14:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=w0-uua72aig"
+        "youtubeId": "vFq6rImTr4U",
+        "videoLengthInSeconds": 128,
+        "url": "https://www.youtube.com/watch?v=vFq6rImTr4U"
       }
     },
     "product": {
@@ -384,16 +384,16 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 720,
-        "width": 1280,
+        "height": 1080,
+        "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c8b5f03b26949d98805d9b082505893b60bc660d-1280x720.png?accountingTag=LoL",
-      "mimeType": "image/png"
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f7f2261c5b1d7cc582e70e32052d6e948bdc46d5-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Voilà à quoi ressemble le top de League of Legends. Retrouvez ici tous les temps forts de la deuxième étape des Worlds 2025."
+      "body": "Les meilleurs combattants. Les plus beaux combats. Ne manquez pas ça."
     },
     "category": {
       "title": "E-sport",
@@ -401,9 +401,68 @@
       "machineName": "esports"
     },
     "analytics": {
-      "contentId": "article.c90667dd-b417-4b93-ad8a-70d86a80a9b1.fr-fr",
+      "contentId": "bab02ce8-53ed-4adc-9a9e-613453d5c17d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "lrTRBQClIW75S5I9TAirgP",
+      "rev": "DnJH9e7ZPr5omJnEDk4dpH",
+      "publishDate": "2025-11-05T14:00:00.000Z"
+    }
+  },
+  {
+    "title": "Bande-annonce de la cérémonie d'ouverture de la finale des Worlds 2025",
+    "publishedAt": "2025-11-04T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=SKopVKbHEB0"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f08d9dda8278c4e025da290bd75b738623f9ff61-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Ne manquez pas les performances en direct de G.E.M. (鄧紫棋), Anyma, Chrissy Costanza et TEYA pendant la cérémonie d'ouverture de la finale des Worlds 2025 !"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "846d3082-3b96-430d-b078-db6d41158bfc.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "GNHjJJdbzIjxC2s2xUBW7w",
       "publishDate": "2025-11-04T16:00:00.000Z"
     }
   },
@@ -465,14 +524,13 @@
     }
   },
   {
-    "title": "Bande-annonce de la cérémonie d'ouverture de la finale des Worlds 2025",
+    "title": "Meilleures actions - Phase finale",
     "publishedAt": "2025-11-04T16:00:00.000Z",
-    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
         "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=SKopVKbHEB0"
+        "url": "https://www.youtube.com/watch?v=w0-uua72aig"
       }
     },
     "product": {
@@ -500,16 +558,16 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1080,
-        "width": 1920,
+        "height": 720,
+        "width": 1280,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f08d9dda8278c4e025da290bd75b738623f9ff61-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c8b5f03b26949d98805d9b082505893b60bc660d-1280x720.png?accountingTag=LoL",
+      "mimeType": "image/png"
     },
     "description": {
       "type": "html",
-      "body": "Ne manquez pas les performances en direct de G.E.M. (鄧紫棋), Anyma, Chrissy Costanza et TEYA pendant la cérémonie d'ouverture de la finale des Worlds 2025 !"
+      "body": "Voilà à quoi ressemble le top de League of Legends. Retrouvez ici tous les temps forts de la deuxième étape des Worlds 2025."
     },
     "category": {
       "title": "E-sport",
@@ -517,9 +575,9 @@
       "machineName": "esports"
     },
     "analytics": {
-      "contentId": "846d3082-3b96-430d-b078-db6d41158bfc.fr-fr",
+      "contentId": "article.c90667dd-b417-4b93-ad8a-70d86a80a9b1.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "GNHjJJdbzIjxC2s2xUBW7w",
+      "rev": "lrTRBQClIW75S5I9TAirgP",
       "publishDate": "2025-11-04T16:00:00.000Z"
     }
   },
@@ -695,65 +753,6 @@
     }
   },
   {
-    "title": "Meilleures actions - Play-ins & phase à système suisse / Partie 1",
-    "publishedAt": "2025-10-21T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=ZsIo_Df7IrA"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d840c71387b9f67cddcdeb32a49094b1b144ddb1-1280x720.png?accountingTag=LoL",
-      "mimeType": "image/png"
-    },
-    "description": {
-      "type": "html",
-      "body": "Sortir le grand jeu et dicter le tempo - Découvrez les meilleures actions de la première étape des Worlds 2025."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "c7e05c30-39f5-451a-a626-80ff70405904.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "vOtRji7u8I2gnUJkYBvi0L",
-      "publishDate": "2025-10-21T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Jouez comme un pro : l'art de Xin Zhao",
     "publishedAt": "2025-10-21T15:00:00.000Z",
     "promoCardSize": "small",
@@ -810,6 +809,65 @@
       "contentId": "06e193b0-c63a-40ee-9a29-1ab8cd25f3c4.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "UMqzntVToxW8FUfGYUfv25",
+      "publishDate": "2025-10-21T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Meilleures actions - Play-ins & phase à système suisse / Partie 1",
+    "publishedAt": "2025-10-21T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=ZsIo_Df7IrA"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d840c71387b9f67cddcdeb32a49094b1b144ddb1-1280x720.png?accountingTag=LoL",
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Sortir le grand jeu et dicter le tempo - Découvrez les meilleures actions de la première étape des Worlds 2025."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "c7e05c30-39f5-451a-a626-80ff70405904.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "vOtRji7u8I2gnUJkYBvi0L",
       "publishDate": "2025-10-21T15:00:00.000Z"
     }
   },
@@ -872,64 +930,6 @@
     }
   },
   {
-    "title": "Secretlab OSS @ Worlds 2025",
-    "publishedAt": "2025-10-06T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/fr-fr/news/secretlab-oss-at-worlds-2025"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b212c348d58c02935e78b5a2bf333e0982b6c453-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le partenaire officiel des chaises de LoL Esports vous présente le TITAN Evo édition Worlds 2025 avec un accoudoir Infinite Precision."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "e820c1e5-f3d2-4abc-88fa-df7c4136de07.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "EkG99xuRrB0fs4jnvBXJnf",
-      "publishDate": "2025-10-06T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Écrivez votre légende | Worlds 2025",
     "publishedAt": "2025-10-06T15:00:00.000Z",
     "promoCardSize": "medium",
@@ -985,6 +985,64 @@
       "contentId": "ff21be31-73f6-43c6-813a-38b73c6eab40.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "Wma5gH6EhMnuJDbYXLBoLn",
+      "publishDate": "2025-10-06T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Secretlab OSS @ Worlds 2025",
+    "publishedAt": "2025-10-06T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/secretlab-oss-at-worlds-2025"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b212c348d58c02935e78b5a2bf333e0982b6c453-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le partenaire officiel des chaises de LoL Esports vous présente le TITAN Evo édition Worlds 2025 avec un accoudoir Infinite Precision."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "e820c1e5-f3d2-4abc-88fa-df7c4136de07.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "EkG99xuRrB0fs4jnvBXJnf",
       "publishDate": "2025-10-06T15:00:00.000Z"
     }
   },
@@ -1514,7 +1572,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "arRvhEEtxlY",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 94,
         "url": "https://www.youtube.com/watch?v=arRvhEEtxlY"
       }
     },
@@ -4427,65 +4485,6 @@
       "contentLocale": "fr-fr",
       "rev": "uHzmvE2HQDA7PXHnK0mJMg",
       "publishDate": "2024-11-04T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Cérémonie d'ouverture des Worlds 2024",
-    "publishedAt": "2024-11-02T15:00:02.559Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=MUVT6lylqnM"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/15edb8dfef932c5a4bff09820ad686c33b69a83c-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Présentée par Mastercard avec Linkin Park, Ashnikko et bien d’autres !"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "9882e8d9-3854-4b06-a0ab-401c46643dc4.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "1v7MRIpZS1A0E2ougO143r",
-      "publishDate": "2024-11-02T15:00:02.559Z"
     }
   }
 ]

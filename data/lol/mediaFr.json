@@ -897,7 +897,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "62_akMCQtyc",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 103,
         "url": "https://www.youtube.com/watch?v=62_akMCQtyc"
       }
     },
@@ -1310,7 +1310,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "LEHKaOAxFxU",
-        "videoLengthInSeconds": 189,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=LEHKaOAxFxU"
       }
     },
@@ -1721,64 +1721,6 @@
     }
   },
   {
-    "title": "La racine de l'empire",
-    "publishedAt": "2025-03-17T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=Bktvy2CTbJg"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e53af38cc0536dc7dc721e7ed432f622b11eb9b3-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "LeBlanc complote depuis des siècles. Sa sombre conspiration peut à présent éclore."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "13de40c1-2ce4-41fd-b67a-2bde11a9d9b0.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "DgoKVhO4vj9NHi8b0K6rwy",
-      "publishDate": "2025-03-17T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Mini cinématique Réalité fracturée",
     "publishedAt": "2025-03-17T15:00:00.000Z",
     "action": {
@@ -1834,6 +1776,64 @@
       "contentId": "a180312a-d563-4fed-a904-40f3da455270.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "gac8Pitl2SKMMNyPBO8KrW",
+      "publishDate": "2025-03-17T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "La racine de l'empire",
+    "publishedAt": "2025-03-17T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=Bktvy2CTbJg"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e53af38cc0536dc7dc721e7ed432f622b11eb9b3-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "LeBlanc complote depuis des siècles. Sa sombre conspiration peut à présent éclore."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "13de40c1-2ce4-41fd-b67a-2bde11a9d9b0.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "DgoKVhO4vj9NHi8b0K6rwy",
       "publishDate": "2025-03-17T15:00:00.000Z"
     }
   },
@@ -3580,7 +3580,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "XjOd1SrJpQI",
-        "videoLengthInSeconds": 207,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=XjOd1SrJpQI"
       }
     },
@@ -3640,7 +3640,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "GRtkPTRsnEY",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 40,
         "url": "https://www.youtube.com/watch?v=GRtkPTRsnEY"
       }
     },
@@ -3897,7 +3897,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "kwBMaGcD-Js",
-        "videoLengthInSeconds": 212,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=kwBMaGcD-Js"
       }
     },
@@ -3964,7 +3964,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "98VDl2O-czg",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 121,
         "url": "https://www.youtube.com/watch?v=98VDl2O-czg"
       }
     },
@@ -4900,7 +4900,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "l3mplhvokYk",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 57,
         "url": "https://www.youtube.com/watch?v=l3mplhvokYk"
       }
     },
@@ -5399,7 +5399,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "D6ro89Wq_fE",
-        "videoLengthInSeconds": 193,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=D6ro89Wq_fE"
       }
     },
@@ -5459,7 +5459,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "Gm6UATSdtJA",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 63,
         "url": "https://www.youtube.com/watch?v=Gm6UATSdtJA"
       }
     },
@@ -6406,7 +6406,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "P4VDyJqnISg",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 156,
         "url": "https://www.youtube.com/watch?v=P4VDyJqnISg"
       }
     },
@@ -6580,7 +6580,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "-MmVPmN-kNU",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 248,
         "url": "https://www.youtube.com/watch?v=-MmVPmN-kNU"
       }
     },

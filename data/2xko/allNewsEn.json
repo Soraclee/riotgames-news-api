@@ -119,7 +119,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "8kcEAE-ZOVY",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 249,
         "url": "https://www.youtube.com/watch?v=8kcEAE-ZOVY"
       }
     },
@@ -680,7 +680,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "4CRb0tPXCXY",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 94,
         "url": "https://www.youtube.com/watch?v=4CRb0tPXCXY"
       }
     },
@@ -847,7 +847,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "xyK3lFtz2H8",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 250,
         "url": "https://www.youtube.com/watch?v=xyK3lFtz2H8"
       }
     },
@@ -960,7 +960,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "s7nFQs_uIqI",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 927,
         "url": "https://www.youtube.com/watch?v=s7nFQs_uIqI"
       }
     },
@@ -1583,7 +1583,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "47X48kQ8TKs",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 702,
         "url": "https://www.youtube.com/watch?v=47X48kQ8TKs"
       }
     },
@@ -2137,62 +2137,6 @@
     }
   },
   {
-    "title": "What’s New in Alpha Lab 2",
-    "publishedAt": "2025-03-27T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/whats-new-in-alpha-lab-2"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
-        "colors": {
-          "primary": "#cdf564"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a963087c6307ae59d423fd80c090e133e9336e33-1920x1080.jpg?accountingTag=2XKO",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A comprehensive list of updates coming in 2XKO’s next playtest."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "163d11cf-4d25-4454-8c4c-b150313af3ee.en-us",
-      "contentLocale": "en-us",
-      "rev": "fy1kVIjOdM9YCfGR6RN60v",
-      "publishDate": "2025-03-27T16:00:00.000Z"
-    }
-  },
-  {
     "title": "2XKO Alpha Lab 2: Overview & FAQ",
     "publishedAt": "2025-03-27T16:00:00.000Z",
     "promoCardSize": "small",
@@ -2243,6 +2187,62 @@
     },
     "analytics": {
       "contentId": "b712afa0-10de-4021-9ce2-8dc946c34a51",
+      "contentLocale": "en-us",
+      "rev": "fy1kVIjOdM9YCfGR6RN60v",
+      "publishDate": "2025-03-27T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "What’s New in Alpha Lab 2",
+    "publishedAt": "2025-03-27T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/whats-new-in-alpha-lab-2"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a963087c6307ae59d423fd80c090e133e9336e33-1920x1080.jpg?accountingTag=2XKO",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A comprehensive list of updates coming in 2XKO’s next playtest."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "163d11cf-4d25-4454-8c4c-b150313af3ee.en-us",
       "contentLocale": "en-us",
       "rev": "fy1kVIjOdM9YCfGR6RN60v",
       "publishDate": "2025-03-27T16:00:00.000Z"
@@ -2311,7 +2311,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "9cJVWte_4Hc",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 60,
         "url": "https://www.youtube.com/watch?v=9cJVWte_4Hc"
       }
     },
@@ -2593,7 +2593,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "nfUQNqEllIg",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 847,
         "url": "https://www.youtube.com/watch?v=nfUQNqEllIg"
       }
     },
@@ -2982,63 +2982,6 @@
     }
   },
   {
-    "title": "Devs Play Duos",
-    "publishedAt": "2024-03-11T13:00:47.714Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "F4a7UzySL9o",
-        "videoLengthInSeconds": 287,
-        "url": "https://www.youtube.com/watch?v=F4a7UzySL9o"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
-        "colors": {
-          "primary": "#cdf564"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/1f37f6bbeb92b7352010eac608a81e2bf88fe010-1920x1080.jpg?accountingTag=2XKO",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Four devs face off to put 2XKO’s 2v2 tag-team system to the test."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "2xko_dev"
-    },
-    "analytics": {
-      "contentId": "94af89a6-043a-4147-a6b3-3c80b1703cbb",
-      "contentLocale": "en-us",
-      "rev": "fy1kVIjOdM9YCfGR6RN60v",
-      "publishDate": "2024-03-11T13:00:47.714Z"
-    }
-  },
-  {
     "title": "New Champion: Yasuo",
     "publishedAt": "2024-03-11T13:00:36.610Z",
     "promoCardSize": "small",
@@ -3046,7 +2989,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "T4zqkjXdYT0",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 249,
         "url": "https://www.youtube.com/watch?v=T4zqkjXdYT0"
       }
     },
@@ -3160,7 +3103,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "rSjVmgSxfZY",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 55,
         "url": "https://www.youtube.com/watch?v=rSjVmgSxfZY"
       }
     },
@@ -3208,6 +3151,119 @@
       "contentLocale": "en-us",
       "rev": "fy1kVIjOdM9YCfGR6RN60v",
       "publishDate": "2024-03-11T13:00:59.565Z"
+    }
+  },
+  {
+    "title": "Devs Play Duos",
+    "publishedAt": "2024-03-11T13:00:47.714Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "F4a7UzySL9o",
+        "videoLengthInSeconds": 287,
+        "url": "https://www.youtube.com/watch?v=F4a7UzySL9o"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/1f37f6bbeb92b7352010eac608a81e2bf88fe010-1920x1080.jpg?accountingTag=2XKO",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Four devs face off to put 2XKO’s 2v2 tag-team system to the test."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "2xko_dev"
+    },
+    "analytics": {
+      "contentId": "94af89a6-043a-4147-a6b3-3c80b1703cbb",
+      "contentLocale": "en-us",
+      "rev": "fy1kVIjOdM9YCfGR6RN60v",
+      "publishDate": "2024-03-11T13:00:47.714Z"
+    }
+  },
+  {
+    "title": "How to Play 2XKO (2023)",
+    "publishedAt": "2024-03-11T13:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "cuympmzTzro",
+        "videoLengthInSeconds": 360,
+        "url": "https://www.youtube.com/watch?v=cuympmzTzro"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/39656e024b8cb37af41d353c49c4a9b578f61575-1920x1080.jpg?accountingTag=2XKO",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A helpful overview of 2XKO’s basic combos, defensive options, tag mechanics, and fuse system."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "2xko_dev"
+    },
+    "analytics": {
+      "contentId": "776bbb0b-c2a6-47cd-aa4c-862a8afae14d",
+      "contentLocale": "en-us",
+      "rev": "fy1kVIjOdM9YCfGR6RN60v",
+      "publishDate": "2024-03-11T13:00:00.000Z"
     }
   },
   {
@@ -3320,62 +3376,6 @@
     },
     "analytics": {
       "contentId": "f3c96b8b-f23c-4eaf-8c5c-01fdfb713c41",
-      "contentLocale": "en-us",
-      "rev": "fy1kVIjOdM9YCfGR6RN60v",
-      "publishDate": "2024-03-11T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "How to Play 2XKO (2023)",
-    "publishedAt": "2024-03-11T13:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "cuympmzTzro",
-        "videoLengthInSeconds": 360,
-        "url": "https://www.youtube.com/watch?v=cuympmzTzro"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
-        "colors": {
-          "primary": "#cdf564"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/39656e024b8cb37af41d353c49c4a9b578f61575-1920x1080.jpg?accountingTag=2XKO",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A helpful overview of 2XKO’s basic combos, defensive options, tag mechanics, and fuse system."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "2xko_dev"
-    },
-    "analytics": {
-      "contentId": "776bbb0b-c2a6-47cd-aa4c-862a8afae14d",
       "contentLocale": "en-us",
       "rev": "fy1kVIjOdM9YCfGR6RN60v",
       "publishDate": "2024-03-11T13:00:00.000Z"
