@@ -1,5 +1,63 @@
 [
   {
+    "title": "Jouez à Retour : Festival des bêtes, dès le 22 janvier",
+    "publishedAt": "2026-01-09T07:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "v4aeTXlfGkU",
+        "videoLengthInSeconds": 92,
+        "url": "https://www.youtube.com/watch?v=v4aeTXlfGkU"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/73d09b552a64c4afe8949b6824d8a71017dcc3a4-1920x1080.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Faisons un saut dans le passé."
+    },
+    "category": {
+      "title": "Actualités",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "8cd191ef-a557-47e8-8b31-f468c82a9e7f.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "c1T9sKzTAqaveAWiMRKA6r",
+      "publishDate": "2026-01-09T07:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 16.2 de TFT",
     "publishedAt": "2026-01-07T19:00:00.000Z",
     "action": {
@@ -50,7 +108,7 @@
     "analytics": {
       "contentId": "a217b8ea-816b-4e81-ad89-4b0f9ad7408c.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "puf92RgZeWK6QVA2fy8l86",
+      "rev": "4a7FmnpsTr7eGMJy7BJYOY",
       "publishDate": "2026-01-07T19:00:00.000Z"
     }
   },
@@ -5059,7 +5117,7 @@
       "body": "Un petit patch d'équilibrage pour K.O. Coliseum et une belle envolée pour notre retour de set Royaumes inconnus !"
     },
     "category": {
-      "title": "Actualités",
+      "title": "Mises à jour du jeu",
       "description": "Toutes les infos officielles à propos du jeu.",
       "machineName": "game-updates"
     },
@@ -8718,199 +8776,6 @@
       "contentLocale": "fr-fr",
       "rev": "Na4rGdANtziFPBVG24kOxQ",
       "publishDate": "2025-08-01T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Esprits des onsen",
-    "publishedAt": "2025-07-31T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "utG5tUbuU68",
-        "videoLengthInSeconds": 82,
-        "url": "https://www.youtube.com/watch?v=utG5tUbuU68"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#ffb60d"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "002db01b0f30",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2025-07-29T23:13:29Z",
-              "_id": "image-6cb58f5ac93cac0a91ee6d1b09e68abbc81d40b5-1600x1080-jpg",
-              "_rev": "MZ9Dgo1Fp8CcoMqA8Ts5bt",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2025-07-31T19:12:44Z",
-              "assetId": "6cb58f5ac93cac0a91ee6d1b09e68abbc81d40b5",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "V9Lyg1D%.iMc0000%1vgtR?v00T0ICt8%MB@jdK*X2vz",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#4e3738",
-                    "foreground": "#fff",
-                    "population": 4.55,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#7a3953",
-                    "foreground": "#fff",
-                    "population": 4.12,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#e0c6df",
-                    "foreground": "#000",
-                    "population": 4.58,
-                    "title": "#000"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#e0c6df",
-                    "foreground": "#000",
-                    "population": 4.58,
-                    "title": "#000"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#f297dd",
-                    "foreground": "#000",
-                    "population": 0.1,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#5c74a4",
-                    "foreground": "#fff",
-                    "population": 0,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#b55c7f",
-                    "foreground": "#fff",
-                    "population": 3.59,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "opt": {
-                "media": {
-                  "tags": [
-                    {
-                      "_createdAt": "2024-04-24T03:44:09Z",
-                      "_id": "xL4mW6qp8pgFe8kPyEcjqd",
-                      "_rev": "ZgPiUE9lJ1tcRKuFnRgqXh",
-                      "_type": "media.tag",
-                      "_updatedAt": "2024-07-09T20:58:03Z",
-                      "name": {
-                        "_type": "slug",
-                        "current": "Teamfight Tactics"
-                      },
-                      "dataset": "news_live"
-                    },
-                    {
-                      "_createdAt": "2024-05-30T00:31:04Z",
-                      "_id": "1257WALiBIVf9XCQetNROh",
-                      "_rev": "ZgPiUE9lJ1tcRKuFnRhGVF",
-                      "_type": "media.tag",
-                      "_updatedAt": "2024-07-09T21:00:00Z",
-                      "name": {
-                        "_type": "slug",
-                        "current": "T1 Backdrop"
-                      },
-                      "dataset": "news_live"
-                    }
-                  ]
-                }
-              },
-              "originalFilename": "TFT_ST1525_Thumbnails_Client_T1-Decluttered_SpiritsoftheSprings_[1920x1080]_V001_SUMMONER.jpg",
-              "path": "images/dsfx7636/news_live/6cb58f5ac93cac0a91ee6d1b09e68abbc81d40b5-1600x1080.jpg",
-              "sha1hash": "6cb58f5ac93cac0a91ee6d1b09e68abbc81d40b5",
-              "size": 306972,
-              "uploadId": "vIy3Fmb5IVcO5nDueyW47uXB2fanV6v4",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6cb58f5ac93cac0a91ee6d1b09e68abbc81d40b5-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "utG5tUbuU68"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/88a6c5b8edf1aa9ce498bcfb777073a26ba9410d-1920x1080.jpg?accountingTag=TFT",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Lillia fleur spirituelle chibi découvre le charmant esprit du Village spirituel... et sympathise."
-    },
-    "category": {
-      "title": "Actualités",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "6fb3f2e7-7a0f-4be0-8ad0-7efa37c95367.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "zZnyOGt25TdOcjQJda02I6",
-      "publishDate": "2025-07-31T16:00:00.000Z"
     }
   }
 ]
