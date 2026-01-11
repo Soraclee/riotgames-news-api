@@ -2870,6 +2870,62 @@
     }
   },
   {
+    "title": "2XKO Social Art",
+    "publishedAt": "2024-03-11T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.riotgames.com/en/news/2xko-wallpapers-social-kit"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d951af99ecd063eae46aa235d7fd5f43498d9d8b-1920x1080.jpg?accountingTag=2XKO",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Show off some 2XKO flair on social media with a free art kit."
+    },
+    "category": {
+      "title": "Community",
+      "machineName": "2xko_community"
+    },
+    "analytics": {
+      "contentId": "d937c3bf-310d-4df2-a152-3aef1b293c15",
+      "contentLocale": "en-us",
+      "rev": "fy1kVIjOdM9YCfGR6RN60v",
+      "publishDate": "2024-03-11T15:00:00.000Z"
+    }
+  },
+  {
     "title": "2024 In Preview",
     "publishedAt": "2024-03-11T15:00:00.000Z",
     "promoCardSize": "small",
@@ -2926,14 +2982,15 @@
     }
   },
   {
-    "title": "2XKO Social Art",
-    "publishedAt": "2024-03-11T15:00:00.000Z",
+    "title": "New Champion: Yasuo",
+    "publishedAt": "2024-03-11T13:00:36.610Z",
     "promoCardSize": "small",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "isExternal": true,
-        "url": "https://www.riotgames.com/en/news/2xko-wallpapers-social-kit"
+        "youtubeId": "T4zqkjXdYT0",
+        "videoLengthInSeconds": 249,
+        "url": "https://www.youtube.com/watch?v=T4zqkjXdYT0"
       }
     },
     "product": {
@@ -2963,22 +3020,79 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d951af99ecd063eae46aa235d7fd5f43498d9d8b-1920x1080.jpg?accountingTag=2XKO",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7c50c501e9f9902fee52fa7219e4f339efb1b733-1920x1080.jpg?accountingTag=2XKO",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Show off some 2XKO flair on social media with a free art kit."
+      "body": "Face the wind with Yasuo the Unforgiven, who joins the 2XKO roster alongside Ekko, Ahri, and Darius."
     },
     "category": {
-      "title": "Community",
-      "machineName": "2xko_community"
+      "title": "Dev",
+      "machineName": "2xko_dev"
     },
     "analytics": {
-      "contentId": "d937c3bf-310d-4df2-a152-3aef1b293c15",
+      "contentId": "c0635e5a-4ab9-443e-aa62-ff9d451dd092",
       "contentLocale": "en-us",
       "rev": "fy1kVIjOdM9YCfGR6RN60v",
-      "publishDate": "2024-03-11T15:00:00.000Z"
+      "publishDate": "2024-03-11T13:00:36.610Z"
+    }
+  },
+  {
+    "title": "Introducing Duo Play",
+    "publishedAt": "2024-03-11T13:00:46.401Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "_KalbPq3Ic4",
+        "videoLengthInSeconds": 218,
+        "url": "https://www.youtube.com/watch?v=_KalbPq3Ic4"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b93f3aa1f5aa9ee485ccf295af30d36ca2e6059b-1920x1080.jpg?accountingTag=2XKO",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A quick rundown of 2XKO’s 2v2 tag-based gameplay from Game Director Shaun Rivera."
+    },
+    "category": {
+      "title": "Dev",
+      "machineName": "2xko_dev"
+    },
+    "analytics": {
+      "contentId": "de914f00-37a9-4a3e-9569-3398663610d3",
+      "contentLocale": "en-us",
+      "rev": "fy1kVIjOdM9YCfGR6RN60v",
+      "publishDate": "2024-03-11T13:00:46.401Z"
     }
   },
   {
@@ -3094,120 +3208,6 @@
       "contentLocale": "en-us",
       "rev": "fy1kVIjOdM9YCfGR6RN60v",
       "publishDate": "2024-03-11T13:00:47.714Z"
-    }
-  },
-  {
-    "title": "New Champion: Yasuo",
-    "publishedAt": "2024-03-11T13:00:36.610Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "T4zqkjXdYT0",
-        "videoLengthInSeconds": 249,
-        "url": "https://www.youtube.com/watch?v=T4zqkjXdYT0"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
-        "colors": {
-          "primary": "#cdf564"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7c50c501e9f9902fee52fa7219e4f339efb1b733-1920x1080.jpg?accountingTag=2XKO",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Face the wind with Yasuo the Unforgiven, who joins the 2XKO roster alongside Ekko, Ahri, and Darius."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "2xko_dev"
-    },
-    "analytics": {
-      "contentId": "c0635e5a-4ab9-443e-aa62-ff9d451dd092",
-      "contentLocale": "en-us",
-      "rev": "fy1kVIjOdM9YCfGR6RN60v",
-      "publishDate": "2024-03-11T13:00:36.610Z"
-    }
-  },
-  {
-    "title": "Introducing Duo Play",
-    "publishedAt": "2024-03-11T13:00:46.401Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "_KalbPq3Ic4",
-        "videoLengthInSeconds": 218,
-        "url": "https://www.youtube.com/watch?v=_KalbPq3Ic4"
-      }
-    },
-    "product": {
-      "title": "2XKO (en-us)",
-      "machineName": "2xko",
-      "id": "product.project_l.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
-        "colors": {
-          "primary": "#cdf564"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b93f3aa1f5aa9ee485ccf295af30d36ca2e6059b-1920x1080.jpg?accountingTag=2XKO",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A quick rundown of 2XKO’s 2v2 tag-based gameplay from Game Director Shaun Rivera."
-    },
-    "category": {
-      "title": "Dev",
-      "machineName": "2xko_dev"
-    },
-    "analytics": {
-      "contentId": "de914f00-37a9-4a3e-9569-3398663610d3",
-      "contentLocale": "en-us",
-      "rev": "fy1kVIjOdM9YCfGR6RN60v",
-      "publishDate": "2024-03-11T13:00:46.401Z"
     }
   },
   {
