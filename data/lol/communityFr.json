@@ -1,5 +1,62 @@
 [
   {
+    "title": "Commentateurs, co-streamers et partenaires de diffusion du LEC 2026",
+    "publishedAt": "2026-01-13T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/2026-lec-talent-broadcast-partners-and-co-streamers"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c1ef08b92878f0d68545770b83f92ba0d59b7d62-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez celles et ceux qui vous feront vibrer devant vos écrans toute la saison 2026 du LEC"
+    },
+    "category": {
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "2ff6852a-c9b3-4239-b48a-9d435dad8b01.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "x6e5cvzkf14I5RCNbLO7yL",
+      "publishDate": "2026-01-13T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Zoom sur l'art de la communauté : Pour Demacia !",
     "publishedAt": "2025-12-01T16:00:00.000Z",
     "action": {
@@ -9147,66 +9204,6 @@
       "contentLocale": "fr-fr",
       "rev": "qZXvkjig7TQff0ZQAF41ha",
       "publishDate": "2021-11-30T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "La présentation de Riot Forge - Nintendo Switch",
-    "publishedAt": "2021-11-16T15:45:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "QsGfJT143WE",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=QsGfJT143WE"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1866,
-        "aspectRatio": 1.7277777777777779
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5e000659f41a43f30b3abc27725bdd464f2690cb-1866x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Explorez Runeterra avec nous dans la présentation de Riot Forge avec Nintendo Switch en direct en ce moment !"
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "articles.bltaf5fa6227d1d485c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "qZXvkjig7TQff0ZQAF41ha",
-      "publishDate": "2021-11-16T15:45:00.000Z"
     }
   }
 ]
