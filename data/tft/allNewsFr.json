@@ -1,5 +1,169 @@
 [
   {
+    "title": "ÉP1 : Danse de la chance | Festival lunaire 2026",
+    "publishedAt": "2026-01-16T02:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "ZLFDcO5ikO8",
+        "videoLengthInSeconds": 52,
+        "url": "https://www.youtube.com/watch?v=ZLFDcO5ikO8"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "58ee30515c20",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2026-01-14T16:11:49Z",
+              "_id": "image-92edc02bcc9c668607d2a12ccae17baae34eaeff-1600x1080-jpg",
+              "_rev": "a4mhqh9AqcuhVS2XlTyAId",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2026-01-14T16:11:49Z",
+              "assetId": "92edc02bcc9c668607d2a12ccae17baae34eaeff",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VFEdVh}Z0L0}%11GJ7,tw{f+0eJ7?G$*M|Mxaexut7R*",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#372d50",
+                    "foreground": "#fff",
+                    "population": 4.13,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#82061c",
+                    "foreground": "#fff",
+                    "population": 0.04,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c62d44",
+                    "foreground": "#fff",
+                    "population": 7.22,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#8fabb0",
+                    "foreground": "#000",
+                    "population": 0.1,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#e19d9b",
+                    "foreground": "#000",
+                    "population": 4.22,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9b6669",
+                    "foreground": "#fff",
+                    "population": 0.44,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#c62d44",
+                    "foreground": "#fff",
+                    "population": 7.22,
+                    "title": "#fff"
+                  }
+                },
+                "thumbHash": "UWgKFYYbhWhxiYhwileXiQ1W1QE1"
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_LNY26_Thumbnails_Client_MiniCinematic-T1Decluttered_[1600x1080]_V001_SUMMONER.jpg",
+              "path": "images/dsfx7636/news_live/92edc02bcc9c668607d2a12ccae17baae34eaeff-1600x1080.jpg",
+              "sha1hash": "92edc02bcc9c668607d2a12ccae17baae34eaeff",
+              "size": 249371,
+              "uploadId": "wtMtoKjbBug54vxJR6aZ90NElzLXSD56",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/92edc02bcc9c668607d2a12ccae17baae34eaeff-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "ZLFDcO5ikO8"
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f8734d93075c518cb5820683b26dba84b21c4356-1920x1080.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Irelia mythificatrice libérée ouvre les festivités en grande pompe."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "f21e0657-0c99-4669-ab1c-eb88ac5a10af.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "EnyByO9ClVwXoq26gQa29D",
+      "publishDate": "2026-01-16T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Jouez à Retour : Festival des bêtes, dès le 22 janvier",
     "publishedAt": "2026-01-09T07:00:00.000Z",
     "promoCardSize": "small",
@@ -4140,6 +4304,62 @@
     }
   },
   {
+    "title": "Informations Tactician's Crown de K.O. Coliseum",
+    "publishedAt": "2025-11-05T14:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/esports/ko-coliseum-tacticians-crown-event-primer"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1651,
+        "width": 2934,
+        "aspectRatio": 1.7771047849788006
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/960788b028e85637e0bb6e1956c11656d1dee467-2934x1651.png?accountingTag=TFT",
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Plus de détails sur les dates, le format, la cagnotte de l'événement et plus encore."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de Teamfight Tactics.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "a1d8d749-4bcc-401d-ae10-013b79528494.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Ic3kixMkY8uQgblwpHyezA",
+      "publishDate": "2025-11-05T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Tactician's Crown de K.O. Coliseum",
     "publishedAt": "2025-11-05T14:00:00.000Z",
     "promoCardSize": "medium",
@@ -4302,62 +4522,6 @@
       "contentId": "e2f10fb7-4001-4d1d-acf5-680c46a925c7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "Z7jWOZ59CIMbipgF4AQulh",
-      "publishDate": "2025-11-05T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Informations Tactician's Crown de K.O. Coliseum",
-    "publishedAt": "2025-11-05T14:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/esports/ko-coliseum-tacticians-crown-event-primer"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#ffb60d"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1651,
-        "width": 2934,
-        "aspectRatio": 1.7771047849788006
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/960788b028e85637e0bb6e1956c11656d1dee467-2934x1651.png?accountingTag=TFT",
-      "mimeType": "image/png"
-    },
-    "description": {
-      "type": "html",
-      "body": "Plus de détails sur les dates, le format, la cagnotte de l'événement et plus encore."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de Teamfight Tactics.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "a1d8d749-4bcc-401d-ae10-013b79528494.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "Ic3kixMkY8uQgblwpHyezA",
       "publishDate": "2025-11-05T14:00:00.000Z"
     }
   },
@@ -8736,64 +8900,6 @@
       "contentLocale": "fr-fr",
       "rev": "Na4rGdANtziFPBVG24kOxQ",
       "publishDate": "2025-08-04T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Galerie thématique Fleur spirituelle",
-    "publishedAt": "2025-08-01T13:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "ZQBkeiwPCb4",
-        "videoLengthInSeconds": 49,
-        "url": "https://www.youtube.com/watch?v=ZQBkeiwPCb4"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#ffb60d"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6a1cb8a0b69c25cc3a060a6ade9d235624560bc1-1920x1080.jpg?accountingTag=TFT",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le vent murmure... et la foule rugit !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "64749f6c-8a3a-429c-9584-8af79a66031f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "Na4rGdANtziFPBVG24kOxQ",
-      "publishDate": "2025-08-01T13:00:00.000Z"
     }
   }
 ]
