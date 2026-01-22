@@ -1,5 +1,60 @@
 [
   {
+    "title": "Notes de patch 7.0 de Wild Rift",
+    "publishedAt": "2026-01-21T10:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/wild-rift-patch-notes-70"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4f465d96dd0141ed4cac6f6df66093425d643649-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Nouvelle année, nouvelle Faille, nouveaux champions, nouveaux objectifs, nouveaux joueurs… bienvenue dans le patch 7.0 !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "2a9edd9a-f638-49f2-9a3a-b1cdd9ebfcf7.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "KeJIvae3uAdDqkFhtaUbCl",
+      "publishDate": "2026-01-21T10:00:00.000Z"
+    }
+  },
+  {
     "title": "Patch 7.0 : AAA ARAM et mise à jour de la Faille",
     "publishedAt": "2026-01-08T18:00:00.000Z",
     "promoCardSize": "small",
@@ -4136,62 +4191,6 @@
       "contentLocale": "fr-fr",
       "rev": "aLIIQ7Q5L2eXkJOQZRJp9g",
       "publishDate": "2025-01-08T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Lettre annuelle aux joueurs de Wild Rift",
-    "publishedAt": "2025-01-08T03:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/wild-rift-annual-player-letter"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/317c822ffb4b371d87d22a7957a91bfe1e50ac69-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La toute première lettre annuelle qui passe en revue l’année écoulée dans Wild Rift et évoque l’année à venir."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de Wild Rift.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "d3788984-ffc8-4681-bd7f-81d6a48527e9.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "AJJDAXmVTF2HnAYqO7HVfS",
-      "publishDate": "2025-01-08T03:00:00.000Z"
     }
   }
 ]
