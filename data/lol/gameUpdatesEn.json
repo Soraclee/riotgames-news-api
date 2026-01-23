@@ -1,12 +1,14 @@
 [
   {
-    "title": "Teamfight Tactics patch 16.3",
-    "publishedAt": "2026-01-21T19:00:00.000Z",
+    "title": "No Rest for the Reckless Cinematic",
+    "publishedAt": "2026-01-22T17:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-16-3/"
+        "youtubeId": "ssCuu7uUr-U",
+        "videoLengthInSeconds": 45,
+        "url": "https://www.youtube.com/watch?v=ssCuu7uUr-U"
       }
     },
     "product": {
@@ -34,16 +36,16 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1587,
-        "width": 2678,
-        "aspectRatio": 1.6874606175173283
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d67e9bf4d35628df90885ccf3d30dda1cc71e05-2678x1587.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a6a89eaa421d81ce594f495150375e2ba3632307-1920x1080.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Patch 16.3 comes with system changes like XP, unlock conditions and balance changes!"
+      "body": "Rest up while you can! A Star Guardian’s work is never done."
     },
     "category": {
       "title": "Game Updates",
@@ -51,10 +53,70 @@
       "machineName": "game-updates"
     },
     "analytics": {
-      "contentId": "6b03d18b-6ad1-453a-a0fc-b87c65159de9.en-us",
+      "contentId": "24d52193-d3d5-4831-8ccd-99f6cce321ce.en-us",
       "contentLocale": "en-us",
-      "rev": "tqEcg6HxsZCh2tSC2cVSv2",
-      "publishDate": "2026-01-21T19:00:00.000Z"
+      "rev": "FaPCx0zwXJSDSmxjlSqvW6",
+      "publishDate": "2026-01-22T17:00:00.000Z"
+    }
+  },
+  {
+    "title": "Exalted Skin: Revenant Reign Viego | Gameplay",
+    "publishedAt": "2026-01-22T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "8lOjxlnki_4",
+        "videoLengthInSeconds": 102,
+        "url": "https://www.youtube.com/watch?v=8lOjxlnki_4"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4825f1b4962829c4c53ad1bc905aec5642245628-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "They thought death would be his end. They were wrong."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "ac1c75a5-dc9b-4b91-848c-1b8f724028f7.en-us",
+      "contentLocale": "en-us",
+      "rev": "205axJfaeQYsxBwZKBM7i5",
+      "publishDate": "2026-01-22T16:00:00.000Z"
     }
   },
   {
@@ -111,6 +173,64 @@
       "contentId": "patchNote.c417a64c-0a05-4fb9-9995-5d0e8eb59e18.en-us",
       "contentLocale": "en-us",
       "rev": "R5kA88I1gp7zQgUirvhhnU",
+      "publishDate": "2026-01-21T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Teamfight Tactics patch 16.3",
+    "publishedAt": "2026-01-21T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-16-3/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1587,
+        "width": 2678,
+        "aspectRatio": 1.6874606175173283
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d67e9bf4d35628df90885ccf3d30dda1cc71e05-2678x1587.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Patch 16.3 comes with system changes like XP, unlock conditions and balance changes!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "6b03d18b-6ad1-453a-a0fc-b87c65159de9.en-us",
+      "contentLocale": "en-us",
+      "rev": "tqEcg6HxsZCh2tSC2cVSv2",
       "publishDate": "2026-01-21T19:00:00.000Z"
     }
   },
@@ -1005,64 +1125,6 @@
     }
   },
   {
-    "title": "Teamfight Tactics patch 16.1",
-    "publishedAt": "2025-12-02T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-16-1"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d90902a844566f927b1e501e31b859ec47b7a2a5-1280x720.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Unlock infinite comps with our new set: Lore & Legends!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "43a41939-3ce4-41e4-81d7-c7911b1d3f28.en-us",
-      "contentLocale": "en-us",
-      "rev": "vcuFMtlcF2KnHwwerV8XUD",
-      "publishDate": "2025-12-02T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Patch 25.24 Notes",
     "publishedAt": "2025-12-02T19:00:00.000Z",
     "promoCardSize": "medium",
@@ -1117,6 +1179,64 @@
       "contentId": "f834d4d1-2b96-4c20-901a-93e6e3a50635.en-us",
       "contentLocale": "en-us",
       "rev": "qfw0tsFoAJsTXLf2HTbOdo",
+      "publishDate": "2025-12-02T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Teamfight Tactics patch 16.1",
+    "publishedAt": "2025-12-02T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-16-1"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d90902a844566f927b1e501e31b859ec47b7a2a5-1280x720.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Unlock infinite comps with our new set: Lore & Legends!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "43a41939-3ce4-41e4-81d7-c7911b1d3f28.en-us",
+      "contentLocale": "en-us",
+      "rev": "vcuFMtlcF2KnHwwerV8XUD",
       "publishDate": "2025-12-02T19:00:00.000Z"
     }
   },
@@ -2243,63 +2363,6 @@
     }
   },
   {
-    "title": "Patch 25.21 Notes",
-    "publishedAt": "2025-10-21T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-21-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f63ee1a925ce2384190976cbfc47fc92b3b6f2f1-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Patch 25.21 is bee-autiful! 🐝"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "93ef2010-1197-4b54-8b65-0eddbf947e5b.en-us",
-      "contentLocale": "en-us",
-      "rev": "ZzV5MVNC4oSxwN9Dln24rJ",
-      "publishDate": "2025-10-21T18:00:00.000Z"
-    }
-  },
-  {
     "title": "Teamfight Tactics patch 15.7 notes",
     "publishedAt": "2025-10-21T18:00:00.000Z",
     "action": {
@@ -2354,6 +2417,63 @@
       "contentId": "0c2606d5-874b-4919-9617-d6ac9134737a.en-us",
       "contentLocale": "en-us",
       "rev": "jQpCf8Pp9opSYjtkpUBZtN",
+      "publishDate": "2025-10-21T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 25.21 Notes",
+    "publishedAt": "2025-10-21T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-21-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f63ee1a925ce2384190976cbfc47fc92b3b6f2f1-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Patch 25.21 is bee-autiful! 🐝"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "93ef2010-1197-4b54-8b65-0eddbf947e5b.en-us",
+      "contentLocale": "en-us",
+      "rev": "ZzV5MVNC4oSxwN9Dln24rJ",
       "publishDate": "2025-10-21T18:00:00.000Z"
     }
   },
@@ -4010,6 +4130,63 @@
     }
   },
   {
+    "title": "Patch 25.16 Notes",
+    "publishedAt": "2025-08-12T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-16-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6cf156a1013a70fec232d94109198ef22c67f88f-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Patch 25.16 ready for takeoff!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "9589ba47-48c1-4f14-abc5-680bee2b9320.en-us",
+      "contentLocale": "en-us",
+      "rev": "RDk8LZ6lvi22BNccBUqB2D",
+      "publishDate": "2025-08-12T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 15.2 notes",
     "publishedAt": "2025-08-12T18:00:00.000Z",
     "action": {
@@ -4064,63 +4241,6 @@
       "contentId": "e1b5882e-5b3d-4b92-a7b8-3b0d6681bff3.en-us",
       "contentLocale": "en-us",
       "rev": "e7rRZjRe8Gd1P6MXFFCukO",
-      "publishDate": "2025-08-12T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.16 Notes",
-    "publishedAt": "2025-08-12T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-16-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6cf156a1013a70fec232d94109198ef22c67f88f-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Patch 25.16 ready for takeoff!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "9589ba47-48c1-4f14-abc5-680bee2b9320.en-us",
-      "contentLocale": "en-us",
-      "rev": "RDk8LZ6lvi22BNccBUqB2D",
       "publishDate": "2025-08-12T18:00:00.000Z"
     }
   },
@@ -4318,126 +4438,6 @@
       "contentLocale": "en-us",
       "rev": "6MPgVG430X6GzNV48YLkAT",
       "publishDate": "2025-08-04T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Spirit Blossom Thematic Showcase",
-    "publishedAt": "2025-08-01T13:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "9HmzE9lIK2Y",
-        "videoLengthInSeconds": 49,
-        "url": "https://www.youtube.com/watch?v=9HmzE9lIK2Y"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6a1cb8a0b69c25cc3a060a6ade9d235624560bc1-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "The wind whispers… and the crowd roars!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "17c7389f-db35-46a2-8281-eba171ae7b92.en-us",
-      "contentLocale": "en-us",
-      "rev": "MZ9Dgo1Fp8CcoMqA8Va3WL",
-      "publishDate": "2025-08-01T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Spirits of the Springs",
-    "publishedAt": "2025-07-31T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "xx64ckKOGzA",
-        "videoLengthInSeconds": 82,
-        "url": "https://www.youtube.com/watch?v=xx64ckKOGzA"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/88a6c5b8edf1aa9ce498bcfb777073a26ba9410d-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Chibi Spirit Blossom Lillia discovers the charming spirit of the Veiled Village - and a new friend."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "7bd0d7cb-2cdb-4d02-acfd-b719ad39e4b6.en-us",
-      "contentLocale": "en-us",
-      "rev": "MZ9Dgo1Fp8CcoMqA8TTXt9",
-      "publishDate": "2025-07-31T16:00:00.000Z"
     }
   }
 ]
