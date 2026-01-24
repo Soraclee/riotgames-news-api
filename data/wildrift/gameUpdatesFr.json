@@ -1,5 +1,63 @@
 [
   {
+    "title": "Aperçu de Smolder",
+    "publishedAt": "2026-01-22T02:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "cDghAOVTGJc",
+        "videoLengthInSeconds": 146,
+        "url": "https://www.youtube.com/watch?v=cDghAOVTGJc"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/af264a91219b6e2d359a37bc78b6b9d1a657ad0e-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Il fanfaronne comme s'il avait un dragon impérial à ses côtés. Smolder vient mettre le feu à la Faille dès le 22 janvier CET."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "60ae8e06-ab82-47e3-8125-7639a312ece6.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "BWEaBHKsiTFuZUwSk8uHo5",
+      "publishDate": "2026-01-22T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 7.0 de Wild Rift",
     "publishedAt": "2026-01-21T10:00:00.000Z",
     "action": {
@@ -4144,63 +4202,6 @@
       "contentLocale": "fr-fr",
       "rev": "ZhxRwgWPklJwoe04lZCkkn",
       "publishDate": "2024-11-26T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Refonte de Warwick",
-    "publishedAt": "2024-11-20T00:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "osUbUgN4jLE",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=osUbUgN4jLE"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/1e196f843afb2b7f3161b4ed44135ae9702fb1b3-1920x1080.png?accountingTag=WR",
-      "mimeType": "image/png"
-    },
-    "description": {
-      "type": "html",
-      "body": "Libérez la fureur de Zaun avec la refonte de Warwick ! Dans la Faille dès le 19 novembre CET !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "75c62e3b-df70-4cf3-9019-756e73772ab1.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "sEwq5NBiPauorOxrhl65Ib",
-      "publishDate": "2024-11-20T00:00:00.000Z"
     }
   }
 ]

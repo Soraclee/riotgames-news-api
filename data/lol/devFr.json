@@ -177,12 +177,13 @@
     }
   },
   {
-    "title": "Dev Update S1 2026 : thématique, gameplay et plus",
+    "title": "/dev : mode classé 2026",
     "publishedAt": "2025-12-01T16:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/fr-fr/news/dev/tldw-s1-2026-theme-gameplay-more-dev-update"
+        "url": "/fr-fr/news/dev/dev-ranked-2026"
       }
     },
     "product": {
@@ -214,12 +215,12 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cd691538b73fbeeaf0f5abdcda440e1b02e79a97-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/103cb09220c1bce460351a268c4be16bcf1ea28a-1920x1080.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
+      "body": "Les changements apportés au mode compétitif pour la nouvelle année."
     },
     "category": {
       "title": "Dev",
@@ -227,9 +228,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "9e262b7a-a53f-4559-a505-14189d4c8a18.fr-fr",
+      "contentId": "81efe8d0-fbbe-4e56-abd3-bc0c3e9da068.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wQd45vk1jeLetENuWcAoXY",
+      "rev": "FYkLMb2TyKRchDb6rI1sh0",
       "publishDate": "2025-12-01T16:00:00.000Z"
     }
   },
@@ -349,13 +350,12 @@
     }
   },
   {
-    "title": "/dev : mode classé 2026",
+    "title": "Dev Update S1 2026 : thématique, gameplay et plus",
     "publishedAt": "2025-12-01T16:00:00.000Z",
-    "promoCardSize": "small",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/fr-fr/news/dev/dev-ranked-2026"
+        "url": "/fr-fr/news/dev/tldw-s1-2026-theme-gameplay-more-dev-update"
       }
     },
     "product": {
@@ -387,12 +387,12 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/103cb09220c1bce460351a268c4be16bcf1ea28a-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cd691538b73fbeeaf0f5abdcda440e1b02e79a97-1920x1080.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Les changements apportés au mode compétitif pour la nouvelle année."
+      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
     },
     "category": {
       "title": "Dev",
@@ -400,9 +400,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "81efe8d0-fbbe-4e56-abd3-bc0c3e9da068.fr-fr",
+      "contentId": "9e262b7a-a53f-4559-a505-14189d4c8a18.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "FYkLMb2TyKRchDb6rI1sh0",
+      "rev": "wQd45vk1jeLetENuWcAoXY",
       "publishDate": "2025-12-01T16:00:00.000Z"
     }
   },
@@ -527,6 +527,66 @@
     }
   },
   {
+    "title": "Dev Update : ARAM du chaos, smurfs et plus",
+    "publishedAt": "2025-10-06T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "PsYnBJjiQUU",
+        "videoLengthInSeconds": 582,
+        "url": "https://www.youtube.com/watch?v=PsYnBJjiQUU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/894b664bbf33edd415ca6d5bb2a999edb95314a0-1280x720.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les développeurs parlent du mode ARAM du chaos, de la lutte contre les smurfs, de l'anniversaire d'Arcane et des Worlds."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "7e36e712-4778-4146-a0f2-f8074f42ad39.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UsaWKKSJ1KBsilFyMvXLo1",
+      "publishDate": "2025-10-06T15:00:00.000Z"
+    }
+  },
+  {
     "title": "FAQ sur les sanctions de compte",
     "publishedAt": "2025-10-06T15:00:00.000Z",
     "promoCardSize": "small",
@@ -581,6 +641,64 @@
       "contentId": "557a602b-b039-421e-872f-33daa729bbda.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "Wma5gH6EhMnuJDbYXLBl7T",
+      "publishDate": "2025-10-06T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Résumé du Dev Update : ARAM du chaos, smurfs et +",
+    "publishedAt": "2025-10-06T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/tldw-aram-mayhem-smurfing--more-dev-update"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0b0b5ace846d7a1b21c0a890d5ef65f6c2f4fb72-1280x720.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "0aeb34aa-660d-41b1-bfaa-9cf7606cc551.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "EkG99xuRrB0fs4jnvDmYm1",
       "publishDate": "2025-10-06T15:00:00.000Z"
     }
   },
@@ -696,124 +814,6 @@
       "contentId": "a6858fda-32c3-4628-81c3-b19c31d64431.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "x4upSj2I2b2gSerpXuAY9T",
-      "publishDate": "2025-10-06T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Résumé du Dev Update : ARAM du chaos, smurfs et +",
-    "publishedAt": "2025-10-06T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tldw-aram-mayhem-smurfing--more-dev-update"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0b0b5ace846d7a1b21c0a890d5ef65f6c2f4fb72-1280x720.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "0aeb34aa-660d-41b1-bfaa-9cf7606cc551.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "EkG99xuRrB0fs4jnvDmYm1",
-      "publishDate": "2025-10-06T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Dev Update : ARAM du chaos, smurfs et plus",
-    "publishedAt": "2025-10-06T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "PsYnBJjiQUU",
-        "videoLengthInSeconds": 582,
-        "url": "https://www.youtube.com/watch?v=PsYnBJjiQUU"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/894b664bbf33edd415ca6d5bb2a999edb95314a0-1280x720.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les développeurs parlent du mode ARAM du chaos, de la lutte contre les smurfs, de l'anniversaire d'Arcane et des Worlds."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "7e36e712-4778-4146-a0f2-f8074f42ad39.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "UsaWKKSJ1KBsilFyMvXLo1",
       "publishDate": "2025-10-06T15:00:00.000Z"
     }
   },
@@ -934,63 +934,6 @@
       "contentLocale": "fr-fr",
       "rev": "3DyBLnTmXKzIntk3K42txt",
       "publishDate": "2025-09-05T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Résumé du Dev Update : ZQSD, smurfs et plus",
-    "publishedAt": "2025-08-11T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tldw-wasd-smurfing-and-more-dev-update"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d7079e9cac7165dffc895425ba431abc81095d59-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "467249fc-bb5a-44c7-a761-40e6b5773207.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "7lnI7aGQeOl3memAes5lb9",
-      "publishDate": "2025-08-11T15:00:00.000Z"
     }
   },
   {
@@ -1226,6 +1169,63 @@
     }
   },
   {
+    "title": "Résumé du Dev Update : ZQSD, smurfs et plus",
+    "publishedAt": "2025-08-11T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/tldw-wasd-smurfing-and-more-dev-update"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d7079e9cac7165dffc895425ba431abc81095d59-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "467249fc-bb5a-44c7-a761-40e6b5773207.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "7lnI7aGQeOl3memAes5lb9",
+      "publishDate": "2025-08-11T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Dev drop TFT : K.O. Coliseum",
     "publishedAt": "2025-07-13T17:00:00.000Z",
     "action": {
@@ -1344,12 +1344,15 @@
     }
   },
   {
-    "title": "/dev: All Random, All Mid, pont aléatoire",
+    "title": "Dev Update : ARAM, lutte contre le feeding et plus",
     "publishedAt": "2025-06-09T15:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "url": "/fr-fr/news/dev/dev-all-random-all-mid-blind-bridge"
+        "youtubeId": "vfFtsKDsOEE",
+        "videoLengthInSeconds": 761,
+        "url": "https://www.youtube.com/watch?v=vfFtsKDsOEE"
       }
     },
     "product": {
@@ -1381,12 +1384,12 @@
         "width": 1280,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/89ccfbf71a56c5bb027dc5c18c08845f57431d82-1280x720.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8fc0afa7589169a9f635285899b7069d3859b321-1280x720.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Un aperçu des deux cartes et des nouveautés qui arriveront dans le mode ARAM avec le patch 25.13."
+      "body": "Les développeurs de League parlent des nouveautés du mode ARAM, de la Wyldbloom, du feeding et plus."
     },
     "category": {
       "title": "Dev",
@@ -1394,9 +1397,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "258d25f9-4e38-4f2a-a7a5-fb494fa82bd0.fr-fr",
+      "contentId": "4f62205a-a053-406b-94cf-bb4b12a5b81e.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "UN0t8SjpXLwBITCxYv1KMW",
+      "rev": "Sw999WM9OiKVndpKQyDGZB",
       "publishDate": "2025-06-09T15:00:00.000Z"
     }
   },
@@ -1458,15 +1461,12 @@
     }
   },
   {
-    "title": "Dev Update : ARAM, lutte contre le feeding et plus",
+    "title": "/dev: All Random, All Mid, pont aléatoire",
     "publishedAt": "2025-06-09T15:00:00.000Z",
-    "promoCardSize": "small",
     "action": {
-      "type": "youtube_video",
+      "type": "weblink",
       "payload": {
-        "youtubeId": "vfFtsKDsOEE",
-        "videoLengthInSeconds": 761,
-        "url": "https://www.youtube.com/watch?v=vfFtsKDsOEE"
+        "url": "/fr-fr/news/dev/dev-all-random-all-mid-blind-bridge"
       }
     },
     "product": {
@@ -1498,12 +1498,12 @@
         "width": 1280,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8fc0afa7589169a9f635285899b7069d3859b321-1280x720.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/89ccfbf71a56c5bb027dc5c18c08845f57431d82-1280x720.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Les développeurs de League parlent des nouveautés du mode ARAM, de la Wyldbloom, du feeding et plus."
+      "body": "Un aperçu des deux cartes et des nouveautés qui arriveront dans le mode ARAM avec le patch 25.13."
     },
     "category": {
       "title": "Dev",
@@ -1511,9 +1511,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "4f62205a-a053-406b-94cf-bb4b12a5b81e.fr-fr",
+      "contentId": "258d25f9-4e38-4f2a-a7a5-fb494fa82bd0.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Sw999WM9OiKVndpKQyDGZB",
+      "rev": "UN0t8SjpXLwBITCxYv1KMW",
       "publishDate": "2025-06-09T15:00:00.000Z"
     }
   },
@@ -1637,73 +1637,12 @@
     }
   },
   {
-    "title": "Dev Update : Fleur spirituelle, Brawl & plus",
+    "title": "Résumé Dev Update : Fleur spirituelle, Brawl & plus",
     "publishedAt": "2025-04-15T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "FJmnL7EKcIs",
-        "videoLengthInSeconds": 687,
-        "url": "https://www.youtube.com/watch?v=FJmnL7EKcIs"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f01b4db9ecf35b144085637eb041e17ec79f54d4-1280x720.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un aperçu de la saison 2 : nouveau mode, changements de gameplay, détection de l'antijeu et plus."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "bd120e40-ee8f-42b6-bfc4-66002b64616a.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "OTz9Kc8N8M6tkO4Yjx0yYc",
-      "publishDate": "2025-04-15T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "dev/ : détection de l'antijeu",
-    "publishedAt": "2025-04-15T15:00:00.000Z",
-    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/fr-fr/news/dev/dev-improving-inting-and-griefing-detection"
+        "url": "/fr-fr/news/dev/tldw-spirit-blossom-brawl-more-dev-update"
       }
     },
     "product": {
@@ -1735,12 +1674,12 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/803b39f940c98085f9a09abc3893da3d14e042ff-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/db6b5cedf41ee7eef06240ef82821e3373a0f369-1920x1080.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Nous améliorons nos systèmes de détection de l'antijeu et du feeding intentionnel."
+      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
     },
     "category": {
       "title": "Dev",
@@ -1748,9 +1687,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "9c3e4312-ef02-4a20-bfd6-a35262d4db20.fr-fr",
+      "contentId": "d3c7dfeb-327e-4aad-9e81-be61adcc786c.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "sl3HE6aTFbIMJKWgDQBgYy",
+      "rev": "M9l92VpAkq2V2kMeKtF339",
       "publishDate": "2025-04-15T15:00:00.000Z"
     }
   },
@@ -1813,12 +1752,15 @@
     }
   },
   {
-    "title": "Résumé Dev Update : Fleur spirituelle, Brawl & plus",
+    "title": "Dev Update : Fleur spirituelle, Brawl & plus",
     "publishedAt": "2025-04-15T15:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "url": "/fr-fr/news/dev/tldw-spirit-blossom-brawl-more-dev-update"
+        "youtubeId": "FJmnL7EKcIs",
+        "videoLengthInSeconds": 687,
+        "url": "https://www.youtube.com/watch?v=FJmnL7EKcIs"
       }
     },
     "product": {
@@ -1846,16 +1788,16 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1080,
-        "width": 1920,
+        "height": 720,
+        "width": 1280,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/db6b5cedf41ee7eef06240ef82821e3373a0f369-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f01b4db9ecf35b144085637eb041e17ec79f54d4-1280x720.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
+      "body": "Un aperçu de la saison 2 : nouveau mode, changements de gameplay, détection de l'antijeu et plus."
     },
     "category": {
       "title": "Dev",
@@ -1863,9 +1805,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "d3c7dfeb-327e-4aad-9e81-be61adcc786c.fr-fr",
+      "contentId": "bd120e40-ee8f-42b6-bfc4-66002b64616a.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "M9l92VpAkq2V2kMeKtF339",
+      "rev": "OTz9Kc8N8M6tkO4Yjx0yYc",
       "publishDate": "2025-04-15T15:00:00.000Z"
     }
   },
@@ -1923,6 +1865,64 @@
       "contentId": "8cce4a87-d172-4313-a215-73665be9d8a7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "Y2Dao2z5CuCZfU0JwFoE99",
+      "publishDate": "2025-04-15T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "dev/ : détection de l'antijeu",
+    "publishedAt": "2025-04-15T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-improving-inting-and-griefing-detection"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/803b39f940c98085f9a09abc3893da3d14e042ff-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Nous améliorons nos systèmes de détection de l'antijeu et du feeding intentionnel."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "9c3e4312-ef02-4a20-bfd6-a35262d4db20.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "sl3HE6aTFbIMJKWgDQBgYy",
       "publishDate": "2025-04-15T15:00:00.000Z"
     }
   },
@@ -2744,64 +2744,6 @@
     }
   },
   {
-    "title": "/dev : les saisons en 2025",
-    "publishedAt": "2024-11-25T16:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-seasons-in-2025"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e19e610a76043bfff488716050d4a5533d20bfbe-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Voici ce que vous devez savoir sur les saisons en 2025."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "4968e4b2-66ec-4f59-a352-0092ad20ff72.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "UPIPX87Xr8dUQrGWE8HjwJ",
-      "publishDate": "2024-11-25T16:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev : Nouveautés du mode classé saison 1 de 2025",
     "publishedAt": "2024-11-25T16:00:00.000Z",
     "promoCardSize": "medium",
@@ -2976,13 +2918,13 @@
     }
   },
   {
-    "title": "Résumé : saison 1, aperçu du gameplay et plus",
+    "title": "/dev : les saisons en 2025",
     "publishedAt": "2024-11-25T16:00:00.000Z",
-    "promoCardSize": "small",
+    "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/fr-fr/news/dev/tldw-season-1-reveal-gameplay-preview-more"
+        "url": "/fr-fr/news/dev/dev-seasons-in-2025"
       }
     },
     "product": {
@@ -3014,12 +2956,12 @@
         "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7aa7cb386d6d62b0d85f14e2ea432508aa425879-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e19e610a76043bfff488716050d4a5533d20bfbe-1920x1080.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Un résumé des nouveautés concernant les champions, la saison 1, le gameplay, et plus encore."
+      "body": "Voici ce que vous devez savoir sur les saisons en 2025."
     },
     "category": {
       "title": "Dev",
@@ -3027,9 +2969,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "aede617c-f4d2-4ba5-8307-4f89e7aff7ce.fr-fr",
+      "contentId": "4968e4b2-66ec-4f59-a352-0092ad20ff72.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "YN8truRCqnchJPC7V0Viah",
+      "rev": "UPIPX87Xr8dUQrGWE8HjwJ",
       "publishDate": "2024-11-25T16:00:00.000Z"
     }
   },
@@ -3226,6 +3168,64 @@
       "contentId": "9e8104a5-045f-4505-915b-99a9347ff913.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "UPIPX87Xr8dUQrGWE8HjwJ",
+      "publishDate": "2024-11-25T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Résumé : saison 1, aperçu du gameplay et plus",
+    "publishedAt": "2024-11-25T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/tldw-season-1-reveal-gameplay-preview-more"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7aa7cb386d6d62b0d85f14e2ea432508aa425879-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un résumé des nouveautés concernant les champions, la saison 1, le gameplay, et plus encore."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "aede617c-f4d2-4ba5-8307-4f89e7aff7ce.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "YN8truRCqnchJPC7V0Viah",
       "publishDate": "2024-11-25T16:00:00.000Z"
     }
   },
@@ -3585,181 +3585,6 @@
     }
   },
   {
-    "title": "/dev : Matchmaking en 2024",
-    "publishedAt": "2024-09-23T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-matchmaking-in-2024"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 717,
-        "width": 1215,
-        "aspectRatio": 1.6945606694560669
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/409774984c0bc7650421efda5a435f3bce8a1a99-1215x717.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Aperçu de l'évolution des mises à jour de 2024 et de ce qui suivra."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "94653273-fd36-4593-937f-c8035691199a.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "qobFP6o3d5Cfo6v5i46yAT",
-      "publishDate": "2024-09-23T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Dev Update : matchmaking, saison 2025 et plus",
-    "publishedAt": "2024-09-23T15:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "h-c0BS8a5bQ",
-        "videoLengthInSeconds": 490,
-        "url": "https://www.youtube.com/watch?v=h-c0BS8a5bQ"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a6469f230d92e1a3bfc2a08f6497e22f38bae185-1280x720.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Meddler et Pabro parlent du matchmaking, de Teemo, des Worlds, des Player Days et de la saison 2025."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "2f5f6721-e8d2-4571-ab46-eba403debbd4.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "1U5rBVnZYn4alWirhb1QE9",
-      "publishDate": "2024-09-23T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : Exploration de la MID de Teemo",
-    "publishedAt": "2024-09-23T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-scouting-out-teemo"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3fd236b06dc2af34ebff64e080285b7475a18638-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un coup d'œil dans les coulisses du développement de la MID de Teemo !"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "23c74ff4-6613-457a-9481-79f984046a24.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "bymaB6yAj3KqaIMPOpiJQ9",
-      "publishDate": "2024-09-23T15:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev : L'avenir des modes Arena et Swarm",
     "publishedAt": "2024-09-23T15:00:00.000Z",
     "promoCardSize": "small",
@@ -3825,6 +3650,181 @@
     }
   },
   {
+    "title": "/dev : Exploration de la MID de Teemo",
+    "publishedAt": "2024-09-23T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-scouting-out-teemo"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3fd236b06dc2af34ebff64e080285b7475a18638-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un coup d'œil dans les coulisses du développement de la MID de Teemo !"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "23c74ff4-6613-457a-9481-79f984046a24.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "bymaB6yAj3KqaIMPOpiJQ9",
+      "publishDate": "2024-09-23T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Dev Update : matchmaking, saison 2025 et plus",
+    "publishedAt": "2024-09-23T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "h-c0BS8a5bQ",
+        "videoLengthInSeconds": 490,
+        "url": "https://www.youtube.com/watch?v=h-c0BS8a5bQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a6469f230d92e1a3bfc2a08f6497e22f38bae185-1280x720.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Meddler et Pabro parlent du matchmaking, de Teemo, des Worlds, des Player Days et de la saison 2025."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "2f5f6721-e8d2-4571-ab46-eba403debbd4.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "1U5rBVnZYn4alWirhb1QE9",
+      "publishDate": "2024-09-23T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev : Matchmaking en 2024",
+    "publishedAt": "2024-09-23T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-matchmaking-in-2024"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 717,
+        "width": 1215,
+        "aspectRatio": 1.6945606694560669
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/409774984c0bc7650421efda5a435f3bce8a1a99-1215x717.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Aperçu de l'évolution des mises à jour de 2024 et de ce qui suivra."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "94653273-fd36-4593-937f-c8035691199a.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "qobFP6o3d5Cfo6v5i46yAT",
+      "publishDate": "2024-09-23T15:00:00.000Z"
+    }
+  },
+  {
     "title": "/dev : Changements de gameplay du 3e segment 2024",
     "publishedAt": "2024-09-10T17:00:00.000Z",
     "promoCardSize": "small",
@@ -3883,64 +3883,6 @@
     }
   },
   {
-    "title": "/dev : Thèmes de skins et univers des champions",
-    "publishedAt": "2024-08-22T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-skin-thematics-and-champion-fantasies"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 563,
-        "width": 1000,
-        "aspectRatio": 1.7761989342806395
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e1d26d12d8bd261fda4e79ebd74a0913bb934707-1000x563.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Analyse en profondeur des skins : quel champion en obtient un, pour quel thème et pourquoi."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "7eb7a33c-97bd-4d87-800b-f5510527947b",
-      "contentLocale": "fr-fr",
-      "rev": "2eqiUp79DxBCItwrHruaq7",
-      "publishDate": "2024-08-22T15:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev : systèmes liés aux comportements et Honneur",
     "publishedAt": "2024-08-22T15:00:00.000Z",
     "promoCardSize": "medium",
@@ -3993,6 +3935,64 @@
     },
     "analytics": {
       "contentId": "c0470cca-2ba4-4d04-906a-a34c5e6acfc4",
+      "contentLocale": "fr-fr",
+      "rev": "2eqiUp79DxBCItwrHruaq7",
+      "publishDate": "2024-08-22T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev : Rétrospection Vanguard x LoL",
+    "publishedAt": "2024-08-22T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-vanguard-x-lol-retrospective"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bc6914f7d2cfdd2de7a506ece8042431d7d9fafd-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "À quel point le système d'anti-triche est-il efficace jusqu'à présent ?"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "06c1d5c3-7d8f-4a34-82e0-6ca8e7d0fa48",
       "contentLocale": "fr-fr",
       "rev": "2eqiUp79DxBCItwrHruaq7",
       "publishDate": "2024-08-22T15:00:00.000Z"
@@ -4370,13 +4370,13 @@
     }
   },
   {
-    "title": "/dev : Rétrospection Vanguard x LoL",
+    "title": "/dev : Thèmes de skins et univers des champions",
     "publishedAt": "2024-08-22T15:00:00.000Z",
     "promoCardSize": "medium",
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/fr-fr/news/dev/dev-vanguard-x-lol-retrospective"
+        "url": "/fr-fr/news/dev/dev-skin-thematics-and-champion-fantasies"
       }
     },
     "product": {
@@ -4404,16 +4404,16 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
+        "height": 563,
+        "width": 1000,
+        "aspectRatio": 1.7761989342806395
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bc6914f7d2cfdd2de7a506ece8042431d7d9fafd-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e1d26d12d8bd261fda4e79ebd74a0913bb934707-1000x563.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "À quel point le système d'anti-triche est-il efficace jusqu'à présent ?"
+      "body": "Analyse en profondeur des skins : quel champion en obtient un, pour quel thème et pourquoi."
     },
     "category": {
       "title": "Dev",
@@ -4421,7 +4421,7 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "06c1d5c3-7d8f-4a34-82e0-6ca8e7d0fa48",
+      "contentId": "7eb7a33c-97bd-4d87-800b-f5510527947b",
       "contentLocale": "fr-fr",
       "rev": "2eqiUp79DxBCItwrHruaq7",
       "publishDate": "2024-08-22T15:00:00.000Z"
