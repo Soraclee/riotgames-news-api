@@ -7,7 +7,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "YGFsupgEWvw",
-        "videoLengthInSeconds": 125,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=YGFsupgEWvw"
       }
     },
@@ -53,7 +53,7 @@
     "analytics": {
       "contentId": "075b6b57-df1e-4c98-a793-3f45d71a5750.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "131gtotb7Dde3mAyU2z4yx",
+      "rev": "JrdCdTB43ZIe9jtTvguAcV",
       "publishDate": "2025-10-23T14:30:00.000Z"
     }
   },
@@ -110,7 +110,7 @@
     "analytics": {
       "contentId": "articles.blt91c6901ebd8c431e.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Kb0dTVsXFm2RoZ9rpqICkg",
+      "rev": "iuvR1X3un5VQGa5MOHrkVu",
       "publishDate": "2023-08-11T23:00:00.000Z"
     }
   },
@@ -167,8 +167,65 @@
     "analytics": {
       "contentId": "articles.blt9e233aae1b2e63d7.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Kb0dTVsXFm2RoZ9rpqHo0x",
+      "rev": "iuvR1X3un5VQGa5MOHrkVu",
       "publishDate": "2023-07-27T23:00:00.000Z"
+    }
+  },
+  {
+    "title": "Sessions",
+    "publishedAt": "2021-07-02T15:15:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://sessions.riotgames.com"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1aefd3e582e540dab74138b3b748f8cf5513f6bf-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Une collection de musique que tout le monde peut utiliser dans son contenu sans se soucier de problèmes de copyright."
+    },
+    "category": {
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "articles.blta79ffc86fca5a1e3.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOHrkVu",
+      "publishDate": "2021-07-02T15:15:00.000Z"
     }
   },
   {
@@ -225,64 +282,7 @@
     "analytics": {
       "contentId": "articles.blt843da0f2e3a34c33.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Kb0dTVsXFm2RoZ9rpqIdZV",
-      "publishDate": "2021-07-02T15:15:00.000Z"
-    }
-  },
-  {
-    "title": "Sessions",
-    "publishedAt": "2021-07-02T15:15:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://sessions.riotgames.com"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1aefd3e582e540dab74138b3b748f8cf5513f6bf-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Une collection de musique que tout le monde peut utiliser dans son contenu sans se soucier de problèmes de copyright."
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "articles.blta79ffc86fca5a1e3.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "V7hUJb5ScZMSQ02ZsKcCcJ",
+      "rev": "JrdCdTB43ZIe9jtTvgzMcV",
       "publishDate": "2021-07-02T15:15:00.000Z"
     }
   },
@@ -338,7 +338,7 @@
     "analytics": {
       "contentId": "articles.bltb53459fcea595afb.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "kdgc7UFRhHqFdI6LqNsgzo",
+      "rev": "JrdCdTB43ZIe9jtTvh17qt",
       "publishDate": "2020-12-25T00:00:00.000Z"
     }
   }
