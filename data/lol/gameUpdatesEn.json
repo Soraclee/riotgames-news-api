@@ -1,5 +1,65 @@
 [
   {
+    "title": "EP2: Fortune’s Blessing | Lunar Revel 2026",
+    "publishedAt": "2026-01-28T02:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "u9hY9O8nNC0",
+        "videoLengthInSeconds": 50,
+        "url": "https://www.youtube.com/watch?v=u9hY9O8nNC0"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2b00ff4e9e60c337842dde7b76901cbe9ecde331-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A surprise visitor drops by to recharge God Fist Lee Sin Unbound for the new year."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "a5330391-718a-4b18-ae83-c53c7eec0ca1.en-us",
+      "contentLocale": "en-us",
+      "rev": "hkn6e6tWBarK7xOcCdXzYh",
+      "publishDate": "2026-01-28T02:00:00.000Z"
+    }
+  },
+  {
     "title": "No Rest for the Reckless Cinematic",
     "publishedAt": "2026-01-22T17:00:00.000Z",
     "promoCardSize": "small",
@@ -7,7 +67,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "ssCuu7uUr-U",
-        "videoLengthInSeconds": 45,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=ssCuu7uUr-U"
       }
     },
@@ -55,7 +115,7 @@
     "analytics": {
       "contentId": "24d52193-d3d5-4831-8ccd-99f6cce321ce.en-us",
       "contentLocale": "en-us",
-      "rev": "FaPCx0zwXJSDSmxjlSqvW6",
+      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2026-01-22T17:00:00.000Z"
     }
   },
@@ -120,63 +180,6 @@
     }
   },
   {
-    "title": "Patch 26.2 Notes",
-    "publishedAt": "2026-01-21T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-26-2-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8450bda0b6eb809ffb11c0161157d2e0b4d692d8-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Patch 26.2 ready to deploy!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "patchNote.c417a64c-0a05-4fb9-9995-5d0e8eb59e18.en-us",
-      "contentLocale": "en-us",
-      "rev": "R5kA88I1gp7zQgUirvhhnU",
-      "publishDate": "2026-01-21T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Teamfight Tactics patch 16.3",
     "publishedAt": "2026-01-21T19:00:00.000Z",
     "action": {
@@ -235,6 +238,63 @@
     }
   },
   {
+    "title": "Patch 26.2 Notes",
+    "publishedAt": "2026-01-21T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-26-2-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8450bda0b6eb809ffb11c0161157d2e0b4d692d8-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Patch 26.2 ready to deploy!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "patchNote.c417a64c-0a05-4fb9-9995-5d0e8eb59e18.en-us",
+      "contentLocale": "en-us",
+      "rev": "JrdCdTB43ZIe9jtTvtx47V",
+      "publishDate": "2026-01-21T19:00:00.000Z"
+    }
+  },
+  {
     "title": "EP1: Fortune’s Dance | Lunar Revel 2026",
     "publishedAt": "2026-01-16T02:00:00.000Z",
     "promoCardSize": "small",
@@ -242,7 +302,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "ZUHeWhNzpp4",
-        "videoLengthInSeconds": 52,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=ZUHeWhNzpp4"
       }
     },
@@ -290,7 +350,7 @@
     "analytics": {
       "contentId": "83e78353-93f5-4504-8c77-431853cf2d0e.en-us",
       "contentLocale": "en-us",
-      "rev": "EnyByO9ClVwXoq26gQa29D",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2026-01-16T02:00:00.000Z"
     }
   },
@@ -302,7 +362,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "du03LJAufDw",
-        "videoLengthInSeconds": 92,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=du03LJAufDw"
       }
     },
@@ -350,7 +410,7 @@
     "analytics": {
       "contentId": "758a8b71-7860-4ef8-a0fe-716e06d9a70d.en-us",
       "contentLocale": "en-us",
-      "rev": "c1T9sKzTAqaveAWiMPWK22",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2026-01-09T00:00:00.000Z"
     }
   },
@@ -407,7 +467,7 @@
     "analytics": {
       "contentId": "cd8e8e27-9ee3-469e-b6b1-0a76371a1fbe.en-us",
       "contentLocale": "en-us",
-      "rev": "ZJ7OhN6YiX4rG7NvuP7Bxv",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2026-01-08T19:00:00.000Z"
     }
   },
@@ -419,7 +479,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "mo0uUHx-RV0",
-        "videoLengthInSeconds": 147,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=mo0uUHx-RV0"
       }
     },
@@ -467,7 +527,7 @@
     "analytics": {
       "contentId": "d3aa919b-09a2-41f5-b8a3-3ba59b147c68.en-us",
       "contentLocale": "en-us",
-      "rev": "c1T9sKzTAqaveAWiMOGtMf",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2026-01-08T18:00:00.000Z"
     }
   },
@@ -479,7 +539,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "3gEBQT-YF8g",
-        "videoLengthInSeconds": 1010,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=3gEBQT-YF8g"
       }
     },
@@ -527,65 +587,8 @@
     "analytics": {
       "contentId": "8d2425ae-b798-46d4-bfc4-6a1ad7779bd3.en-us",
       "contentLocale": "en-us",
-      "rev": "ZJ7OhN6YiX4rG7NvuMaTko",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2026-01-08T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 26.1 Notes",
-    "publishedAt": "2026-01-07T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-26-1-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/dae5b2dc2bf5472edc69262a289e065394ee790b-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Demacia rises in Patch 26.1 🛡️"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "899d3a39-2958-41a6-918b-914087472f23.en-us",
-      "contentLocale": "en-us",
-      "rev": "4a7FmnpsTr7eGMJy7D72TC",
-      "publishDate": "2026-01-07T19:00:00.000Z"
     }
   },
   {
@@ -642,7 +645,64 @@
     "analytics": {
       "contentId": "b9e9a434-d3f4-4151-85d8-224b51e812e5.en-us",
       "contentLocale": "en-us",
-      "rev": "4a7FmnpsTr7eGMJy7Ec2sw",
+      "rev": "JrdCdTB43ZIe9jtTvsDCvL",
+      "publishDate": "2026-01-07T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 26.1 Notes",
+    "publishedAt": "2026-01-07T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-26-1-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/dae5b2dc2bf5472edc69262a289e065394ee790b-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Demacia rises in Patch 26.1 🛡️"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "899d3a39-2958-41a6-918b-914087472f23.en-us",
+      "contentLocale": "en-us",
+      "rev": "wcF0J7hsRskGUKiR1THLuf",
       "publishDate": "2026-01-07T19:00:00.000Z"
     }
   },
@@ -654,7 +714,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "OMS_tXGDvzQ",
-        "videoLengthInSeconds": 64,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=OMS_tXGDvzQ"
       }
     },
@@ -702,7 +762,7 @@
     "analytics": {
       "contentId": "dbe9601c-4444-4fb3-902d-d6d03b3acb1b.en-us",
       "contentLocale": "en-us",
-      "rev": "ZJ7OhN6YiX4rG7NvuP1NUP",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2026-01-07T00:00:00.000Z"
     }
   },
@@ -714,7 +774,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "e6KNIYWM47c",
-        "videoLengthInSeconds": 30,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=e6KNIYWM47c"
       }
     },
@@ -762,7 +822,7 @@
     "analytics": {
       "contentId": "616f45de-e179-44a5-a8ce-046096e76747.en-us",
       "contentLocale": "en-us",
-      "rev": "HLlIn6EedyaUpuU5BzCXvm",
+      "rev": "iuvR1X3un5VQGa5MOODdwI",
       "publishDate": "2026-01-06T14:00:00.000Z"
     }
   },
@@ -821,7 +881,7 @@
     "analytics": {
       "contentId": "d35c2dea-35bb-427e-b204-d2dee89219b9.en-us",
       "contentLocale": "en-us",
-      "rev": "wm9IlY7xIfC0Z7z5Ic12e1",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2026-01-05T08:00:00.000Z"
     }
   },
@@ -833,7 +893,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "wDgVBNE1G5w",
-        "videoLengthInSeconds": 42,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=wDgVBNE1G5w"
       }
     },
@@ -881,7 +941,7 @@
     "analytics": {
       "contentId": "a4933cc1-8611-4163-8520-dbd0ec1d1ef2.en-us",
       "contentLocale": "en-us",
-      "rev": "CKSCO5KPsSeS62dMyt6sRL",
+      "rev": "iuvR1X3un5VQGa5MOOEqyE",
       "publishDate": "2025-12-17T09:00:00.000Z"
     }
   },
@@ -941,7 +1001,7 @@
     "analytics": {
       "contentId": "7d2233ed-d2e7-4e24-96ab-cb4e678ae588.en-us",
       "contentLocale": "en-us",
-      "rev": "6N1HXeP7SbE0xifbBcXmF2",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2025-12-15T02:00:00.000Z"
     }
   },
@@ -953,7 +1013,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "xyy5WMuXU3M",
-        "videoLengthInSeconds": 23,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=xyy5WMuXU3M"
       }
     },
@@ -1001,7 +1061,7 @@
     "analytics": {
       "contentId": "f297029f-4f0c-4535-9df0-98e9768d33da.en-us",
       "contentLocale": "en-us",
-      "rev": "34a0hC8xmLZmBKK0F5tnjN",
+      "rev": "JrdCdTB43ZIe9jtTvsEz4r",
       "publishDate": "2025-12-14T14:00:00.000Z"
     }
   },
@@ -1061,7 +1121,7 @@
     "analytics": {
       "contentId": "7b975f43-381a-421f-85b5-6c325ed7311f.en-us",
       "contentLocale": "en-us",
-      "rev": "1t8I2uchTca0A6lnRIFjl6",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2025-12-04T02:00:00.000Z"
     }
   },
@@ -1120,66 +1180,8 @@
     "analytics": {
       "contentId": "a224c52b-72ed-48ec-9fbd-d055b7023e0d.en-us",
       "contentLocale": "en-us",
-      "rev": "HY4Z7pO0gMyfSGImaNfX4m",
+      "rev": "iuvR1X3un5VQGa5MOOEqyE",
       "publishDate": "2025-12-03T20:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.24 Notes",
-    "publishedAt": "2025-12-02T19:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-24-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/548a7d55665e65a76ffe98a155f3e188afe0053b-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "The last patch of the year, 25.24 is here!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "f834d4d1-2b96-4c20-901a-93e6e3a50635.en-us",
-      "contentLocale": "en-us",
-      "rev": "qfw0tsFoAJsTXLf2HTbOdo",
-      "publishDate": "2025-12-02T19:00:00.000Z"
     }
   },
   {
@@ -1236,7 +1238,65 @@
     "analytics": {
       "contentId": "43a41939-3ce4-41e4-81d7-c7911b1d3f28.en-us",
       "contentLocale": "en-us",
-      "rev": "vcuFMtlcF2KnHwwerV8XUD",
+      "rev": "iuvR1X3un5VQGa5MOOBdHa",
+      "publishDate": "2025-12-02T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 25.24 Notes",
+    "publishedAt": "2025-12-02T19:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-24-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/548a7d55665e65a76ffe98a155f3e188afe0053b-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The last patch of the year, 25.24 is here!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "f834d4d1-2b96-4c20-901a-93e6e3a50635.en-us",
+      "contentLocale": "en-us",
+      "rev": "JrdCdTB43ZIe9jtTvtx47V",
       "publishDate": "2025-12-02T19:00:00.000Z"
     }
   },
@@ -1294,7 +1354,7 @@
     "analytics": {
       "contentId": "350bc0d7-0f74-42b3-a38e-daa592dd6837.en-us",
       "contentLocale": "en-us",
-      "rev": "W2Ccw5HEg9Sopso6ntUxVn",
+      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2025-12-02T17:00:00.000Z"
     }
   },
@@ -1353,7 +1413,7 @@
     "analytics": {
       "contentId": "9619b690-6c79-4adf-9593-0a84d688e0f4.en-us",
       "contentLocale": "en-us",
-      "rev": "8DjA3FXH6NUo1kcuxnYP0z",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2025-11-30T14:00:00.000Z"
     }
   },
@@ -1365,7 +1425,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "qsgAfQzw9CQ",
-        "videoLengthInSeconds": 50,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=qsgAfQzw9CQ"
       }
     },
@@ -1413,7 +1473,7 @@
     "analytics": {
       "contentId": "e6a6aa58-16ec-431d-b8f4-c8569d6c2fef.en-us",
       "contentLocale": "en-us",
-      "rev": "l2Wgw7TVLfDQFCqffbT3IV",
+      "rev": "JrdCdTB43ZIe9jtTvsEz4r",
       "publishDate": "2025-11-27T03:00:00.000Z"
     }
   },
@@ -1425,7 +1485,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "cGcJckq7ThA",
-        "videoLengthInSeconds": 36,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=cGcJckq7ThA"
       }
     },
@@ -1473,7 +1533,7 @@
     "analytics": {
       "contentId": "36f9f4c5-d201-4e88-ab7f-33af58b32169.en-us",
       "contentLocale": "en-us",
-      "rev": "QbDEAKR56OcKxt0hufWPMQ",
+      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2025-11-26T16:00:00.000Z"
     }
   },
@@ -1533,7 +1593,7 @@
     "analytics": {
       "contentId": "6bd3f2d7-d84b-41da-a8e3-3e48d7d0ba8b.en-us",
       "contentLocale": "en-us",
-      "rev": "8DjA3FXH6NUo1kcuxk9vrl",
+      "rev": "iuvR1X3un5VQGa5MOODdwI",
       "publishDate": "2025-11-24T19:00:00.000Z"
     }
   },
@@ -1545,7 +1605,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "HEHK1zpA2mI",
-        "videoLengthInSeconds": 36,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=HEHK1zpA2mI"
       }
     },
@@ -1593,7 +1653,7 @@
     "analytics": {
       "contentId": "c2d4cb82-6126-483c-a0a8-4c98a8a22723.en-us",
       "contentLocale": "en-us",
-      "rev": "250dXzIcio5umVIAV70jHf",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-11-20T14:00:00.000Z"
     }
   },
@@ -1605,7 +1665,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "1EhOSZst-os",
-        "videoLengthInSeconds": 60,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=1EhOSZst-os"
       }
     },
@@ -1653,66 +1713,8 @@
     "analytics": {
       "contentId": "0fdb5733-89f2-436a-b137-3acc69170949.en-us",
       "contentLocale": "en-us",
-      "rev": "ZzWYZ9VTvY5M4IEM0QZacn",
+      "rev": "wcF0J7hsRskGUKiR1Sp6el",
       "publishDate": "2025-11-20T02:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.23 Notes",
-    "publishedAt": "2025-11-18T19:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-23-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d5907909b54ac8eb8b41b85b71786d35c72f8e2f-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Patch 25.23 has ascended 🙏"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "88932e9e-0f27-4745-8691-43dca38ae8fb.en-us",
-      "contentLocale": "en-us",
-      "rev": "l6Mu4X6gIZo2zlrRbbGJ8D",
-      "publishDate": "2025-11-18T19:00:00.000Z"
     }
   },
   {
@@ -1769,7 +1771,65 @@
     "analytics": {
       "contentId": "5984d9ed-f7ce-483f-a5a9-965d8cb20308.en-us",
       "contentLocale": "en-us",
-      "rev": "FzN6YaKM540HVFkL5FXu0J",
+      "rev": "iuvR1X3un5VQGa5MOOCfji",
+      "publishDate": "2025-11-18T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 25.23 Notes",
+    "publishedAt": "2025-11-18T19:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-23-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d5907909b54ac8eb8b41b85b71786d35c72f8e2f-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Patch 25.23 has ascended 🙏"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "88932e9e-0f27-4745-8691-43dca38ae8fb.en-us",
+      "contentLocale": "en-us",
+      "rev": "wcF0J7hsRskGUKiR1THLuf",
       "publishDate": "2025-11-18T19:00:00.000Z"
     }
   },
@@ -1829,7 +1889,7 @@
     "analytics": {
       "contentId": "523caf79-7360-4b42-83f0-0d59b0f053b1.en-us",
       "contentLocale": "en-us",
-      "rev": "fwot5R1d1ysEA16B85o84a",
+      "rev": "iuvR1X3un5VQGa5MOOCfji",
       "publishDate": "2025-11-18T14:00:00.000Z"
     }
   },
@@ -1887,7 +1947,7 @@
     "analytics": {
       "contentId": "8540a2a7-2a7e-44bc-ba79-656bc26efb7b.en-us",
       "contentLocale": "en-us",
-      "rev": "Y9XcD1MBWSj4a8m4nc6Kyt",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2025-11-16T18:00:00.000Z"
     }
   },
@@ -1899,7 +1959,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "S3F9CpeiSNE",
-        "videoLengthInSeconds": 193,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=S3F9CpeiSNE"
       }
     },
@@ -1947,7 +2007,7 @@
     "analytics": {
       "contentId": "7394d9f6-1bba-4484-ac01-b7d2d3f80878.en-us",
       "contentLocale": "en-us",
-      "rev": "v2WY2rXgjmfHxusH4tDpwY",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2025-11-10T16:00:00.000Z"
     }
   },
@@ -1958,7 +2018,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "fX08jvwW-AY",
-        "videoLengthInSeconds": 96,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=fX08jvwW-AY"
       }
     },
@@ -2006,7 +2066,7 @@
     "analytics": {
       "contentId": "b415ea79-b8a8-49ba-81b2-3b7f3bdcdd92.en-us",
       "contentLocale": "en-us",
-      "rev": "v2WY2rXgjmfHxusH4tDpwY",
+      "rev": "JrdCdTB43ZIe9jtTvsDCvL",
       "publishDate": "2025-11-09T16:00:00.000Z"
     }
   },
@@ -2064,65 +2124,8 @@
     "analytics": {
       "contentId": "07634ed1-b205-4dee-b7de-13f87f93d54d.en-us",
       "contentLocale": "en-us",
-      "rev": "0ROdypgMxh3pyl1XddrVk0",
+      "rev": "wcF0J7hsRskGUKiR1SodWJ",
       "publishDate": "2025-11-09T11:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.22 Notes",
-    "publishedAt": "2025-11-04T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-22-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/83b4463fe7001a176eb7d0ddb1c70e358950d7c1-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "We’re going to Chengdu with Patch 25.22!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "52d06c9d-f063-4d36-8399-80a282218a89.en-us",
-      "contentLocale": "en-us",
-      "rev": "s569J0oXuwYSDZu2WePon4",
-      "publishDate": "2025-11-04T19:00:00.000Z"
     }
   },
   {
@@ -2180,7 +2183,64 @@
     "analytics": {
       "contentId": "79a3184b-c3e8-4a59-aab2-e466212eabeb.en-us",
       "contentLocale": "en-us",
-      "rev": "GNHjJJdbzIjxC2s2xUC06a",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
+      "publishDate": "2025-11-04T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 25.22 Notes",
+    "publishedAt": "2025-11-04T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-22-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/83b4463fe7001a176eb7d0ddb1c70e358950d7c1-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "We’re going to Chengdu with Patch 25.22!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "52d06c9d-f063-4d36-8399-80a282218a89.en-us",
+      "contentLocale": "en-us",
+      "rev": "wcF0J7hsRskGUKiR1THLuf",
       "publishDate": "2025-11-04T19:00:00.000Z"
     }
   },
@@ -2192,7 +2252,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "ZYAlAY90o0o",
-        "videoLengthInSeconds": 40,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=ZYAlAY90o0o"
       }
     },
@@ -2240,7 +2300,7 @@
     "analytics": {
       "contentId": "9766779e-b5c9-458c-b3ff-0788a1212cd3.en-us",
       "contentLocale": "en-us",
-      "rev": "v1TMw0qfUmS7pBkg4uR4mP",
+      "rev": "iuvR1X3un5VQGa5MOOEqyE",
       "publishDate": "2025-10-23T16:00:00.000Z"
     }
   },
@@ -2251,7 +2311,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "cyxtWpfUggI",
-        "videoLengthInSeconds": 47,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=cyxtWpfUggI"
       }
     },
@@ -2299,7 +2359,7 @@
     "analytics": {
       "contentId": "78ec8243-caeb-4537-9846-73bb8505606e.en-us",
       "contentLocale": "en-us",
-      "rev": "131gtotb7Dde3mAyU2z3T1",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2025-10-23T13:00:00.000Z"
     }
   },
@@ -2358,7 +2418,7 @@
     "analytics": {
       "contentId": "9ed26afe-51ae-45bb-9dc6-5119b46a90d8.en-us",
       "contentLocale": "en-us",
-      "rev": "5dVNkf5KRNov0nq7TuODWw",
+      "rev": "iuvR1X3un5VQGa5MOOEqyE",
       "publishDate": "2025-10-22T16:00:00.000Z"
     }
   },
@@ -2416,7 +2476,7 @@
     "analytics": {
       "contentId": "0c2606d5-874b-4919-9617-d6ac9134737a.en-us",
       "contentLocale": "en-us",
-      "rev": "jQpCf8Pp9opSYjtkpUBZtN",
+      "rev": "wcF0J7hsRskGUKiR1Sp6el",
       "publishDate": "2025-10-21T18:00:00.000Z"
     }
   },
@@ -2473,7 +2533,7 @@
     "analytics": {
       "contentId": "93ef2010-1197-4b54-8b65-0eddbf947e5b.en-us",
       "contentLocale": "en-us",
-      "rev": "ZzV5MVNC4oSxwN9Dln24rJ",
+      "rev": "wcF0J7hsRskGUKiR1THLuf",
       "publishDate": "2025-10-21T18:00:00.000Z"
     }
   },
@@ -2532,7 +2592,7 @@
     "analytics": {
       "contentId": "fcbcfdec-defd-4e64-8712-2222692a4e15.en-us",
       "contentLocale": "en-us",
-      "rev": "SFq55SO54cbhHTwsU6C9zm",
+      "rev": "JrdCdTB43ZIe9jtTvsGSNp",
       "publishDate": "2025-10-17T16:00:00.000Z"
     }
   },
@@ -2592,7 +2652,7 @@
     "analytics": {
       "contentId": "3c03e3a6-7fa5-4473-b254-8781c6bf9822.en-us",
       "contentLocale": "en-us",
-      "rev": "cq6zs2aKk6uNADJOpy9njF",
+      "rev": "iuvR1X3un5VQGa5MOOBdHa",
       "publishDate": "2025-10-17T15:00:00.000Z"
     }
   },
@@ -2604,7 +2664,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "52cjirkRkEU",
-        "videoLengthInSeconds": 40,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=52cjirkRkEU"
       }
     },
@@ -2652,7 +2712,7 @@
     "analytics": {
       "contentId": "a6c7d795-e9e0-4d0d-bf60-4703ad467062.en-us",
       "contentLocale": "en-us",
-      "rev": "GKfuTkhcFTzxzWhcvwvwlZ",
+      "rev": "iuvR1X3un5VQGa5MOOEqyE",
       "publishDate": "2025-10-13T16:00:00.000Z"
     }
   },
@@ -2664,7 +2724,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "rH85z9r6aek",
-        "videoLengthInSeconds": 75,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=rH85z9r6aek"
       }
     },
@@ -2712,7 +2772,7 @@
     "analytics": {
       "contentId": "874f8dcd-d9d8-4437-900e-e88a07428b64.en-us",
       "contentLocale": "en-us",
-      "rev": "nnzZ31xI8HKHcTfJeuUWGA",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2025-10-13T01:00:00.000Z"
     }
   },
@@ -2724,7 +2784,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "OmHeqKnWW64",
-        "videoLengthInSeconds": 33,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=OmHeqKnWW64"
       }
     },
@@ -2772,7 +2832,7 @@
     "analytics": {
       "contentId": "c6c4bdfd-18c9-45a2-8a4d-31d6540c259a.en-us",
       "contentLocale": "en-us",
-      "rev": "UsaWKKSJ1KBsilFyNQNi0D",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-10-10T16:00:00.000Z"
     }
   },
@@ -2784,7 +2844,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "aKHSHnyrDuo",
-        "videoLengthInSeconds": 46,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=aKHSHnyrDuo"
       }
     },
@@ -2832,7 +2892,7 @@
     "analytics": {
       "contentId": "e6cde8fd-7c48-4460-b93b-28bc373d4bc1.en-us",
       "contentLocale": "en-us",
-      "rev": "N1EOfh1cnmpqQzaVgZCYpr",
+      "rev": "JrdCdTB43ZIe9jtTvsEz4r",
       "publishDate": "2025-10-08T01:30:00.000Z"
     }
   },
@@ -2891,7 +2951,7 @@
     "analytics": {
       "contentId": "99271384-c694-4277-b300-8c37d1bf8706.en-us",
       "contentLocale": "en-us",
-      "rev": "DzIXTRyZOqjZuGNPOBLCuI",
+      "rev": "iuvR1X3un5VQGa5MOOEqyE",
       "publishDate": "2025-10-07T21:21:00.000Z"
     }
   },
@@ -2949,7 +3009,7 @@
     "analytics": {
       "contentId": "88b8b555-2d9e-495b-906e-2f490104db18.en-us",
       "contentLocale": "en-us",
-      "rev": "N1EOfh1cnmpqQzaVgZCFrZ",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2025-10-07T18:00:00.000Z"
     }
   },
@@ -3006,7 +3066,7 @@
     "analytics": {
       "contentId": "ce04728a-bf86-426d-a1df-833a59088521.en-us",
       "contentLocale": "en-us",
-      "rev": "UsaWKKSJ1KBsilFyNJvRSP",
+      "rev": "JrdCdTB43ZIe9jtTvtx47V",
       "publishDate": "2025-10-07T18:00:00.000Z"
     }
   },
@@ -3065,7 +3125,7 @@
     "analytics": {
       "contentId": "c248a423-7352-4f9f-8cee-c845b57a18fa.en-us",
       "contentLocale": "en-us",
-      "rev": "5MjM20rxLkfyHbNVBDKXJH",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-10-07T00:00:00.000Z"
     }
   },
@@ -3076,7 +3136,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "H1PjsqtsJRI",
-        "videoLengthInSeconds": 38,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=H1PjsqtsJRI"
       }
     },
@@ -3124,7 +3184,7 @@
     "analytics": {
       "contentId": "c1bde5be-9afd-472b-a938-f6f4c21bdf91.en-us",
       "contentLocale": "en-us",
-      "rev": "0742gjWSBB384Ylbi41jsq",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-09-29T16:00:00.000Z"
     }
   },
@@ -3135,7 +3195,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "jlQRCge24P0",
-        "videoLengthInSeconds": 52,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=jlQRCge24P0"
       }
     },
@@ -3183,65 +3243,8 @@
     "analytics": {
       "contentId": "24dd4711-05d3-4258-a011-d838561ec089.en-us",
       "contentLocale": "en-us",
-      "rev": "cqVQ2onYSg12kUB1UsnFdt",
+      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2025-09-26T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.19 Notes",
-    "publishedAt": "2025-09-23T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-19-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c63cc79e8864772a88319e9aa166c2d38e39d914-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Your fate is sealed in Patch 25.19."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "d9135b0b-66b2-4374-a090-a096cb89441f.en-us",
-      "contentLocale": "en-us",
-      "rev": "16UtN7biKsQ0DzIPbdNTVz",
-      "publishDate": "2025-09-23T18:00:00.000Z"
     }
   },
   {
@@ -3299,7 +3302,64 @@
     "analytics": {
       "contentId": "92c1c7d9-41f0-4bde-8bbc-a3dfa19ef9ca.en-us",
       "contentLocale": "en-us",
-      "rev": "Dyz3qB5zCw9tTbbDlLfD31",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
+      "publishDate": "2025-09-23T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 25.19 Notes",
+    "publishedAt": "2025-09-23T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-19-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c63cc79e8864772a88319e9aa166c2d38e39d914-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Your fate is sealed in Patch 25.19."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d9135b0b-66b2-4374-a090-a096cb89441f.en-us",
+      "contentLocale": "en-us",
+      "rev": "JrdCdTB43ZIe9jtTvtx47V",
       "publishDate": "2025-09-23T18:00:00.000Z"
     }
   },
@@ -3358,7 +3418,7 @@
     "analytics": {
       "contentId": "c5aece32-6d86-48eb-abd7-3b684d817176.en-us",
       "contentLocale": "en-us",
-      "rev": "I4l2fGQgk3vy4a7csuGHPn",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-09-23T16:00:00.000Z"
     }
   },
@@ -3369,7 +3429,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "YkIrHw15X-g",
-        "videoLengthInSeconds": 47,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=YkIrHw15X-g"
       }
     },
@@ -3417,7 +3477,7 @@
     "analytics": {
       "contentId": "da59ebce-af17-4c66-a0c0-709bda6d863e.en-us",
       "contentLocale": "en-us",
-      "rev": "L7B6ax4PVBaEnqEVVTmiml",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2025-09-22T16:00:00.000Z"
     }
   },
@@ -3476,7 +3536,7 @@
     "analytics": {
       "contentId": "0b99409d-69e5-49ae-af35-5bb5bb5085f5.en-us",
       "contentLocale": "en-us",
-      "rev": "0qVVOmxCKHh2FDbjESkBRM",
+      "rev": "wcF0J7hsRskGUKiR1Sp6el",
       "publishDate": "2025-09-10T18:00:00.000Z"
     }
   },
@@ -3534,7 +3594,7 @@
     "analytics": {
       "contentId": "fb62de6a-9104-4c63-b9c1-6c9bf548edb8.en-us",
       "contentLocale": "en-us",
-      "rev": "CUM6Ckg6r7Io8wN5ers8U5",
+      "rev": "JrdCdTB43ZIe9jtTvsEz4r",
       "publishDate": "2025-09-09T18:00:00.000Z"
     }
   },
@@ -3591,7 +3651,7 @@
     "analytics": {
       "contentId": "d4c5e025-058c-42d1-945a-3df0eea57ad8.en-us",
       "contentLocale": "en-us",
-      "rev": "19x5P0I7l537I1X0klJIVK",
+      "rev": "JrdCdTB43ZIe9jtTvtx47V",
       "publishDate": "2025-09-09T18:00:00.000Z"
     }
   },
@@ -3603,7 +3663,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "MfUWei4CEMk",
-        "videoLengthInSeconds": 38,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=MfUWei4CEMk"
       }
     },
@@ -3651,7 +3711,7 @@
     "analytics": {
       "contentId": "11d76e4a-88fc-4efb-bc17-aff4c78dcc97.en-us",
       "contentLocale": "en-us",
-      "rev": "FvdIrf3wf8ohJa5Mcmg9S1",
+      "rev": "wcF0J7hsRskGUKiR1Sp6el",
       "publishDate": "2025-09-01T16:00:00.000Z"
     }
   },
@@ -3663,7 +3723,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "fMGJMGaeSLM",
-        "videoLengthInSeconds": 342,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=fMGJMGaeSLM"
       }
     },
@@ -3711,7 +3771,7 @@
     "analytics": {
       "contentId": "ad8586c9-2114-4943-a619-81b560b6e555.en-us",
       "contentLocale": "en-us",
-      "rev": "3DyBLnTmXKzIntk3JcI1d7",
+      "rev": "iuvR1X3un5VQGa5MOOGLtW",
       "publishDate": "2025-08-28T15:00:00.000Z"
     }
   },
@@ -3723,7 +3783,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "_Z0UKDVRDHo",
-        "videoLengthInSeconds": 37,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=_Z0UKDVRDHo"
       }
     },
@@ -3771,7 +3831,7 @@
     "analytics": {
       "contentId": "28698c7a-5e4b-42c6-b3df-b5d1a525a510.en-us",
       "contentLocale": "en-us",
-      "rev": "eSp692mjem6lotCbLQ8GYw",
+      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2025-08-27T16:00:41.044Z"
     }
   },
@@ -3831,7 +3891,7 @@
     "analytics": {
       "contentId": "cdd45380-d532-4f52-8eb2-d45c807be536.en-us",
       "contentLocale": "en-us",
-      "rev": "QrUGPqrQFFDDxIYUsDO9z1",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-08-27T15:00:00.000Z"
     }
   },
@@ -3889,7 +3949,7 @@
     "analytics": {
       "contentId": "21913c76-57d7-4775-b5bf-1ec7ceb679e5.en-us",
       "contentLocale": "en-us",
-      "rev": "73N4EZnJIRj0Hk4XdJYHse",
+      "rev": "wcF0J7hsRskGUKiR1SpYah",
       "publishDate": "2025-08-26T18:00:00.000Z"
     }
   },
@@ -3946,7 +4006,7 @@
     "analytics": {
       "contentId": "3c0a58f3-096a-4647-8905-b8b0f17c70e3.en-us",
       "contentLocale": "en-us",
-      "rev": "QrUGPqrQFFDDxIYUsTRbxD",
+      "rev": "wcF0J7hsRskGUKiR1THLuf",
       "publishDate": "2025-08-26T18:00:00.000Z"
     }
   },
@@ -3958,7 +4018,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "RsH6DlTiUCE",
-        "videoLengthInSeconds": 147,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=RsH6DlTiUCE"
       }
     },
@@ -4006,7 +4066,7 @@
     "analytics": {
       "contentId": "ddadda92-6dc5-46e9-ad28-61b9c93c9960.en-us",
       "contentLocale": "en-us",
-      "rev": "3DyBLnTmXKzIntk3JcI1d7",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2025-08-26T15:00:00.000Z"
     }
   },
@@ -4065,7 +4125,7 @@
     "analytics": {
       "contentId": "d03aa0cc-adbc-41ce-a22e-e1b832950eec.en-us",
       "contentLocale": "en-us",
-      "rev": "zZnyOGt25TdOcjQJdZo0uQ",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-08-20T15:00:00.000Z"
     }
   },
@@ -4077,7 +4137,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "w-LkhjhcBF0",
-        "videoLengthInSeconds": 46,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=w-LkhjhcBF0"
       }
     },
@@ -4125,65 +4185,8 @@
     "analytics": {
       "contentId": "f88cb668-1e12-4f78-9951-19df080f9e27.en-us",
       "contentLocale": "en-us",
-      "rev": "a7EYW2Xw2b7CoUAiRdqnJx",
+      "rev": "JrdCdTB43ZIe9jtTvsEz4r",
       "publishDate": "2025-08-18T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Patch 25.16 Notes",
-    "publishedAt": "2025-08-12T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/patch-25-16-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6cf156a1013a70fec232d94109198ef22c67f88f-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Patch 25.16 ready for takeoff!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "9589ba47-48c1-4f14-abc5-680bee2b9320.en-us",
-      "contentLocale": "en-us",
-      "rev": "RDk8LZ6lvi22BNccBUqB2D",
-      "publishDate": "2025-08-12T18:00:00.000Z"
     }
   },
   {
@@ -4240,7 +4243,64 @@
     "analytics": {
       "contentId": "e1b5882e-5b3d-4b92-a7b8-3b0d6681bff3.en-us",
       "contentLocale": "en-us",
-      "rev": "e7rRZjRe8Gd1P6MXFFCukO",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
+      "publishDate": "2025-08-12T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Patch 25.16 Notes",
+    "publishedAt": "2025-08-12T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/patch-25-16-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6cf156a1013a70fec232d94109198ef22c67f88f-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Patch 25.16 ready for takeoff!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "9589ba47-48c1-4f14-abc5-680bee2b9320.en-us",
+      "contentLocale": "en-us",
+      "rev": "wcF0J7hsRskGUKiR1THLuf",
       "publishDate": "2025-08-12T18:00:00.000Z"
     }
   },
@@ -4317,7 +4377,7 @@
     "analytics": {
       "contentId": "4972e09b-443e-49f1-aaee-23a05ca82f3f.en-us",
       "contentLocale": "en-us",
-      "rev": "KDO1mZjw0URCxxxFcuaqqg",
+      "rev": "iuvR1X3un5VQGa5MOOBdHa",
       "publishDate": "2025-08-12T15:00:00.000Z"
     }
   },
@@ -4329,7 +4389,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "criEXT_JX14",
-        "videoLengthInSeconds": 39,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=criEXT_JX14"
       }
     },
@@ -4377,67 +4437,8 @@
     "analytics": {
       "contentId": "cc2fddab-f4af-4b26-a531-38654d8f33ff.en-us",
       "contentLocale": "en-us",
-      "rev": "QaPhShNpperNrkkxZqfpEW",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-08-05T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "The Bashful Blooms | Chibi Champion Showcase",
-    "publishedAt": "2025-08-04T13:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "9ggHz-F40m0",
-        "videoLengthInSeconds": 32,
-        "url": "https://www.youtube.com/watch?v=9ggHz-F40m0"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4b24d17f3ff5bc7fa76bea3a541ea9a226a5bcfe-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Now prancing into the arena: the easily startled Chibi Lillia & Chibi Spirit Blossom Lillia!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "a3590f3e-02dd-471d-8652-d14e55da791e.en-us",
-      "contentLocale": "en-us",
-      "rev": "6MPgVG430X6GzNV48YLkAT",
-      "publishDate": "2025-08-04T13:00:00.000Z"
     }
   }
 ]

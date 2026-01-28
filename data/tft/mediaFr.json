@@ -1,5 +1,61 @@
 [
   {
+    "title": "Musique Lo-fi « Quartier des rêves »",
+    "publishedAt": "2026-01-27T17:30:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=3GLt9HqsFYg"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/28df5bd9ff992fc12c0468fa6e2e79f1468d01de-1920x1080.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Chut ! La Gardienne des étoiles se repose. Vous devriez en faire de même."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "a725370f-f933-4994-ae93-d40eaed69499.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "JrdCdTB43ZIe9jtTvq2wQ5",
+      "publishDate": "2026-01-27T17:30:00.000Z"
+    }
+  },
+  {
     "title": "Bande-son originale de Lore & Legends",
     "publishedAt": "2026-01-22T16:00:00.000Z",
     "promoCardSize": "medium",
@@ -5393,173 +5449,6 @@
     }
   },
   {
-    "title": "La montée de la Ruine | Cinématique de lancement de Jugement - Teamfight Tactics",
-    "publishedAt": "2021-04-27T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "cMII-eV_xjw",
-        "videoLengthInSeconds": 140,
-        "url": "https://www.youtube.com/watch?v=cMII-eV_xjw"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#ffb60d"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "jOdnezHg",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-27T01:53:10Z",
-              "_id": "image-1e195bd0452d5f95407b4deae179e288346369ec-1600x1080-jpg",
-              "_rev": "TveqPI7F4qA0WH6AaDeVLi",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-04-27T01:53:10Z",
-              "assetId": "1e195bd0452d5f95407b4deae179e288346369ec",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "V9Ac#o9Z00_2^+00-p~W9ZIoRjNG-pofE1o}xaIUWBxu",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#47362f",
-                    "foreground": "#fff",
-                    "population": 7.43,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#240407",
-                    "foreground": "#fff",
-                    "population": 0.08,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#47362f",
-                    "foreground": "#fff",
-                    "population": 7.43,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#d5b5b4",
-                    "foreground": "#000",
-                    "population": 0.11,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#e5cbb6",
-                    "foreground": "#000",
-                    "population": 0.04,
-                    "title": "#000"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#ae8967",
-                    "foreground": "#fff",
-                    "population": 0.16,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#cc742a",
-                    "foreground": "#fff",
-                    "population": 0.25,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "TFT_Marquee_T1_Decluttered.jpg",
-              "path": "images/dsfx7636/news_live/1e195bd0452d5f95407b4deae179e288346369ec-1600x1080.jpg",
-              "sha1hash": "1e195bd0452d5f95407b4deae179e288346369ec",
-              "size": 420965,
-              "uploadId": "mtXRAmpCNibzx0HeLcdxQRKNeeH3lk28",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1e195bd0452d5f95407b4deae179e288346369ec-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1CTA": "Watch Now",
-        "t1Description": "L'équilibre est rompu.",
-        "t1Subtitle": "Teamfight Tactics",
-        "t1Title": "La montée de la Ruine",
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "youtube",
-            "videoID": "https://www.youtube.com/watch?v=cMII-eV_xjw"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/61cbdb470a72258253d581a1a2b3d3f5f31f3874-1920x1080.jpg?accountingTag=TFT",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "L'équilibre est rompu et la Brume arrive."
-    },
-    "category": {
-      "title": "Média",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt1836aa0805349b04.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOH9iEA",
-      "publishDate": "2021-04-27T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Présentation de l'ensemble Jugement | Teamfight Tactics",
     "publishedAt": "2021-04-27T15:00:00.000Z",
     "promoCardSize": "small",
@@ -5723,6 +5612,173 @@
       "contentId": "articles.bltbb47c705392a7fdf.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Q6O9d",
+      "publishDate": "2021-04-27T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "La montée de la Ruine | Cinématique de lancement de Jugement - Teamfight Tactics",
+    "publishedAt": "2021-04-27T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "cMII-eV_xjw",
+        "videoLengthInSeconds": 140,
+        "url": "https://www.youtube.com/watch?v=cMII-eV_xjw"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "jOdnezHg",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2024-04-27T01:53:10Z",
+              "_id": "image-1e195bd0452d5f95407b4deae179e288346369ec-1600x1080-jpg",
+              "_rev": "TveqPI7F4qA0WH6AaDeVLi",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-04-27T01:53:10Z",
+              "assetId": "1e195bd0452d5f95407b4deae179e288346369ec",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V9Ac#o9Z00_2^+00-p~W9ZIoRjNG-pofE1o}xaIUWBxu",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#47362f",
+                    "foreground": "#fff",
+                    "population": 7.43,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#240407",
+                    "foreground": "#fff",
+                    "population": 0.08,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#47362f",
+                    "foreground": "#fff",
+                    "population": 7.43,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d5b5b4",
+                    "foreground": "#000",
+                    "population": 0.11,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#e5cbb6",
+                    "foreground": "#000",
+                    "population": 0.04,
+                    "title": "#000"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ae8967",
+                    "foreground": "#fff",
+                    "population": 0.16,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#cc742a",
+                    "foreground": "#fff",
+                    "population": 0.25,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_Marquee_T1_Decluttered.jpg",
+              "path": "images/dsfx7636/news_live/1e195bd0452d5f95407b4deae179e288346369ec-1600x1080.jpg",
+              "sha1hash": "1e195bd0452d5f95407b4deae179e288346369ec",
+              "size": 420965,
+              "uploadId": "mtXRAmpCNibzx0HeLcdxQRKNeeH3lk28",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1e195bd0452d5f95407b4deae179e288346369ec-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
+        "t1CTA": "Watch Now",
+        "t1Description": "L'équilibre est rompu.",
+        "t1Subtitle": "Teamfight Tactics",
+        "t1Title": "La montée de la Ruine",
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "youtube",
+            "videoID": "https://www.youtube.com/watch?v=cMII-eV_xjw"
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/61cbdb470a72258253d581a1a2b3d3f5f31f3874-1920x1080.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'équilibre est rompu et la Brume arrive."
+    },
+    "category": {
+      "title": "Média",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "articles.blt1836aa0805349b04.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOH9iEA",
       "publishDate": "2021-04-27T15:00:00.000Z"
     }
   },

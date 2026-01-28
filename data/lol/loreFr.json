@@ -7,7 +7,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "LckhttQtsqU",
-        "videoLengthInSeconds": 140,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=LckhttQtsqU"
       }
     },
@@ -55,7 +55,7 @@
     "analytics": {
       "contentId": "d3bb398a-5bf6-4d41-b49a-7b41b60d09dd.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "VQqwldzxT3lROMAX0n8BEe",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2025-11-01T08:00:00.000Z"
     }
   },
@@ -113,7 +113,7 @@
     "analytics": {
       "contentId": "articles.blt99f69f7c6ac687a0.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "IN03FCy14OOjYlZR31WpCa",
+      "rev": "wcF0J7hsRskGUKiR1SvyD7",
       "publishDate": "2022-07-09T15:00:00.000Z"
     }
   },
@@ -281,7 +281,7 @@
     "analytics": {
       "contentId": "articles.blt10ac976129a0f09a.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHLNYr",
+      "rev": "JrdCdTB43ZIe9jtTvrXoOD",
       "publishDate": "2022-06-27T19:00:00.000Z"
     }
   },
@@ -340,67 +340,8 @@
     "analytics": {
       "contentId": "articles.bltf13475dab1d4d1ae.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "I7aB4NVNAJUWfHHvEj1c38",
+      "rev": "wcF0J7hsRskGUKiR1SxfIl",
       "publishDate": "2022-06-01T07:00:00.000Z"
-    }
-  },
-  {
-    "title": "Bel'Veth sur l'Univers",
-    "publishedAt": "2022-05-20T19:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://universe.leagueoflegends.com/fr_FR/champion/belveth/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/dc577c644dbb2d3fb86e5e55696be0bfb045ffe4-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez l'Impératrice du Néant sur l'Univers."
-    },
-    "category": {
-      "title": "Univers",
-      "description": "Histoires, bandes dessinées et univers de Runeterra.",
-      "machineName": "lore"
-    },
-    "analytics": {
-      "contentId": "articles.blt39950e589b144bfb.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "I7aB4NVNAJUWfHHvEj1c38",
-      "publishDate": "2022-05-20T19:00:00.000Z"
     }
   },
   {
@@ -458,7 +399,66 @@
     "analytics": {
       "contentId": "articles.bltd19951723baa6fbc.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "I7aB4NVNAJUWfHHvEj1c38",
+      "rev": "wcF0J7hsRskGUKiR1SwvJx",
+      "publishDate": "2022-05-20T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Bel'Veth sur l'Univers",
+    "publishedAt": "2022-05-20T19:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://universe.leagueoflegends.com/fr_FR/champion/belveth/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/dc577c644dbb2d3fb86e5e55696be0bfb045ffe4-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez l'Impératrice du Néant sur l'Univers."
+    },
+    "category": {
+      "title": "Univers",
+      "description": "Histoires, bandes dessinées et univers de Runeterra.",
+      "machineName": "lore"
+    },
+    "analytics": {
+      "contentId": "articles.blt39950e589b144bfb.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "JrdCdTB43ZIe9jtTvrfa37",
       "publishDate": "2022-05-20T19:00:00.000Z"
     }
   },
@@ -517,7 +517,7 @@
     "analytics": {
       "contentId": "articles.blt0295f0a945621ee8.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHLNYr",
+      "rev": "iuvR1X3un5VQGa5MOOGLtW",
       "publishDate": "2022-05-12T20:00:00.000Z"
     }
   },
@@ -576,7 +576,7 @@
     "analytics": {
       "contentId": "articles.blt2c7f630d59ab069d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHLNYr",
+      "rev": "JrdCdTB43ZIe9jtTvrcUJ5",
       "publishDate": "2022-02-01T09:00:00.000Z"
     }
   },
@@ -634,7 +634,7 @@
     "analytics": {
       "contentId": "articles.bltce6e2ce4357f9dae.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wqQE3hWIWpUAV3VUi6QR00",
+      "rev": "JrdCdTB43ZIe9jtTvs8Har",
       "publishDate": "2021-11-08T16:00:00.000Z"
     }
   },
@@ -693,7 +693,7 @@
     "analytics": {
       "contentId": "articles.blt5f1bc83b809c139e.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "5oZd24h28sxsR5vy6hYkvq",
+      "rev": "4JtdF5NqmkvmgUeb12IlEN",
       "publishDate": "2021-09-23T20:00:00.000Z"
     }
   },
@@ -752,7 +752,7 @@
     "analytics": {
       "contentId": "articles.bltad93f13feca61c84.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaIHcYZ",
+      "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
       "publishDate": "2021-07-09T00:00:00.000Z"
     }
   },
@@ -810,7 +810,7 @@
     "analytics": {
       "contentId": "articles.bltad66c601137e9b57.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHLKij",
+      "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
       "publishDate": "2020-12-08T16:00:00.000Z"
     }
   },
@@ -875,7 +875,7 @@
     "analytics": {
       "contentId": "articles.bltee0a70e94a1db1dd.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHLKij",
+      "rev": "wcF0J7hsRskGUKiR1SxfIl",
       "publishDate": "2020-10-29T20:00:00.000Z"
     }
   },
@@ -940,7 +940,7 @@
     "analytics": {
       "contentId": "articles.bltfe829147fd36c400.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHNKP7",
+      "rev": "iuvR1X3un5VQGa5MOOeSjg",
       "publishDate": "2020-10-13T15:00:00.000Z"
     }
   },
@@ -998,7 +998,7 @@
     "analytics": {
       "contentId": "articles.blt6ba61136d4d46c02.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHNKP7",
+      "rev": "iuvR1X3un5VQGa5MOOTkp6",
       "publishDate": "2020-10-04T03:00:00.000Z"
     }
   },
@@ -1056,7 +1056,7 @@
     "analytics": {
       "contentId": "articles.blt44ddeac8c9ecde1c.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHNKP7",
+      "rev": "iuvR1X3un5VQGa5MOONSwC",
       "publishDate": "2020-09-27T03:00:00.000Z"
     }
   },
@@ -1114,7 +1114,7 @@
     "analytics": {
       "contentId": "articles.blte0988149a7281dff.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaIIaU7",
+      "rev": "iuvR1X3un5VQGa5MOObv0o",
       "publishDate": "2020-09-20T03:00:00.000Z"
     }
   },
@@ -1172,7 +1172,7 @@
     "analytics": {
       "contentId": "articles.bltec93fa55cbffc595.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaIIaU7",
+      "rev": "wcF0J7hsRskGUKiR1SxfIl",
       "publishDate": "2020-09-13T03:00:00.000Z"
     }
   },
@@ -1230,7 +1230,7 @@
     "analytics": {
       "contentId": "articles.blt95be4dcd7bbd7818.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaIIaU7",
+      "rev": "wcF0J7hsRskGUKiR1SvcMH",
       "publishDate": "2020-09-06T03:00:00.000Z"
     }
   },
@@ -1288,7 +1288,7 @@
     "analytics": {
       "contentId": "articles.blt0e62d2c16c1a95d9.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jygAgRX14W54JDNrfdahic",
+      "rev": "JrdCdTB43ZIe9jtTvrXoOD",
       "publishDate": "2020-05-27T20:00:00.000Z"
     }
   },
@@ -1346,7 +1346,7 @@
     "analytics": {
       "contentId": "articles.bltdb0e9409d5537a2f.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jygAgRX14W54JDNrfdaXtH",
+      "rev": "iuvR1X3un5VQGa5MOOap9E",
       "publishDate": "2020-05-24T21:00:00.000Z"
     }
   },
@@ -1404,7 +1404,7 @@
     "analytics": {
       "contentId": "articles.bltd257052646871458.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jygAgRX14W54JDNrfdaXtH",
+      "rev": "wcF0J7hsRskGUKiR1SwvJx",
       "publishDate": "2020-05-09T04:30:00.000Z"
     }
   },
@@ -1462,7 +1462,7 @@
     "analytics": {
       "contentId": "articles.blte8d264f51434d272.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHNKP7",
+      "rev": "iuvR1X3un5VQGa5MOOcsrw",
       "publishDate": "2020-03-26T19:30:00.000Z"
     }
   },
@@ -1520,7 +1520,7 @@
     "analytics": {
       "contentId": "articles.blt4bc50adf0e126831.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "ezeDmPKYihkFJn4KlZLpY0",
+      "rev": "iuvR1X3un5VQGa5MOOR0FS",
       "publishDate": "2020-03-18T15:00:00.000Z"
     }
   },
@@ -1578,7 +1578,7 @@
     "analytics": {
       "contentId": "articles.blte2d609373712ee3c.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wqQE3hWIWpUAV3VUi6Qel4",
+      "rev": "iuvR1X3un5VQGa5MOObv0o",
       "publishDate": "2020-01-15T16:00:00.000Z"
     }
   },
@@ -1636,7 +1636,7 @@
     "analytics": {
       "contentId": "articles.blt36a8760d5f18d5ea.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jygAgRX14W54JDNrfdagup",
+      "rev": "iuvR1X3un5VQGa5MOOKS3G",
       "publishDate": "2019-10-11T17:35:16.100Z"
     }
   },
@@ -1694,7 +1694,7 @@
     "analytics": {
       "contentId": "articles.bltf083ca7f9df4f40a.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaIHaWQ",
+      "rev": "wcF0J7hsRskGUKiR1SxfIl",
       "publishDate": "2019-09-27T00:28:42.149Z"
     }
   },
@@ -1752,7 +1752,7 @@
     "analytics": {
       "contentId": "articles.blt88efbea44935ae15.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "RIpKXTkqwHOEY4MEaIHaWQ",
+      "rev": "iuvR1X3un5VQGa5MOOWpJk",
       "publishDate": "2019-09-27T00:18:11.339Z"
     }
   },
@@ -1810,7 +1810,7 @@
     "analytics": {
       "contentId": "articles.bltb50c84d9ca813ea4.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jygAgRX14W54JDNrfdagup",
+      "rev": "JrdCdTB43ZIe9jtTvs1Ea7",
       "publishDate": "2019-09-27T00:00:12.912Z"
     }
   },
@@ -1868,7 +1868,7 @@
     "analytics": {
       "contentId": "articles.blt20afa36c586aa36e.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "bxuuTlbyftRPueMcYQfOS9",
+      "rev": "wcF0J7hsRskGUKiR1Sr8cH",
       "publishDate": "2019-09-26T23:27:03.854Z"
     }
   },
@@ -1926,7 +1926,7 @@
     "analytics": {
       "contentId": "articles.bltb08b7923e89ac6d4.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jygAgRX14W54JDNrfdahic",
+      "rev": "JrdCdTB43ZIe9jtTvs1Ea7",
       "publishDate": "2019-08-09T18:54:07.000Z"
     }
   },
@@ -1984,7 +1984,7 @@
     "analytics": {
       "contentId": "articles.blt903b9ef77e33eba8.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "bxuuTlbyftRPueMcYQfOS9",
+      "rev": "wcF0J7hsRskGUKiR1SvHNd",
       "publishDate": "2019-07-01T21:04:14.000Z"
     }
   },
@@ -2042,7 +2042,7 @@
     "analytics": {
       "contentId": "articles.blt0bf0b17f366c7f19.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jygAgRX14W54JDNrfdahic",
+      "rev": "JrdCdTB43ZIe9jtTvrXoOD",
       "publishDate": "2019-06-11T02:44:03.000Z"
     }
   },
@@ -2100,7 +2100,7 @@
     "analytics": {
       "contentId": "articles.blt75ceb5e1ddb7da1d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "tG8aRZvgYHVPamBbJHN1bx",
+      "rev": "wcF0J7hsRskGUKiR1Sua3f",
       "publishDate": "2019-05-02T23:30:31.000Z"
     }
   },
@@ -2158,7 +2158,7 @@
     "analytics": {
       "contentId": "articles.bltbeb11182e3022052.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jygAgRX14W54JDNrfdahic",
+      "rev": "JrdCdTB43ZIe9jtTvs5YNt",
       "publishDate": "2019-03-18T19:02:02.000Z"
     }
   },
@@ -2216,7 +2216,7 @@
     "analytics": {
       "contentId": "articles.blt4eb2e3eb178ec688.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wqQE3hWIWpUAV3VUi6PV5C",
+      "rev": "iuvR1X3un5VQGa5MOOR0FS",
       "publishDate": "2019-02-15T00:20:11.000Z"
     }
   },
@@ -2274,7 +2274,7 @@
     "analytics": {
       "contentId": "articles.blt440a9a6bdf83fb11.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wqQE3hWIWpUAV3VUi6PV5C",
+      "rev": "iuvR1X3un5VQGa5MOONSwC",
       "publishDate": "2019-01-10T01:21:39.000Z"
     }
   },
@@ -2332,7 +2332,7 @@
     "analytics": {
       "contentId": "articles.blte7a7103d23d1cec5.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wqQE3hWIWpUAV3VUi6PV5C",
+      "rev": "iuvR1X3un5VQGa5MOOcsrw",
       "publishDate": "2018-12-17T23:14:42.000Z"
     }
   }

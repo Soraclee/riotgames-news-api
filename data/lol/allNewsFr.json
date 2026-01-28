@@ -1,5 +1,123 @@
 [
   {
+    "title": "ÉP2 : Bonne fortune | Festival lunaire 2026",
+    "publishedAt": "2026-01-28T02:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "6H6fZs1m6IQ",
+        "videoLengthInSeconds": 50,
+        "url": "https://www.youtube.com/watch?v=6H6fZs1m6IQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2b00ff4e9e60c337842dde7b76901cbe9ecde331-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un invité surprise célèbre la nouvelle année aux côtés de Lee Sin poing divin libéré."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "a5330391-718a-4b18-ae83-c53c7eec0ca1.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "hkn6e6tWBarK7xOcCdXzYh",
+      "publishDate": "2026-01-28T02:00:00.000Z"
+    }
+  },
+  {
+    "title": "Musique Lo-fi « Quartier des rêves »",
+    "publishedAt": "2026-01-27T17:30:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=3GLt9HqsFYg"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/28df5bd9ff992fc12c0468fa6e2e79f1468d01de-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Chut ! La Gardienne des étoiles se repose. Vous devriez en faire de même."
+    },
+    "category": {
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "d371f26f-7bd4-4006-aa7c-6788afed92c3.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
+      "publishDate": "2026-01-27T17:30:00.000Z"
+    }
+  },
+  {
     "title": "Cinématique Pas de répit pour les intrépides",
     "publishedAt": "2026-01-22T17:00:00.000Z",
     "promoCardSize": "small",
@@ -7,7 +125,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "-WJ-xRGaEKE",
-        "videoLengthInSeconds": 45,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=-WJ-xRGaEKE"
       }
     },
@@ -55,7 +173,7 @@
     "analytics": {
       "contentId": "24d52193-d3d5-4831-8ccd-99f6cce321ce.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "FaPCx0zwXJSDSmxjlSqvW6",
+      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2026-01-22T17:00:00.000Z"
     }
   },
@@ -230,7 +348,7 @@
     "analytics": {
       "contentId": "patchNote.c417a64c-0a05-4fb9-9995-5d0e8eb59e18.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "R5kA88I1gp7zQgUirvhhnU",
+      "rev": "JrdCdTB43ZIe9jtTvtx47V",
       "publishDate": "2026-01-21T19:00:00.000Z"
     }
   },
@@ -299,7 +417,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "ZLFDcO5ikO8",
-        "videoLengthInSeconds": 52,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=ZLFDcO5ikO8"
       }
     },
@@ -347,7 +465,7 @@
     "analytics": {
       "contentId": "83e78353-93f5-4504-8c77-431853cf2d0e.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "EnyByO9ClVwXoq26gQa29D",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2026-01-16T02:00:00.000Z"
     }
   },
@@ -521,7 +639,7 @@
     "analytics": {
       "contentId": "758a8b71-7860-4ef8-a0fe-716e06d9a70d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "redZpSO2R3Ek4oPzjJ2mMv",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2026-01-09T07:00:00.000Z"
     }
   },
@@ -579,7 +697,7 @@
     "analytics": {
       "contentId": "cd8e8e27-9ee3-469e-b6b1-0a76371a1fbe.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "c1T9sKzTAqaveAWiMOVJbK",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2026-01-08T19:00:00.000Z"
     }
   },
@@ -591,7 +709,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "mrhxlHyOKTU",
-        "videoLengthInSeconds": 147,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=mrhxlHyOKTU"
       }
     },
@@ -639,8 +757,65 @@
     "analytics": {
       "contentId": "d3aa919b-09a2-41f5-b8a3-3ba59b147c68.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "c1T9sKzTAqaveAWiMOGtMf",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2026-01-08T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Résumé Dev Update Pour Demacia",
+    "publishedAt": "2026-01-08T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/tldw-for-demacia-dev-update"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ceb620e7c465f5dee4ab37f57ce71dda09d9f3fd-1280x720.png?accountingTag=LoL",
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "2bdf0e93-ef0c-4e6d-a294-d3537c770938.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "di517VvjZIMNWDTW6j8h6N",
+      "publishDate": "2026-01-08T16:00:00.000Z"
     }
   },
   {
@@ -709,7 +884,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "_rDC5Fz0cOs",
-        "videoLengthInSeconds": 1010,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=_rDC5Fz0cOs"
       }
     },
@@ -757,64 +932,7 @@
     "analytics": {
       "contentId": "8d2425ae-b798-46d4-bfc4-6a1ad7779bd3.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "ZJ7OhN6YiX4rG7NvuMaTko",
-      "publishDate": "2026-01-08T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Résumé Dev Update Pour Demacia",
-    "publishedAt": "2026-01-08T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tldw-for-demacia-dev-update"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ceb620e7c465f5dee4ab37f57ce71dda09d9f3fd-1280x720.png?accountingTag=LoL",
-      "mimeType": "image/png"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "2bdf0e93-ef0c-4e6d-a294-d3537c770938.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "di517VvjZIMNWDTW6j8h6N",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2026-01-08T16:00:00.000Z"
     }
   },
@@ -872,7 +990,7 @@
     "analytics": {
       "contentId": "b9e9a434-d3f4-4151-85d8-224b51e812e5.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "puf92RgZeWK6QVA2fy9mP2",
+      "rev": "JrdCdTB43ZIe9jtTvsDCvL",
       "publishDate": "2026-01-07T19:00:00.000Z"
     }
   },
@@ -929,7 +1047,7 @@
     "analytics": {
       "contentId": "899d3a39-2958-41a6-918b-914087472f23.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "9DGCijLOWW7G6Jj87incuW",
+      "rev": "wcF0J7hsRskGUKiR1THLuf",
       "publishDate": "2026-01-07T19:00:00.000Z"
     }
   },
@@ -988,7 +1106,7 @@
     "analytics": {
       "contentId": "article.ac522713-6044-4525-85db-0ccdd85077b5.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "puf92RgZeWK6QVA2fx4dJM",
+      "rev": "iuvR1X3un5VQGa5MOOGLtW",
       "publishDate": "2026-01-07T16:00:00.000Z"
     }
   },
@@ -1000,7 +1118,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "qO47tDt50qk",
-        "videoLengthInSeconds": 64,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=qO47tDt50qk"
       }
     },
@@ -1048,7 +1166,7 @@
     "analytics": {
       "contentId": "dbe9601c-4444-4fb3-902d-d6d03b3acb1b.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "ZJ7OhN6YiX4rG7NvuP1NUP",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2026-01-07T00:00:00.000Z"
     }
   },
@@ -1108,7 +1226,7 @@
     "analytics": {
       "contentId": "616f45de-e179-44a5-a8ce-046096e76747.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "HLlIn6EedyaUpuU5BzCXvm",
+      "rev": "iuvR1X3un5VQGa5MOODdwI",
       "publishDate": "2026-01-06T14:00:00.000Z"
     }
   },
@@ -1167,7 +1285,7 @@
     "analytics": {
       "contentId": "d35c2dea-35bb-427e-b204-d2dee89219b9.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "eOAeM47HZHX2UbuVeAlGiw",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2026-01-05T08:00:00.000Z"
     }
   },
@@ -1179,7 +1297,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "uTXzR37qlXg",
-        "videoLengthInSeconds": 42,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=uTXzR37qlXg"
       }
     },
@@ -1227,7 +1345,7 @@
     "analytics": {
       "contentId": "a4933cc1-8611-4163-8520-dbd0ec1d1ef2.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "CKSCO5KPsSeS62dMyt6sRL",
+      "rev": "iuvR1X3un5VQGa5MOOEqyE",
       "publishDate": "2025-12-17T09:00:00.000Z"
     }
   },
@@ -1296,7 +1414,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "zvLoXjSzlXc",
-        "videoLengthInSeconds": 23,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=zvLoXjSzlXc"
       }
     },
@@ -1344,7 +1462,7 @@
     "analytics": {
       "contentId": "f297029f-4f0c-4535-9df0-98e9768d33da.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "34a0hC8xmLZmBKK0F5tnjN",
+      "rev": "JrdCdTB43ZIe9jtTvsEz4r",
       "publishDate": "2025-12-14T14:00:00.000Z"
     }
   },
@@ -1404,7 +1522,7 @@
     "analytics": {
       "contentId": "061dfe0d-7815-44c7-93d8-db8e6d112e4d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jP9f0Lvfh33UmCHqkLkGYC",
+      "rev": "wcF0J7hsRskGUKiR1SodWJ",
       "publishDate": "2025-12-14T13:00:00.000Z"
     }
   },
@@ -1416,7 +1534,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "w2kGFUoCt24",
-        "videoLengthInSeconds": 337,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=w2kGFUoCt24"
       }
     },
@@ -1464,7 +1582,7 @@
     "analytics": {
       "contentId": "2c34b006-8bc3-42e9-a51f-92488842c5be.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jP9f0Lvfh33UmCHqkL6P29",
+      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2025-12-14T12:45:00.000Z"
     }
   },
@@ -1524,7 +1642,7 @@
     "analytics": {
       "contentId": "7b975f43-381a-421f-85b5-6c325ed7311f.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "1t8I2uchTca0A6lnRIFjl6",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2025-12-04T02:00:00.000Z"
     }
   },
@@ -1583,7 +1701,7 @@
     "analytics": {
       "contentId": "a224c52b-72ed-48ec-9fbd-d055b7023e0d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "HY4Z7pO0gMyfSGImaNfX4m",
+      "rev": "iuvR1X3un5VQGa5MOOEqyE",
       "publishDate": "2025-12-03T20:00:00.000Z"
     }
   },
@@ -1641,7 +1759,7 @@
     "analytics": {
       "contentId": "43a41939-3ce4-41e4-81d7-c7911b1d3f28.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "vcuFMtlcF2KnHwwerV8XUD",
+      "rev": "iuvR1X3un5VQGa5MOOBdHa",
       "publishDate": "2025-12-02T19:00:00.000Z"
     }
   },
@@ -1699,7 +1817,7 @@
     "analytics": {
       "contentId": "f834d4d1-2b96-4c20-901a-93e6e3a50635.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "qfw0tsFoAJsTXLf2HZoka3",
+      "rev": "JrdCdTB43ZIe9jtTvtx47V",
       "publishDate": "2025-12-02T19:00:00.000Z"
     }
   },
@@ -1757,7 +1875,7 @@
     "analytics": {
       "contentId": "350bc0d7-0f74-42b3-a38e-daa592dd6837.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "W2Ccw5HEg9Sopso6ntUxVn",
+      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2025-12-02T17:00:00.000Z"
     }
   },
@@ -1769,7 +1887,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "NTn9j21TGnA",
-        "videoLengthInSeconds": 115,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=NTn9j21TGnA"
       }
     },
@@ -1817,7 +1935,7 @@
     "analytics": {
       "contentId": "d6571526-a09a-4ad8-b0ab-aa3132e5ebc9.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "PtxNrJeG6OTbALdALDQRpX",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2025-12-02T16:00:00.000Z"
     }
   },
@@ -1829,7 +1947,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "xqlxrOuVxxE",
-        "videoLengthInSeconds": 1286,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=xqlxrOuVxxE"
       }
     },
@@ -1877,180 +1995,8 @@
     "analytics": {
       "contentId": "cfa3ef46-bfd3-44d5-9350-90e42f2a70cb.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "99CXWpXhuqjTsPKlVUnRCE",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-12-01T16:05:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : mode classé 2026",
-    "publishedAt": "2025-12-01T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-ranked-2026"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/103cb09220c1bce460351a268c4be16bcf1ea28a-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les changements apportés au mode compétitif pour la nouvelle année."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "81efe8d0-fbbe-4e56-abd3-bc0c3e9da068.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "FYkLMb2TyKRchDb6rI1sh0",
-      "publishDate": "2025-12-01T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Zoom sur l'art de la communauté : Pour Demacia !",
-    "publishedAt": "2025-12-01T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/community/community-art-spotlight-for-demacia"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 563,
-        "width": 1000,
-        "aspectRatio": 1.7761989342806395
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5c6572af89e3c81dfcc214aebc36a650885cc18c-1000x563.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Des cosplays et illustrations réalisés par les fans."
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "c3d610a9-da8e-46d3-8cf3-e180da77eec9.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "W4U2EmOAgqJYqCuckcQGNk",
-      "publishDate": "2025-12-01T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : Aperçu du gameplay de la saison 1 2026",
-    "publishedAt": "2025-12-01T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-2026-season-one-gameplay-preview"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1034,
-        "width": 1838,
-        "aspectRatio": 1.7775628626692457
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/209728ebaf2c2af1d838bea73bf5a2451a43a102-1838x1034.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un aperçu des changements de gameplay de la Faille de l'invocateur en 2026"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "cc7aea20-8366-4155-85a6-d9641df870a7.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "q9czYMTwqjrYzYmyiZmsel",
-      "publishDate": "2025-12-01T16:00:00.000Z"
     }
   },
   {
@@ -2107,7 +2053,7 @@
     "analytics": {
       "contentId": "add3f32f-df34-4a31-a9ca-a04a82f8a441.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "q9czYMTwqjrYzYmyiZmsel",
+      "rev": "iuvR1X3un5VQGa5MOOGLtW",
       "publishDate": "2025-12-01T16:00:00.000Z"
     }
   },
@@ -2164,7 +2110,179 @@
     "analytics": {
       "contentId": "9e262b7a-a53f-4559-a505-14189d4c8a18.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wQd45vk1jeLetENuWcAoXY",
+      "rev": "iuvR1X3un5VQGa5MOOEqyE",
+      "publishDate": "2025-12-01T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev : mode classé 2026",
+    "publishedAt": "2025-12-01T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-ranked-2026"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/103cb09220c1bce460351a268c4be16bcf1ea28a-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les changements apportés au mode compétitif pour la nouvelle année."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "81efe8d0-fbbe-4e56-abd3-bc0c3e9da068.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
+      "publishDate": "2025-12-01T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev : Aperçu du gameplay de la saison 1 2026",
+    "publishedAt": "2025-12-01T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-2026-season-one-gameplay-preview"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1034,
+        "width": 1838,
+        "aspectRatio": 1.7775628626692457
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/209728ebaf2c2af1d838bea73bf5a2451a43a102-1838x1034.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un aperçu des changements de gameplay de la Faille de l'invocateur en 2026"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "cc7aea20-8366-4155-85a6-d9641df870a7.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
+      "publishDate": "2025-12-01T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Zoom sur l'art de la communauté : Pour Demacia !",
+    "publishedAt": "2025-12-01T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/community/community-art-spotlight-for-demacia"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 563,
+        "width": 1000,
+        "aspectRatio": 1.7761989342806395
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5c6572af89e3c81dfcc214aebc36a650885cc18c-1000x563.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Des cosplays et illustrations réalisés par les fans."
+    },
+    "category": {
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "c3d610a9-da8e-46d3-8cf3-e180da77eec9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-12-01T16:00:00.000Z"
     }
   },
@@ -2175,7 +2293,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "_AqaueKoi-s",
-        "videoLengthInSeconds": 26,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=_AqaueKoi-s"
       }
     },
@@ -2223,7 +2341,7 @@
     "analytics": {
       "contentId": "9619b690-6c79-4adf-9593-0a84d688e0f4.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "8DjA3FXH6NUo1kcuxnYP0z",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2025-11-30T14:00:00.000Z"
     }
   },
@@ -2292,7 +2410,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "39YnYT-gr8g",
-        "videoLengthInSeconds": 50,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=39YnYT-gr8g"
       }
     },
@@ -2340,7 +2458,7 @@
     "analytics": {
       "contentId": "e6a6aa58-16ec-431d-b8f4-c8569d6c2fef.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "l2Wgw7TVLfDQFCqffbT3IV",
+      "rev": "JrdCdTB43ZIe9jtTvsEz4r",
       "publishDate": "2025-11-27T03:00:00.000Z"
     }
   },
@@ -2352,7 +2470,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "3nii6lAs6os",
-        "videoLengthInSeconds": 36,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=3nii6lAs6os"
       }
     },
@@ -2400,7 +2518,7 @@
     "analytics": {
       "contentId": "36f9f4c5-d201-4e88-ab7f-33af58b32169.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "QbDEAKR56OcKxt0hufWPMQ",
+      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2025-11-26T16:00:00.000Z"
     }
   },
@@ -2459,7 +2577,7 @@
     "analytics": {
       "contentId": "800da798-1473-4fb1-b1b4-36a8cf6cb6df.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Tfk0QUI7ngWWQkmzQoeVVk",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2025-11-24T19:00:00.000Z"
     }
   },
@@ -2470,7 +2588,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "t-0drrfhzTY",
-        "videoLengthInSeconds": 26,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=t-0drrfhzTY"
       }
     },
@@ -2518,7 +2636,7 @@
     "analytics": {
       "contentId": "article.a542fa11-4210-4af2-9df9-db8974e74255.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "GUa2UfCcVl2fsIlnO76cD2",
+      "rev": "iuvR1X3un5VQGa5MOOGLtW",
       "publishDate": "2025-11-24T14:00:00.000Z"
     }
   },
@@ -2577,7 +2695,7 @@
     "analytics": {
       "contentId": "8fddf27b-a159-4554-8db1-c2d238242443.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "dBvyO7cRmT2EW1oWZIoHgu",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2025-11-21T22:00:00.000Z"
     }
   },
@@ -2637,7 +2755,7 @@
     "analytics": {
       "contentId": "4437cf72-25fd-4f4c-9a51-475d30daeb5c.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "OtFwb6Z7MtTkVgEIonKFeC",
+      "rev": "iuvR1X3un5VQGa5MOOBdHa",
       "publishDate": "2025-11-20T16:00:00.000Z"
     }
   },
@@ -2649,7 +2767,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "RHdU9_Dk6ys",
-        "videoLengthInSeconds": 36,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=RHdU9_Dk6ys"
       }
     },
@@ -2697,7 +2815,7 @@
     "analytics": {
       "contentId": "c2d4cb82-6126-483c-a0a8-4c98a8a22723.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "250dXzIcio5umVIAV70jHf",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-11-20T14:00:00.000Z"
     }
   },
@@ -2709,7 +2827,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "S-YGYlY1EIg",
-        "videoLengthInSeconds": 60,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=S-YGYlY1EIg"
       }
     },
@@ -2757,7 +2875,7 @@
     "analytics": {
       "contentId": "0fdb5733-89f2-436a-b137-3acc69170949.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "ZzWYZ9VTvY5M4IEM0QZacn",
+      "rev": "wcF0J7hsRskGUKiR1Sp6el",
       "publishDate": "2025-11-20T02:00:00.000Z"
     }
   },
@@ -2875,66 +2993,8 @@
     "analytics": {
       "contentId": "9e5c53f7-6658-456b-b820-0d542112f373.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "FzN6YaKM540HVFkL5FXvY7",
+      "rev": "iuvR1X3un5VQGa5MOOEqyE",
       "publishDate": "2025-11-18T22:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 25.23",
-    "publishedAt": "2025-11-18T19:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-23-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d5907909b54ac8eb8b41b85b71786d35c72f8e2f-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le patch 25.23 fait son ascension ! 🙏"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "88932e9e-0f27-4745-8691-43dca38ae8fb.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "yiZX0dVMv3aNGBuRpXTdyJ",
-      "publishDate": "2025-11-18T19:00:00.000Z"
     }
   },
   {
@@ -2991,7 +3051,65 @@
     "analytics": {
       "contentId": "5984d9ed-f7ce-483f-a5a9-965d8cb20308.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "0bZgR1Sie9pS0bDRavxZ61",
+      "rev": "iuvR1X3un5VQGa5MOOCfji",
+      "publishDate": "2025-11-18T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 25.23",
+    "publishedAt": "2025-11-18T19:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-25-23-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d5907909b54ac8eb8b41b85b71786d35c72f8e2f-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le patch 25.23 fait son ascension ! 🙏"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "88932e9e-0f27-4745-8691-43dca38ae8fb.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "wcF0J7hsRskGUKiR1THLuf",
       "publishDate": "2025-11-18T19:00:00.000Z"
     }
   },
@@ -3051,7 +3169,7 @@
     "analytics": {
       "contentId": "523caf79-7360-4b42-83f0-0d59b0f053b1.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "fwot5R1d1ysEA16B85o84a",
+      "rev": "iuvR1X3un5VQGa5MOOCfji",
       "publishDate": "2025-11-18T14:00:00.000Z"
     }
   },
@@ -3116,7 +3234,7 @@
     "analytics": {
       "contentId": "2e5cf806-8770-4bb6-9342-9451d2aff773.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "SF1JO0mWsGhz1DsAejXnem",
+      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2025-11-17T17:00:00.000Z"
     }
   },
@@ -3174,7 +3292,7 @@
     "analytics": {
       "contentId": "8540a2a7-2a7e-44bc-ba79-656bc26efb7b.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Y9XcD1MBWSj4a8m4nc6Kyt",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2025-11-16T18:00:00.000Z"
     }
   },
@@ -3185,7 +3303,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "TcFyKY8UTcA",
-        "videoLengthInSeconds": 60,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=TcFyKY8UTcA"
       }
     },
@@ -3233,7 +3351,7 @@
     "analytics": {
       "contentId": "189503e8-29cc-40a1-9d60-3f9c3bb40127.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Y9XcD1MBWSj4a8m4nYvqi5",
+      "rev": "wcF0J7hsRskGUKiR1SpYah",
       "publishDate": "2025-11-15T15:00:00.000Z"
     }
   },
@@ -3292,7 +3410,7 @@
     "analytics": {
       "contentId": "4b737c80-72ff-477a-84e6-4d827f772f0f.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "xG68iGhM1NPcEQYFjUzw5M",
+      "rev": "iuvR1X3un5VQGa5MOOCfji",
       "publishDate": "2025-11-14T22:00:00.000Z"
     }
   },
@@ -3303,7 +3421,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "aG3uvkoqVBI",
-        "videoLengthInSeconds": 936,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=aG3uvkoqVBI"
       }
     },
@@ -3351,7 +3469,7 @@
     "analytics": {
       "contentId": "efb55016-e55a-4ea9-b0c4-2c52b4568085.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "SF1JO0mWsGhz1DsAecmFZo",
+      "rev": "JrdCdTB43ZIe9jtTvsEz4r",
       "publishDate": "2025-11-14T14:00:00.000Z"
     }
   },
@@ -3409,7 +3527,7 @@
     "analytics": {
       "contentId": "f779dea6-04a9-4cc0-8858-7b915fe9032c.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Tfk0QUI7ngWWQkmzQoeVVk",
+      "rev": "JrdCdTB43ZIe9jtTvsEz4r",
       "publishDate": "2025-11-13T18:00:00.000Z"
     }
   },
@@ -3468,7 +3586,7 @@
     "analytics": {
       "contentId": "3e1f56e5-f54b-4d6a-89c3-54337ea24c65.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "xC62ZXECI83oFzXvLedpLW",
+      "rev": "iuvR1X3un5VQGa5MOOBdHa",
       "publishDate": "2025-11-11T22:00:00.000Z"
     }
   },
@@ -3480,7 +3598,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "RmOIWTl3spM",
-        "videoLengthInSeconds": 194,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=RmOIWTl3spM"
       }
     },
@@ -3528,7 +3646,7 @@
     "analytics": {
       "contentId": "7394d9f6-1bba-4484-ac01-b7d2d3f80878.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "v2WY2rXgjmfHxusH4tDpwY",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2025-11-10T16:00:00.000Z"
     }
   },
@@ -3539,7 +3657,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "g2PGlqYkS_Y",
-        "videoLengthInSeconds": 97,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=g2PGlqYkS_Y"
       }
     },
@@ -3587,7 +3705,7 @@
     "analytics": {
       "contentId": "b415ea79-b8a8-49ba-81b2-3b7f3bdcdd92.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "v2WY2rXgjmfHxusH4tDpwY",
+      "rev": "JrdCdTB43ZIe9jtTvsDCvL",
       "publishDate": "2025-11-09T16:00:00.000Z"
     }
   },
@@ -3645,7 +3763,7 @@
     "analytics": {
       "contentId": "07634ed1-b205-4dee-b7de-13f87f93d54d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "0ROdypgMxh3pyl1XddrVk0",
+      "rev": "wcF0J7hsRskGUKiR1SodWJ",
       "publishDate": "2025-11-09T11:00:00.000Z"
     }
   },
@@ -3656,7 +3774,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "bVCUOkHyJ3k",
-        "videoLengthInSeconds": 199,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=bVCUOkHyJ3k"
       }
     },
@@ -3704,7 +3822,7 @@
     "analytics": {
       "contentId": "b83e0e80-26ce-4423-90ec-2d55fa0528af.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "VQqwldzxT3lROMAX0uowzw",
+      "rev": "JrdCdTB43ZIe9jtTvsDCvL",
       "publishDate": "2025-11-09T07:45:00.000Z"
     }
   },
@@ -3763,7 +3881,7 @@
     "analytics": {
       "contentId": "c3bf299d-501c-43f6-9a8a-fb1ced76ae18.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "VQqwldzxT3lROMAX0vc4W8",
+      "rev": "iuvR1X3un5VQGa5MOOfiHu",
       "publishDate": "2025-11-07T16:00:00.000Z"
     }
   },
@@ -3826,65 +3944,6 @@
     }
   },
   {
-    "title": "Informations Tactician's Crown de K.O. Coliseum",
-    "publishedAt": "2025-11-05T14:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/esports/ko-coliseum-tacticians-crown-event-primer"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1651,
-        "width": 2934,
-        "aspectRatio": 1.7771047849788006
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/960788b028e85637e0bb6e1956c11656d1dee467-2934x1651.png?accountingTag=LoL",
-      "mimeType": "image/png"
-    },
-    "description": {
-      "type": "html",
-      "body": "Plus de détails sur les dates, le format, la cagnotte de l'événement et plus encore."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "705fd7a8-7c16-424c-9986-1be99fd2660c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "i1XPPbdtz3vulmrQaWKdqw",
-      "publishDate": "2025-11-05T14:00:00.000Z"
-    }
-  },
-  {
     "title": "Tactician's Crown de K.O. Coliseum",
     "publishedAt": "2025-11-05T14:00:00.000Z",
     "promoCardSize": "medium",
@@ -3940,7 +3999,66 @@
     "analytics": {
       "contentId": "bab02ce8-53ed-4adc-9a9e-613453d5c17d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "DnJH9e7ZPr5omJnEDk4dpH",
+      "rev": "JrdCdTB43ZIe9jtTvsDCvL",
+      "publishDate": "2025-11-05T14:00:00.000Z"
+    }
+  },
+  {
+    "title": "Informations Tactician's Crown de K.O. Coliseum",
+    "publishedAt": "2025-11-05T14:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/esports/ko-coliseum-tacticians-crown-event-primer"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1651,
+        "width": 2934,
+        "aspectRatio": 1.7771047849788006
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/960788b028e85637e0bb6e1956c11656d1dee467-2934x1651.png?accountingTag=LoL",
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Plus de détails sur les dates, le format, la cagnotte de l'événement et plus encore."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "705fd7a8-7c16-424c-9986-1be99fd2660c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOODdwI",
       "publishDate": "2025-11-05T14:00:00.000Z"
     }
   },
@@ -3999,7 +4117,7 @@
     "analytics": {
       "contentId": "2738ea48-f373-4c50-ad39-b8140371fda1.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "y1C5xLNoYW20mUMVtjtGRJ",
+      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2025-11-04T22:00:00.000Z"
     }
   },
@@ -4058,7 +4176,7 @@
     "analytics": {
       "contentId": "79a3184b-c3e8-4a59-aab2-e466212eabeb.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "GNHjJJdbzIjxC2s2xUD3oa",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2025-11-04T19:00:00.000Z"
     }
   },
@@ -4115,7 +4233,7 @@
     "analytics": {
       "contentId": "52d06c9d-f063-4d36-8399-80a282218a89.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "lrTRBQClIW75S5I9TAjGKK",
+      "rev": "wcF0J7hsRskGUKiR1THLuf",
       "publishDate": "2025-11-04T19:00:00.000Z"
     }
   },
@@ -4289,125 +4407,8 @@
     "analytics": {
       "contentId": "article.c90667dd-b417-4b93-ad8a-70d86a80a9b1.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "lrTRBQClIW75S5I9TAirgP",
+      "rev": "iuvR1X3un5VQGa5MOOGLtW",
       "publishDate": "2025-11-04T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Le Carnaval LoL arrive à Chengdu",
-    "publishedAt": "2025-11-04T02:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/fr-fr/news/lol-carnival-lands-in-chengdu"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 900,
-        "width": 1600,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/49d57634b73ee4cc3f390f7815a45ff2a3eab239-1600x900.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Voici tout ce qu'il faut savoir sur le festival de plusieurs jours en l'honneur des Worlds 2025"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "82569a02-003a-48d8-a62b-1edf3ba83283.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "pBeaOELbK9vArzXWcbNhZs",
-      "publishDate": "2025-11-04T02:00:00.000Z"
-    }
-  },
-  {
-    "title": "L'histoire à ce jour : 2025",
-    "publishedAt": "2025-11-01T08:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "LckhttQtsqU",
-        "videoLengthInSeconds": 140,
-        "url": "https://www.youtube.com/watch?v=LckhttQtsqU"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0da67a7d2dd1ded88bb3e8c6d3dbc039bd391dfe-1280x720.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Revivez tous les événements majeurs qui ont précédé le dénouement de la saison 2025."
-    },
-    "category": {
-      "title": "Univers",
-      "description": "Histoires, bandes dessinées et univers de Runeterra.",
-      "machineName": "lore"
-    },
-    "analytics": {
-      "contentId": "d3bb398a-5bf6-4d41-b49a-7b41b60d09dd.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "VQqwldzxT3lROMAX0n8BEe",
-      "publishDate": "2025-11-01T08:00:00.000Z"
     }
   }
 ]
