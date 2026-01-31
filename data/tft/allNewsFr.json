@@ -1,5 +1,158 @@
 [
   {
+    "title": "En direct : TPC Bilgewater Cup",
+    "publishedAt": "2026-01-30T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://riot.com/S16EMEATPC2"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "e68dd1993bb2",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2026-01-28T19:42:21Z",
+              "_id": "image-c2f01d0ae4617be0543a01bae5f11f84a376e644-1600x1080-jpg",
+              "_rev": "2cow4m8Cl5cUFn6QquAXk0",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2026-01-28T19:42:21Z",
+              "assetId": "c2f01d0ae4617be0543a01bae5f11f84a376e644",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VDBMY{00~9I_ng0L~V0L^kIpR-nhxvD~%3$wI^$xI]nh",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#613f35",
+                    "foreground": "#fff",
+                    "population": 0.32,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#291098",
+                    "foreground": "#fff",
+                    "population": 0.06,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#a7b4c8",
+                    "foreground": "#000",
+                    "population": 0.67,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#a7b4c8",
+                    "foreground": "#000",
+                    "population": 0.67,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f7dd6b",
+                    "foreground": "#000",
+                    "population": 0.57,
+                    "title": "#000"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9d4c61",
+                    "foreground": "#fff",
+                    "population": 0.27,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#fc8c14",
+                    "foreground": "#000",
+                    "population": 0,
+                    "title": "#fff"
+                  }
+                },
+                "thumbHash": "CwgOFYKQd2ilpXaGWImHh/K0B0pq"
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "T3.jpg",
+              "path": "images/dsfx7636/news_live/c2f01d0ae4617be0543a01bae5f11f84a376e644-1600x1080.jpg",
+              "sha1hash": "c2f01d0ae4617be0543a01bae5f11f84a376e644",
+              "size": 239312,
+              "uploadId": "7qGAeqIflX3byoYTDtvyAWLaeAwBfKtL",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c2f01d0ae4617be0543a01bae5f11f84a376e644-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bf54a5219a6511b6a1db0b1e1212d2b24568f613-1280x720.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'AMER et l'EMEA s'affrontent lors du deuxième week-end du set 16 #TFTProCircuit"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de Teamfight Tactics.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "6bed05ec-adb0-4e79-8218-fa63c195c278.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "KgfljLQRCNpfW5LddGhB1H",
+      "publishDate": "2026-01-30T15:00:00.000Z"
+    }
+  },
+  {
     "title": "ÉP2 : Bonne fortune | Festival lunaire 2026",
     "publishedAt": "2026-01-28T02:00:00.000Z",
     "promoCardSize": "small",
@@ -19831,64 +19984,6 @@
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Q73eh",
       "publishDate": "2024-11-29T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "Annie superfan d'Arcane chibi prestige",
-    "publishedAt": "2024-11-28T14:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "bY_pGpFuo90",
-        "videoLengthInSeconds": 35,
-        "url": "https://www.youtube.com/watch?v=bY_pGpFuo90"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#ffb60d"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5a6b63238a083424a6b27b9d14e935b8df8f3116-1920x1080.jpg?accountingTag=TFT",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Elle voit la vie en bleu ! Annie superfan d'Arcane chibi prestige arrive dans TFT."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "ed8dbff0-001a-4bbb-b2ae-b6dc841fbdca.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2024-11-28T14:00:00.000Z"
     }
   }
 ]

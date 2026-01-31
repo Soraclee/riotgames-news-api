@@ -226,9 +226,10 @@
     "publishedAt": "2026-01-07T16:00:00.000Z",
     "promoCardSize": "small",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "isExternal": true,
+        "youtubeId": "tXnu2wRBqyQ",
+        "videoLengthInSeconds": 88,
         "url": "https://www.youtube.com/watch?v=tXnu2wRBqyQ"
       }
     },
@@ -274,7 +275,7 @@
     "analytics": {
       "contentId": "1e1b7301-29d4-4706-99b7-b02ea340ebfa.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "a4mhqh9AqcuhVS2XlOze99",
+      "rev": "n8jMRYyARNKivP0hnwoqdu",
       "publishDate": "2026-01-07T16:00:00.000Z"
     }
   },

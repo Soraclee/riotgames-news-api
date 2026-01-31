@@ -1,5 +1,158 @@
 [
   {
+    "title": "Live Now: TPC Bilgewater Cup",
+    "publishedAt": "2026-01-30T21:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://riot.com/S16AMERTPC2"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "39cd11e9724b",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2026-01-28T20:32:53Z",
+              "_id": "image-d04561c34e06e8f0c41ff8b09394d7b8b64d886f-1600x1080-jpg",
+              "_rev": "LZI3uBHLBGkJpDBhVQ9pS5",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2026-01-28T20:32:53Z",
+              "assetId": "d04561c34e06e8f0c41ff8b09394d7b8b64d886f",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VCCF#L00^vIc%20L~V0L^*EMELw[-rE0oJn|Ng$wJDr=",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#623f35",
+                    "foreground": "#fff",
+                    "population": 0.5,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#142c8d",
+                    "foreground": "#fff",
+                    "population": 0.02,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d4a0ba",
+                    "foreground": "#000",
+                    "population": 1.12,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d4a0ba",
+                    "foreground": "#000",
+                    "population": 1.12,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f7df68",
+                    "foreground": "#000",
+                    "population": 0.48,
+                    "title": "#000"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#735aa0",
+                    "foreground": "#fff",
+                    "population": 0.8,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f98b2b",
+                    "foreground": "#000",
+                    "population": 0.38,
+                    "title": "#fff"
+                  }
+                },
+                "thumbHash": "DRgOFYKAl1mlpYaGaXeIh/G1BmhJ"
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "T3.jpg",
+              "path": "images/dsfx7636/news_live/d04561c34e06e8f0c41ff8b09394d7b8b64d886f-1600x1080.jpg",
+              "sha1hash": "d04561c34e06e8f0c41ff8b09394d7b8b64d886f",
+              "size": 292716,
+              "uploadId": "3PFaaYpEU0B2yNLLHRSOnCNmNvG5rpsl",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d04561c34e06e8f0c41ff8b09394d7b8b64d886f-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bf54a5219a6511b6a1db0b1e1212d2b24568f613-1280x720.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "AMER and EMEA clash in the second weekend of Set 16 #TFTProCircuit"
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional Teamfight Tactics.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "305053d0-40d4-45c5-bdab-573728e032bb.en-us",
+      "contentLocale": "en-us",
+      "rev": "KgfljLQRCNpfW5LddI8yh9",
+      "publishDate": "2026-01-30T21:00:00.000Z"
+    }
+  },
+  {
     "title": "EP2: Fortune’s Blessing | Lunar Revel 2026",
     "publishedAt": "2026-01-28T02:00:00.000Z",
     "promoCardSize": "small",
@@ -19562,63 +19715,6 @@
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3Zid",
       "publishDate": "2024-12-16T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Event Recap | TFT Macao Open",
-    "publishedAt": "2024-12-16T03:55:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=_HmwQ3k-WJM"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#ffb60d"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 540,
-        "width": 960,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/09a2d1e1c35d1dbf49da5965270ce7fbdc72eb8d-960x540.jpg?accountingTag=TFT",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Thank you for making the TFT Macao Open the most incredible TFT event yet! We’ll see you in Paris next year (!!!), but for now, rest up and keep the rerolls going with Into the Arcane!"
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional Teamfight Tactics.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "8f8e910a-a89d-4465-a11c-341400d9ab0d.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2024-12-16T03:55:00.000Z"
     }
   }
 ]
