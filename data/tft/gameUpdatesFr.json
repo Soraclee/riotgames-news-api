@@ -1,5 +1,60 @@
 [
   {
+    "title": "Notes de patch 16.4 de TFT",
+    "publishedAt": "2026-02-03T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-16-4"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ddb8abc08ad1d88978de83191206ee0977e8434d-1920x1080.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le patch 16.4 introduit des optimisations, des ajustements aux niveaux et des modifs d'équilibrage."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "f6634ada-19e9-4b99-a3a1-4632ca144afd.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "pdmbI3uRq6VIWaHE9MJB2C",
+      "publishDate": "2026-02-03T19:00:00.000Z"
+    }
+  },
+  {
     "title": "ÉP2 : Bonne fortune | Festival lunaire 2026",
     "publishedAt": "2026-01-28T02:00:00.000Z",
     "promoCardSize": "small",
@@ -18706,261 +18761,6 @@
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Q54QX",
       "publishDate": "2023-03-20T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Glitch dans la matrice : aperçu du gameplay",
-    "publishedAt": "2023-03-08T09:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/glitched-out-gameplay-overview/"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/ebe9c2f6d7da658afd36d7cdf3d3202b2f925a2b-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#ffb60d"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "raQgZVfs",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-27T01:49:44Z",
-              "_id": "image-33b08c2490b59b0dcf255bb53c9ec4678b879a2d-1344x756-jpg",
-              "_rev": "3zNZbQP6SNotYjKNI6FiLN",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-04-27T01:49:44Z",
-              "assetId": "33b08c2490b59b0dcf255bb53c9ec4678b879a2d",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "M9FrPbOyDP~BHq%n:v4r7T,UGx}u=yTK=h",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.7777777777777777,
-                  "height": 756,
-                  "width": 1344
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#374b63",
-                    "foreground": "#fff",
-                    "population": 1.65,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#2c0465",
-                    "foreground": "#fff",
-                    "population": 0.51,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#915d92",
-                    "foreground": "#fff",
-                    "population": 4.19,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#97c4c8",
-                    "foreground": "#000",
-                    "population": 2.58,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#5bc3f0",
-                    "foreground": "#000",
-                    "population": 1.18,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#915d92",
-                    "foreground": "#fff",
-                    "population": 4.19,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#7617d5",
-                    "foreground": "#fff",
-                    "population": 1.21,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "[_450KB]_TFT_MID823_Comms-Article_GameplayOverview_T1-Cluttered_1920x1080_v001.jpg",
-              "path": "images/dsfx7636/news_live/33b08c2490b59b0dcf255bb53c9ec4678b879a2d-1344x756.jpg",
-              "sha1hash": "33b08c2490b59b0dcf255bb53c9ec4678b879a2d",
-              "size": 449027,
-              "uploadId": "eLYmy4Hvzb6GJa3gQfxN798pyuZ8Y4Ej",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/33b08c2490b59b0dcf255bb53c9ec4678b879a2d-1344x756.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": false,
-        "t1CTA": "En savoir plus",
-        "t1Description": "",
-        "t1Subtitle": "Teamfight Tactics",
-        "t1Title": ""
-      },
-      {
-        "_key": "cfeyiwvU",
-        "_type": "clientInternalLinkT2",
-        "t2Image": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-20T06:15:21Z",
-              "_id": "image-ac993b6691dd4410f6c25dea093b9241b99b9adf-1344x756-jpg",
-              "_rev": "IN03FCy14OOjYlZR30C44a",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-07-19T04:23:42Z",
-              "assetId": "ac993b6691dd4410f6c25dea093b9241b99b9adf",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "MFFh##%S4,}@#3ONz}RF6s$K.I$fxA%MjI",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.7777777777777777,
-                  "height": 756,
-                  "width": 1344
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#2d3761",
-                    "foreground": "#fff",
-                    "population": 2.36,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#2b0465",
-                    "foreground": "#fff",
-                    "population": 0.54,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#916082",
-                    "foreground": "#fff",
-                    "population": 4.67,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#e7f0dc",
-                    "foreground": "#000",
-                    "population": 2.53,
-                    "title": "#000"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#67c3f1",
-                    "foreground": "#000",
-                    "population": 1.41,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#916082",
-                    "foreground": "#fff",
-                    "population": 4.67,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#7218d5",
-                    "foreground": "#fff",
-                    "population": 1.11,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "Glitched_Out_Key_.jpg",
-              "path": "images/dsfx7636/news_live/ac993b6691dd4410f6c25dea093b9241b99b9adf-1344x756.jpg",
-              "sha1hash": "ac993b6691dd4410f6c25dea093b9241b99b9adf",
-              "size": 450606,
-              "source": {
-                "id": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc51756bdf58d2cbc/64f81b15ea4b5d0cc6510227/Glitched_Out_Key_.jpg",
-                "name": "Contentstack",
-                "url": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc51756bdf58d2cbc/64f81b15ea4b5d0cc6510227/Glitched_Out_Key_.jpg"
-              },
-              "uploadId": "eXzWsv89OpUMrkXVtHVtKkbRoQ0pZB7P",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ac993b6691dd4410f6c25dea093b9241b99b9adf-1344x756.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "t2Title": ""
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 756,
-        "width": 1344,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ac993b6691dd4410f6c25dea093b9241b99b9adf-1344x756.jpg?accountingTag=TFT",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "De nouveaux types et champions surgissent de failles interdimensionnelles !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt8d81986054722cdd.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1Q5qfL",
-      "publishDate": "2023-03-08T09:00:00.000Z"
     }
   }
 ]
