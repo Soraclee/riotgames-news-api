@@ -60,14 +60,15 @@
     }
   },
   {
-    "title": "Teamfight Tactics patch 16.4",
-    "publishedAt": "2026-02-03T19:00:00.000Z",
-    "promoCardSize": "small",
+    "title": "Lunar Revel 2026 Trailer",
+    "publishedAt": "2026-02-04T02:00:00.000Z",
+    "promoCardSize": "medium",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-16-4/"
+        "youtubeId": "nVKZ3mRSQNQ",
+        "videoLengthInSeconds": 127,
+        "url": "https://www.youtube.com/watch?v=nVKZ3mRSQNQ"
       }
     },
     "product": {
@@ -95,27 +96,27 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1080,
-        "width": 1920,
+        "height": 720,
+        "width": 1280,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ddb8abc08ad1d88978de83191206ee0977e8434d-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/971215bab3863c1a00b5789fc7fdb14c76a0312a-1280x720.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "16.4 brings new Augments, leveling adjustments, and balance changes!"
+      "body": "A friendship rekindled with the first bloom of spring. The Lunar Revel begins in Patch 26.03."
     },
     "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
+      "machineName": "media"
     },
     "analytics": {
-      "contentId": "40457160-c0ef-4a10-93ee-94d4689608d4.en-us",
+      "contentId": "99a75ffa-a8f5-456c-93d0-a8c8d1d093a3.en-us",
       "contentLocale": "en-us",
-      "rev": "sCZmld8WWeO7fCpjvpkQkL",
-      "publishDate": "2026-02-03T19:00:00.000Z"
+      "rev": "xZ26kqMDZVZsnPwzadJzeA",
+      "publishDate": "2026-02-04T02:00:00.000Z"
     }
   },
   {
@@ -176,6 +177,65 @@
     }
   },
   {
+    "title": "Teamfight Tactics patch 16.4",
+    "publishedAt": "2026-02-03T19:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-16-4/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ddb8abc08ad1d88978de83191206ee0977e8434d-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "16.4 brings new Augments, leveling adjustments, and balance changes!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "40457160-c0ef-4a10-93ee-94d4689608d4.en-us",
+      "contentLocale": "en-us",
+      "rev": "sCZmld8WWeO7fCpjvpkQkL",
+      "publishDate": "2026-02-03T19:00:00.000Z"
+    }
+  },
+  {
     "title": "Lunar Revel 2026",
     "publishedAt": "2026-01-28T16:00:00.000Z",
     "promoCardSize": "small",
@@ -231,7 +291,7 @@
     "analytics": {
       "contentId": "c5759c5a-e6d4-4335-bc00-966aea3ab705.en-us",
       "contentLocale": "en-us",
-      "rev": "4M4I1M4LOjxeE98KFJBIKf",
+      "rev": "31KlmhYq0nD7wjDDVgiwk1",
       "publishDate": "2026-01-28T16:00:00.000Z"
     }
   },
@@ -11712,66 +11772,6 @@
       "contentLocale": "en-us",
       "rev": "GdMO3OSZOgYCUKEGEivL4Q",
       "publishDate": "2025-06-26T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "The Grovemother’s Lullaby",
-    "publishedAt": "2025-06-26T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "T6O2SzonZy8",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=T6O2SzonZy8"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5ea3ad78742ccb7174c5691d5db24dd5e29a37ac-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "The grove comes alive as its mother awakens."
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "5ca97aa5-9339-4948-b818-cd1c812e491b.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-06-26T15:00:00.000Z"
     }
   }
 ]

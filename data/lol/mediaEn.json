@@ -60,6 +60,66 @@
     }
   },
   {
+    "title": "Lunar Revel 2026 Trailer",
+    "publishedAt": "2026-02-04T02:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "nVKZ3mRSQNQ",
+        "videoLengthInSeconds": 127,
+        "url": "https://www.youtube.com/watch?v=nVKZ3mRSQNQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/971215bab3863c1a00b5789fc7fdb14c76a0312a-1280x720.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A friendship rekindled with the first bloom of spring. The Lunar Revel begins in Patch 26.03."
+    },
+    "category": {
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "99a75ffa-a8f5-456c-93d0-a8c8d1d093a3.en-us",
+      "contentLocale": "en-us",
+      "rev": "xZ26kqMDZVZsnPwzadJzeA",
+      "publishDate": "2026-02-04T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Skyline of Dreams to Relax To",
     "publishedAt": "2026-01-27T17:30:00.000Z",
     "action": {
@@ -18349,65 +18409,6 @@
       "contentId": "articles.blt7ec8ea58355559c9.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrvLmD",
-      "publishDate": "2020-12-10T20:00:00.000Z"
-    }
-  },
-  {
-    "title": "Rell Champion Trailer",
-    "publishedAt": "2020-12-10T20:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "nRWupmq97gI",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=nRWupmq97gI"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/975d725b31b39c7c0efe863e62059cafc7e9e8f5-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "An armored metalmancer fights back against those who betrayed her."
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blteb2b3090c2345528.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOcsrw",
       "publishDate": "2020-12-10T20:00:00.000Z"
     }
   }
