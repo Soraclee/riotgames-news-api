@@ -1,5 +1,61 @@
 [
   {
+    "title": "Norra: The Long Way Home",
+    "publishedAt": "2026-02-07T01:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/norra-the-long-way-home"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/dade834f17a449ea8db562ce7118087754a14cb4-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Norra is here, learn more about her from the team that worked on her."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "065b95ad-c6fa-47ea-85b9-589e2c0bd20f.en-us",
+      "contentLocale": "en-us",
+      "rev": "80O6e9ZrAsYuomBASaiYMY",
+      "publishDate": "2026-02-07T01:00:00.000Z"
+    }
+  },
+  {
     "title": "Find Our Way | Petals of Spring 2026 Cinematic Trailer",
     "publishedAt": "2026-02-04T02:00:00.000Z",
     "promoCardSize": "small",
@@ -11250,64 +11306,6 @@
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOHqi9u",
       "publishDate": "2023-03-28T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Urgot Champion Overview",
-    "publishedAt": "2023-03-16T18:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "V4rthD-FJzo",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=V4rthD-FJzo"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bf373379a4956c179033b246b5b1acf5ed23b034-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Urgot, the Dreadnought, is ready to bring the pain. Prove yourself worthy on March 16, 00:01 UTC."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt73a5cf93d5687ef5.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOHqi9u",
-      "publishDate": "2023-03-16T18:00:00.000Z"
     }
   }
 ]
