@@ -1,5 +1,63 @@
 [
   {
+    "title": "Mise à jour de champion : Norra",
+    "publishedAt": "2026-02-10T03:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "3EhDFj56bLg",
+        "videoLengthInSeconds": 89,
+        "url": "https://www.youtube.com/watch?v=3EhDFj56bLg"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/518f8a24325aed8c40087d75621bcde0f36d56c5-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Elle revient d'un long périple. Merci d'accueillir le premier champion inédit de Wild Rift, Norra, Maîtresse des portails."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "360e0c42-a0dd-4807-a12f-2cc92ce21489.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "o15t0JOQGSlotZ7mUZbejO",
+      "publishDate": "2026-02-10T03:00:00.000Z"
+    }
+  },
+  {
     "title": "Norra : Retour au bercail",
     "publishedAt": "2026-02-07T01:00:00.000Z",
     "promoCardSize": "small",
@@ -11238,62 +11296,6 @@
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOHrkVu",
       "publishDate": "2022-07-28T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 3.3a de Wild Rift",
-    "publishedAt": "2022-07-27T22:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-patch-notes-3-3a/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/18f8f68ba8a92847799bd9cffa8a042e661a3a4e-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Suite aux gros changements apportés aux délais de récupération des ultimes lors du patch 3.3, quelques ajustements sont nécessaires. Au cours du patch 3.3a, Kassadin, le Chasseur du Néant, viendra également anéantir vos adversaires lorsqu'il débarquera dans la Faille !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltb783af05a64f700f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1QNaVV",
-      "publishDate": "2022-07-27T22:00:00.000Z"
     }
   }
 ]

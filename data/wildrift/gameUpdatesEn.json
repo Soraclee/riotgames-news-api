@@ -1,5 +1,63 @@
 [
   {
+    "title": "Champion Update: Norra",
+    "publishedAt": "2026-02-10T03:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "kBBRxstK5JE",
+        "videoLengthInSeconds": 89,
+        "url": "https://www.youtube.com/watch?v=kBBRxstK5JE"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/518f8a24325aed8c40087d75621bcde0f36d56c5-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "She’s traveled a long way to make it here. Please give a warm welcome to our very first Rift inductee, the Portal Mistress herself, Norra."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "360e0c42-a0dd-4807-a12f-2cc92ce21489.en-us",
+      "contentLocale": "en-us",
+      "rev": "o15t0JOQGSlotZ7mUZbejO",
+      "publishDate": "2026-02-10T03:00:00.000Z"
+    }
+  },
+  {
     "title": "Norra: The Long Way Home",
     "publishedAt": "2026-02-07T01:00:00.000Z",
     "promoCardSize": "small",
@@ -11234,64 +11292,6 @@
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvgvuVn",
       "publishDate": "2022-08-26T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Sion Champion Overview",
-    "publishedAt": "2022-08-26T17:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "PRXEmvjUq_s",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=PRXEmvjUq_s"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f1331213b5187a73e31feaa395b5f81ada2ada1b-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Death will think twice. 💀 Sion, the Undead Juggernaut, stampedes down lane into Wild Rift!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt89793468cf017eea.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvgzMcV",
-      "publishDate": "2022-08-26T17:00:00.000Z"
     }
   }
 ]

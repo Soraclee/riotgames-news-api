@@ -1,5 +1,63 @@
 [
   {
+    "title": "Mise à jour de champion : Norra",
+    "publishedAt": "2026-02-10T03:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "3EhDFj56bLg",
+        "videoLengthInSeconds": 89,
+        "url": "https://www.youtube.com/watch?v=3EhDFj56bLg"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/518f8a24325aed8c40087d75621bcde0f36d56c5-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Elle revient d'un long périple. Merci d'accueillir le premier champion inédit de Wild Rift, Norra, Maîtresse des portails."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "360e0c42-a0dd-4807-a12f-2cc92ce21489.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "o15t0JOQGSlotZ7mUZbejO",
+      "publishDate": "2026-02-10T03:00:00.000Z"
+    }
+  },
+  {
     "title": "Norra : Retour au bercail",
     "publishedAt": "2026-02-07T01:00:00.000Z",
     "promoCardSize": "small",
@@ -11249,62 +11307,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvh17qt",
       "publishDate": "2023-02-18T02:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 4.0b de Wild Rift",
-    "publishedAt": "2023-02-15T21:30:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-patch-notes-4-0b/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c32faf0f1deb201c0c640c139e3fdb1a749d6e53-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Électrisez la Faille avec le patch 4.0b ! Zeri fait son apparition, accompagnée des skins PROJET et de l'événement PROJET : DÉFERLEMENT ! De plus, deux modes de jeu font leur retour, et vous pourrez découvrir tout un tas d'équilibrages aux quatre coins de la Faille !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt74edf83a713b8366.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1QNaVV",
-      "publishDate": "2023-02-15T21:30:00.000Z"
     }
   }
 ]

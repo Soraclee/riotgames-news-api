@@ -1,5 +1,63 @@
 [
   {
+    "title": "Champion Update: Norra",
+    "publishedAt": "2026-02-10T03:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "kBBRxstK5JE",
+        "videoLengthInSeconds": 89,
+        "url": "https://www.youtube.com/watch?v=kBBRxstK5JE"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/518f8a24325aed8c40087d75621bcde0f36d56c5-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "She’s traveled a long way to make it here. Please give a warm welcome to our very first Rift inductee, the Portal Mistress herself, Norra."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "360e0c42-a0dd-4807-a12f-2cc92ce21489.en-us",
+      "contentLocale": "en-us",
+      "rev": "o15t0JOQGSlotZ7mUZbejO",
+      "publishDate": "2026-02-10T03:00:00.000Z"
+    }
+  },
+  {
     "title": "Norra: The Long Way Home",
     "publishedAt": "2026-02-07T01:00:00.000Z",
     "promoCardSize": "small",
@@ -11248,64 +11306,6 @@
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvgvuVn",
       "publishDate": "2023-03-29T03:00:00.000Z"
-    }
-  },
-  {
-    "title": "Card Trick Chaos - April Fools' Event Trailer",
-    "publishedAt": "2023-03-28T18:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "t873rPHcHmA",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=t873rPHcHmA"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/87f7582ec2018286183c51138110930347e002d7-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "What mischief does Jinx have planned for April Fools’? Play the Card Trick Chaos event to find out (and grab some rewards, of course). Starting March 30, 00:01 UTC."
-    },
-    "category": {
-      "title": "Announcements",
-      "description": "Used for general announcements for Wild Rift.",
-      "machineName": "announcements"
-    },
-    "analytics": {
-      "contentId": "articles.blt68c7b5c39adce778.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOHqi9u",
-      "publishDate": "2023-03-28T18:00:00.000Z"
     }
   }
 ]
