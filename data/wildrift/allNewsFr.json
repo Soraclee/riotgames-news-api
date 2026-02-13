@@ -1,5 +1,62 @@
 [
   {
+    "title": "Aperçu de Norra",
+    "publishedAt": "2026-02-13T02:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "zV6peDrbnvo",
+        "videoLengthInSeconds": 170,
+        "url": "https://www.youtube.com/watch?v=zV6peDrbnvo"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2e5bae31531bf954a0a069e8626082e0b772699d-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Pour Norra, rien de tel qu'un bon thé pour se poser avec Grimoire !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "9791f81b-dcdb-4c37-9b5f-fcdaca575dde.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Yy9WA5jikQAKYaZihLWEL0",
+      "publishDate": "2026-02-13T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 7.0c de Wild Rift",
     "publishedAt": "2026-02-11T10:00:00.000Z",
     "promoCardSize": "small",
@@ -11249,64 +11306,6 @@
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QNaVV",
       "publishDate": "2023-03-01T21:30:00.000Z"
-    }
-  },
-  {
-    "title": "Aperçu du champion Zeri",
-    "publishedAt": "2023-03-01T18:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "5z9MR91e1hY",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=5z9MR91e1hY"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8c66be24c03be49d3dd0ce6ed743e19ff9397a25-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Faites parler la foudre ! Foudroyez vos ennemis avec Zeri, étincelle de Zaun, qui entre dans Wild Rift dans un bruit de tonnerre !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltc191a48c0691328c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvh17qt",
-      "publishDate": "2023-03-01T18:00:00.000Z"
     }
   }
 ]

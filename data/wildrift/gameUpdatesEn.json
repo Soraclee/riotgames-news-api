@@ -1,5 +1,62 @@
 [
   {
+    "title": "Norra Champion Overview",
+    "publishedAt": "2026-02-13T02:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "K2W95xf2wfc",
+        "videoLengthInSeconds": 170,
+        "url": "https://www.youtube.com/watch?v=K2W95xf2wfc"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2e5bae31531bf954a0a069e8626082e0b772699d-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Don't skip any pages of Book, you don't want to miss out on the tea Norra is ready to serve!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "9791f81b-dcdb-4c37-9b5f-fcdaca575dde.en-us",
+      "contentLocale": "en-us",
+      "rev": "Yy9WA5jikQAKYaZihLWEL0",
+      "publishDate": "2026-02-13T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Wild Rift Patch Notes 7.0c",
     "publishedAt": "2026-02-11T10:00:00.000Z",
     "promoCardSize": "small",
@@ -11235,62 +11292,6 @@
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvh17qt",
       "publishDate": "2022-09-06T02:00:00.000Z"
-    }
-  },
-  {
-    "title": "Wild Rift Patch Notes 3.3c",
-    "publishedAt": "2022-08-31T20:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/wild-rift-patch-notes-3-3c/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/16e64205a53450a2e288f8195c1726f0cc8eae36-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "It’s our final balance before Patch 3.4, and we’re focused on making adjustments to some champions who have been dominating and struggling in the Baron Lane. Welcome to Patch 3.3c!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltc6ece05b6aab9b25.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1QNaVV",
-      "publishDate": "2022-08-31T20:00:00.000Z"
     }
   }
 ]

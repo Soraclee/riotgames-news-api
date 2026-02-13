@@ -1,5 +1,62 @@
 [
   {
+    "title": "Norra Champion Overview",
+    "publishedAt": "2026-02-13T02:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "K2W95xf2wfc",
+        "videoLengthInSeconds": 170,
+        "url": "https://www.youtube.com/watch?v=K2W95xf2wfc"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2e5bae31531bf954a0a069e8626082e0b772699d-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Don't skip any pages of Book, you don't want to miss out on the tea Norra is ready to serve!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "9791f81b-dcdb-4c37-9b5f-fcdaca575dde.en-us",
+      "contentLocale": "en-us",
+      "rev": "Yy9WA5jikQAKYaZihLWEL0",
+      "publishDate": "2026-02-13T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Wild Rift Patch Notes 7.0c",
     "publishedAt": "2026-02-11T10:00:00.000Z",
     "promoCardSize": "small",
@@ -11249,63 +11306,6 @@
       "contentLocale": "en-us",
       "rev": "uVjKN0HzGgecX6wVAPhOQW",
       "publishDate": "2023-03-29T20:30:00.000Z"
-    }
-  },
-  {
-    "title": "Dev Update: Patch Schedule, Champions, and Gameplay Changes",
-    "publishedAt": "2023-03-29T03:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=FEodqwhPtdY"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/db6443367f1e206f92c6001ff5e9d8acf4c630d3-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Sit down for a quick chat with David Xu, to learn about some of the updates you can expect in 2023 from Wild Rift!"
-    },
-    "category": {
-      "title": "Announcements",
-      "description": "Used for general announcements for Wild Rift.",
-      "machineName": "announcements"
-    },
-    "analytics": {
-      "contentId": "articles.bltd35e3a7204c7343b.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvh2fQj",
-      "publishDate": "2023-03-29T03:00:00.000Z"
     }
   }
 ]
