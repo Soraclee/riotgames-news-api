@@ -1,5 +1,62 @@
 [
   {
+    "title": "Aperçu de Norra",
+    "publishedAt": "2026-02-13T02:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "zV6peDrbnvo",
+        "videoLengthInSeconds": 170,
+        "url": "https://www.youtube.com/watch?v=zV6peDrbnvo"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2e5bae31531bf954a0a069e8626082e0b772699d-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Pour Norra, rien de tel qu'un bon thé pour se poser avec Grimoire !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "9791f81b-dcdb-4c37-9b5f-fcdaca575dde.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Yy9WA5jikQAKYaZihLWEL0",
+      "publishDate": "2026-02-13T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 7.0c de Wild Rift",
     "publishedAt": "2026-02-11T10:00:00.000Z",
     "promoCardSize": "small",
@@ -51,7 +108,7 @@
     "analytics": {
       "contentId": "b075670f-2646-40a1-a19e-6b1f91e3cf52.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "0w0ebuWyBSsv6spmvV0O6i",
+      "rev": "u6hxWa3OsgA6kid2xnLofb",
       "publishDate": "2026-02-11T10:00:00.000Z"
     }
   },
@@ -11236,64 +11293,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvh2fQj",
       "publishDate": "2022-08-08T22:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation du skin Lee Sin poing divin",
-    "publishedAt": "2022-08-02T22:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "https://www.youtube.com/shorts/Nh05wb-vTbM",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=https://www.youtube.com/shorts/Nh05wb-vTbM"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/d0cad08896e030223b44d1d5133cec136a149522-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d6aa219cac8e1364705ef5833b0fa6737c64590b-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Frappez avec la force des cieux ! Lee Sin poing divin rejoint le combat le 5 août CEST."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt34865c2d3a4cf3d2.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvgvuVn",
-      "publishDate": "2022-08-02T22:00:00.000Z"
     }
   }
 ]
