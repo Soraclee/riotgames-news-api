@@ -1,5 +1,60 @@
 [
   {
+    "title": "Masters Santiago : Pick'Ems powered by AWS",
+    "publishedAt": "2026-02-16T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/en-us/news/masters-santiago-pickems-powered-by-aws"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e89533a8e8625e61fbb002eb218aed0736b5e344-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Pick’Ems kicks off on February 19 on the website and in the client. Lock in your picks and get ready!"
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional VALORANT.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "ee958401-81a7-4cfd-87f3-f89f9381ac5b.en-us",
+      "contentLocale": "en-us",
+      "rev": "etwvUWz8MV1YYrjntwjweD",
+      "publishDate": "2026-02-16T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Introducing the 2026 VCT Season Capsule!",
     "publishedAt": "2026-02-13T19:00:00.000Z",
     "promoCardSize": "small",
@@ -11078,63 +11133,6 @@
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwSAe6",
       "publishDate": "2024-10-22T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "JUST ONE MORE // Ep 9: Act III",
-    "publishedAt": "2024-10-21T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=xi10SuaE49I"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 2013,
-        "width": 3571,
-        "aspectRatio": 1.7739692001987084
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/679c94f1f9c45174f17149cba909bd4272a2476b-3571x2013.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "New skinlines, the Year End Patches and so much more in the last act of COLLISION."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "a073cb9a-1ef1-4c50-9f5f-b6ebc4d0fb6f.en-us",
-      "contentLocale": "en-us",
-      "rev": "ugA9rRsA0FWcU8w2gwb47S",
-      "publishDate": "2024-10-21T15:00:00.000Z"
     }
   }
 ]
