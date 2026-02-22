@@ -1,5 +1,61 @@
 [
   {
+    "title": "Collection des Masters Santiago",
+    "publishedAt": "2026-02-21T16:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/fr-fr/news/masters-santiago-merch-collection"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f21122f480ef2cbdf4560c576e0b1f865e255264-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Célébrez les Masters Santiago avec la nouvelle collection de produits dérivés en édition ultra-limitée. Profitez-en avant qu'il ne soit trop tard !"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de VALORANT.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "6cc526fb-fc2d-4ae3-8f51-5ef234a10848.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "TU2Z28E5PB47rYUBac8TOM",
+      "publishDate": "2026-02-21T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Masters Santiago : Tout ce qu'il faut savoir",
     "publishedAt": "2026-02-20T16:00:00.000Z",
     "promoCardSize": "small",
@@ -11053,63 +11109,6 @@
       "contentLocale": "fr-fr",
       "rev": "ZgPiUE9lJ1tcRKuFnUYSxh",
       "publishDate": "2024-07-10T12:00:00.000Z"
-    }
-  },
-  {
-    "title": "Collection Rêvailes d'Evori",
-    "publishedAt": "2024-06-25T15:20:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=J0E-ZAmCBXU"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bbfd203ef66d38bd4fe14a2349279c4ba218165c-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Ne partez pas seuls, les nouveaux skins Rêvailes d'Evori seront dans l'épisode 9 acte I de VALORANT."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "58fe2017-58e9-4ef6-aeb2-aaf5a809ccd7",
-      "contentLocale": "fr-fr",
-      "rev": "a4mhqh9AqcuhVS2XlP0NTT",
-      "publishDate": "2024-06-25T15:20:00.000Z"
     }
   }
 ]
