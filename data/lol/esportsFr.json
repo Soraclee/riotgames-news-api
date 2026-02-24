@@ -1,5 +1,62 @@
 [
   {
+    "title": "Récompenses du LEC 2026",
+    "publishedAt": "2026-02-23T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/2026-lec-awards"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d43a150d4cf87d71e4db3b267b7d5dd3874c4d52-1600x900.png?accountingTag=LoL",
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Récapitulatif des récompenses du LEC, des critères d'éligibilité et des modalités de vote."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "5c180c33-ea2b-4291-bb2f-a26db4d3c8ee.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "lJslHjyHHqtj3C60m0kco3",
+      "publishDate": "2026-02-23T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Movember becomes the Official Mental Health Partner of the LEC",
     "publishedAt": "2026-01-20T10:00:00.000Z",
     "action": {
@@ -14703,77 +14760,6 @@
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Sua3f",
       "publishDate": "2023-08-07T23:00:00.000Z"
-    }
-  },
-  {
-    "title": "From Chovy to Shoemaker! | Kia Mic Check | 2023 LEC Summer Playoffs",
-    "publishedAt": "2023-08-02T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "jsgVtacyoxg",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=jsgVtacyoxg"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "w6AqzJSq",
-        "_type": "clientInternalLinkT1",
-        "hideCTAButton": false,
-        "t1CTA": "",
-        "t1Description": "",
-        "t1Subtitle": "",
-        "t1Title": "Kia Mic Check | LEC Summer Playoffs"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/971fba65ddb05ec39f658176e4b4471acd54be91-1280x720.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Check out all the best comms from Playoffs of the #LEC​​​​ Summer in this week's episode of Mic Check!"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt42cb09c9699de655.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOONSwC",
-      "publishDate": "2023-08-02T16:00:00.000Z"
     }
   }
 ]

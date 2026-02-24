@@ -1,5 +1,61 @@
 [
   {
+    "title": "Masters Santiago : Watch and Earn",
+    "publishedAt": "2026-02-23T17:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/en-us/news/masters-santiago-watch-and-earn"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/01c8b503298507e0896734a380e0d770d5c1b15a-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Tune in to the live matches and unlock exclusive Drops while you watch."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional VALORANT.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "ca38bda8-3f70-45f5-988e-f529d9738dcb.en-us",
+      "contentLocale": "en-us",
+      "rev": "J5d2Nh8yqOZpEZ3qArVzkT",
+      "publishDate": "2026-02-23T17:00:00.000Z"
+    }
+  },
+  {
     "title": "Masters Santiago MERCH COLLECTION",
     "publishedAt": "2026-02-21T16:00:00.000Z",
     "promoCardSize": "medium",
@@ -11084,62 +11140,6 @@
       "contentLocale": "en-us",
       "rev": "PgFcywa81rN6y705ixxnLm",
       "publishDate": "2024-11-06T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "VALORANT Patch Notes 9.09",
-    "publishedAt": "2024-11-05T14:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/valorant-patch-notes-9-09"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 450,
-        "width": 800,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3639384824a428699f218941b4d8bfe858c1a048-800x450.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Bug fixes to various Agents, such as Gekko, Fade, and Deadlock, and more."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "bd0821b3-8cc2-46b1-9015-8d4e64e67179.en-us",
-      "contentLocale": "en-us",
-      "rev": "ugA9rRsA0FWcU8w2gwSAe6",
-      "publishDate": "2024-11-05T14:00:00.000Z"
     }
   }
 ]
