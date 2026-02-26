@@ -1,5 +1,61 @@
 [
   {
+    "title": "2XKO EU Community Series",
+    "publishedAt": "2026-02-18T18:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/announcements/2xko-eu-community-series"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5390ac7b6da8c17ff8e6cd57cae1811bc6f0d2f3-1920x1080.jpg?accountingTag=2XKO",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez comment la 2XKO EU Community Series peut vous faire passer de votre bracket local à l'EVO Las Vegas."
+    },
+    "category": {
+      "title": "Announcements",
+      "description": "Used for general announcements for 2XKO.",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "f6b75033-c16f-4495-8948-94d64dbc522e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "BVRbYWquCPXu65g76W9I44",
+      "publishDate": "2026-02-18T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 1.1.2 de 2XKO",
     "publishedAt": "2026-02-05T17:00:00.000Z",
     "promoCardSize": "small",
