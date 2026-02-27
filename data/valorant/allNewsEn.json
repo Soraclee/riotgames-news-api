@@ -1,5 +1,63 @@
 [
   {
+    "title": "The Making of a Zeus-inspired VALORANT Skin",
+    "publishedAt": "2026-02-27T01:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "KMFHILAsXzo",
+        "videoLengthInSeconds": 3448,
+        "url": "https://www.youtube.com/watch?v=KMFHILAsXzo"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0beec5d36d39b8bad0c0e51338ec3445b62795a6-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A VALORANT artist’s process designing a hypothetical skin for the lightning-wielding god of thunder."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of VALORANT.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "691304ba-a957-4171-99cc-146505a36ec9.en-us",
+      "contentLocale": "en-us",
+      "rev": "fYV8svA6W2baOUeTZOcMnu",
+      "publishDate": "2026-02-27T01:00:00.000Z"
+    }
+  },
+  {
     "title": "Masters Santiago : Watch and Earn",
     "publishedAt": "2026-02-23T17:00:00.000Z",
     "promoCardSize": "small",
@@ -11089,57 +11147,6 @@
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP0NTT",
       "publishDate": "2024-11-07T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Watch and Earn During Game Changers Championship 2024",
-    "publishedAt": "2024-11-06T16:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://valorantesports.com/en-us/news/watch-and-earn-during-game-changers-championship-2024"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/432ec561a6ae72afb2e665fa86a13f4d3e4600d6-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Catch the live matches for exclusive Drops!"
-    },
-    "analytics": {
-      "contentId": "1b546302-e868-4ba2-b000-0a15184aa7f6.en-us",
-      "contentLocale": "en-us",
-      "rev": "PgFcywa81rN6y705ixxnLm",
-      "publishDate": "2024-11-06T16:00:00.000Z"
     }
   }
 ]

@@ -1,5 +1,62 @@
 [
   {
+    "title": "La création d'un skin VALORANT inspiré de Zeus",
+    "publishedAt": "2026-02-27T01:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://youtu.be/KMFHILAsXzo"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0beec5d36d39b8bad0c0e51338ec3445b62795a6-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le processus d'un artiste de VALORANT pour concevoir un skin potentiellement destiné au dieu du tonnerre maniant la foudre."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de VALORANT.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "691304ba-a957-4171-99cc-146505a36ec9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "fYV8svA6W2baOUeTZOcMnu",
+      "publishDate": "2026-02-27T01:00:00.000Z"
+    }
+  },
+  {
     "title": "Regarder, c'est gagner : Masters Santiago",
     "publishedAt": "2026-02-23T17:00:00.000Z",
     "promoCardSize": "small",
@@ -11059,62 +11116,6 @@
       "contentLocale": "fr-fr",
       "rev": "CeWfIJZcWglMDZJJjHLHwZ",
       "publishDate": "2024-07-11T12:04:52Z"
-    }
-  },
-  {
-    "title": "Récap' de la communauté : juin 2024 – édition spéciale Pride",
-    "publishedAt": "2024-07-10T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/community/community-roundup-june-2024--pride-edition"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0959459750f1b5ab6beef3c8a071fda137886c01-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La communauté de VALORANT a fêté les fiertés cette année. Admirez comment."
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "f5cf8832-59b7-484d-8944-c525ad6e3536",
-      "contentLocale": "fr-fr",
-      "rev": "a4mhqh9AqcuhVS2XlOze99",
-      "publishDate": "2024-07-10T15:00:00.000Z"
     }
   }
 ]
