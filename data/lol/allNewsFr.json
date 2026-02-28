@@ -1,5 +1,65 @@
 [
   {
+    "title": "Shyvana, Demi-dragon",
+    "publishedAt": "2026-02-27T16:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "GawZ0SM6Sgw",
+        "videoLengthInSeconds": 107,
+        "url": "https://www.youtube.com/watch?v=GawZ0SM6Sgw"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e9466a93c6a67f8235c4b566f95dc686ac0f3172-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Ne redoutez pas le feu qui vous habite. Domptez-le."
+    },
+    "category": {
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "85585e7b-7698-410f-9b38-ce358ce52361.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "fnlbWT443zDT0QxaEUL90W",
+      "publishDate": "2026-02-27T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation des EMEA Masters d'hiver 2026",
     "publishedAt": "2026-02-26T15:00:00.000Z",
     "action": {
@@ -291,63 +351,6 @@
     }
   },
   {
-    "title": "Notes de patch 26.3",
-    "publishedAt": "2026-02-03T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-26-3-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/26009ed5cbbbf58f100561ac6d54d06e88b39afe-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Célébrez la nouvelle année et plongez-vous dans le patch 26.3 🎊"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "fbe5cc22-b99c-490b-afd9-1426b937c14b.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "at1kee3lQmDASbULwO7uUT",
-      "publishDate": "2026-02-03T19:00:00.000Z"
-    }
-  },
-  {
     "title": "Notes de patch 16.4 de TFT",
     "publishedAt": "2026-02-03T19:00:00.000Z",
     "promoCardSize": "small",
@@ -403,6 +406,63 @@
       "contentId": "40457160-c0ef-4a10-93ee-94d4689608d4.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "sCZmld8WWeO7fCpjvpkQkL",
+      "publishDate": "2026-02-03T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 26.3",
+    "publishedAt": "2026-02-03T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-26-3-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/26009ed5cbbbf58f100561ac6d54d06e88b39afe-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Célébrez la nouvelle année et plongez-vous dans le patch 26.3 🎊"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "fbe5cc22-b99c-490b-afd9-1426b937c14b.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "at1kee3lQmDASbULwO7uUT",
       "publishDate": "2026-02-03T19:00:00.000Z"
     }
   },
@@ -705,6 +765,63 @@
     }
   },
   {
+    "title": "Notes de patch 26.2",
+    "publishedAt": "2026-01-21T19:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/patch-26-2-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8450bda0b6eb809ffb11c0161157d2e0b4d692d8-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Patch 26.2 paré au décollage !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "patchNote.c417a64c-0a05-4fb9-9995-5d0e8eb59e18.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "JrdCdTB43ZIe9jtTvtx47V",
+      "publishDate": "2026-01-21T19:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 16.3 de TFT",
     "publishedAt": "2026-01-21T19:00:00.000Z",
     "action": {
@@ -759,63 +876,6 @@
       "contentId": "6b03d18b-6ad1-453a-a0fc-b87c65159de9.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "l254Izds0dTZt1mo4Nqetg",
-      "publishDate": "2026-01-21T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 26.2",
-    "publishedAt": "2026-01-21T19:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-26-2-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8450bda0b6eb809ffb11c0161157d2e0b4d692d8-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Patch 26.2 paré au décollage !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "patchNote.c417a64c-0a05-4fb9-9995-5d0e8eb59e18.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvtx47V",
       "publishDate": "2026-01-21T19:00:00.000Z"
     }
   },
@@ -11703,66 +11763,6 @@
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
       "publishDate": "2025-06-27T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Musique Morgana fleur spirituelle",
-    "publishedAt": "2025-06-26T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "QF9WsfDnNLk",
-        "videoLengthInSeconds": 317,
-        "url": "https://www.youtube.com/watch?v=QF9WsfDnNLk"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5ea3ad78742ccb7174c5691d5db24dd5e29a37ac-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le bosquet s'anime lorsque sa Mère s'éveille."
-    },
-    "category": {
-      "title": "Médias",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "5ca97aa5-9339-4948-b818-cd1c812e491b.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-06-26T15:00:00.000Z"
     }
   }
 ]

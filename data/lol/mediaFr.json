@@ -1,5 +1,65 @@
 [
   {
+    "title": "Shyvana, Demi-dragon",
+    "publishedAt": "2026-02-27T16:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "GawZ0SM6Sgw",
+        "videoLengthInSeconds": 107,
+        "url": "https://www.youtube.com/watch?v=GawZ0SM6Sgw"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e9466a93c6a67f8235c4b566f95dc686ac0f3172-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Ne redoutez pas le feu qui vous habite. Domptez-le."
+    },
+    "category": {
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "85585e7b-7698-410f-9b38-ce358ce52361.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "fnlbWT443zDT0QxaEUL90W",
+      "publishDate": "2026-02-27T16:00:00.000Z"
+    }
+  },
+  {
     "title": "ÉP3 : Virée chanceuse | Festival lunaire 2026",
     "publishedAt": "2026-02-04T02:00:00.000Z",
     "promoCardSize": "medium",
@@ -19666,65 +19726,6 @@
       "contentId": "articles.blt12b79edc230bf636.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrZqnH",
-      "publishDate": "2021-07-02T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Sessions",
-    "publishedAt": "2021-07-02T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://sessions.riotgames.com/fr-fr/event/sessions/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1aefd3e582e540dab74138b3b748f8cf5513f6bf-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Une collection de musique que tout le monde peut utiliser dans son contenu sans se soucier de problèmes de copyright."
-    },
-    "category": {
-      "title": "Médias",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt482d43362771d5ca.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvrjxcb",
       "publishDate": "2021-07-02T15:00:00.000Z"
     }
   }

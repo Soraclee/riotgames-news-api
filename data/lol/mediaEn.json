@@ -1,5 +1,65 @@
 [
   {
+    "title": "Shyvana, the Half-Dragon",
+    "publishedAt": "2026-02-27T16:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "Xoq33mAQFlg",
+        "videoLengthInSeconds": 107,
+        "url": "https://www.youtube.com/watch?v=Xoq33mAQFlg"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e9466a93c6a67f8235c4b566f95dc686ac0f3172-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Do not fear the fire within. Master it."
+    },
+    "category": {
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "85585e7b-7698-410f-9b38-ce358ce52361.en-us",
+      "contentLocale": "en-us",
+      "rev": "fnlbWT443zDT0QxaEUL90W",
+      "publishDate": "2026-02-27T16:00:00.000Z"
+    }
+  },
+  {
     "title": "EP3: Fortune’s Flight | Lunar Revel 2026",
     "publishedAt": "2026-02-04T02:00:00.000Z",
     "promoCardSize": "medium",
@@ -18351,65 +18411,6 @@
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
       "publishDate": "2020-12-10T20:30:00.000Z"
-    }
-  },
-  {
-    "title": "Rell Champion Spotlight",
-    "publishedAt": "2020-12-10T20:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "7QSaMYFxm84",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=7QSaMYFxm84"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/63c849e8bf8b988f722977ac2d908a4118d37455-1280x720.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Iron body, iron will."
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt7ec8ea58355559c9.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvrvLmD",
-      "publishDate": "2020-12-10T20:00:00.000Z"
     }
   }
 ]
