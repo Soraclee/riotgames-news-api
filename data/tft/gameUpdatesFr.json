@@ -2326,66 +2326,6 @@
       }
     },
     "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/29532c0dbb0338a483745064196e9bf87fb86ec3-1920x1080.jpg?accountingTag=TFT",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le set le plus vaste de TFT comporte de nombreux champions à déverrouiller. Voici comment procéder !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "d6571526-a09a-4ad8-b0ab-aa3132e5ebc9.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-12-02T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Explication de la progression du Lorefinder",
-    "publishedAt": "2025-12-02T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "NTn9j21TGnA",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=NTn9j21TGnA"
-      }
-    },
-    "product": {
       "title": "Teamfight Tactics (fr-fr)",
       "machineName": "teamfight_tactics",
       "id": "product.teamfight_tactics.fr-fr",
@@ -2535,6 +2475,66 @@
       "contentId": "5a0bfeb5-47a8-4f53-bb3f-eb1fe3363698.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOH8F5C",
+      "publishDate": "2025-12-02T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Explication de la progression du Lorefinder",
+    "publishedAt": "2025-12-02T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "NTn9j21TGnA",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=NTn9j21TGnA"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/29532c0dbb0338a483745064196e9bf87fb86ec3-1920x1080.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le set le plus vaste de TFT comporte de nombreux champions à déverrouiller. Voici comment procéder !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "d6571526-a09a-4ad8-b0ab-aa3132e5ebc9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2025-12-02T16:00:00.000Z"
     }
   },
