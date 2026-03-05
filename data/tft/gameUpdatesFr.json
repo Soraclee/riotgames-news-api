@@ -50,7 +50,7 @@
     "analytics": {
       "contentId": "8caba30c-7ea5-4d42-8604-733d0526cb9d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "XURK0g5X9LoHQLZ3N6R56F",
+      "rev": "AESglscCpa7pTE6u47J7y9",
       "publishDate": "2026-03-03T19:00:00.000Z"
     }
   },
@@ -169,10 +169,9 @@
     "publishedAt": "2026-01-28T02:00:00.000Z",
     "promoCardSize": "small",
     "action": {
-      "type": "youtube_video",
+      "type": "weblink",
       "payload": {
-        "youtubeId": "6H6fZs1m6IQ",
-        "videoLengthInSeconds": 50,
+        "isExternal": true,
         "url": "https://www.youtube.com/watch?v=6H6fZs1m6IQ"
       }
     },
@@ -324,7 +323,7 @@
     "analytics": {
       "contentId": "71d10fcf-a747-4e3e-9a7f-aa0e945823de.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1TUUCT",
+      "rev": "cOf3v9G4vRKdPJLm9r5O6P",
       "publishDate": "2026-01-28T02:00:00.000Z"
     }
   },
@@ -2197,7 +2196,7 @@
     "analytics": {
       "contentId": "ddd88ec1-ee91-4d8f-a41f-2402cd0fa53f.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1Q7TjT",
+      "rev": "cOf3v9G4vRKdPJLm9r5sPb",
       "publishDate": "2025-12-04T02:00:00.000Z"
     }
   },
@@ -11537,62 +11536,6 @@
     "action": {
       "type": "weblink",
       "payload": {
-        "url": "/fr-fr/news/game-updates/lunar-festival-2025-cosmetics-and-more"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#ffb60d"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6cae575865dffa8e53b970ef2df23e8807103527-1920x1080.jpg?accountingTag=TFT",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le festival lunaire de TFT revient en 2025 et il sera plus grandiose que jamais !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "17f4e284-d37c-4aa1-953b-c85b0c33bd43.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1Q3Zid",
-      "publishDate": "2025-01-23T03:00:00.000Z"
-    }
-  },
-  {
-    "title": "Festival lunaire 2025, cosmétiques et plus",
-    "publishedAt": "2025-01-23T03:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
         "isExternal": true,
         "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/lunar-festival-2025-cosmetics-and-more"
       }
@@ -11642,6 +11585,62 @@
       "contentId": "517191be-bf99-415e-ae08-45b4baab3ca0.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
+      "publishDate": "2025-01-23T03:00:00.000Z"
+    }
+  },
+  {
+    "title": "Festival lunaire 2025, cosmétiques et plus",
+    "publishedAt": "2025-01-23T03:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/lunar-festival-2025-cosmetics-and-more"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6cae575865dffa8e53b970ef2df23e8807103527-1920x1080.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le festival lunaire de TFT revient en 2025 et il sera plus grandiose que jamais !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "17f4e284-d37c-4aa1-953b-c85b0c33bd43.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "wcF0J7hsRskGUKiR1Q3Zid",
       "publishDate": "2025-01-23T03:00:00.000Z"
     }
   },
