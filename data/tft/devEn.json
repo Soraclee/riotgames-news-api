@@ -222,65 +222,6 @@
     }
   },
   {
-    "title": "TFT Dev Drop: Lore & Legends",
-    "publishedAt": "2025-11-14T14:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "octpltpyZ-g",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=octpltpyZ-g"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a2a53ea37193878867399895075e12fa73fdbd62-1920x1080.jpg?accountingTag=TFT",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Relive Runeterran history, play every region as a trait, and Unlock units with an all-new mechanic."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of Teamfight Tactics.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "efb55016-e55a-4ea9-b0c4-2c52b4568085.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-11-14T14:00:00.000Z"
-    }
-  },
-  {
     "title": "/Dev TFT: K.O. Coliseum Learnings",
     "publishedAt": "2025-10-27T16:00:00.000Z",
     "promoCardSize": "small",
@@ -2292,6 +2233,188 @@
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
       "publishDate": "2024-11-06T14:00:00.000Z"
+    }
+  },
+  {
+    "title": "/Dev TFT: Magic n' Mayhem Learnings",
+    "publishedAt": "2024-11-04T17:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-tft-magic-n-mayhem-learnings"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "2d07b696cb2b",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2024-11-01T19:07:09Z",
+              "_id": "image-15f506a1dfd876bf2da6e32d8eb975885f417f97-1600x1041-jpg",
+              "_rev": "T130WEs22RB6SoEkO8ICSu",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2024-11-18T04:15:37Z",
+              "assetId": "15f506a1dfd876bf2da6e32d8eb975885f417f97",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "VQKJ=nxjDzVMIelVM]%KaS9bRyS]WHRXwQ$wtjwaIpwO",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.536983669548511,
+                  "height": 1041,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#70543d",
+                    "foreground": "#fff",
+                    "population": 1.45,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#600941",
+                    "foreground": "#fff",
+                    "population": 1.25,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#685eae",
+                    "foreground": "#fff",
+                    "population": 5.06,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#cfa2a9",
+                    "foreground": "#000",
+                    "population": 2.55,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ebf17b",
+                    "foreground": "#000",
+                    "population": 2.72,
+                    "title": "#000"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#685eae",
+                    "foreground": "#fff",
+                    "population": 5.06,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d4ec46",
+                    "foreground": "#000",
+                    "population": 2.53,
+                    "title": "#000"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "opt": {
+                "media": {
+                  "tags": [
+                    {
+                      "_createdAt": "2024-05-30T00:31:04Z",
+                      "_id": "1257WALiBIVf9XCQetNROh",
+                      "_rev": "ZgPiUE9lJ1tcRKuFnRhGVF",
+                      "_type": "media.tag",
+                      "_updatedAt": "2024-07-09T21:00:00Z",
+                      "name": {
+                        "_type": "slug",
+                        "current": "T1 Backdrop"
+                      },
+                      "dataset": "news_live"
+                    },
+                    {
+                      "_createdAt": "2024-04-24T03:44:09Z",
+                      "_id": "xL4mW6qp8pgFe8kPyEcjqd",
+                      "_rev": "ZgPiUE9lJ1tcRKuFnRgqXh",
+                      "_type": "media.tag",
+                      "_updatedAt": "2024-07-09T20:58:03Z",
+                      "name": {
+                        "_type": "slug",
+                        "current": "Teamfight Tactics"
+                      },
+                      "dataset": "news_live"
+                    }
+                  ]
+                }
+              },
+              "originalFilename": "MnM-Learning-decluttered-t1_optimized.jpg",
+              "path": "images/dsfx7636/news/15f506a1dfd876bf2da6e32d8eb975885f417f97-1600x1041.jpg",
+              "sha1hash": "15f506a1dfd876bf2da6e32d8eb975885f417f97",
+              "size": 443678,
+              "uploadId": "Zxh8W7NO1bJ25vwEXbTty7ZCmVkC9ha1",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/15f506a1dfd876bf2da6e32d8eb975885f417f97-1600x1041.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "t1Subtitle": "Teamfight Tactics"
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/c54b1a7f8da415c56734d2d5db3d524cda1a5e4f-1280x720.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A reflection on Magic n' Mayhem with our Director of Game Design, Riot Mort."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "5a5e6002-17ca-412f-9b70-fa5168fe28bf.en-us",
+      "contentLocale": "en-us",
+      "rev": "iuvR1X3un5VQGa5MOH8F5C",
+      "publishDate": "2024-11-04T17:00:00.000Z"
     }
   },
   {

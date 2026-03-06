@@ -2532,66 +2532,6 @@
     }
   },
   {
-    "title": "Lorefinder Progression Explained",
-    "publishedAt": "2025-12-02T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "mHpMP8dcvQE",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=mHpMP8dcvQE"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/29532c0dbb0338a483745064196e9bf87fb86ec3-1920x1080.jpg?accountingTag=TFT",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "TFT’s biggest set has a lot of Unlockable champs to keep track of. Here’s how to do it!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "d6571526-a09a-4ad8-b0ab-aa3132e5ebc9.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-12-02T16:00:00.000Z"
-    }
-  },
-  {
     "title": "Chibi Dark Cosmic Lux Showcase",
     "publishedAt": "2025-11-30T14:00:00.000Z",
     "action": {
@@ -18889,6 +18829,62 @@
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q6O9d",
       "publishDate": "2023-09-18T17:00:00.000Z"
+    }
+  },
+  {
+    "title": "Teamfight Tactics patch 13.18 notes",
+    "publishedAt": "2023-09-12T18:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/teamfight-tactics-patch-13-18-notes/"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/907f31a4dac00b9a360598ca9064769a92391550-1280x720.jpg?accountingTag=TFT",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Set sail on TFT's final mid-set, Horizonbound with the new Bilgewater and Ixtal regions and alongside some Naafiri inspired Little Legends and Chibi Irelia."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "articles.blt3de5593c0edecc04.en-us",
+      "contentLocale": "en-us",
+      "rev": "wcF0J7hsRskGUKiR1QEQh9",
+      "publishDate": "2023-09-12T18:00:00.000Z"
     }
   }
 ]
