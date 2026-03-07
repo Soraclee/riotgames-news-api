@@ -1,5 +1,62 @@
 [
   {
+    "title": "Présentation du segment de printemps du LEC 2026",
+    "publishedAt": "2026-03-06T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/2026-lec-spring-primer"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/18d83f53f988b4e4d9f2774287adfeea9c8e5834-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Deux Roadtrips et un format adoré par les fans : voici ce que vous réserve le segment de printemps du LEC."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "f2ef8d90-785e-44d9-94b1-cc2fc8e3ea46.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "qh7HjCoI0tndPlO4NBbgoA",
+      "publishDate": "2026-03-06T15:00:00.000Z"
+    }
+  },
+  {
     "title": "First Stand 2026 : Explication du format",
     "publishedAt": "2026-03-02T16:00:00.000Z",
     "action": {
@@ -14043,77 +14100,6 @@
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOObv0o",
       "publishDate": "2023-07-12T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "I am Ready! | Kia Mic Check | 2023 LEC Summer Week 3",
-    "publishedAt": "2023-07-05T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "TSM9xn_e9Fo",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=TSM9xn_e9Fo"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "2BBrHAgp",
-        "_type": "clientInternalLinkT1",
-        "hideCTAButton": false,
-        "t1CTA": "",
-        "t1Description": "",
-        "t1Subtitle": "",
-        "t1Title": "Kia Mic Check | LEC Summer Week 3"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9c7535866f1b1687b8487488d885b960a72444e0-1280x720.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Check out all the best comms from Week 3 of the #LEC​​​​ Summer in this week's episode of Mic Check!"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt6190db489958c22e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1Su3Ad",
-      "publishDate": "2023-07-05T16:00:00.000Z"
     }
   }
 ]

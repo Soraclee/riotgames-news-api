@@ -1,5 +1,64 @@
 [
   {
+    "title": "Poppy Plush",
+    "publishedAt": "2026-03-06T22:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://merch.riotgames.com/product/poppy-plush/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lols26kickoff"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a438483e83d45170f603e956744ec9c4486ffc11-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "When you have a Poppy Plush, everything looks like a job for a hero (and a hammer)."
+    },
+    "category": {
+      "title": "Merch",
+      "description": "Browse official merchandise and shop the latest collections in store.",
+      "machineName": "merch"
+    },
+    "analytics": {
+      "contentId": "5f579c4d-4652-4f4d-8c01-0947fa4cfe9a.en-us",
+      "contentLocale": "en-us",
+      "rev": "5S3Avlr92cTILf9pCiMZ3I",
+      "publishDate": "2026-03-06T22:00:00.000Z"
+    }
+  },
+  {
     "title": "Garen For Demacia Tee",
     "publishedAt": "2026-03-04T22:00:44.585Z",
     "promoCardSize": "medium",
@@ -113,7 +172,7 @@
     "analytics": {
       "contentId": "1128a098-ebb8-4654-9d0e-b18b46b7c95e.en-us",
       "contentLocale": "en-us",
-      "rev": "SCojQm3jYb1IX2owUdsvWm",
+      "rev": "SwGeUicuRlpNuikqkax2F9",
       "publishDate": "2026-03-04T16:00:00.000Z"
     }
   },
@@ -288,7 +347,7 @@
     "analytics": {
       "contentId": "586a6c15-05bd-430e-aa51-f8928b884d16.en-us",
       "contentLocale": "en-us",
-      "rev": "dfyyAmTzHcqFELdlja8CnU",
+      "rev": "cWgizojas91rjIQ364XQmP",
       "publishDate": "2026-03-03T16:00:00.000Z"
     }
   },
@@ -11704,65 +11763,6 @@
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2025-07-17T13:00:00.000Z"
-    }
-  },
-  {
-    "title": "Yunara Champion Trailer",
-    "publishedAt": "2025-07-16T20:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "3rDgn1ZoDss",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=3rDgn1ZoDss"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7f56014a8673b7b30e903efc0c7501a0d104b177-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Evil spirits be warned: Yunara, the Unbroken Faith enters this realm, ready to restore the balance."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "ef86c8dc-8919-4c20-ba1f-450f4dada523.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-07-16T20:00:00.000Z"
     }
   }
 ]
