@@ -1,5 +1,122 @@
 [
   {
+    "title": "Figurine Lillia des rouleaux de Shan Hai",
+    "publishedAt": "2026-03-10T21:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://merch.riotgames.com/product/shan-hai-scrolls-lillia-figure/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lols26kickoff"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/18b4bc13ae5624f8c615d0d0ec73541523ba450c-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Lillia émerge des rouleaux de Shan Hai pour devenir la gardienne des rêves et des légendes oubliés."
+    },
+    "category": {
+      "title": "Produits dérivés",
+      "description": "Découvrez les produits dérivés officiels et parcourez les dernières collections de la boutique.",
+      "machineName": "merch"
+    },
+    "analytics": {
+      "contentId": "c459716c-2911-45cc-b216-146adc72a079.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "MUTq06b2S2d15D3eWKSbl0",
+      "publishDate": "2026-03-10T21:00:00.000Z"
+    }
+  },
+  {
+    "title": "First Stand 2026",
+    "publishedAt": "2026-03-10T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "eL8Rhn_aE5c",
+        "videoLengthInSeconds": 72,
+        "url": "https://www.youtube.com/watch?v=eL8Rhn_aE5c"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ed1f4a18af03b6990d28a023d129e19ae3f30f0e-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Venez vous battre. Changez le cours du jeu. Menez la charge. Préparez-vous pour le First Stand 2026."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "801e6ced-41e2-4385-a3c5-60c00c3a2202.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "ik0wwCBjNRs8yzvF88Dztz",
+      "publishDate": "2026-03-10T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Peluche Poppy",
     "publishedAt": "2026-03-06T22:00:00.000Z",
     "promoCardSize": "medium",
@@ -409,14 +526,13 @@
     }
   },
   {
-    "title": "Dev Update : mode classé, Shyvana et plus encore",
+    "title": "First Stand 2026 : Explication du format",
     "publishedAt": "2026-03-02T16:00:00.000Z",
     "action": {
-      "type": "youtube_video",
+      "type": "weblink",
       "payload": {
-        "youtubeId": "aNGw5PNtqfI",
-        "videoLengthInSeconds": 753,
-        "url": "https://www.youtube.com/watch?v=aNGw5PNtqfI"
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=C6E-6vpOl8g"
       }
     },
     "product": {
@@ -444,26 +560,83 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 720,
-        "width": 1280,
+        "height": 1080,
+        "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ba7b7a7e1dd25609f565e69f0c95f59d0cdcaef3-1280x720.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fdf9d14ead3d12b8350e591314a1277b3ae3b231-1920x1080.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Pabro, Meddler, et Riot Memurr parlent du MMR, de la MVG de Shyvana, de l'ARAM du chaos, et plus !"
+      "body": "7 jours. 6 régions. Un seul vainqueur. Voici tout ce qu'il faut savoir sur le premier événement international de 2026."
     },
     "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
     },
     "analytics": {
-      "contentId": "16a98685-7ca5-405d-9bda-8c019b36e164.fr-fr",
+      "contentId": "c535cbec-7ef5-45c6-9c78-65e70d872831.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "AIs9gdgup62b3c3Gcv9BXc",
+      "rev": "QFzv4oxL6m2mXGk5LOhxl6",
+      "publishDate": "2026-03-02T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Présentation du First Stand 2026",
+    "publishedAt": "2026-03-02T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/fst-2026-primer"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1600,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b72a508ef240b9d27b27660e643e211f1b165aaa-1600x900.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Tout ce que vous avez besoin de savoir sur le First Stand São Paulo !"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "1960dea6-50a1-4bdb-b43a-cea60875b26a.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "QFzv4oxL6m2mXGk5LOiq5N",
       "publishDate": "2026-03-02T16:00:00.000Z"
     }
   },
@@ -642,13 +815,14 @@
     }
   },
   {
-    "title": "First Stand 2026 : Explication du format",
+    "title": "Dev Update : mode classé, Shyvana et plus encore",
     "publishedAt": "2026-03-02T16:00:00.000Z",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=C6E-6vpOl8g"
+        "youtubeId": "aNGw5PNtqfI",
+        "videoLengthInSeconds": 753,
+        "url": "https://www.youtube.com/watch?v=aNGw5PNtqfI"
       }
     },
     "product": {
@@ -676,83 +850,26 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1080,
-        "width": 1920,
+        "height": 720,
+        "width": 1280,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fdf9d14ead3d12b8350e591314a1277b3ae3b231-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ba7b7a7e1dd25609f565e69f0c95f59d0cdcaef3-1280x720.jpg?accountingTag=LoL",
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "7 jours. 6 régions. Un seul vainqueur. Voici tout ce qu'il faut savoir sur le premier événement international de 2026."
+      "body": "Pabro, Meddler, et Riot Memurr parlent du MMR, de la MVG de Shyvana, de l'ARAM du chaos, et plus !"
     },
     "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
     },
     "analytics": {
-      "contentId": "c535cbec-7ef5-45c6-9c78-65e70d872831.fr-fr",
+      "contentId": "16a98685-7ca5-405d-9bda-8c019b36e164.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "QFzv4oxL6m2mXGk5LOhxl6",
-      "publishDate": "2026-03-02T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation du First Stand 2026",
-    "publishedAt": "2026-03-02T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/fr-fr/news/fst-2026-primer"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 900,
-        "width": 1600,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b72a508ef240b9d27b27660e643e211f1b165aaa-1600x900.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Tout ce que vous avez besoin de savoir sur le First Stand São Paulo !"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "1960dea6-50a1-4bdb-b43a-cea60875b26a.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "QFzv4oxL6m2mXGk5LOiq5N",
+      "rev": "AIs9gdgup62b3c3Gcv9BXc",
       "publishDate": "2026-03-02T16:00:00.000Z"
     }
   },
@@ -11638,122 +11755,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
       "publishDate": "2025-07-16T20:00:00.000Z"
-    }
-  },
-  {
-    "title": "ZETA summertime remporte la Tactician’s Crown !",
-    "publishedAt": "2025-07-16T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/esports/zeta-summertimer-wins-the-tacticians-crown"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 901,
-        "width": 1599,
-        "aspectRatio": 1.774694783573807
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cb4ef25f33c236dd8537bc2a469a64eeaaea62c2-1599x901.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Cyber City a trouvé son Big Boss !"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "a8f67689-b11b-41e0-af2a-394a2aaf9a92.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2025-07-16T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 25.14",
-    "publishedAt": "2025-07-15T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/patch-25-14-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9288c429e91ba647725549ddc2536ab3ec402d17-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Mettez votre détermination à l'épreuve avec Yunara, Foi inébranlable, dans le patch 25.14"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "12e3e749-e919-45d6-92fc-601858c0a6ca.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-07-15T18:00:00.000Z"
     }
   }
 ]

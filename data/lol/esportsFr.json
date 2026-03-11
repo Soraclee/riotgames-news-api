@@ -1,5 +1,64 @@
 [
   {
+    "title": "First Stand 2026",
+    "publishedAt": "2026-03-10T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "eL8Rhn_aE5c",
+        "videoLengthInSeconds": 72,
+        "url": "https://www.youtube.com/watch?v=eL8Rhn_aE5c"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ed1f4a18af03b6990d28a023d129e19ae3f30f0e-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Venez vous battre. Changez le cours du jeu. Menez la charge. Préparez-vous pour le First Stand 2026."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "801e6ced-41e2-4385-a3c5-60c00c3a2202.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "ik0wwCBjNRs8yzvF88Dztz",
+      "publishDate": "2026-03-10T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du segment de printemps du LEC 2026",
     "publishedAt": "2026-03-06T15:00:00.000Z",
     "action": {
@@ -14042,64 +14101,6 @@
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOVhs6",
       "publishDate": "2023-07-13T10:00:00.000Z"
-    }
-  },
-  {
-    "title": "Golden Spatula Cup n°1 - Guide du spectateur",
-    "publishedAt": "2023-07-12T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/esports/golden-spatula-cup-1-viewer-s-guide/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f9ead32570d025e76953812b97a27f33af7928bc-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Ne manquez pas toutes les informations à propos du prochain tournoi Rising Legends"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blte4415b3d0e1dc1b1.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOObv0o",
-      "publishDate": "2023-07-12T15:00:00.000Z"
     }
   }
 ]

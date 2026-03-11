@@ -1,5 +1,64 @@
 [
   {
+    "title": "First Stand 2026",
+    "publishedAt": "2026-03-10T15:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "eL8Rhn_aE5c",
+        "videoLengthInSeconds": 72,
+        "url": "https://www.youtube.com/watch?v=eL8Rhn_aE5c"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ed1f4a18af03b6990d28a023d129e19ae3f30f0e-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Make your moves. Change the game. Lead the charge. First Stand 2026, coming at you."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "801e6ced-41e2-4385-a3c5-60c00c3a2202.en-us",
+      "contentLocale": "en-us",
+      "rev": "ik0wwCBjNRs8yzvF88Dztz",
+      "publishDate": "2026-03-10T15:00:00.000Z"
+    }
+  },
+  {
     "title": "2026 LCS Spring Split Primer",
     "publishedAt": "2026-03-08T17:00:00.000Z",
     "action": {
@@ -15850,82 +15909,6 @@
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SwvJx",
       "publishDate": "2023-07-26T20:00:00.000Z"
-    }
-  },
-  {
-    "title": "Would MVP Make Jojo the New Bjerg? | The Dive",
-    "publishedAt": "2023-07-25T18:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "mjlZvEvHFq8",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=mjlZvEvHFq8"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "ABmhPLG2",
-        "_type": "clientInternalLinkT1",
-        "hideCTAButton": false,
-        "t1CTA": "Watch Now",
-        "t1Description": "",
-        "t1Subtitle": "The Dive | LCS",
-        "t1Title": "Jojo the New Bjerg? | The Dive"
-      },
-      {
-        "_key": "DRBQMDSv",
-        "_type": "clientInternalLinkT2",
-        "t2Title": "Jojo the New Bjerg? | The Dive"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/75009b02258d488063e5287a77d8e6b0a36eeabc-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "This week Mark, Kobe, & Azael the trio go over their All Pro voting thought process."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt374f03d8ad464e30.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOKS3G",
-      "publishDate": "2023-07-25T18:00:00.000Z"
     }
   }
 ]
