@@ -1,5 +1,63 @@
 [
   {
+    "title": "Mel Champion Overview",
+    "publishedAt": "2026-03-12T02:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "3FBvAHXYTQ4",
+        "videoLengthInSeconds": 130,
+        "url": "https://www.youtube.com/watch?v=3FBvAHXYTQ4"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/539f4015b99515107e7fdf3feccafae43a132ac1-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "There’s a new mage, a new boss, and a new diplomat in town - and it’s all one person, Mel! Here to lead, March 13th UTC!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "1661b46c-1187-46f1-b1ef-120817e43ae4.en-us",
+      "contentLocale": "en-us",
+      "rev": "pAE74lAFn8sibMGYH4eCRV",
+      "publishDate": "2026-03-12T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Wild Rift Patch Notes 7.0d",
     "publishedAt": "2026-03-04T10:00:00.000Z",
     "promoCardSize": "small",
@@ -11135,61 +11193,6 @@
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvh2fQj",
       "publishDate": "2023-04-14T02:00:00.000Z"
-    }
-  },
-  {
-    "title": "The first season of Wild Rift League-Asia is ready to start!",
-    "publishedAt": "2023-04-07T02:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/esports/the-first-season-of-wild-rift-league-asia-is-ready-to-start/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9f2816514f5101acb1bc573cbba861810cf6560a-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Dare to Go Wild starting this April!"
-    },
-    "category": {
-      "title": "Esports",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt8e84d5a9af330478.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvgzMcV",
-      "publishDate": "2023-04-07T02:00:00.000Z"
     }
   }
 ]

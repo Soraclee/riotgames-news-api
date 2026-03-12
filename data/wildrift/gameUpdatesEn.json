@@ -1,5 +1,63 @@
 [
   {
+    "title": "Mel Champion Overview",
+    "publishedAt": "2026-03-12T02:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "3FBvAHXYTQ4",
+        "videoLengthInSeconds": 130,
+        "url": "https://www.youtube.com/watch?v=3FBvAHXYTQ4"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/539f4015b99515107e7fdf3feccafae43a132ac1-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "There’s a new mage, a new boss, and a new diplomat in town - and it’s all one person, Mel! Here to lead, March 13th UTC!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "1661b46c-1187-46f1-b1ef-120817e43ae4.en-us",
+      "contentLocale": "en-us",
+      "rev": "pAE74lAFn8sibMGYH4eCRV",
+      "publishDate": "2026-03-12T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Wild Rift Patch Notes 7.0d",
     "publishedAt": "2026-03-04T10:00:00.000Z",
     "promoCardSize": "small",
@@ -11118,64 +11176,6 @@
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOHrkVu",
       "publishDate": "2022-09-09T02:00:00.000Z"
-    }
-  },
-  {
-    "title": "Lunar Goddess Diana Skins Preview",
-    "publishedAt": "2022-09-06T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "https://www.youtube.com/shorts/i2ylBoaTTm8",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=https://www.youtube.com/shorts/i2ylBoaTTm8"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2663a4f3b6fe8a45edbc23306f63dfa52ece4599-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Find strength in the light of the moon with Lunar Goddess Diana starting Sept 9 UTC!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt60bfa401e19eaeba.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOHqi9u",
-      "publishDate": "2022-09-06T16:00:00.000Z"
     }
   }
 ]

@@ -1,5 +1,63 @@
 [
   {
+    "title": "Aperçu du champion Mel",
+    "publishedAt": "2026-03-12T02:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "13_NCVGkdvE",
+        "videoLengthInSeconds": 130,
+        "url": "https://www.youtube.com/watch?v=13_NCVGkdvE"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/539f4015b99515107e7fdf3feccafae43a132ac1-1920x1080.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez une nouvelle mage, une nouvelle diplomate, et un nouveau leader : voici Mel ! Elle vient maîtriser la Faille dès le 13 mars CET !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "1661b46c-1187-46f1-b1ef-120817e43ae4.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "pAE74lAFn8sibMGYH4eCRV",
+      "publishDate": "2026-03-12T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 7.0d de Wild Rift",
     "publishedAt": "2026-03-04T10:00:00.000Z",
     "promoCardSize": "small",
@@ -11132,64 +11190,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgvuVn",
       "publishDate": "2023-03-13T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Aperçu du patch 4.1",
-    "publishedAt": "2023-03-02T04:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "zApvAIa_sYA",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=zApvAIa_sYA"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8a34e4e47419d029a33b98f73e1d33301c47930d-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Alan, Maddy et David viennent nous parler des nouveautés du Patch 4.1 : Tope là, déployé le 16 mars CET ! Découvrez nos méchants champions (tout verts), les mises à jour du gameplay, l'événement et les skins dans cet aperçu du patch."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltf6d7c398975f8516.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvh4ohf",
-      "publishDate": "2023-03-02T04:00:00.000Z"
     }
   }
 ]
