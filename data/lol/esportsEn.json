@@ -1,5 +1,63 @@
 [
   {
+    "title": "New League Meta: Everything Happens FAST",
+    "publishedAt": "2026-03-12T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=J-bpS5qH7Xs"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/091ed6122dc8a2f75e91e2dc8b0e6e9c9ce90344-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Get ready for First Stand with a breakdown of the biggest changes to the 2026 meta."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "2f946e86-b176-4da5-8e1e-346337d987dc.en-us",
+      "contentLocale": "en-us",
+      "rev": "mEMI7WfL6jGaLOZ2tEnL2I",
+      "publishDate": "2026-03-12T15:00:00.000Z"
+    }
+  },
+  {
     "title": "First Stand 2026",
     "publishedAt": "2026-03-10T15:00:00.000Z",
     "action": {
@@ -15839,76 +15897,6 @@
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrZqnH",
       "publishDate": "2023-07-31T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "2023 LCS Summer Split Awards",
-    "publishedAt": "2023-07-26T20:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://lolesports.com/article/2023-lcs-summer-split-awards/bltba9c5b1e543a35e5"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "04oaaGlQ",
-        "_type": "clientInternalLinkT1",
-        "hideCTAButton": false,
-        "t1CTA": "Read now",
-        "t1Description": "",
-        "t1Subtitle": "Read now",
-        "t1Title": ""
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 900,
-        "width": 1600,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/43707639016e3101f53eaed5606053be46cf0b69-1600x900.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Here is your 2023 LCS Summer Split All-Pro Team!"
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltd5203626a7fdea61.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1SwvJx",
-      "publishDate": "2023-07-26T20:00:00.000Z"
     }
   }
 ]

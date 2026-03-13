@@ -1,5 +1,61 @@
 [
   {
+    "title": "2XKO en España",
+    "publishedAt": "2026-03-12T18:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/announcements/2xko-en-espaa"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2470b209055fe2c0440edd14b89ea4cd9446972f-1920x1080.jpg?accountingTag=2XKO",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Spotlight on Spain."
+    },
+    "category": {
+      "title": "Announcements",
+      "description": "Used for general announcements for 2XKO.",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "d17e55d7-0826-4724-b2eb-255ef45eab92.en-us",
+      "contentLocale": "en-us",
+      "rev": "CQsuyf19TUkXWfivUqy8CR",
+      "publishDate": "2026-03-12T18:00:00.000Z"
+    }
+  },
+  {
     "title": "2XKO Patch Notes: 1.1.3 (Mar 10 2026)",
     "publishedAt": "2026-03-09T17:00:00.000Z",
     "promoCardSize": "medium",
