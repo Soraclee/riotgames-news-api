@@ -1,5 +1,63 @@
 [
   {
+    "title": "/dev: Team Voice in League",
+    "publishedAt": "2026-03-13T18:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-team-voice-in-league"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b478ca37886b35465faab7dc66d8ac163e8afd97-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Our plans for team-based voice communications in League."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "29f95f9f-04bb-4ae7-ba43-5a3c5ed4b47e.en-us",
+      "contentLocale": "en-us",
+      "rev": "XwA10rvdnWgf9fcqSoUCva",
+      "publishDate": "2026-03-13T18:00:00.000Z"
+    }
+  },
+  {
     "title": "TL;DW: Ranked, Shyvana & More Dev Update",
     "publishedAt": "2026-03-02T16:00:00.000Z",
     "promoCardSize": "medium",
@@ -13094,66 +13152,6 @@
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvs5YNt",
       "publishDate": "2021-11-05T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev diary: World of Arcane",
-    "publishedAt": "2021-10-31T17:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "D9NoXdWn10s",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=D9NoXdWn10s"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2a22fe1eb1808f76c09e6425203fcd8e3a9b31b4-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A bastion of enlightenment. A city with nothing. Welcome to Piltover and Zaun."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt8e1c7849683e51af.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2021-10-31T17:00:00.000Z"
     }
   }
 ]

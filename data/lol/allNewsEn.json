@@ -1,5 +1,63 @@
 [
   {
+    "title": "/dev: Team Voice in League",
+    "publishedAt": "2026-03-13T18:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-team-voice-in-league"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b478ca37886b35465faab7dc66d8ac163e8afd97-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Our plans for team-based voice communications in League."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "29f95f9f-04bb-4ae7-ba43-5a3c5ed4b47e.en-us",
+      "contentLocale": "en-us",
+      "rev": "XwA10rvdnWgf9fcqSoUCva",
+      "publishDate": "2026-03-13T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Tibbers Keychain Blind Box",
     "publishedAt": "2026-03-12T21:00:00.000Z",
     "promoCardSize": "medium",
@@ -11702,65 +11760,6 @@
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2025-07-25T01:00:00.000Z"
-    }
-  },
-  {
-    "title": "K.O. Coliseum Manga Cover Download",
-    "publishedAt": "2025-07-24T15:30:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/media/ko-coliseum-manga-cover-download/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bfef8b36890da2b53cf6fc2ce77a7e7c64087314-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Turn your favorite manga cover illustration into your daily inspiration with free phone wallpapers!"
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "6b1b1e30-0359-498c-be43-589cbe321855.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2025-07-24T15:30:00.000Z"
     }
   }
 ]

@@ -1,5 +1,63 @@
 [
   {
+    "title": "/dev : Chat vocal d'équipe dans League",
+    "publishedAt": "2026-03-13T18:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-team-voice-in-league"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b478ca37886b35465faab7dc66d8ac163e8afd97-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Nos objectifs pour la communication vocale par équipe dans League of Legends"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "29f95f9f-04bb-4ae7-ba43-5a3c5ed4b47e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "uDvgkgARni8E9Aar36dC7M",
+      "publishDate": "2026-03-13T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Blind Box porte-clés Tibbers",
     "publishedAt": "2026-03-12T21:00:00.000Z",
     "promoCardSize": "medium",
@@ -11695,66 +11753,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
       "publishDate": "2025-07-18T20:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation d'iBlitzcrank chibi",
-    "publishedAt": "2025-07-17T13:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "eNvY0UBYRqM",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=eNvY0UBYRqM"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95d4a20e83ac87f9eddcbae7db1eb189bb96cb46-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Initialisation du processus amusant. Ha ha ha ! iBlitzcrank chibi est maintenant disponible dans TFT."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "8201a73e-e43d-49c7-b1e7-e40269bd26e1.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-07-17T13:00:00.000Z"
     }
   }
 ]

@@ -1,5 +1,63 @@
 [
   {
+    "title": "/dev : Chat vocal d'équipe dans League",
+    "publishedAt": "2026-03-13T18:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-team-voice-in-league"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b478ca37886b35465faab7dc66d8ac163e8afd97-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Nos objectifs pour la communication vocale par équipe dans League of Legends"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "29f95f9f-04bb-4ae7-ba43-5a3c5ed4b47e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "uDvgkgARni8E9Aar36dC7M",
+      "publishDate": "2026-03-13T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Résumé : Mode classé, Shyvana et plus encore",
     "publishedAt": "2026-03-02T16:00:00.000Z",
     "promoCardSize": "medium",
@@ -13325,64 +13383,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrZqnH",
       "publishDate": "2021-09-17T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Pensées sur le gameplay : 10/09",
-    "publishedAt": "2021-09-10T17:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/quick-gameplay-thoughts-9-10/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/adf7e1459fe92ad802a5dc795a24b0bc5bbad478-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "L'équipe d'analyse du gameplay : qui nous sommes, et ce que nous faisons."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt7083fc600103791f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvrscU3",
-      "publishDate": "2021-09-10T17:00:00.000Z"
     }
   }
 ]
