@@ -1,5 +1,65 @@
 [
   {
+    "title": "Découvrez la Poule aux œufs d'or de Swain !",
+    "publishedAt": "2026-03-17T15:30:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "fUw0YvZJ3HI",
+        "videoLengthInSeconds": 55,
+        "url": "https://www.youtube.com/watch?v=fUw0YvZJ3HI"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1440,
+        "width": 2110,
+        "aspectRatio": 1.4652777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/74986cfa471834bc1fc046bd58502ce64ddc83a6-2110x1440.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Coéquipiers nazes ? Fatigué ? Pas assez de PL ? Venez à la Poule aux œufs d'or de Swain !"
+    },
+    "category": {
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "8ca2f2bd-9701-42e7-b0c5-ba2d16ec7771.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "sCu4M0Q6B9wT143XUAgG0a",
+      "publishDate": "2026-03-17T15:30:00.000Z"
+    }
+  },
+  {
     "title": "Commentateurs, co-streamers et partenaires de diffusion du LEC 2026",
     "publishedAt": "2026-01-13T15:00:00.000Z",
     "action": {

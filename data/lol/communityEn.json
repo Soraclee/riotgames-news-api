@@ -1,5 +1,65 @@
 [
   {
+    "title": "Come Down to Swain’s Hot Chicken",
+    "publishedAt": "2026-03-17T15:30:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "zgRQykx2n8s",
+        "videoLengthInSeconds": 55,
+        "url": "https://www.youtube.com/watch?v=zgRQykx2n8s"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1440,
+        "width": 2110,
+        "aspectRatio": 1.4652777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/74986cfa471834bc1fc046bd58502ce64ddc83a6-2110x1440.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Teammates got you down? Sick of the endless grind? Hungry for LP? Come down to Swain’s Hot Chicken!"
+    },
+    "category": {
+      "title": "Community",
+      "description": "From featured streamers to community creations, see what's new in the neighborhood.",
+      "machineName": "community"
+    },
+    "analytics": {
+      "contentId": "8ca2f2bd-9701-42e7-b0c5-ba2d16ec7771.en-us",
+      "contentLocale": "en-us",
+      "rev": "sCu4M0Q6B9wT143XUAgG0a",
+      "publishDate": "2026-03-17T15:30:00.000Z"
+    }
+  },
+  {
     "title": "League of Legends NA Community Kits are Here!",
     "publishedAt": "2026-02-28T18:00:00.000Z",
     "action": {
