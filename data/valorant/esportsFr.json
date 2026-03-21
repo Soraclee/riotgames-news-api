@@ -1,5 +1,60 @@
 [
   {
+    "title": "Stage 1 du VCT EMEA 2026 Format, dates et billetterie",
+    "publishedAt": "2026-03-20T14:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/fr-fr/news/2026-vct-emea-stage-1-format-dates-and-tickets"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8d08a4f0f3c14f74c9fec28c4e2655e854b62835-1920x1080.png?accountingTag=VAL",
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Voici tout ce qu'il faut savoir sur le chemin qui mène aux Masters London en EMEA !"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de VALORANT.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "3a848c3b-256d-45f2-b645-9765c327bf5d.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "MsQNQ8m2MkdlwTH5pIyOq9",
+      "publishDate": "2026-03-20T14:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du nouvel agent lors de la finale des Masters Santiago",
     "publishedAt": "2026-03-12T15:00:00.000Z",
     "promoCardSize": "small",
@@ -5732,63 +5787,6 @@
     }
   },
   {
-    "title": "SHOWMATCH ET PRÉSENTATION DU NOUVEL AGENT AUX MASTERS DE TOKYO",
-    "publishedAt": "2023-06-21T03:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://valorantesports.com/news/tdm-showmatch-and-new-agent-reveal-at-masters-tokyo/"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/54877502da75514b06109a4accd9ea1849e5828b-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Préparez-vous pour un spectacle que vous n'êtes pas près d'oublier lors de la grande finale des Masters de Tokyo."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de VALORANT.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt168b4bba263be829.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ugA9rRsA0FWcU8w2gwceVC",
-      "publishDate": "2023-06-21T03:00:00.000Z"
-    }
-  },
-  {
     "title": "Les pros de VALORANT réagissent : La nouvelle sentinelle",
     "publishedAt": "2023-06-21T03:00:00.000Z",
     "promoCardSize": "medium",
@@ -5842,6 +5840,63 @@
       "contentId": "articles.blte5232ba60c33beb3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "x6e5cvzkf14I5RCNbLoTfL",
+      "publishDate": "2023-06-21T03:00:00.000Z"
+    }
+  },
+  {
+    "title": "SHOWMATCH ET PRÉSENTATION DU NOUVEL AGENT AUX MASTERS DE TOKYO",
+    "publishedAt": "2023-06-21T03:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://valorantesports.com/news/tdm-showmatch-and-new-agent-reveal-at-masters-tokyo/"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/54877502da75514b06109a4accd9ea1849e5828b-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Préparez-vous pour un spectacle que vous n'êtes pas près d'oublier lors de la grande finale des Masters de Tokyo."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de VALORANT.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blt168b4bba263be829.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "ugA9rRsA0FWcU8w2gwceVC",
       "publishDate": "2023-06-21T03:00:00.000Z"
     }
   },
@@ -5903,63 +5958,6 @@
     }
   },
   {
-    "title": "Rank Up ! | 2023 VCT Masters Tokyo | Bande-annonce de l'événement",
-    "publishedAt": "2023-06-06T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=D1qTWtw3V4Y"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2ff6e51c27799b6e06b53546925e82d33aa4d1bf-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les VALORANT Masters sont arrivés à Tokyo ! Apprenez en observant les pros du VCT tester de nouvelles stratégies sur scène alors qu'ils avancent vers les Champions."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de VALORANT.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltf24785969effe163.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "x6e5cvzkf14I5RCNbLoTfL",
-      "publishDate": "2023-06-06T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Le manga du VCT Rank Up! est disponible",
     "publishedAt": "2023-06-06T15:00:00.000Z",
     "promoCardSize": "medium",
@@ -6011,6 +6009,63 @@
     },
     "analytics": {
       "contentId": "articles.bltef8f2fb5fde38924.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "x6e5cvzkf14I5RCNbLoTfL",
+      "publishDate": "2023-06-06T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Rank Up ! | 2023 VCT Masters Tokyo | Bande-annonce de l'événement",
+    "publishedAt": "2023-06-06T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=D1qTWtw3V4Y"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2ff6e51c27799b6e06b53546925e82d33aa4d1bf-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les VALORANT Masters sont arrivés à Tokyo ! Apprenez en observant les pros du VCT tester de nouvelles stratégies sur scène alors qu'ils avancent vers les Champions."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de VALORANT.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.bltf24785969effe163.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "x6e5cvzkf14I5RCNbLoTfL",
       "publishDate": "2023-06-06T15:00:00.000Z"
@@ -6245,63 +6300,6 @@
     }
   },
   {
-    "title": "Changing the Game : Un documentaire du VCT",
-    "publishedAt": "2023-03-20T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=301Fct1FpmA"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ce5e0af9fbcc79d223a1aa10e70bc237bcc7a512-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "En novembre 2022, les huit meilleures équipes composées de femmes et de personnes de genre marginalisé se sont affrontées à Berlin en Allemagne pour obtenir le titre de champion du 1er VCT Game Changers."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de VALORANT.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt96e9c91cbeebe8db.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ugA9rRsA0FWcU8w2gwiyfW",
-      "publishDate": "2023-03-20T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Présentation du Championnat des Game Changers VCT23",
     "publishedAt": "2023-03-20T15:00:00.000Z",
     "promoCardSize": "medium",
@@ -6355,6 +6353,63 @@
       "contentId": "articles.bltdbc44c5f6f74ae89.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "a4mhqh9AqcuhVS2XlP35GS",
+      "publishDate": "2023-03-20T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Changing the Game : Un documentaire du VCT",
+    "publishedAt": "2023-03-20T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=301Fct1FpmA"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ce5e0af9fbcc79d223a1aa10e70bc237bcc7a512-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "En novembre 2022, les huit meilleures équipes composées de femmes et de personnes de genre marginalisé se sont affrontées à Berlin en Allemagne pour obtenir le titre de champion du 1er VCT Game Changers."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de VALORANT.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blt96e9c91cbeebe8db.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "ugA9rRsA0FWcU8w2gwiyfW",
       "publishDate": "2023-03-20T15:00:00.000Z"
     }
   },
@@ -7441,6 +7496,63 @@
     }
   },
   {
+    "title": "Découvrez les nouvelles ligues internationales VCT 2023 // Journal des développeurs - VALORANT Champions Tour",
+    "publishedAt": "2022-09-14T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=pgyvZItV4J4"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/81a1b2b3fbc2d576451199692049f2a9c9551188-1280x720.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Tout est prêt, et le VALORANT Champions Tour 2023 approche. Voici toutes les infos sur les ligues internationales de l'an prochain et les autres actualités du VCT."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de VALORANT.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blt6de00ce0871edc7e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "a4mhqh9AqcuhVS2XlP1muW",
+      "publishDate": "2022-09-14T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du nouveau VCT | VALORANT Champions Tour 2023",
     "publishedAt": "2022-09-14T15:00:00.000Z",
     "promoCardSize": "medium",
@@ -7551,63 +7663,6 @@
       "contentId": "articles.bltd62f9fbe557240f5.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "a4mhqh9AqcuhVS2XlP35GS",
-      "publishDate": "2022-09-14T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Découvrez les nouvelles ligues internationales VCT 2023 // Journal des développeurs - VALORANT Champions Tour",
-    "publishedAt": "2022-09-14T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=pgyvZItV4J4"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/81a1b2b3fbc2d576451199692049f2a9c9551188-1280x720.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Tout est prêt, et le VALORANT Champions Tour 2023 approche. Voici toutes les infos sur les ligues internationales de l'an prochain et les autres actualités du VCT."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de VALORANT.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt6de00ce0871edc7e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "a4mhqh9AqcuhVS2XlP1muW",
       "publishDate": "2022-09-14T15:00:00.000Z"
     }
   },
@@ -10696,61 +10751,6 @@
     }
   },
   {
-    "title": "Présentation des Ignition Series de VALORANT",
-    "publishedAt": "2020-06-16T13:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/esports/presentation-de-la-serie-valorant-embrasement/"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5d4a08c01845acc949c5ec4e8c7787afba8c380e-1920x1080.jpg?accountingTag=VAL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La prochaine étape de l'e-sport de VALORANT"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de VALORANT.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt4bfe6c36743c4a0e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ugA9rRsA0FWcU8w2gwg714",
-      "publishDate": "2020-06-16T13:00:00.000Z"
-    }
-  },
-  {
     "title": "Ignition Series de VALORANT",
     "publishedAt": "2020-06-16T13:00:00.000Z",
     "action": {
@@ -10802,6 +10802,61 @@
       "contentId": "articles.bltff1bea6ce2f9987b.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "a4mhqh9AqcuhVS2XlP3wsP",
+      "publishDate": "2020-06-16T13:00:00.000Z"
+    }
+  },
+  {
+    "title": "Présentation des Ignition Series de VALORANT",
+    "publishedAt": "2020-06-16T13:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/esports/presentation-de-la-serie-valorant-embrasement/"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5d4a08c01845acc949c5ec4e8c7787afba8c380e-1920x1080.jpg?accountingTag=VAL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La prochaine étape de l'e-sport de VALORANT"
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de VALORANT.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blt4bfe6c36743c4a0e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "ugA9rRsA0FWcU8w2gwg714",
       "publishDate": "2020-06-16T13:00:00.000Z"
     }
   }
