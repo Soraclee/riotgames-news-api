@@ -1,5 +1,63 @@
 [
   {
+    "title": "Meilleures actions - Phase de groupes",
+    "publishedAt": "2026-03-21T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=PWVEeqc0-iQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bf7baaa74865895c9c7d0a7a23388d3f8a35f7b5-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Vous n'êtes pas prêts pour ça ! Admirez les meilleures équipes mener la charge des premiers matchs du First Stand 2026."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "d9843951-bde8-4dfc-841d-a23268f2fbe8.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "MsQNQ8m2MkdlwTH5pPGSwb",
+      "publishDate": "2026-03-21T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Lore & Legends : Tactician's Crown",
     "publishedAt": "2026-03-19T13:00:00.000Z",
     "promoCardSize": "small",
@@ -14028,66 +14086,6 @@
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOeSjg",
       "publishDate": "2023-07-14T14:00:00.000Z"
-    }
-  },
-  {
-    "title": "#LEC Summer 2023 Groups Opening Tease",
-    "publishedAt": "2023-07-13T14:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "oH8uAxuthw4",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=oH8uAxuthw4"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/32fbde527c9b3c84665c2fffd5e6f0b24d243639-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "The Summer Group Stage is finally ready to kick off. For many teams this is their last\nchance to prove themselves and be able to make it to the grand finals!"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blta668453738c97b29.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOY69e",
-      "publishDate": "2023-07-13T14:00:00.000Z"
     }
   }
 ]

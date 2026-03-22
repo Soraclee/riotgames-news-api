@@ -1,5 +1,63 @@
 [
   {
+    "title": "Top Plays - Group Stage",
+    "publishedAt": "2026-03-21T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=PWVEeqc0-iQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bf7baaa74865895c9c7d0a7a23388d3f8a35f7b5-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Strap in for takeoff: see the teams leading the charge in the first matches of First Stand ‘26."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "d9843951-bde8-4dfc-841d-a23268f2fbe8.en-us",
+      "contentLocale": "en-us",
+      "rev": "MsQNQ8m2MkdlwTH5pPGSwb",
+      "publishDate": "2026-03-21T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Lore & Legends: Tactician’s Crown",
     "publishedAt": "2026-03-19T13:00:00.000Z",
     "promoCardSize": "small",
@@ -9088,162 +9146,6 @@
     }
   },
   {
-    "title": "PROS w/ Zven, Jensen, CoreJJ, and Contractz | LCS",
-    "publishedAt": "2024-03-11T22:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "ZArAlzWrkkY",
-        "videoLengthInSeconds": 3423,
-        "url": "https://www.youtube.com/watch?v=ZArAlzWrkkY"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "zmyQoaCF",
-        "_type": "clientInternalLinkT2",
-        "t2Image": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-03-11T22:00:04Z",
-              "_id": "image-8cc8f7a3e3e79769a408dea2d1f8275fdf23a526-1920x1080-jpg",
-              "_rev": "bj3bB8YnDqsA6oxbMq0M24",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2025-03-31T22:25:46Z",
-              "assetId": "8cc8f7a3e3e79769a408dea2d1f8275fdf23a526",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "M6C?ZR^PH=005QE1-prt.8pI009u-=~q?H",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.7777777777777777,
-                  "height": 1080,
-                  "width": 1920
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#2e4a4b",
-                    "foreground": "#fff",
-                    "population": 3.52,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#197477",
-                    "foreground": "#fff",
-                    "population": 2.38,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#bf836b",
-                    "foreground": "#fff",
-                    "population": 4.41,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#d4ada0",
-                    "foreground": "#000",
-                    "population": 1.24,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#f1beb1",
-                    "foreground": "#000",
-                    "population": 1.72,
-                    "title": "#000"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#6ba8ab",
-                    "foreground": "#000",
-                    "population": 1.28,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#bf836b",
-                    "foreground": "#fff",
-                    "population": 4.41,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "Pros_Resized_Textless.jpg",
-              "path": "images/dsfx7636/news_live/8cc8f7a3e3e79769a408dea2d1f8275fdf23a526-1920x1080.jpg",
-              "sha1hash": "8cc8f7a3e3e79769a408dea2d1f8275fdf23a526",
-              "size": 404078,
-              "uploadId": "hRfUNDNDXtcZc4kWcbPhgGDkBSwCKDmP",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8cc8f7a3e3e79769a408dea2d1f8275fdf23a526-1920x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "t2Title": "PROS w/ Zven | LCS"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8cc8f7a3e3e79769a408dea2d1f8275fdf23a526-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Zven Rates the Best LCS Players with Jensen, CoreJJ, and Contractz | PROS"
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt8c245f3d5cc6f646.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOWpJk",
-      "publishDate": "2024-03-11T22:00:00.000Z"
-    }
-  },
-  {
     "title": "LCS Spring Playoffs Begin 3/14 at 1PM PT / 4PM ET!",
     "publishedAt": "2024-03-11T22:00:00.000Z",
     "promoCardSize": "small",
@@ -9493,6 +9395,162 @@
       "contentId": "articles.blt9260f4b85e5658ad.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
+      "publishDate": "2024-03-11T22:00:00.000Z"
+    }
+  },
+  {
+    "title": "PROS w/ Zven, Jensen, CoreJJ, and Contractz | LCS",
+    "publishedAt": "2024-03-11T22:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "ZArAlzWrkkY",
+        "videoLengthInSeconds": 3423,
+        "url": "https://www.youtube.com/watch?v=ZArAlzWrkkY"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "zmyQoaCF",
+        "_type": "clientInternalLinkT2",
+        "t2Image": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2024-03-11T22:00:04Z",
+              "_id": "image-8cc8f7a3e3e79769a408dea2d1f8275fdf23a526-1920x1080-jpg",
+              "_rev": "bj3bB8YnDqsA6oxbMq0M24",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2025-03-31T22:25:46Z",
+              "assetId": "8cc8f7a3e3e79769a408dea2d1f8275fdf23a526",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "M6C?ZR^PH=005QE1-prt.8pI009u-=~q?H",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 1080,
+                  "width": 1920
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#2e4a4b",
+                    "foreground": "#fff",
+                    "population": 3.52,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#197477",
+                    "foreground": "#fff",
+                    "population": 2.38,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#bf836b",
+                    "foreground": "#fff",
+                    "population": 4.41,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#d4ada0",
+                    "foreground": "#000",
+                    "population": 1.24,
+                    "title": "#fff"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#f1beb1",
+                    "foreground": "#000",
+                    "population": 1.72,
+                    "title": "#000"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#6ba8ab",
+                    "foreground": "#000",
+                    "population": 1.28,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#bf836b",
+                    "foreground": "#fff",
+                    "population": 4.41,
+                    "title": "#fff"
+                  }
+                }
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "Pros_Resized_Textless.jpg",
+              "path": "images/dsfx7636/news_live/8cc8f7a3e3e79769a408dea2d1f8275fdf23a526-1920x1080.jpg",
+              "sha1hash": "8cc8f7a3e3e79769a408dea2d1f8275fdf23a526",
+              "size": 404078,
+              "uploadId": "hRfUNDNDXtcZc4kWcbPhgGDkBSwCKDmP",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8cc8f7a3e3e79769a408dea2d1f8275fdf23a526-1920x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "t2Title": "PROS w/ Zven | LCS"
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8cc8f7a3e3e79769a408dea2d1f8275fdf23a526-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Zven Rates the Best LCS Players with Jensen, CoreJJ, and Contractz | PROS"
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blt8c245f3d5cc6f646.en-us",
+      "contentLocale": "en-us",
+      "rev": "iuvR1X3un5VQGa5MOOWpJk",
       "publishDate": "2024-03-11T22:00:00.000Z"
     }
   },
@@ -10112,82 +10170,6 @@
     }
   },
   {
-    "title": "LCS Jungler Tier Lists | The Dive",
-    "publishedAt": "2024-01-30T18:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "VDq7dOMpLIQ",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=VDq7dOMpLIQ"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "Ly4EK2rx",
-        "_type": "clientInternalLinkT1",
-        "hideCTAButton": false,
-        "t1CTA": "Watch Now",
-        "t1Description": "",
-        "t1Subtitle": "",
-        "t1Title": "The Dive is Back for week 3!"
-      },
-      {
-        "_key": "8PeymvlL",
-        "_type": "clientInternalLinkT2",
-        "t2Title": "The Dive is Back for week 3!"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9c414ab0c4e2d0d73c616f7b03b9db568a54e6e9-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Meteos, Azael, and Kobe talk LCS jungler tier lists and more on the latest episode of The Dive!"
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt6bf4a958da4b4994.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOTkp6",
-      "publishDate": "2024-01-30T18:00:00.000Z"
-    }
-  },
-  {
     "title": "The Dive is Back as Patch 14.2 Hits the LCS!",
     "publishedAt": "2024-01-30T18:00:00.000Z",
     "promoCardSize": "small",
@@ -10260,6 +10242,82 @@
       "contentId": "articles.bltfaec36687b7eafb0.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOeSjg",
+      "publishDate": "2024-01-30T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "LCS Jungler Tier Lists | The Dive",
+    "publishedAt": "2024-01-30T18:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "VDq7dOMpLIQ",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=VDq7dOMpLIQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "Ly4EK2rx",
+        "_type": "clientInternalLinkT1",
+        "hideCTAButton": false,
+        "t1CTA": "Watch Now",
+        "t1Description": "",
+        "t1Subtitle": "",
+        "t1Title": "The Dive is Back for week 3!"
+      },
+      {
+        "_key": "8PeymvlL",
+        "_type": "clientInternalLinkT2",
+        "t2Title": "The Dive is Back for week 3!"
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9c414ab0c4e2d0d73c616f7b03b9db568a54e6e9-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Meteos, Azael, and Kobe talk LCS jungler tier lists and more on the latest episode of The Dive!"
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blt6bf4a958da4b4994.en-us",
+      "contentLocale": "en-us",
+      "rev": "iuvR1X3un5VQGa5MOOTkp6",
       "publishDate": "2024-01-30T18:00:00.000Z"
     }
   },
@@ -13044,6 +13102,66 @@
     }
   },
   {
+    "title": "Worlds Pick’Em is back!",
+    "publishedAt": "2023-10-04T20:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "1ZJrpFbQ_Lk",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=1ZJrpFbQ_Lk"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a616b0c4aaa7d6b36df6c102d6bdd1564f9e560a-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Don’t miss your chance to score some free in-game rewards."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blt6df72954b3c4ab4a.en-us",
+      "contentLocale": "en-us",
+      "rev": "JrdCdTB43ZIe9jtTvrscU3",
+      "publishDate": "2023-10-04T20:00:00.000Z"
+    }
+  },
+  {
     "title": "NA Never Sleeps! #Worlds2023",
     "publishedAt": "2023-10-04T20:00:00.000Z",
     "promoCardSize": "small",
@@ -13302,66 +13420,6 @@
       "contentId": "articles.blt8c1e3ec394ed8593.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOWpJk",
-      "publishDate": "2023-10-04T20:00:00.000Z"
-    }
-  },
-  {
-    "title": "Worlds Pick’Em is back!",
-    "publishedAt": "2023-10-04T20:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "1ZJrpFbQ_Lk",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=1ZJrpFbQ_Lk"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a616b0c4aaa7d6b36df6c102d6bdd1564f9e560a-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Don’t miss your chance to score some free in-game rewards."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt6df72954b3c4ab4a.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvrscU3",
       "publishDate": "2023-10-04T20:00:00.000Z"
     }
   },
@@ -13812,77 +13870,6 @@
     }
   },
   {
-    "title": "Watch the 2023 LCS Summer Opening Ceremony",
-    "publishedAt": "2023-08-28T19:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "1xUAjLMzWQU",
-        "videoLengthInSeconds": 485,
-        "url": "https://www.youtube.com/watch?v=1xUAjLMzWQU"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "X4GUjtcd",
-        "_type": "clientInternalLinkT1",
-        "hideCTAButton": false,
-        "t1CTA": "Watch Now",
-        "t1Description": "",
-        "t1Subtitle": "",
-        "t1Title": ""
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ffdc1e2dc9a76930e3f39b2f3288ab160846af65-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Watch the 2023 LCS Summer Championship Opening Ceremony ft. Thutmose."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.bltadb14b7332e5be29.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
-      "publishDate": "2023-08-28T19:00:00.000Z"
-    }
-  },
-  {
     "title": "The Best LCS Players Battle Their Way to the Top",
     "publishedAt": "2023-08-28T19:00:00.000Z",
     "promoCardSize": "small",
@@ -13950,6 +13937,77 @@
       "contentId": "articles.bltbfc0bb56e1b4b2b8.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvs5YNt",
+      "publishDate": "2023-08-28T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "Watch the 2023 LCS Summer Opening Ceremony",
+    "publishedAt": "2023-08-28T19:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "1xUAjLMzWQU",
+        "videoLengthInSeconds": 485,
+        "url": "https://www.youtube.com/watch?v=1xUAjLMzWQU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "X4GUjtcd",
+        "_type": "clientInternalLinkT1",
+        "hideCTAButton": false,
+        "t1CTA": "Watch Now",
+        "t1Description": "",
+        "t1Subtitle": "",
+        "t1Title": ""
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ffdc1e2dc9a76930e3f39b2f3288ab160846af65-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Watch the 2023 LCS Summer Championship Opening Ceremony ft. Thutmose."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.bltadb14b7332e5be29.en-us",
+      "contentLocale": "en-us",
+      "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
       "publishDate": "2023-08-28T19:00:00.000Z"
     }
   },
@@ -15308,82 +15366,6 @@
     }
   },
   {
-    "title": "This or That, Presented by Verizon | Week 4",
-    "publishedAt": "2023-08-07T19:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "BsIzMHPR-FI",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=BsIzMHPR-FI"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "lkV6cxBA",
-        "_type": "clientInternalLinkT1",
-        "hideCTAButton": false,
-        "t1CTA": "Watch Now",
-        "t1Description": "",
-        "t1Subtitle": "This or That",
-        "t1Title": "This or That, From Verizon"
-      },
-      {
-        "_key": "amQquhtm",
-        "_type": "clientInternalLinkT2",
-        "t2Title": "This or That, From Verizon"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/21d948f4fcc1e2a049be11c2660086f67713a958-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Watch a new episode of This or That, Presented by Verizon! | LCS"
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blta83c425297f9b067.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOY69e",
-      "publishDate": "2023-08-07T19:00:00.000Z"
-    }
-  },
-  {
     "title": "LCS Playoffs Continue Thursday! | Week 3",
     "publishedAt": "2023-08-07T19:00:00.000Z",
     "promoCardSize": "small",
@@ -15460,6 +15442,82 @@
     }
   },
   {
+    "title": "This or That, Presented by Verizon | Week 4",
+    "publishedAt": "2023-08-07T19:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "BsIzMHPR-FI",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=BsIzMHPR-FI"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "lkV6cxBA",
+        "_type": "clientInternalLinkT1",
+        "hideCTAButton": false,
+        "t1CTA": "Watch Now",
+        "t1Description": "",
+        "t1Subtitle": "This or That",
+        "t1Title": "This or That, From Verizon"
+      },
+      {
+        "_key": "amQquhtm",
+        "_type": "clientInternalLinkT2",
+        "t2Title": "This or That, From Verizon"
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/21d948f4fcc1e2a049be11c2660086f67713a958-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Watch a new episode of This or That, Presented by Verizon! | LCS"
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blta83c425297f9b067.en-us",
+      "contentLocale": "en-us",
+      "rev": "iuvR1X3un5VQGa5MOOY69e",
+      "publishDate": "2023-08-07T19:00:00.000Z"
+    }
+  },
+  {
     "title": "Catching Up With Doublelift ft. APA",
     "publishedAt": "2023-08-05T19:00:00.000Z",
     "promoCardSize": "small",
@@ -15517,6 +15575,65 @@
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOIo26",
       "publishDate": "2023-08-05T19:00:00.000Z"
+    }
+  },
+  {
+    "title": "LCS 2023 Championship Primer",
+    "publishedAt": "2023-08-03T19:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://lolesports.com/article/everything-you-can-expect-in-new-jersey-at-the-lcs-championship-delivered-by-grubhub/blt238517078548ce46"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1855a6eb970021bd8ad78a3cfec2bea971ac2dd2-1920x1080.jpg?accountingTag=LoL",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Everything You Can Expect in New Jersey at the LCS Championship Delivered by Grubhub."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "articles.blt85d5ac597d432e51.en-us",
+      "contentLocale": "en-us",
+      "rev": "iuvR1X3un5VQGa5MOOVhs6",
+      "publishDate": "2023-08-03T19:00:00.000Z"
     }
   },
   {
@@ -15592,65 +15709,6 @@
       "contentId": "articles.blt00f81e54aaa8a1f8.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2023-08-03T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "LCS 2023 Championship Primer",
-    "publishedAt": "2023-08-03T19:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://lolesports.com/article/everything-you-can-expect-in-new-jersey-at-the-lcs-championship-delivered-by-grubhub/blt238517078548ce46"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1855a6eb970021bd8ad78a3cfec2bea971ac2dd2-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Everything You Can Expect in New Jersey at the LCS Championship Delivered by Grubhub."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt85d5ac597d432e51.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOVhs6",
       "publishDate": "2023-08-03T19:00:00.000Z"
     }
   },
@@ -15804,82 +15862,6 @@
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOVhs6",
       "publishDate": "2023-08-01T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "LCS Playoffs Continue Thursday!",
-    "publishedAt": "2023-07-31T19:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "mOIM3yMWT1c",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=mOIM3yMWT1c"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "V2kRdHfF",
-        "_type": "clientInternalLinkT1",
-        "hideCTAButton": false,
-        "t1CTA": "Watch Now",
-        "t1Description": "The 2023 Summer Playoffs continue Thursday, Aug 3rd at 2PM PT / 5PM ET!",
-        "t1Subtitle": "Watch at 2PM PT / 5PM ET",
-        "t1Title": "LCS Playoffs Continue Thursday!"
-      },
-      {
-        "_key": "FdSabLFM",
-        "_type": "clientInternalLinkT2",
-        "t2Title": "LCS Playoffs Continue Thursday!"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f169ea859fa040ec93a175444a46a536d7fca469-1920x1080.jpg?accountingTag=LoL",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "The 2023 Summer Playoffs continue Thursday, Aug 3rd with Dignitas taking on TSM at 2PM PT/5PM ET."
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blte943b6f21e2a5338.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOcsrw",
-      "publishDate": "2023-07-31T19:00:00.000Z"
     }
   }
 ]
