@@ -56,6 +56,62 @@
     }
   },
   {
+    "title": "Feuille de route des champions 2026",
+    "publishedAt": "2026-03-13T17:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/champion-roadmap-2026"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 486,
+        "width": 1080,
+        "aspectRatio": 2.2222222222222223
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a790f789a0cab83837f46edc31fe133364b34594-1080x486.jpg?accountingTag=WR",
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Un tout nouveau dossier d'enquête vient de tomber sur notre bureau, contenant des indices à propos de certains champions qui arriveront dans la Faille en 2026. Saurez-vous résoudre cette enquête ?"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "f8001f16-37b4-46f8-9fd7-f69f23fe2665.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "CMHiIZ6oXo9Bc22LIPAHLr",
+      "publishDate": "2026-03-13T17:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 7.0e de Wild Rift",
     "publishedAt": "2026-03-12T09:00:00.000Z",
     "promoCardSize": "medium",
@@ -11115,64 +11171,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgzMcV",
       "publishDate": "2022-08-26T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Présentation des skins Psychoguerriers et Sion massacreur",
-    "publishedAt": "2022-08-26T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "ACDKH1QXAHg",
-        "videoLengthInSeconds": 57,
-        "url": "https://www.youtube.com/watch?v=ACDKH1QXAHg"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/eb51127eebff229624e8388aa00a891277015cd7-1920x1080.jpg?accountingTag=WR",
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Vous êtes plutôt du genre force brute ou précision chirurgicale ? Sion massacreur, Samira psychoguerrière, Maître Yi psychoguerrier, Kayle psychoguerrière, et Zed psychoguerrier rejoignent la Faille !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltd2382060013bf1d4.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvh2fQj",
-      "publishDate": "2022-08-26T15:00:00.000Z"
     }
   }
 ]
