@@ -1,5 +1,176 @@
 [
   {
+    "title": "TFT Dev Drop Teaser",
+    "publishedAt": "2026-03-26T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "V18pKOq73Ts",
+        "videoLengthInSeconds": 92,
+        "url": "https://www.youtube.com/watch?v=V18pKOq73Ts"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "channelsConfiguration": [
+      {
+        "_key": "9d70f8e3c889",
+        "_type": "clientInternalLinkT1",
+        "backdropImage": {
+          "_type": "multimediaAsset",
+          "mediaType": "image",
+          "provider": "sanity",
+          "sanityImage": {
+            "_type": "image",
+            "asset": {
+              "_createdAt": "2026-03-25T16:48:28Z",
+              "_id": "image-feade3cb1a83f8bbc9b1adad700c66039a8ad61d-1600x1080-jpg",
+              "_rev": "0HgmXq5r0B26UJ0hse2thk",
+              "_type": "sanity.imageAsset",
+              "_updatedAt": "2026-03-25T16:48:28Z",
+              "assetId": "feade3cb1a83f8bbc9b1adad700c66039a8ad61d",
+              "extension": "jpg",
+              "metadata": {
+                "_type": "sanity.imageMetadata",
+                "blurHash": "V59%O~010Lu4~B00-:-;nOIA5RIp-9rYE%a#-o9GS~x]",
+                "dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "aspectRatio": 1.4814814814814814,
+                  "height": 1080,
+                  "width": 1600
+                },
+                "hasAlpha": false,
+                "isOpaque": true,
+                "palette": {
+                  "_type": "sanity.imagePalette",
+                  "darkMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#4c3f33",
+                    "foreground": "#fff",
+                    "population": 10.56,
+                    "title": "#fff"
+                  },
+                  "darkVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#67230b",
+                    "foreground": "#fff",
+                    "population": 0.23,
+                    "title": "#fff"
+                  },
+                  "dominant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#4c3f33",
+                    "foreground": "#fff",
+                    "population": 10.56,
+                    "title": "#fff"
+                  },
+                  "lightMuted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#dad9c9",
+                    "foreground": "#000",
+                    "population": 0.46,
+                    "title": "#000"
+                  },
+                  "lightVibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#ddbb9e",
+                    "foreground": "#000",
+                    "population": 0.05,
+                    "title": "#fff"
+                  },
+                  "muted": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#a37053",
+                    "foreground": "#fff",
+                    "population": 0.29,
+                    "title": "#fff"
+                  },
+                  "vibrant": {
+                    "_type": "sanity.imagePaletteSwatch",
+                    "background": "#9c431e",
+                    "foreground": "#fff",
+                    "population": 0.02,
+                    "title": "#fff"
+                  }
+                },
+                "thumbHash": "TBgKDYJUuWWQipZmd2dahTlw0wEV"
+              },
+              "mimeType": "image/jpeg",
+              "originalFilename": "TFT_S1726_Thumbnail_Client_DevDrop-Teaser-T1Decluttered_[1600x1080]_V001_SUMMONER.jpg",
+              "path": "images/dsfx7636/news_live/feade3cb1a83f8bbc9b1adad700c66039a8ad61d-1600x1080.jpg",
+              "sha1hash": "feade3cb1a83f8bbc9b1adad700c66039a8ad61d",
+              "size": 274066,
+              "uploadId": "IlVARQfPlcumMD9OH0IJYdwFZF9aH201",
+              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/feade3cb1a83f8bbc9b1adad700c66039a8ad61d-1600x1080.jpg",
+              "dataset": "news_live"
+            }
+          }
+        },
+        "hideCTAButton": true,
+        "t1VideoEmbed": {
+          "_type": "multimediaAsset",
+          "mediaType": "video",
+          "provider": "youtube",
+          "youtubeAsset": {
+            "_type": "videoYoutube",
+            "videoID": "V18pKOq73Ts"
+          }
+        }
+      }
+    ],
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d018d0eb6c574a0a0e84a0bd7f182e7304056d0f-1920x1080.jpg?accountingTag=TFT",
+      "colors": {
+        "primary": "#251B12",
+        "secondary": "#FFF0D6",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Who needs a Carousel when you can beseech the stars?"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of Teamfight Tactics.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "5f751fb0-d260-4ab1-9571-29433976d915.en-us",
+      "contentLocale": "en-us",
+      "rev": "MTwGXiNq8KCukLG9Ccybu4",
+      "publishDate": "2026-03-26T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Dev TFT: Lore & Legends Reviewed",
     "publishedAt": "2026-03-18T16:00:00.000Z",
     "promoCardSize": "medium",

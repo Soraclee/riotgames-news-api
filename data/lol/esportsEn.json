@@ -1,5 +1,68 @@
 [
   {
+    "title": "First Stand 2026: Tournament Recap",
+    "publishedAt": "2026-03-26T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=Lu_IbPWRZpU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c24a5a7f6086f6cf25834d2ec535625519fded52-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#231114",
+        "secondary": "#FFD6DC",
+        "label": "#080808"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The first champs of 2026 are here – watch how they charged to the top of First Stand."
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "bbe80613-4ed1-4938-8a5b-14f86b802d3e.en-us",
+      "contentLocale": "en-us",
+      "rev": "MTwGXiNq8KCukLG9Ccbzfi",
+      "publishDate": "2026-03-26T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Top Plays - FST Finals",
     "publishedAt": "2026-03-23T15:00:00.000Z",
     "promoCardSize": "medium",
@@ -16744,87 +16807,6 @@
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOIo26",
       "publishDate": "2023-08-05T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Are You Smarter Than an LCS Analyst? ft. EG",
-    "publishedAt": "2023-08-03T19:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "vObRmfR-V5g",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=vObRmfR-V5g"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "SWYPcFR1",
-        "_type": "clientInternalLinkT1",
-        "hideCTAButton": false,
-        "t1CTA": "Watch Now",
-        "t1Description": "",
-        "t1Subtitle": "Are You Smarter Than?",
-        "t1Title": "Are You Smarter Than?"
-      },
-      {
-        "_key": "yEk5hOmm",
-        "_type": "clientInternalLinkT2",
-        "t2Title": "Are You Smarter Than?"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/23d282afc99f85c480887b27d715614b2e6d09da-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#1D223A",
-        "secondary": "#F9E2DC",
-        "label": "#03050C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Jojopyun, Revenge, and Eyla  join the analysts for a brand new episode of Are You Smarter Than?"
-    },
-    "category": {
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt00f81e54aaa8a1f8.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2023-08-03T19:00:00.000Z"
     }
   }
 ]

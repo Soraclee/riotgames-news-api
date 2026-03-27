@@ -1,5 +1,68 @@
 [
   {
+    "title": "First Stand 2026 : Récap' du tournoi",
+    "publishedAt": "2026-03-26T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=Lu_IbPWRZpU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c24a5a7f6086f6cf25834d2ec535625519fded52-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#231114",
+        "secondary": "#FFD6DC",
+        "label": "#080808"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les premiers champions de l'année ont été sacrés : suivez leur parcours jusqu'à la victoire du First Stand."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "bbe80613-4ed1-4938-8a5b-14f86b802d3e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "MTwGXiNq8KCukLG9Ccbzfi",
+      "publishDate": "2026-03-26T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Roadtrips du printemps du LEC 2026",
     "publishedAt": "2026-03-24T14:00:00.000Z",
     "action": {
@@ -14964,82 +15027,6 @@
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOTkp6",
       "publishDate": "2023-07-27T10:00:00.000Z"
-    }
-  },
-  {
-    "title": "Fight for Playoffs! | Kia Mic Check | 2023 LEC Summer Week 5",
-    "publishedAt": "2023-07-26T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "XyAXcADdEh0",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=XyAXcADdEh0"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "WI91ck2y",
-        "_type": "clientInternalLinkT1",
-        "hideCTAButton": false,
-        "t1CTA": "",
-        "t1Description": "",
-        "t1Subtitle": "",
-        "t1Title": "Kia Mic Check | LEC Summer Week 5"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f1fd1b9f7e15d3c07ed14b28a329ec3fb9950b32-1280x720.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#3E1F22",
-        "secondary": "#F9DEDC",
-        "label": "#110406"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Check out all the best comms from Week 5 of the #LEC​​​​ Summer in this week's episode of Mic Check!"
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "articles.blt724054dc07a1d0d9.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvrscU3",
-      "publishDate": "2023-07-26T16:00:00.000Z"
     }
   }
 ]

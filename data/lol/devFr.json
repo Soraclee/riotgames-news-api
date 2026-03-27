@@ -1,5 +1,70 @@
 [
   {
+    "title": "Teaser Dev Drop TFT",
+    "publishedAt": "2026-03-26T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "k0CBYO6FW1c",
+        "videoLengthInSeconds": 92,
+        "url": "https://www.youtube.com/watch?v=k0CBYO6FW1c"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d018d0eb6c574a0a0e84a0bd7f182e7304056d0f-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#251B12",
+        "secondary": "#FFF0D6",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Pas besoin de carrousel quand on peut implorer les étoiles !"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "3decbe66-4eb3-4f7f-a479-a056efe7077a.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "gbuOUaB4qzSFiFyoNGJQmn",
+      "publishDate": "2026-03-26T16:00:00.000Z"
+    }
+  },
+  {
     "title": "/dev : Chat vocal d'équipe dans League",
     "publishedAt": "2026-03-13T18:00:00.000Z",
     "promoCardSize": "small",
@@ -14320,69 +14385,6 @@
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOap9E",
       "publishDate": "2021-09-20T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : Gestion des joueurs AFK",
-    "publishedAt": "2021-09-17T17:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-tackling-afks/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8da30f9204c72cb728e22e13cdc394f744901a89-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#2D4623",
-        "secondary": "#F3F9DC",
-        "label": "#0D1B07"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les nouveaux changements pour réduire la fréquence des joueurs AFK."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt137b1d89b1e02aa2.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvrZqnH",
-      "publishDate": "2021-09-17T17:00:00.000Z"
     }
   }
 ]

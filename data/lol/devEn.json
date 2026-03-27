@@ -1,5 +1,70 @@
 [
   {
+    "title": "TFT Dev Drop Teaser",
+    "publishedAt": "2026-03-26T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "V18pKOq73Ts",
+        "videoLengthInSeconds": 92,
+        "url": "https://www.youtube.com/watch?v=V18pKOq73Ts"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d018d0eb6c574a0a0e84a0bd7f182e7304056d0f-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#251B12",
+        "secondary": "#FFF0D6",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Who needs a Carousel when you can beseech the stars?"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "3decbe66-4eb3-4f7f-a479-a056efe7077a.en-us",
+      "contentLocale": "en-us",
+      "rev": "gbuOUaB4qzSFiFyoNGJQmn",
+      "publishDate": "2026-03-26T16:00:00.000Z"
+    }
+  },
+  {
     "title": "/dev: Team Voice in League",
     "publishedAt": "2026-03-13T18:00:00.000Z",
     "promoCardSize": "small",
@@ -14089,69 +14154,6 @@
       "contentLocale": "en-us",
       "rev": "4JtdF5NqmkvmgUeb12IlEN",
       "publishDate": "2021-11-24T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Quick Gameplay Thoughts 11/5",
-    "publishedAt": "2021-11-05T17:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/quick-gameplay-thoughts-11-5/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/87b2ddec4aebc9e2f0fc97a80803b65060d152d0-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#121725",
-        "secondary": "#DCEBF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Thoughts on Worlds 2021: MAKE/BREAK"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.bltbf9f04b6ccaf43cb.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvs5YNt",
-      "publishDate": "2021-11-05T17:00:00.000Z"
     }
   }
 ]
