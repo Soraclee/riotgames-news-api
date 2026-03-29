@@ -1,5 +1,70 @@
 [
   {
+    "title": "Dev drop TFT : SPACE GODS",
+    "publishedAt": "2026-03-28T17:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "-GJXR-fLYFQ",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=-GJXR-fLYFQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4ed6deb7fdb3d5e4d99ea364dfc70dddc63ae2c9-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1C0E19",
+        "secondary": "#E2FFD6",
+        "label": "#030303"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les dieux cosmiques nous honorent. Partez à la conquête des étoiles grâce à leur puissance divine."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "8f4d25fa-9a25-4e83-8973-d79e9644aaf6.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "V1883xptZj4PEWgMlBOIuX",
+      "publishDate": "2026-03-28T17:00:00.000Z"
+    }
+  },
+  {
     "title": "Teaser Dev Drop TFT",
     "publishedAt": "2026-03-26T16:00:00.000Z",
     "promoCardSize": "small",
@@ -14322,69 +14387,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvs1Ea7",
       "publishDate": "2021-09-24T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "NETTOYAGE DU CLIENT : Nous avons lancé la mise à jour du Chromium Embedded Framework (CEF)",
-    "publishedAt": "2021-09-20T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/client-cleanup-we-launched-the-updated-chromium-embedded-framework-cef/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f79352b47315a9c801772d3b15cb3627ed43c731-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#030506",
-        "secondary": "#D6FFEB",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Nous avons lancé notre nouvelle version du CEF, et les résultats sont prometteurs !"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.bltd8c8e59b5223ce7c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOap9E",
-      "publishDate": "2021-09-20T15:00:00.000Z"
     }
   }
 ]

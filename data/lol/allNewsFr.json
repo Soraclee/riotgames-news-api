@@ -1,5 +1,70 @@
 [
   {
+    "title": "Dev drop TFT : SPACE GODS",
+    "publishedAt": "2026-03-28T17:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "-GJXR-fLYFQ",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=-GJXR-fLYFQ"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4ed6deb7fdb3d5e4d99ea364dfc70dddc63ae2c9-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1C0E19",
+        "secondary": "#E2FFD6",
+        "label": "#030303"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les dieux cosmiques nous honorent. Partez à la conquête des étoiles grâce à leur puissance divine."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "8f4d25fa-9a25-4e83-8973-d79e9644aaf6.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "V1883xptZj4PEWgMlBOIuX",
+      "publishDate": "2026-03-28T17:00:00.000Z"
+    }
+  },
+  {
     "title": "Grands dieux ! | Cinématique du set Space Gods - Teamfight Tactics",
     "publishedAt": "2026-03-27T16:00:00.000Z",
     "promoCardSize": "medium",
@@ -12684,70 +12749,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
       "publishDate": "2025-08-04T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Fleurs timides | Présentation des champions chibis",
-    "publishedAt": "2025-08-04T13:00:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "ov6H8I3q86I",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=ov6H8I3q86I"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4b24d17f3ff5bc7fa76bea3a541ea9a226a5bcfe-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#B89765",
-        "secondary": "#333129",
-        "label": "#2B2317"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les timides Lillia chibi et Lillia fleur spirituelle chibi sont maintenant disponibles."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "a3590f3e-02dd-471d-8652-d14e55da791e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-08-04T13:00:00.000Z"
     }
   }
 ]

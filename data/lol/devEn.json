@@ -1,5 +1,70 @@
 [
   {
+    "title": "TFT Dev Drop: SPACE GODS",
+    "publishedAt": "2026-03-28T17:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "IOnfAHUDM10",
+        "videoLengthInSeconds": 837,
+        "url": "https://www.youtube.com/watch?v=IOnfAHUDM10"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4ed6deb7fdb3d5e4d99ea364dfc70dddc63ae2c9-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1C0E19",
+        "secondary": "#E2FFD6",
+        "label": "#030303"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The Space Gods have arrived! Earn their boon and take to the stars with their godly power."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "8f4d25fa-9a25-4e83-8973-d79e9644aaf6.en-us",
+      "contentLocale": "en-us",
+      "rev": "V1883xptZj4PEWgMlBOIuX",
+      "publishDate": "2026-03-28T17:00:00.000Z"
+    }
+  },
+  {
     "title": "TFT Dev Drop Teaser",
     "publishedAt": "2026-03-26T16:00:00.000Z",
     "promoCardSize": "small",
@@ -14089,71 +14154,6 @@
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrnvjF",
       "publishDate": "2021-12-03T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev diary: The Music of Arcane",
-    "publishedAt": "2021-11-24T16:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "cMzi3-2Nct0",
-        "videoLengthInSeconds": 238,
-        "url": "https://www.youtube.com/watch?v=cMzi3-2Nct0"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fea1ec29545f37a6f05d9a97075693ca4dc969ab-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#040202",
-        "secondary": "#FFE1D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "We sit down with Christian Linke and Toa Dunn to dive into the music of Arcane."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "articles.blt5b9d631a0dbf7dbf.en-us",
-      "contentLocale": "en-us",
-      "rev": "4JtdF5NqmkvmgUeb12IlEN",
-      "publishDate": "2021-11-24T16:00:00.000Z"
     }
   }
 ]
