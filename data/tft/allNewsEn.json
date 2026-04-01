@@ -1,5 +1,67 @@
 [
   {
+    "title": "Teamfight Tactics patch 16.8",
+    "publishedAt": "2026-03-31T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/teamfight-tactics-patch-16-8"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1916,
+        "width": 3233,
+        "aspectRatio": 1.6873695198329854
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/476a1f886402e3c55e77a759f0c9466ca6b58b07-3233x1916.jpg?accountingTag=TFT",
+      "colors": {
+        "primary": "#221611",
+        "secondary": "#D6FFE9",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "It’s our final patch before this set becomes the stuff of legend and lore… We’ve got buffs for carries that never carried (enough) and we’ve got lore-accurate adjustments for live, while Choncc’s Treasure is getting a lot more Chonncier."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "128148cd-b5a0-4abc-a77d-5f52c841675d.en-us",
+      "contentLocale": "en-us",
+      "rev": "2qBm3QVvxqbw2M8FMbYxPs",
+      "publishDate": "2026-03-31T18:00:00.000Z"
+    }
+  },
+  {
     "title": "TFT Set 17 Space Gods Overview",
     "publishedAt": "2026-03-30T16:00:00.000Z",
     "promoCardSize": "medium",
@@ -21331,176 +21393,6 @@
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
       "publishDate": "2025-02-04T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "Dev Double Up: Making Unbound and Chibi Tacticians",
-    "publishedAt": "2025-01-29T14:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "wvHbfxNcfgk",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=wvHbfxNcfgk"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "df5eea1bcafb",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2025-01-27T19:38:33Z",
-              "_id": "image-163bed15a759fbada0968ba03ebad45fe328c653-1600x1080-jpg",
-              "_rev": "MBs86ihGgxetNe5QoyOVPV",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2025-03-22T00:10:02Z",
-              "assetId": "163bed15a759fbada0968ba03ebad45fe328c653",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "V5CX=]x]={xt02_kEfv~M|Fv02M|I;xF.6?G$QBT%1s.",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#473c29",
-                    "foreground": "#fff",
-                    "population": 4.64,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#8b0d09",
-                    "foreground": "#fff",
-                    "population": 4.73,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#8b0d09",
-                    "foreground": "#fff",
-                    "population": 4.73,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#e1ccbb",
-                    "foreground": "#000",
-                    "population": 0.22,
-                    "title": "#000"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#e8c69e",
-                    "foreground": "#000",
-                    "population": 0.05,
-                    "title": "#000"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#9f7961",
-                    "foreground": "#fff",
-                    "population": 1.69,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#da4f24",
-                    "foreground": "#fff",
-                    "population": 0.55,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "TFT_LNY25_THUMB_DevDoubleUp_1600x1080.jpg",
-              "path": "images/dsfx7636/news/163bed15a759fbada0968ba03ebad45fe328c653-1600x1080.jpg",
-              "sha1hash": "163bed15a759fbada0968ba03ebad45fe328c653",
-              "size": 341093,
-              "uploadId": "T9ijmx1JqDALYk9tDoh49Hhd29gdaNCw",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/163bed15a759fbada0968ba03ebad45fe328c653-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "wvHbfxNcfgk"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/85acf9176afcffd41219d3bcaa84a79f1f97f29c-1920x1080.jpg?accountingTag=TFT",
-      "colors": {
-        "primary": "#281A14",
-        "secondary": "#F9EADC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "TFT devs in Singapore team up to show how they make Tacticians and celebrate the Year of the Snake."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of Teamfight Tactics.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "0ce49509-c3c6-4c53-a834-b1833ee6571c.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOH6iZq",
-      "publishDate": "2025-01-29T14:00:00.000Z"
     }
   }
 ]
