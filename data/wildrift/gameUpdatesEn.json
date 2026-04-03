@@ -1,5 +1,68 @@
 [
   {
+    "title": "K’Sante Champion Overview",
+    "publishedAt": "2026-04-03T02:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "NysLGGouizs",
+        "videoLengthInSeconds": 162,
+        "url": "https://www.youtube.com/watch?v=NysLGGouizs"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c68a20841657588722bf129d7593b3212eb6b097-1920x1080.jpg?accountingTag=WR",
+      "colors": {
+        "primary": "#0A070F",
+        "secondary": "#FFF8D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Leader in battle, or in government-who better to learn from than K’Sante, who takes on the Rift April 9th UTC. Get your leadership tutorial Nazumah-style here!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "74e810c1-4df2-49a8-9417-a9f83616db07.en-us",
+      "contentLocale": "en-us",
+      "rev": "CBOnzl0gEDUl3TLD2RosdF",
+      "publishDate": "2026-04-03T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Patch 7.1 Preview",
     "publishedAt": "2026-03-26T02:00:00.000Z",
     "action": {
@@ -12106,67 +12169,6 @@
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvgvuVn",
       "publishDate": "2022-10-27T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Wild Rift Patch Notes 3.4b",
-    "publishedAt": "2022-10-19T21:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/wild-rift-patch-notes-3-4b/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5d9d4f14a55a7276cf03d8e7e80025d64d3655d3-1920x1080.jpg?accountingTag=WR",
-      "colors": {
-        "primary": "#15222A",
-        "secondary": "#E2F9DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Vex makes her arrival, balance updates across the Rift, and it’s time to start your training arc—Welcome to Patch 3.4b!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt379bab9d2e35698f.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOI1QlO",
-      "publishDate": "2022-10-19T21:00:00.000Z"
     }
   }
 ]
