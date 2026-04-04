@@ -1906,69 +1906,6 @@
     }
   },
   {
-    "title": "/dev : Distribution du MMR par rang",
-    "publishedAt": "2026-03-02T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-mmr-to-rank-distribution"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/80c9c228854c13d77183cd3d168851f75ab36c08-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#1F1D0F",
-        "secondary": "#FFF4D6",
-        "label": "#050505"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Nos objectifs pour le mode Classé et les changements pour une progression équitable et compétitive."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "2af8b697-f6e3-435a-b5bc-153a7e373f5b.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "BaJZN9SZZSkebYlpgjc4aJ",
-      "publishDate": "2026-03-02T16:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev : Sanctions visant les propos injurieux dans le chat",
     "publishedAt": "2026-03-02T16:00:00.000Z",
     "promoCardSize": "small",
@@ -2032,14 +1969,13 @@
     }
   },
   {
-    "title": "Dev Update : mode classé, Shyvana et plus encore",
+    "title": "/dev : Distribution du MMR par rang",
     "publishedAt": "2026-03-02T16:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
-      "type": "youtube_video",
+      "type": "weblink",
       "payload": {
-        "youtubeId": "aNGw5PNtqfI",
-        "videoLengthInSeconds": 753,
-        "url": "https://www.youtube.com/watch?v=aNGw5PNtqfI"
+        "url": "/fr-fr/news/dev/dev-mmr-to-rank-distribution"
       }
     },
     "product": {
@@ -2067,21 +2003,21 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 720,
-        "width": 1280,
+        "height": 1080,
+        "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ba7b7a7e1dd25609f565e69f0c95f59d0cdcaef3-1280x720.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/80c9c228854c13d77183cd3d168851f75ab36c08-1920x1080.jpg?accountingTag=LoL",
       "colors": {
-        "primary": "#0E0807",
-        "secondary": "#D6F4FF",
-        "label": "#000000"
+        "primary": "#1F1D0F",
+        "secondary": "#FFF4D6",
+        "label": "#050505"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Pabro, Meddler, et Riot Memurr parlent du MMR, de la MVG de Shyvana, de l'ARAM du chaos, et plus !"
+      "body": "Nos objectifs pour le mode Classé et les changements pour une progression équitable et compétitive."
     },
     "category": {
       "title": "Dev",
@@ -2089,9 +2025,9 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "16a98685-7ca5-405d-9bda-8c019b36e164.fr-fr",
+      "contentId": "2af8b697-f6e3-435a-b5bc-153a7e373f5b.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "AIs9gdgup62b3c3Gcv9BXc",
+      "rev": "BaJZN9SZZSkebYlpgjc4aJ",
       "publishDate": "2026-03-02T16:00:00.000Z"
     }
   },
@@ -2217,6 +2153,70 @@
       "contentId": "1960dea6-50a1-4bdb-b43a-cea60875b26a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "QFzv4oxL6m2mXGk5LOiq5N",
+      "publishDate": "2026-03-02T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "Dev Update : mode classé, Shyvana et plus encore",
+    "publishedAt": "2026-03-02T16:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "aNGw5PNtqfI",
+        "videoLengthInSeconds": 753,
+        "url": "https://www.youtube.com/watch?v=aNGw5PNtqfI"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ba7b7a7e1dd25609f565e69f0c95f59d0cdcaef3-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0E0807",
+        "secondary": "#D6F4FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Pabro, Meddler, et Riot Memurr parlent du MMR, de la MVG de Shyvana, de l'ARAM du chaos, et plus !"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "16a98685-7ca5-405d-9bda-8c019b36e164.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "AIs9gdgup62b3c3Gcv9BXc",
       "publishDate": "2026-03-02T16:00:00.000Z"
     }
   },
@@ -3620,12 +3620,15 @@
     }
   },
   {
-    "title": "Résumé Dev Update Pour Demacia",
+    "title": "Dev Update : Pour Demacia",
     "publishedAt": "2026-01-08T16:00:00.000Z",
+    "promoCardSize": "small",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "url": "/fr-fr/news/dev/tldw-for-demacia-dev-update"
+        "youtubeId": "_rDC5Fz0cOs",
+        "videoLengthInSeconds": 0,
+        "url": "https://www.youtube.com/watch?v=_rDC5Fz0cOs"
       }
     },
     "product": {
@@ -3653,31 +3656,31 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 720,
-        "width": 1280,
+        "height": 1080,
+        "width": 1920,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ceb620e7c465f5dee4ab37f57ce71dda09d9f3fd-1280x720.png?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/eda5ddc71abf40ae7fbc1f5a533e2b530ee31e04-1920x1080.jpg?accountingTag=LoL",
       "colors": {
-        "primary": "#592D2D",
-        "secondary": "#F9DFDC",
-        "label": "#320C0C"
+        "primary": "#111522",
+        "secondary": "#D6E8FF",
+        "label": "#070707"
       },
-      "mimeType": "image/png"
+      "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
+      "body": "Pabro et Meddler parlent de la saison 1 de 2026 : Shyvana, prise en otage du salon et plus encore."
     },
     "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
     },
     "analytics": {
-      "contentId": "2bdf0e93-ef0c-4e6d-a294-d3537c770938.fr-fr",
+      "contentId": "8d2425ae-b798-46d4-bfc4-6a1ad7779bd3.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "di517VvjZIMNWDTW6j8h6N",
+      "rev": "wcF0J7hsRskGUKiR1SqSsX",
       "publishDate": "2026-01-08T16:00:00.000Z"
     }
   },
@@ -3745,15 +3748,12 @@
     }
   },
   {
-    "title": "Dev Update : Pour Demacia",
+    "title": "Résumé Dev Update Pour Demacia",
     "publishedAt": "2026-01-08T16:00:00.000Z",
-    "promoCardSize": "small",
     "action": {
-      "type": "youtube_video",
+      "type": "weblink",
       "payload": {
-        "youtubeId": "_rDC5Fz0cOs",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=_rDC5Fz0cOs"
+        "url": "/fr-fr/news/dev/tldw-for-demacia-dev-update"
       }
     },
     "product": {
@@ -3781,31 +3781,31 @@
       "provider": "sanity",
       "type": "image",
       "dimensions": {
-        "height": 1080,
-        "width": 1920,
+        "height": 720,
+        "width": 1280,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/eda5ddc71abf40ae7fbc1f5a533e2b530ee31e04-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ceb620e7c465f5dee4ab37f57ce71dda09d9f3fd-1280x720.png?accountingTag=LoL",
       "colors": {
-        "primary": "#111522",
-        "secondary": "#D6E8FF",
-        "label": "#070707"
+        "primary": "#592D2D",
+        "secondary": "#F9DFDC",
+        "label": "#320C0C"
       },
-      "mimeType": "image/jpeg"
+      "mimeType": "image/png"
     },
     "description": {
       "type": "html",
-      "body": "Pabro et Meddler parlent de la saison 1 de 2026 : Shyvana, prise en otage du salon et plus encore."
+      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
     },
     "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
     },
     "analytics": {
-      "contentId": "8d2425ae-b798-46d4-bfc4-6a1ad7779bd3.fr-fr",
+      "contentId": "2bdf0e93-ef0c-4e6d-a294-d3537c770938.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1SqSsX",
+      "rev": "di517VvjZIMNWDTW6j8h6N",
       "publishDate": "2026-01-08T16:00:00.000Z"
     }
   },
@@ -4963,6 +4963,132 @@
     }
   },
   {
+    "title": "/dev : Accélération de Partie accélérée",
+    "publishedAt": "2025-12-01T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-a-swifter-swiftplay"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ddc3d513813255709e804d6ec251642dbc4c5d16-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1F2211",
+        "secondary": "#F9F3DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "On passe à la vitesse supérieure l'an prochain."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "add3f32f-df34-4a31-a9ca-a04a82f8a441.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOOGLtW",
+      "publishDate": "2025-12-01T16:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev : mode classé 2026",
+    "publishedAt": "2025-12-01T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-ranked-2026"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/103cb09220c1bce460351a268c4be16bcf1ea28a-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#5C2E4D",
+        "secondary": "#F9EDDC",
+        "label": "#350D29"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les changements apportés au mode compétitif pour la nouvelle année."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "81efe8d0-fbbe-4e56-abd3-bc0c3e9da068.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
+      "publishDate": "2025-12-01T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Dev Update S1 2026 : thématique, gameplay et plus",
     "publishedAt": "2025-12-01T16:00:00.000Z",
     "action": {
@@ -5145,132 +5271,6 @@
       "contentId": "cc7aea20-8366-4155-85a6-d9641df870a7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-12-01T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : Accélération de Partie accélérée",
-    "publishedAt": "2025-12-01T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-a-swifter-swiftplay"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ddc3d513813255709e804d6ec251642dbc4c5d16-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#1F2211",
-        "secondary": "#F9F3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "On passe à la vitesse supérieure l'an prochain."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "add3f32f-df34-4a31-a9ca-a04a82f8a441.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2025-12-01T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : mode classé 2026",
-    "publishedAt": "2025-12-01T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-ranked-2026"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/103cb09220c1bce460351a268c4be16bcf1ea28a-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#5C2E4D",
-        "secondary": "#F9EDDC",
-        "label": "#350D29"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les changements apportés au mode compétitif pour la nouvelle année."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "81efe8d0-fbbe-4e56-abd3-bc0c3e9da068.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
       "publishDate": "2025-12-01T16:00:00.000Z"
     }
   },
@@ -7391,6 +7391,69 @@
     }
   },
   {
+    "title": "Meilleures actions - Phase finale",
+    "publishedAt": "2025-11-04T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=w0-uua72aig"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c8b5f03b26949d98805d9b082505893b60bc660d-1280x720.png?accountingTag=LoL",
+      "colors": {
+        "primary": "#102121",
+        "secondary": "#FFD6D6",
+        "label": "#070707"
+      },
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Voilà à quoi ressemble le top de League of Legends. Retrouvez ici tous les temps forts de la deuxième étape des Worlds 2025."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "article.c90667dd-b417-4b93-ad8a-70d86a80a9b1.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOOGLtW",
+      "publishDate": "2025-11-04T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Bande-annonce de la cérémonie d'ouverture de la finale des Worlds 2025",
     "publishedAt": "2025-11-04T16:00:00.000Z",
     "promoCardSize": "small",
@@ -7513,69 +7576,6 @@
       "contentId": "bf5ebc10-767f-4516-8ca5-cb93f8bc6bf8.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "lrTRBQClIW75S5I9TAinmE",
-      "publishDate": "2025-11-04T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Meilleures actions - Phase finale",
-    "publishedAt": "2025-11-04T16:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=w0-uua72aig"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c8b5f03b26949d98805d9b082505893b60bc660d-1280x720.png?accountingTag=LoL",
-      "colors": {
-        "primary": "#102121",
-        "secondary": "#FFD6D6",
-        "label": "#070707"
-      },
-      "mimeType": "image/png"
-    },
-    "description": {
-      "type": "html",
-      "body": "Voilà à quoi ressemble le top de League of Legends. Retrouvez ici tous les temps forts de la deuxième étape des Worlds 2025."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "article.c90667dd-b417-4b93-ad8a-70d86a80a9b1.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOGLtW",
       "publishDate": "2025-11-04T16:00:00.000Z"
     }
   },
@@ -8534,70 +8534,6 @@
     }
   },
   {
-    "title": "Meilleures actions - Play-ins & phase à système suisse / Partie 1",
-    "publishedAt": "2025-10-21T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=ZsIo_Df7IrA"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d840c71387b9f67cddcdeb32a49094b1b144ddb1-1280x720.png?accountingTag=LoL",
-      "colors": {
-        "primary": "#1E160F",
-        "secondary": "#F9E8DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/png"
-    },
-    "description": {
-      "type": "html",
-      "body": "Sortir le grand jeu et dicter le tempo - Découvrez les meilleures actions de la première étape des Worlds 2025."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "c7e05c30-39f5-451a-a626-80ff70405904.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "vOtRji7u8I2gnUJkYBvi0L",
-      "publishDate": "2025-10-21T15:00:00.000Z"
-    }
-  },
-  {
     "title": "Jouez comme un pro : l'art de Xin Zhao",
     "publishedAt": "2025-10-21T15:00:00.000Z",
     "promoCardSize": "small",
@@ -8659,6 +8595,70 @@
       "contentId": "06e193b0-c63a-40ee-9a29-1ab8cd25f3c4.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
+      "publishDate": "2025-10-21T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Meilleures actions - Play-ins & phase à système suisse / Partie 1",
+    "publishedAt": "2025-10-21T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=ZsIo_Df7IrA"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d840c71387b9f67cddcdeb32a49094b1b144ddb1-1280x720.png?accountingTag=LoL",
+      "colors": {
+        "primary": "#1E160F",
+        "secondary": "#F9E8DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/png"
+    },
+    "description": {
+      "type": "html",
+      "body": "Sortir le grand jeu et dicter le tempo - Découvrez les meilleures actions de la première étape des Worlds 2025."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "c7e05c30-39f5-451a-a626-80ff70405904.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "vOtRji7u8I2gnUJkYBvi0L",
       "publishDate": "2025-10-21T15:00:00.000Z"
     }
   },
@@ -9561,6 +9561,134 @@
     }
   },
   {
+    "title": "Dev Update : ARAM du chaos, smurfs et plus",
+    "publishedAt": "2025-10-06T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "PsYnBJjiQUU",
+        "videoLengthInSeconds": 582,
+        "url": "https://www.youtube.com/watch?v=PsYnBJjiQUU"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/894b664bbf33edd415ca6d5bb2a999edb95314a0-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1B150E",
+        "secondary": "#F9EBDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les développeurs parlent du mode ARAM du chaos, de la lutte contre les smurfs, de l'anniversaire d'Arcane et des Worlds."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "7e36e712-4778-4146-a0f2-f8074f42ad39.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
+      "publishDate": "2025-10-06T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev : Liaison des comptes et mode Streamer",
+    "publishedAt": "2025-10-06T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-account-linking-and-streamer-mode"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7fba93765eca5de97544a52515fe7f845793a408-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#101F1E",
+        "secondary": "#E8F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez la liaison des comptes et les nouveautés du mode Streamer !"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "a6858fda-32c3-4628-81c3-b19c31d64431.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOOEqyE",
+      "publishDate": "2025-10-06T15:00:00.000Z"
+    }
+  },
+  {
     "title": "FAQ sur les sanctions de compte",
     "publishedAt": "2025-10-06T15:00:00.000Z",
     "promoCardSize": "small",
@@ -9624,15 +9752,13 @@
     }
   },
   {
-    "title": "Dev Update : ARAM du chaos, smurfs et plus",
+    "title": "Résumé du Dev Update : ARAM du chaos, smurfs et +",
     "publishedAt": "2025-10-06T15:00:00.000Z",
     "promoCardSize": "small",
     "action": {
-      "type": "youtube_video",
+      "type": "weblink",
       "payload": {
-        "youtubeId": "PsYnBJjiQUU",
-        "videoLengthInSeconds": 582,
-        "url": "https://www.youtube.com/watch?v=PsYnBJjiQUU"
+        "url": "/fr-fr/news/dev/tldw-aram-mayhem-smurfing--more-dev-update"
       }
     },
     "product": {
@@ -9664,17 +9790,17 @@
         "width": 1280,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/894b664bbf33edd415ca6d5bb2a999edb95314a0-1280x720.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0b0b5ace846d7a1b21c0a890d5ef65f6c2f4fb72-1280x720.jpg?accountingTag=LoL",
       "colors": {
-        "primary": "#1B150E",
-        "secondary": "#F9EBDC",
-        "label": "#000000"
+        "primary": "#201610",
+        "secondary": "#FFE8D6",
+        "label": "#060606"
       },
       "mimeType": "image/jpeg"
     },
     "description": {
       "type": "html",
-      "body": "Les développeurs parlent du mode ARAM du chaos, de la lutte contre les smurfs, de l'anniversaire d'Arcane et des Worlds."
+      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
     },
     "category": {
       "title": "Dev",
@@ -9682,9 +9808,71 @@
       "machineName": "dev"
     },
     "analytics": {
-      "contentId": "7e36e712-4778-4146-a0f2-f8074f42ad39.fr-fr",
+      "contentId": "0aeb34aa-660d-41b1-bfaa-9cf7606cc551.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
+      "rev": "wcF0J7hsRskGUKiR1Sp6el",
+      "publishDate": "2025-10-06T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev : le chaos s'empare de l'ARAM",
+    "publishedAt": "2025-10-06T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-bringing-mayhem-to-aram"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 847,
+        "width": 1505,
+        "aspectRatio": 1.7768595041322315
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/64aced862fc2877fa99733d5d74c40a29c7f2b07-1505x847.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#121A24",
+        "secondary": "#DCE9F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'ARAM avec une pointe de chaos."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "b11006de-dcc3-4d9a-862c-4cad8c049180.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "JrdCdTB43ZIe9jtTvsDCvL",
       "publishDate": "2025-10-06T15:00:00.000Z"
     }
   },
@@ -9812,194 +10000,6 @@
       "contentId": "ff21be31-73f6-43c6-813a-38b73c6eab40.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvsGSNp",
-      "publishDate": "2025-10-06T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Résumé du Dev Update : ARAM du chaos, smurfs et +",
-    "publishedAt": "2025-10-06T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tldw-aram-mayhem-smurfing--more-dev-update"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0b0b5ace846d7a1b21c0a890d5ef65f6c2f4fb72-1280x720.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#201610",
-        "secondary": "#FFE8D6",
-        "label": "#060606"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "0aeb34aa-660d-41b1-bfaa-9cf7606cc551.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1Sp6el",
-      "publishDate": "2025-10-06T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : Liaison des comptes et mode Streamer",
-    "publishedAt": "2025-10-06T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-account-linking-and-streamer-mode"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7fba93765eca5de97544a52515fe7f845793a408-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#101F1E",
-        "secondary": "#E8F9DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez la liaison des comptes et les nouveautés du mode Streamer !"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "a6858fda-32c3-4628-81c3-b19c31d64431.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-10-06T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev : le chaos s'empare de l'ARAM",
-    "publishedAt": "2025-10-06T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-bringing-mayhem-to-aram"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 847,
-        "width": 1505,
-        "aspectRatio": 1.7768595041322315
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/64aced862fc2877fa99733d5d74c40a29c7f2b07-1505x847.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#121A24",
-        "secondary": "#DCE9F9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "L'ARAM avec une pointe de chaos."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "b11006de-dcc3-4d9a-862c-4cad8c049180.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvsDCvL",
       "publishDate": "2025-10-06T15:00:00.000Z"
     }
   },
@@ -12500,130 +12500,6 @@
     }
   },
   {
-    "title": "/dev : bannir les bots, les boosters et plus",
-    "publishedAt": "2025-08-11T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-banning-bots-boosters-and-more-in-2025"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/eccd363b965ba743b6ea575c823ca892cb435414-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#1F0F18",
-        "secondary": "#FFE6D6",
-        "label": "#050505"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le point sur nos efforts pour améliorer vos parties en 2025"
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "40b6382f-0c7a-4348-8c7f-607e93df3205.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-08-11T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Résumé du Dev Update : ZQSD, smurfs et plus",
-    "publishedAt": "2025-08-11T15:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tldw-wasd-smurfing-and-more-dev-update"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d7079e9cac7165dffc895425ba431abc81095d59-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#3E231F",
-        "secondary": "#F9E7DC",
-        "label": "#110604"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "467249fc-bb5a-44c7-a761-40e6b5773207.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-08-11T15:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev: Le retour des bots du chaos",
     "publishedAt": "2025-08-11T15:00:00.000Z",
     "action": {
@@ -12682,6 +12558,69 @@
       "contentId": "6c452a35-da9e-438b-ab2b-99afda5fbf09.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
+      "publishDate": "2025-08-11T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev : Jouer en ZQSD sera bientôt possible",
+    "publishedAt": "2025-08-11T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-wasd-controls-are-on-the-way"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2006f45e3b42d68daa80a83bd2f6c69dcc2ac9ba-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B88781",
+        "secondary": "#2A2933",
+        "label": "#422724"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Une nouvelle façon de jouer sera bientôt disponible dans League !"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "dab38214-fbe6-4fdf-a0ca-68ec4f36b0a1.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2025-08-11T15:00:00.000Z"
     }
   },
@@ -12747,6 +12686,68 @@
       "contentId": "e0783e87-5bbf-4eae-8d17-a28931918b16.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
+      "publishDate": "2025-08-11T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "/dev : bannir les bots, les boosters et plus",
+    "publishedAt": "2025-08-11T15:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-banning-bots-boosters-and-more-in-2025"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/eccd363b965ba743b6ea575c823ca892cb435414-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1F0F18",
+        "secondary": "#FFE6D6",
+        "label": "#050505"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le point sur nos efforts pour améliorer vos parties en 2025"
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "40b6382f-0c7a-4348-8c7f-607e93df3205.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "iuvR1X3un5VQGa5MOOBdHa",
       "publishDate": "2025-08-11T15:00:00.000Z"
     }
   }
