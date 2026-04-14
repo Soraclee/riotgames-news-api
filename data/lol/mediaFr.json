@@ -1,5 +1,70 @@
 [
   {
+    "title": "BO « Pour Demacia »",
+    "publishedAt": "2026-04-13T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "HAQmfp9f8rw",
+        "videoLengthInSeconds": 3235,
+        "url": "https://www.youtube.com/watch?v=HAQmfp9f8rw"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d48f0a06a38407fb9c5f61982ecbc6308c833fb-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#36311B",
+        "secondary": "#F9F4DC",
+        "label": "#080702"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'hymne de la plus brillante étoile de Runeterra."
+    },
+    "category": {
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "b17e2356-a6af-42df-90b4-d5b43892d08c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "pLfr9OmbVsOuqyMrhN0dyW",
+      "publishDate": "2026-04-13T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Grands dieux ! | Cinématique du set Space Gods - Teamfight Tactics",
     "publishedAt": "2026-03-27T16:00:00.000Z",
     "promoCardSize": "medium",
@@ -20418,180 +20483,6 @@
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
       "publishDate": "2021-07-01T10:44:04.000Z"
-    }
-  },
-  {
-    "title": "Le destin de Demacia",
-    "publishedAt": "2021-06-19T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "h8X5qzzIc9A",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=h8X5qzzIc9A"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "UdnrYa24",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-27T01:53:18Z",
-              "_id": "image-6a2e6e69974d401bb92134b9a91b36be0f352f62-1600x1080-jpg",
-              "_rev": "TveqPI7F4qA0WH6AaDeYWA",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-04-27T01:53:18Z",
-              "assetId": "6a2e6e69974d401bb92134b9a91b36be0f352f62",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "VD7L_eD5Q-kWMx.mMxn~RQRPMLtQo}RQfjMetQWBbvkC",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#244f48",
-                    "foreground": "#fff",
-                    "population": 6.41,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#046444",
-                    "foreground": "#fff",
-                    "population": 0,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#244f48",
-                    "foreground": "#fff",
-                    "population": 6.41,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#a6c9bf",
-                    "foreground": "#000",
-                    "population": 1.68,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#a4d9d6",
-                    "foreground": "#000",
-                    "population": 0.13,
-                    "title": "#000"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#549f94",
-                    "foreground": "#fff",
-                    "population": 1.21,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#389e8c",
-                    "foreground": "#fff",
-                    "population": 0.12,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "Sentinels_Ruined_Demacia_T1_01_Decluttered.jpg",
-              "path": "images/dsfx7636/news_live/6a2e6e69974d401bb92134b9a91b36be0f352f62-1600x1080.jpg",
-              "sha1hash": "6a2e6e69974d401bb92134b9a91b36be0f352f62",
-              "size": 1027276,
-              "uploadId": "5AzhyW00S70ZOqj1Hqpc1HfY9eKBIwX1",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6a2e6e69974d401bb92134b9a91b36be0f352f62-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1CTA": "REGARDER",
-        "t1Description": "",
-        "t1Subtitle": "Teaser d'événement",
-        "t1Title": "",
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "youtube",
-            "videoID": "https://www.youtube.com/watch?v=h8X5qzzIc9A"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 720,
-        "width": 1280,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4a972945a38e6ffb11e7eac04a08a2ba01abd81e-1280x720.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#122524",
-        "secondary": "#D6FFF7",
-        "label": "#0A0A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "La Ruine conquiert tout."
-    },
-    "category": {
-      "title": "Médias",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blte08329620e0ee04c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOObv0o",
-      "publishDate": "2021-06-19T15:00:00.000Z"
     }
   }
 ]

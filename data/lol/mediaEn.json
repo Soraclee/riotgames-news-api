@@ -1,5 +1,70 @@
 [
   {
+    "title": "For Demacia OST",
+    "publishedAt": "2026-04-13T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "aPf9EcHbWHE",
+        "videoLengthInSeconds": 3235,
+        "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d48f0a06a38407fb9c5f61982ecbc6308c833fb-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#36311B",
+        "secondary": "#F9F4DC",
+        "label": "#080702"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "The anthems of Runeterra’s brightest beacon."
+    },
+    "category": {
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "b17e2356-a6af-42df-90b4-d5b43892d08c.en-us",
+      "contentLocale": "en-us",
+      "rev": "pLfr9OmbVsOuqyMrhN0dyW",
+      "publishDate": "2026-04-13T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Have a Nice Deity! | SPACE GODS Set Cinematic – Teamfight Tactics",
     "publishedAt": "2026-03-27T16:00:00.000Z",
     "promoCardSize": "medium",
@@ -19349,70 +19414,6 @@
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOWpJk",
       "publishDate": "2020-12-12T17:30:00.000Z"
-    }
-  },
-  {
-    "title": "Rell Champion Theme",
-    "publishedAt": "2020-12-10T20:30:00.000Z",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "ETaX9DZBSEk",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=ETaX9DZBSEk"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/83051f97fb22488411c8dcab58d01ef1a0ea450a-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#251412",
-        "secondary": "#F9F0DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Listen to the official champion theme for Rell, the Iron Maiden."
-    },
-    "category": {
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.bltff7ebdae415d786d.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2020-12-10T20:30:00.000Z"
     }
   }
 ]
