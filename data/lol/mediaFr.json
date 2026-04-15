@@ -1,5 +1,86 @@
 [
   {
+    "title": "Bande-annonce acte I : Pandémonium",
+    "publishedAt": "2026-04-14T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "GarFFonyq5k",
+        "videoLengthInSeconds": 119,
+        "url": "https://www.youtube.com/watch?v=GarFFonyq5k"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/242bc170cd88fab259c0495ce0c7ad18962b5a5a-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#3E1F32",
+        "secondary": "#DCF9F9",
+        "label": "#11040C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/242bc170cd88fab259c0495ce0c7ad18962b5a5a-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#3E1F32",
+        "secondary": "#DCF9F9",
+        "label": "#11040C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'acte I sera disponible dans le patch 26.09."
+    },
+    "category": {
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "3f638ad4-b154-42bd-8f96-8de56c1801d3.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "v1PvD52ZtmMnV83XfNIuTq",
+      "publishDate": "2026-04-14T15:00:00.000Z"
+    }
+  },
+  {
     "title": "BO « Pour Demacia »",
     "publishedAt": "2026-04-13T15:00:00.000Z",
     "promoCardSize": "small",
@@ -33,6 +114,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d48f0a06a38407fb9c5f61982ecbc6308c833fb-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#36311B",
+        "secondary": "#F9F4DC",
+        "label": "#080702"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -113,6 +210,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2d98a823a1544162d352625fc934b705944db7d1-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2C2B56",
+        "secondary": "#F9E7DC",
+        "label": "#0D0C2E"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Entrez dans le royaume des dieux avec Space Gods ! Rendez hommage et soyez bénis par la puissance cosmique."
@@ -163,6 +276,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/22a04172f9f510f152bd887d495f7df8c8ac9e06-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#362345",
+        "secondary": "#F9E4DC",
+        "label": "#11061A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -243,6 +372,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e9466a93c6a67f8235c4b566f95dc686ac0f3172-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B89086",
+        "secondary": "#332B29",
+        "label": "#5D3B32"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Ne redoutez pas le feu qui vous habite. Domptez-le."
@@ -293,6 +438,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/971215bab3863c1a00b5789fc7fdb14c76a0312a-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2C1716",
+        "secondary": "#F9DCE3",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -371,6 +532,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/28df5bd9ff992fc12c0468fa6e2e79f1468d01de-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#A474B8",
+        "secondary": "#332932",
+        "label": "#4F315B"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Chut ! La Gardienne des étoiles se repose. Vous devriez en faire de même."
@@ -420,6 +597,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/517b2c208ed3a58ae49d46e35012e1f786d22dd5-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#312218",
+        "secondary": "#F9ECDC",
+        "label": "#020100"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -500,6 +693,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/af3f531d6980594b10e33ba01f3c2d9f09e6aba0-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#231213",
+        "secondary": "#F9E4DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Aiguisez votre esprit. Endurcissez votre corps. Chassez les déchus. Écoutez la musique officielle de Zaahen."
@@ -549,6 +758,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/801215b2a88e838d961c5d1ca6b9b4386ceff27e-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#532A4E",
+        "secondary": "#F0DCF9",
+        "label": "#2A0B26"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -628,6 +853,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1890172480bc21a5e978ce4924d2e00fb586c09b-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B8A9AF",
+        "secondary": "#292B33",
+        "label": "#623547"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Grandes, petites, entre les deux... chaque légende retentit dans la Convergence."
@@ -692,6 +933,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d3e6a7b3b28d4734b7aa41e4873a577b6fc39965-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0F0A07",
+        "secondary": "#FFEED6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Il y a des siècles de cela, Zaahen a fait un choix. Aujourd'hui, Xin Zhao doit faire le sien."
@@ -741,6 +998,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/15e9a2ef0e0759020ec01ae0b59c16e875286226-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B86C3D",
+        "secondary": "#33292B",
+        "label": "#16100C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -821,6 +1094,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c34e93deb99bb1ce8e3becc5020adf2e220cbb6b-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1A1830",
+        "secondary": "#E0DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Découvrez dès maintenant le clip animé de « Sacrifice » avec  G.E.M. (鄧紫棋) !"
@@ -870,6 +1159,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b7df2aeed9eeec3254874fd3c6a8eb071b17087d-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#493325",
+        "secondary": "#F9EDDC",
+        "label": "#1E1108"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -950,6 +1255,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/57679fa2d32bd90c061575cee0a67f352e65025b-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0F101E",
+        "secondary": "#E7DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Le son du triomphe retentit dans l'éternité. Découvrez l'hymne orchestral des Worlds 2025 !"
@@ -1015,6 +1336,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e2ea568b431bfe54ddfac674384f3d4692f1576b-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#46232C",
+        "secondary": "#F9E4DC",
+        "label": "#1B070C"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Un guerrier. Un gardien. Découvrez la nouvelle musique pour Xin Zhao, Sénéchal de Demacia."
@@ -1063,6 +1400,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 864,
+        "width": 1536,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/04abec4a98236384cbccf51655e2b9e841880c50-1536x864.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#030502",
+        "secondary": "#D9FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -1143,6 +1496,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/82a619c331c1cf79a206c3c82b7aca65e79212eb-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#643257",
+        "secondary": "#F9DCE1",
+        "label": "#3F1033"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Vous entendez ? Voilà le son de la victoire !"
@@ -1207,6 +1576,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6ffce34d849bb2b96b113f96cc88fbff87e3da0c-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#231C38",
+        "secondary": "#F9E4DC",
+        "label": "#04030A"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Oubliez tous vos soucis avec les musiques apaisantes du onsen Fleur spirituelle."
@@ -1256,6 +1641,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bfef8b36890da2b53cf6fc2ce77a7e7c64087314-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B88069",
+        "secondary": "#332929",
+        "label": "#624235"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -1336,6 +1737,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/409523f675937dc150415f401cb143533ef8b599-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2C2346",
+        "secondary": "#F9DCE8",
+        "label": "#0C071B"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "La chanson parfaite pour canaliser des siècles de magie spirituelle et la déchaîner sur vos ennemis."
@@ -1386,6 +1803,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7231178f210a94cdce0f7c6258851ee5edb81da3-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#AE9EB8",
+        "secondary": "#2C2933",
+        "label": "#573969"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -1466,6 +1899,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5ea3ad78742ccb7174c5691d5db24dd5e29a37ac-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#120F1E",
+        "secondary": "#E0D6FF",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Le bosquet s'anime lorsque sa Mère s'éveille."
@@ -1515,6 +1964,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d749e556f05c69b54a9d061544aba643e499384b-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#432622",
+        "secondary": "#F9E8DC",
+        "label": "#170806"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -1594,6 +2059,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3d2ee15078c7edcd51d0d686b27b8b2938b0f031-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B8A78F",
+        "secondary": "#332D29",
+        "label": "#453825"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Si vous provoquez un démon, assurez-vous d'avoir une bonne main. Découvrez la bande dessinée animée."
@@ -1643,6 +2124,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/92c7480b87a90f9f2c6e625d4ac7680e3b508d73-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#4D2C27",
+        "secondary": "#F9EFDC",
+        "label": "#230D09"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -1721,6 +2218,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9ec338c4514328eabca737c95d8789f84629b162-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B6A7B8",
+        "secondary": "#2D2933",
+        "label": "#824A89"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "OBTENEZ-LE MAINTENANT"
@@ -1769,6 +2282,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f7bcb24e4680a17c9322ffb8ff19f5b026e67e95-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#171122",
+        "secondary": "#F9DCDF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -1849,6 +2378,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/384c1b1f03c1056d6be00078d9a10bd8720cb65a-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1C130E",
+        "secondary": "#F9F3DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Longue vie au roi incontesté. Écoutez le nouvel hymne de Mordekaiser Sahn-Uzal."
@@ -1914,6 +2459,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/82f1894deb132e5724e1417afe0bd72d806e4842-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#6468B8",
+        "secondary": "#2B2933",
+        "label": "#242543"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Derrière chaque lumière, une ombre. Derrière chaque fin, un commencement."
@@ -1963,6 +2524,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a0f826d6c4ac6657d501446fccf8fa9a591a504f-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0D0706",
+        "secondary": "#FFE9D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -2043,6 +2620,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d09e052aac78d67307ddb2029c041c57fc7fb97c-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#221111",
+        "secondary": "#FFECD6",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Ne croyez pas tout ce que vous voyez. Écoutez la nouvelle musique de LeBlanc, Manipulatrice."
@@ -2093,6 +2686,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/20ca249ef19e0dcdddcd5a1d54f48067edfc4495-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1E2E3C",
+        "secondary": "#DCDCF9",
+        "label": "#040A0F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -2173,6 +2782,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/563c1ea5e57faa92138dfe8f5fbf115c0957c18e-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#292243",
+        "secondary": "#F9E2DC",
+        "label": "#0A0617"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "DERNIÈRE MINUTE : Janna miss météo chibi est partie dans une aventure houleuse !"
@@ -2237,6 +2862,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/310dfaabcadae6b87e6ab7da647470beb8053b6a-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#181D2F",
+        "secondary": "#DCF5F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Clip officiel de « Ma Meilleure Ennemie » de Stromae et Pomme tirée de la BO de la saison 2 d'Arcane"
@@ -2285,6 +2926,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e53af38cc0536dc7dc721e7ed432f622b11eb9b3-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#29162D",
+        "secondary": "#F9EADC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -2364,6 +3021,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a774ade68be00594351c8b0bfd01407fc7abaa40-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#161427",
+        "secondary": "#DCEFF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Un PROJET top secret est révélé."
@@ -2413,6 +3086,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/66070f9c6846af12921309bf0ee553588990c86e-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#262513",
+        "secondary": "#D6FFE0",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -2493,6 +3182,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/82a8694ffde5d91cc853ed86e3373427d9a203e3-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#341A1B",
+        "secondary": "#F9E9DC",
+        "label": "#050101"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Le son d'une certitude infaillible. Écoutez la nouvelle musique audacieuse de Mel, Reflet de l'âme."
@@ -2543,6 +3248,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6c9d15d8c981b126390082bfa15d81e17bdac68f-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0A050B",
+        "secondary": "#FFF9D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -2707,6 +3428,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/46e55b70c3d4033b2222cfb8d8115720c55935fb-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1F0F12",
+        "secondary": "#FFD6D6",
+        "label": "#050505"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -2902,6 +3639,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9dbd2ceaf71d7a81f23cc05772ea72fdbe6af789-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1D2D3A",
+        "secondary": "#F9F0DC",
+        "label": "#03080C"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Ce monde connaîtra la grandeur. Écoutez la musique officielle de Viktor, Héraut de l'arcane."
@@ -2952,6 +3705,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9db40ca7b9c9aedf173e65bc64bb75e8d36e9041-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#4B2926",
+        "secondary": "#F9E1DC",
+        "label": "#210B08"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -3032,6 +3801,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5ca9935f014d5477cd7ca5e6b8b5e6c41479270e-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2C1D3A",
+        "secondary": "#EFDCF9",
+        "label": "#08030C"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Réimaginez la série à succès et explorez la musique de la bande originale de TFT : Into the Arcane."
@@ -3082,6 +3867,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a34182655a20215c8fd6ad484c90704a02d40683-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#010100",
+        "secondary": "#F4FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -3162,6 +3963,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/be4724989c2e2cf7ce8d4c83bcc3c5ba8d3e3208-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B89C90",
+        "secondary": "#332D29",
+        "label": "#4E352A"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Il se passe quelque chose de vraiment très étrange dans la Convergence... Venez regarder la vidéo !"
@@ -3212,6 +4029,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1441,
+        "width": 2560,
+        "aspectRatio": 1.7765440666204024
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/640ac1698851dbb7428bb47dd2a9a075c3fed98e-2560x1441.png?accountingTag=LoL",
+      "colors": {
+        "primary": "#819DB8",
+        "secondary": "#2B2933",
+        "label": "#21303D"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -3404,6 +4237,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/80a534978df2098a5cc71afbd9cdd841bd795547-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B87E3D",
+        "secondary": "#332D29",
+        "label": "#201911"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -3622,6 +4471,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7d1f3b9692f198b77f8594ae56e19954fdfd8a1a-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#36241B",
+        "secondary": "#F9E9DC",
+        "label": "#080402"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Le progrès a un prix !"
@@ -3791,6 +4656,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 3240,
+        "width": 5760,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6896d03623a814e15f35c75ca4da2d0253231535-5760x3240.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1F2211",
+        "secondary": "#F9F3DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "En avant la musique ! Écoutez dès maintenant la musique officielle de Teemo, Éclaireur de Bandle."
@@ -3840,6 +4721,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/360737a76cff6a909308562eb83c71ce10a5a4e7-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#5A3C2D",
+        "secondary": "#F9EDDC",
+        "label": "#33190D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -4114,6 +5011,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/459757faf2cf680fb685343ddcbcec3828f8bab4-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0E0A07",
+        "secondary": "#FCFFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Il est grand temps de chambouler l'ordre du monde."
@@ -4179,6 +5092,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/cb325ef96192c5b71dbc84fb3277b44abab2dd1b-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#9881B8",
+        "secondary": "#2C2933",
+        "label": "#392A4E"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Trouvez l'harmonie dans le chaos avec la musique explosive de la Section Anima 2024."
@@ -4229,6 +5158,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6f64ee534dbddde3bd8b9e14fdef74c0fd917124-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#202740",
+        "secondary": "#F2DCF9",
+        "label": "#050814"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -4446,6 +5391,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7b578163dc353f95510e829c71426e9a9b26c640-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#4C2649",
+        "secondary": "#EDDCF9",
+        "label": "#220920"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Découvrez le monde à travers les yeux d'Aurora."
@@ -4496,6 +5457,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3f62aa10bf08608c0658a6d97ab8a30c7825d2ef-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#331A1D",
+        "secondary": "#F9ECDC",
+        "label": "#040101"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -4568,6 +5545,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8b7906d3a290c5cc6e9a28340c0f89de185d7cbc-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#10140A",
+        "secondary": "#E7FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -4762,6 +5755,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/ff3bf6e80c37a0b39326df30bc6b8d333d1ce8ee-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#633E32",
+        "secondary": "#F9F6DC",
+        "label": "#3E1B0F"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Qu'est-ce qui fait un yordle ? Découvrez-le dans ce RPG d'artisanat situé dans le monde de Bandle."
@@ -4827,6 +5836,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/02933d046c516855479c88ddce4177283942771c-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#472429",
+        "secondary": "#F9EDDC",
+        "label": "#1C070B"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Ressentez l'esprit du dragon vous transporter avec la musique officielle du Festival lunaire 2024."
@@ -4877,6 +5902,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/98e3b85bdcc7f425fa37ed7519d8c8d3a9f16f31-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#22182F",
+        "secondary": "#F9E3DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -5066,6 +6107,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/f71374cb11af310a00b59e90b74927a3a373d7fa-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#3F202C",
+        "secondary": "#F9E7DC",
+        "label": "#12050A"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Déployez vos ailes et envolez-vous avec la musique officielle de Smolder."
@@ -5136,6 +6193,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/6b19f38573cc8d1ec1762c26929984bf1c41a28a-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#070A0E",
+        "secondary": "#DDD6FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -5305,6 +6378,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fcfc485548e591cb4b921639e0a7d2bfdeffac42-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1A0F0D",
+        "secondary": "#EEDCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -5494,6 +6583,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2694fb25ad386916f3969b431afd18161892da39-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#795DB8",
+        "secondary": "#292A33",
+        "label": "#271F3A"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Peaxy vous emmène en Corée pour les Worlds 2023 et la quatrième victoire de T1 !! Ce vlog vous montre ses expériences, ses découvertes de la culture coréenne autour de League of Legends."
@@ -5544,6 +6649,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8a16211ecde91e3d43deec5c321df64aca13d60c-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0E0D1B",
+        "secondary": "#D6F8FF",
+        "label": "#020202"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -5733,6 +6854,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6e694e309f206c957a446f58091ef830e8180d2f-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#203B40",
+        "secondary": "#DCF9F7",
+        "label": "#051114"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Parfois, la chute est VRAIMENT brutale. Découvrez les coulisses du clip de PARANOIA de HEARTSTEEL."
@@ -5803,6 +6940,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bfa75e74bfb84163f65bf54a067cd1808efe9361-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#8167B8",
+        "secondary": "#312933",
+        "label": "#362B4F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -5893,6 +7046,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e17211cfd2cb7d7a6e086ee64cb1327a3483399b-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#170F1E",
+        "secondary": "#F9F4DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Regardez le clip musical de « PARANOIA » signé HEARTSTEEL Kayn, Ezreal, Sett, Yone, K'Santé et Aphelios."
@@ -5943,6 +7112,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f7f6ba51b420003034debaf6be266294b0170cca-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#334165",
+        "secondary": "#DCE0F9",
+        "label": "#101E40"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -6023,6 +7208,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bef56f1401f2e1289f308415d702ee95a861dac6-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#06080D",
+        "secondary": "#D6E3FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Écoutez la musique officielle de Jax, Maître d'armes."
@@ -6073,6 +7274,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 900,
+        "width": 1598,
+        "aspectRatio": 1.7755555555555556
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8c2ad3d93fe874f51c096ed5381accccbad00f65-1598x900.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0D0A15",
+        "secondary": "#FFD6EC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -6153,6 +7370,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/271d5ae6c33bd8bbf5cecbe801ebba3c933dc464-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1B100D",
+        "secondary": "#FFF1D6",
+        "label": "#020202"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Le Mondial 2023 débute le 10 octobre."
@@ -6218,6 +7451,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9743b5d2d686f065014c93dcf15c68349b45d82d-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1E0F16",
+        "secondary": "#FFD6DC",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Il patiente dans les profondeurs. Rejoignez Nami, Elise, Akali, Syndra et Nilah de l'assemblée et Mordekaiser Dieu ancien."
@@ -6268,6 +7517,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cb7cca10c0af0730b40fa38d5348907882b7e5d7-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#592D3F",
+        "secondary": "#F9DCE8",
+        "label": "#320C1C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -6551,6 +7816,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6262fe629964d7b15602d29717382babc244d9ec-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#110A08",
+        "secondary": "#FFD6E4",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Votre ventre gargouille ? Lâchez-vous grâce à ce Focus sur Briar."
@@ -6710,6 +7991,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d026bb6b19105fe88ede0fbfbffbc8b49886008b-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1E0F10",
+        "secondary": "#FFEBD6",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -6998,6 +8295,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/495c726a0a217c64a1fbb357dada2d4c1900499a-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#5D80B8",
+        "secondary": "#322933",
+        "label": "#1A2331"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Regardez la vidéo d'aperçu de Song of Nunu: A League of Legends Story."
@@ -7048,6 +8361,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/54091eb05562ee6d7a247e1775e671cec4a7a80e-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#253249",
+        "secondary": "#F9E6DC",
+        "label": "#08101E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -7120,6 +8449,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/851c2887fad3770e6158043c03376a35d5019a07-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#221113",
+        "secondary": "#FFF5D6",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -7314,6 +8659,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a70957556a30bb3b3cfaaaabab5d75255856544c-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#623831",
+        "secondary": "#F9ECDC",
+        "label": "#3C160F"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Dans le combat de toute une vie, il arrive parfois de tomber. Mais l'important est de se relever."
@@ -7364,6 +8725,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8190278717ec96d75dea16619b85d9078cb36d3d-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#251512",
+        "secondary": "#F9E5DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -7444,6 +8821,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 410,
+        "width": 728,
+        "aspectRatio": 1.775609756097561
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/da8654e422a5084c62f4e2ad1257536f682bd6a4-728x410.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#3D4724",
+        "secondary": "#F4F9DC",
+        "label": "#161C07"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Regardez le clip Le temps et l'espace de CONVERGENCE: A League of Legends Story."
@@ -7494,6 +8887,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1fb01fa2a120d39235f35d159721967588386867-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0C0609",
+        "secondary": "#D6F4FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -7575,6 +8984,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9579a1cb15581de388264dec57c150b354dc9e9a-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B80000",
+        "secondary": "#332C29",
+        "label": "#120A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -7947,6 +9372,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/afa25a4f5e6f0b0372f37402d422f85ddfad4670-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#181427",
+        "secondary": "#F3DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Regardez la bande-annonce de lancement de The Mageseeker: A League of Legends Story."
@@ -7997,6 +9438,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 2160,
+        "width": 3840,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0aa416c27d5d3f7210184f6148c8290a5fdfc5eb-3840x2160.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#342D1A",
+        "secondary": "#F9F3DC",
+        "label": "#050401"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -8076,6 +9533,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3a34895e2b443f30428680d9f4003cc56f7d3f07-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#090406",
+        "secondary": "#FFEED6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "La maison, c'est dans la chaleur du cœur."
@@ -8126,6 +9599,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d3e7c4a7d65512652213622a54077960c8d5eb34-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2A2715",
+        "secondary": "#F9EFDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -8315,6 +9804,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/92afb6674c495e9753fd12d3eb4bf00c42bc188f-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#121425",
+        "secondary": "#DCE7F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Tous les ans, nous nous unissons, à l'aube d'un nouveau commencement."
@@ -8380,6 +9885,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/519fbb2b87ac0f5303be3bd69cbca9e65a4a1a05-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#16222C",
+        "secondary": "#DCEDF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Baladez-vous à travers les paysages enneigés avec la musique officielle des skins Élus de l'hiver 2022."
@@ -8430,6 +9951,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/91fd3ecd7e37742bfc2e8097b1160ac0b5041a30-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B875A9",
+        "secondary": "#2C2933",
+        "label": "#47263F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -8594,6 +10131,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cf8fe368fbf43cecb946b18b71b325299e01872f-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0A0508",
+        "secondary": "#D6F9FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -8783,6 +10336,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/660ef58bca0201798a1a4b5f56f65510dc76bd23-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1C3638",
+        "secondary": "#DCEDF9",
+        "label": "#030A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Nouveau format, et nouveaux sommets de compétition pour l'e-sport TFT."
@@ -8868,6 +10437,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1440,
+        "width": 2560,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a415e66f5cb33ef7b45878ca3150e7ac1bbab993-2560x1440.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0E0F1B",
+        "secondary": "#DFDCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Le pouvoir de l'Aurore ne se maîtrise pas, c'est lui qui vous maîtrise. Écoutez le thème Empyréen."
@@ -8938,6 +10523,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1440,
+        "width": 2560,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0bc9ec3ad9c8e35fa491ac51b0beee50896b9d7b-2560x1440.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1C0E1D",
+        "secondary": "#DCE8F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -9127,6 +10728,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/affe2a9d951dd1e690ccb2266e5f9653d02085d8-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1D3A35",
+        "secondary": "#F9ECDC",
+        "label": "#030C0B"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Utilisez les synergies atypiques mais fabuleuses entre Séraphine et Graves."
@@ -9177,6 +10794,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/aa52526099e6079bca118217d224ee198fd10b9e-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#160B0B",
+        "secondary": "#FFE4D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -9253,6 +10886,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 813,
+        "width": 1445,
+        "aspectRatio": 1.7773677736777367
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a3babc394c097e0f897b1e59e9c7fe1d626b43d5-1445x813.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#603F30",
+        "secondary": "#F9F5DC",
+        "label": "#3A1C0F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -9442,6 +11091,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1db03e39adf637741a32fce5b9ae8823967c756a-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#6684B8",
+        "secondary": "#292E33",
+        "label": "#263246"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Plongez dans le Lagon et libérez toute sa puissance !"
@@ -9601,6 +11266,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b9fcade3e7d198eda5ed3e467e16874d394986fe-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#8743B8",
+        "secondary": "#2A2933",
+        "label": "#402B50"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -9780,6 +11461,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6c8ab9653e72b5e4dec6b68e23ef94c0fe5edaeb-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#59362D",
+        "secondary": "#E2F9DC",
+        "label": "#32140C"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Le clip officiel et l'hymne du Mondial 2022."
@@ -9829,6 +11526,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/43f308f0c9ce215ae03a19120ea64590e3244b5b-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#613138",
+        "secondary": "#F9E0DC",
+        "label": "#3B0F16"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -10018,6 +11731,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/009b30550be9d57b4f506967552cd98db8dba569-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#7787B8",
+        "secondary": "#2E2933",
+        "label": "#22293F"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Nouvelle année, nouveau voyage. Suivez Sett dans sa quête annuelle pour retrouver son père."
@@ -10068,6 +11797,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cddc554d154b760038a7298122346a06664bf816-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0D101B",
+        "secondary": "#FFDBD6",
+        "label": "#020202"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -10257,6 +12002,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1135,
+        "width": 1920,
+        "aspectRatio": 1.6916299559471366
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2ffc7de642c40fb9f669ed8caea292c4433c4e34-1920x1135.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#010102",
+        "secondary": "#D6F6FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Innovez avec Elise en carry avec une nouvelle compo de Murmures !"
@@ -10322,6 +12083,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b2dbf95f3463faa71d42b26fe65f245e241606b5-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#D6DEFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Des talents musicaux de renom, issus de tous les horizons, se mobilisent pour sonoriser le monde d'Arcane."
@@ -10372,6 +12149,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1895,
+        "width": 3375,
+        "aspectRatio": 1.7810026385224274
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/81c48c6bd2c34b95c9575121b24da3c907ce2acc-3375x1895.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFF1D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -10561,6 +12354,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ba36cc36ea58906c6b4bda6aff189bfc2df3a3b7-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#7988B8",
+        "secondary": "#292933",
+        "label": "#343F60"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Libérez la vraie puissance du dragon !"
@@ -10626,6 +12435,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d62c411af591f876f9608a6b7e7cc56dbb2213f1-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B85854",
+        "secondary": "#33292A",
+        "label": "#462726"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Grâce à votre soutien, les Gardiens ont encore plus brillé ! 💫 Merci aux créateurs 💕"
@@ -10676,6 +12501,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fac6c13a7735c853131c021d2f6e1eea4293f597-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#D6FFE6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -10865,6 +12706,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a8b92ea5ab66eb26f19a910b730d113ce2fd02c8-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#7F87B8",
+        "secondary": "#292B33",
+        "label": "#393F69"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Associez la puissance des Viftireurs avec celle des Combattants pour l'emporter !"
@@ -10930,6 +12787,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1809,
+        "aspectRatio": 1.675
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4835f3512afb4bd0f260cb928f02127aeceadcc6-1809x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2C1E16",
+        "secondary": "#F9F1DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Écoutez le thème officiel d'Udyr et allez voir les premières explorations de sa MVG."
@@ -10980,6 +12853,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2f8d67b9b9ebef5f5019e125149af5408b72a074-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0B1417",
+        "secondary": "#D6FFFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -11169,6 +13058,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/198f47121c6af5dc645756c613ef9c7770a64d14-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#040408",
+        "secondary": "#FFD6F1",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Découvrez avec nous les coulisses d'Arcane, du pitch initial à la touche finale. Regardez l'épisode 1 de la série, le 4 août 2022 !"
@@ -11343,6 +13248,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/74dccaf6014acf9a03e5bf30fe9787e2e47289b4-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#9A9BB8",
+        "secondary": "#33292C",
+        "label": "#383A68"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Ne sous-estimez pas cette petite canonnière et laissez-vous porter par Tristana !"
@@ -11393,6 +13314,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/804363e4a6ab3a1af039313ac28beb1b3905c15e-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#111A22",
+        "secondary": "#FFE7D6",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -11582,6 +13519,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/57ee994745c5f426e9303bc4601d461e649e4d76-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B89BAD",
+        "secondary": "#332A29",
+        "label": "#623551"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Ne laissez pas passer votre chance de gagner avec cette compo populaire et puissante !"
@@ -11647,6 +13600,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1acdab3b2d14f1f551e2800a92e045ba0d1ffc22-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2F2447",
+        "secondary": "#F9DCE5",
+        "label": "#0E071C"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Les Gardiens des étoiles brillent de mille feux, mais certains basculent dans les ténèbres."
@@ -11697,6 +13666,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/43b9cc68277b600dff666c25d8964b587621a302-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B391B8",
+        "secondary": "#2D2933",
+        "label": "#8D5095"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -11886,6 +13871,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a989903a5df4b89fe8d7eade09a576ca39cb4b95-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2B3A56",
+        "secondary": "#DCEAF9",
+        "label": "#0C182E"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "En savoir plus sur les Luminécailles et leur type unique !"
@@ -11951,6 +13952,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6dd22daa5adf0cb1a1736254994e23cf1497b2b2-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#7049B8",
+        "secondary": "#322933",
+        "label": "#1C1527"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Porter Robinson nous présente « Everything Goes On », l'hymne officiel de Gardiens des étoiles 2022."
@@ -12001,6 +14018,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/25ead4a755b7437aa70c1f5ea759c21e2da3734b-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B86198",
+        "secondary": "#2D2933",
+        "label": "#2A1723"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -12190,6 +14223,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1f4e67b6cccb502667fced4711e9cf241b021fde-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#417FB8",
+        "secondary": "#293033",
+        "label": "#253645"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Découvrez les nouveaux Mirages si fascinants !"
@@ -12255,6 +14304,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6bb5f7d36a9f2ecce99d0a30ff0d920aed7950ce-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#222A44",
+        "secondary": "#EDF9DC",
+        "label": "#060B18"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Écoutez la musique officielle de Nilah, la Joie incarnée."
@@ -12304,6 +14369,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9ea18ca15a2eaecfc5493ba4b3993b8aed340110-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2C1E3C",
+        "secondary": "#F9DCE8",
+        "label": "#09040F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -12395,6 +14476,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3b54c16061bf7a0bf6a1de7db4412f29e4d06b00-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2E4C5C",
+        "secondary": "#F9E6DC",
+        "label": "#0D2735"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Fiddlesticks remarque une nouvelle Gardienne des étoiles et cherche à la détourner de son devoir."
@@ -12445,6 +14542,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1ec3d2409f2f5267d4b479b859e2e86515920eb2-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#989BB8",
+        "secondary": "#292C33",
+        "label": "#272A48"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -12634,6 +14747,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f87191639a9a8510c1c52ca4e948cc47cadaf293-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2E5C3E",
+        "secondary": "#F8F9DC",
+        "label": "#0D351B"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Découvrez les bases de la nouvelle force de TFT !"
@@ -12684,6 +14813,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2dd78be02b1666905bb57f61f01ce98d42ed9fac-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#36264B",
+        "secondary": "#DCE5F9",
+        "label": "#130821"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -12873,6 +15018,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c865c990f72ca4787bfb4b457692492edf3c1d98-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#A27DB8",
+        "secondary": "#293332",
+        "label": "#362341"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Un jour nouveau va se lever."
@@ -13032,6 +15193,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/096af5118a7ff9a17de5f708e496d1ae3a5f822c-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#3D2E5B",
+        "secondary": "#EBDCF9",
+        "label": "#1A0D34"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -13221,6 +15398,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/825719383b48103cabf82e10ceb5e1feae13c5b5-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#120E1C",
+        "secondary": "#E9DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Laissez la Mer de lavande vous emporter."
@@ -13297,6 +15490,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/df65be34b3e0eb49f1d54342664f63bfde19fb7d-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#563264",
+        "secondary": "#F6DCF9",
+        "label": "#32103F"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "20 mai 2022, 21 h CEST. Première sur YouTube."
@@ -13358,6 +15567,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2b97294ba6b9f0dfe1091e2edbd5c4aa56c3a1f0-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#422A53",
+        "secondary": "#F4DCF9",
+        "label": "#1D0B2A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -13547,6 +15772,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/74a087abf84876485c505f12a2707f1a09032fa5-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#482431",
+        "secondary": "#F9E2DC",
+        "label": "#1D070F"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Saisissez une chance d'attaquer deux fois pour gagner plus ! Allez les Répétireurs !"
@@ -13706,6 +15947,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/77db8c7c2ee812a628cdfdd02b53b42570f2025b-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#5B3B2E",
+        "secondary": "#F9F1DC",
+        "label": "#34190D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -13895,6 +16152,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8b09b12cc3b707eed40227a11a89dc9691e1291f-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#090405",
+        "secondary": "#F1FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Utilisez la Baronne de la Chimie pour gagner davantage !"
@@ -14054,6 +16327,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5bdd2af36184d5054ac4f170c047d3bc50ec260f-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#150D1A",
+        "secondary": "#F7D6FF",
+        "label": "#010101"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -14234,6 +16523,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e75e576e67ae64010b21c2b0f27c5686fd2d9708-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#34241A",
+        "secondary": "#F9E2DC",
+        "label": "#050301"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Cinématique du Festival lunaire 2022"
@@ -14284,6 +16589,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/789d6495d30ebb178e54aaa7aadae901dc38da71-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#13261F",
+        "secondary": "#EFFFD6",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -14458,6 +16779,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 540,
+        "width": 960,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/478076aae3a9f294a21ead0e1dba439a8c69569b-960x540.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#4F272B",
+        "secondary": "#F9E5DC",
+        "label": "#26090C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -14652,6 +16989,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/c68f80a2212d3820066dd31a8fcb29eba585709f-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#377DB8",
+        "secondary": "#292D33",
+        "label": "#0C1216"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Une rencontre avec une force ancestrale déchaîne le pouvoir caché d'un jeune érudit."
@@ -14702,6 +17055,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6b406984e34607eafce1e338bcf2f3b393663db9-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#121925",
+        "secondary": "#F3DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -14782,6 +17151,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1e74a2cb6eb8ee6d3ce274b9e63baf9fa3325c40-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#301826",
+        "secondary": "#F9E6DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Attention, ça va dunker ! Darius roi du dunk est prêt à ravager le terrain, et la Faille. Regardez la bande-annonce dès maintenant."
@@ -14832,6 +17217,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a6384e62b63e0c1e164874c6115c310d49b6d7d1-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#281A34",
+        "secondary": "#F9DCEC",
+        "label": "#030105"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -15021,6 +17422,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 3021,
+        "width": 5120,
+        "aspectRatio": 1.6948030453492222
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c3426d2195349ed82096ad47a7273e274bdf128e-5120x3021.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#130D09",
+        "secondary": "#FFF6D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Gardez vos ennemis à distance et gagnez davantage !"
@@ -15180,6 +17597,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f6bd9e17d869816061cbe6db2d78d6ee0677c076-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#172E1F",
+        "secondary": "#F9F5DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -15369,6 +17802,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/709be7060b60cc757bf33b1d01a2c5816cd59119-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#8BA1B8",
+        "secondary": "#293133",
+        "label": "#415D79"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Vous découvrez League of Legends ? Nous allons vous aider à vous y retrouver dans le jargon courant grâce à la série Words of Legends ! Dans ce sixième épisode, nous allons discuter de l'effet boule de neige, alias « snowball »."
@@ -15518,6 +17967,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 2160,
+        "width": 4096,
+        "aspectRatio": 1.8962962962962964
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fa87263db36e3656f769bcad4fe8b49f068a01d4-4096x2160.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#141627",
+        "secondary": "#DCECF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -15707,6 +18172,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6a5e8d0000418e29101799585624d240e61e6969-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2B3757",
+        "secondary": "#DCE6F9",
+        "label": "#0C152F"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Notre nouvelle collection de musique respectueuse des créateurs."
@@ -15866,6 +18347,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 897,
+        "width": 1595,
+        "aspectRatio": 1.778149386845039
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d0bb55b32909478214b0b7087d05f1f743f72a03-1595x897.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0E101B",
+        "secondary": "#DCF0F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -16055,6 +18552,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7f83fec650e325c0100a7c1946895c369f6b183e-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B86757",
+        "secondary": "#292D33",
+        "label": "#422924"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Vous découvrez League of Legends ? Nous allons vous aider à vous y retrouver dans le jargon courant grâce à la série Words of Legends ! Dans ce cinquième épisode, nous allons discuter du « gank »."
@@ -16229,6 +18742,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/66e3254a735e3fcdc1a7be3a1658464f3663eca8-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#8DB89F",
+        "secondary": "#332933",
+        "label": "#3D7154"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Vous découvrez League of Legends ? Nous allons vous aider à vous y retrouver dans le jargon courant grâce à la série Words of Legends ! Dans ce quatrième épisode, nous allons discuter de la prise de risque, alias « overextending »."
@@ -16294,6 +18823,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5233fb6b7252213298be8407b59c6cd030c01051-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFE5D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Découvrez la dernière entrée des Archives du conseil."
@@ -16344,6 +18889,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8a92f4e95ede8208b995f3351f0f7ef844feb2ef-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#281C14",
+        "secondary": "#F9F4DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -16523,6 +19084,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1d358e19a9d9368de0f231a4383c07f17d768500-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#020304",
+        "secondary": "#FFEFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Regardez l’Acte 3 d’Arcane maintenant disponible sur Netflix."
@@ -16573,6 +19150,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8e1d7ada514be5c9148d19ac5614b03c5c9ef2aa-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFF0D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -16653,6 +19246,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/66415db08140399a1ad9be67cb30ec8bc251ce25-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#040302",
+        "secondary": "#FFF9D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Découvrez le casier de Vi dans les archives du conseil."
@@ -16703,6 +19312,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8b9d92f473690e488936456ad14280972adcfd8f-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#252613",
+        "secondary": "#F2F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -16783,6 +19408,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/45a1d6add84a102c5c155af1e92ebf5d81abb7af-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#192332",
+        "secondary": "#DCF9F4",
+        "label": "#010203"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "RiotX Arcane continue. Participez aux célébrations de la Fête du progrès avec des récompenses, des événements en jeu, et plus encore."
@@ -16832,6 +19473,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b397927ea7d6b20715e5db8253da114b56d3fd31-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1A352F",
+        "secondary": "#DCF9E0",
+        "label": "#020605"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -17011,6 +19668,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/de6f4f7516df3c49c5e9f32cfcf227e81eaab2d9-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1D182F",
+        "secondary": "#DCF9E7",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Regardez les trois premiers épisodes d’Arcane sur Netflix."
@@ -17060,6 +19733,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f42357fdcc385f975a19a396a2443bd83bffedeb-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#030306",
+        "secondary": "#FFE8D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -17140,6 +19829,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7f04aaadfbe3f7c34d65508a9ba2363ac3d716b7-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#E6D6FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Regardez la dernière bande-annonce d'Arcane, disponible sur Netflix le 7 novembre à 3h, heure française."
@@ -17205,6 +19910,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e4e237ad63b56b15825970d6562b965308fb8b53-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0F151E",
+        "secondary": "#FFDBD6",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Écoutez la chanson officielle de Caitlyn, Shérif de Piltover."
@@ -17255,6 +19976,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/af8a88d88ea090b6ccfce552e848f7e2397a69f3-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#211510",
+        "secondary": "#FFE9D6",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -17444,6 +20181,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b47a86bf8fe8e7f60807773a1fa63745d7383061-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#251412",
+        "secondary": "#D6F6FF",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Une des compositions les plus populaires et les plus puissantes. Hasagi !"
@@ -17509,6 +20262,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5cb252a8e096e144ca35df64b175563bbb8620ed-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#131224",
+        "secondary": "#E4DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Écoutez la musique officielle des skins Dracomanciens 2021."
@@ -17559,6 +20328,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f355d437bdda587e37ae5e281599a9f0b66902af-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B8A57F",
+        "secondary": "#292933",
+        "label": "#645536"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -17748,6 +20533,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5c919d6d2af2face004219214211d2d527a0a11c-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#111523",
+        "secondary": "#FFFAD6",
+        "label": "#080808"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Unités centrales simples et bon marché ? Pourquoi ne pas étudier cette composition ?"
@@ -17907,6 +20708,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/14a637c0b450e180f20849413336adc996d5fdeb-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#3D2E1E",
+        "secondary": "#F9F9DC",
+        "label": "#100A04"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -18096,6 +20913,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9243a986be63eba8b91d04bb9f5778f774483aae-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0D1A16",
+        "secondary": "#D6FFE1",
+        "label": "#010101"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Rôdeurs oubliés | Teamfight Tactics"
@@ -18181,6 +21014,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/16326a7df4030917e29c4ec3b18149cb64778a27-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#282A50",
+        "secondary": "#F9DCEC",
+        "label": "#0A0B27"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Le clip musical du Mondial 2021 est enfin là."
@@ -18231,6 +21080,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f1a49735f0bee4b60892cfea785cb0412d2ae48e-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#A5A9B8",
+        "secondary": "#292C33",
+        "label": "#354063"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -18420,6 +21285,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4349123a33ff7aa86a698d3a01e4aa275aa3620b-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0B0A15",
+        "secondary": "#F1D6FF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Toutes les légendes ont un commencement. Bienvenue dans le monde d'Arcane. Disponible sur Netflix le 7 novembre."
@@ -18469,6 +21350,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/62e02b6a8a7a7103083c09d330b5bde51f611ef1-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#453523",
+        "secondary": "#F9F5DC",
+        "label": "#1A1106"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -18534,6 +21431,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/aa1c7364dd65c59139fee6b42986c950c41a5beb-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#141C29",
+        "secondary": "#DCDEF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -18699,6 +21612,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/86573929f2f37000f593d9da0737568022b77a00-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B89A78",
+        "secondary": "#2C2933",
+        "label": "#362A1D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -18888,6 +21817,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/afe14a4465eeae376fb7d43f64709b94a1f729a9-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#081011",
+        "secondary": "#E3FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Grimpez le classement avec l'aide de Draaaaven !"
@@ -19062,6 +22007,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/defb618f27442168f64ff68141ca425d548c8af9-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#302850",
+        "secondary": "#F9DCDE",
+        "label": "#100A27"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Laissez les Chevaliers et Cuirassés vous mener vers la victoire !"
@@ -19119,6 +22080,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8fbdf1f0b5f7994f3397c2e9b3f4c0771c39dcce-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#23351A",
+        "secondary": "#F9EFDC",
+        "label": "#030602"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -19199,6 +22176,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/58ac0edb78dc80d36c7d044ba75c261926bac826-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0F1A1E",
+        "secondary": "#DCF4F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Apprenez-en davantage sur cette puissante composition et régnez sur l'ensemble de mi-parcours !"
@@ -19249,6 +22242,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d99b02f50f33be1bddac9ed56f75465fc3e2ee00-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#020204",
+        "secondary": "#F1FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -19329,6 +22338,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/30cc4fb4e8a707df4a39c179b22f9a4f13f0cb93-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#B28AB8",
+        "secondary": "#332931",
+        "label": "#673B6E"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Les objets des ombres nous quittent ! Découvrez toutes les nouveautés de la dernière mise à jour."
@@ -19379,6 +22404,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/923a11e30a90b7d335c44595ea40cbcdf1ac0cc4-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#16222D",
+        "secondary": "#DCEEF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -19470,6 +22511,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ddff4c3ba0bba5381f711f000d576284675c2067-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#101B21",
+        "secondary": "#DCF9E7",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Deux âmes liées par le destin. Une vie pour la liberté de l'autre."
@@ -19520,6 +22577,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fcb343efd28abf796dfd419c4f1e47acaac5a57d-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#33653F",
+        "secondary": "#DCF9F1",
+        "label": "#10401C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -19600,6 +22673,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4f5b1e748d8d5a1091c9df2a01d1af7a464eb792-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#AFA9B8",
+        "secondary": "#2D2933",
+        "label": "#3D2E55"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Légendes, Manifestations et artefacts : voici ce que vous avez raté dans le Chapitre II de l'Aube des Sentinelles."
@@ -19650,6 +22739,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a0abda721b3548bb83d6897ffc1cb74789303fdd-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#2F2418",
+        "secondary": "#F9EEDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -19730,6 +22835,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/068855d68c1ffdc77a1c68791868b3ad7656286b-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#0F1E1A",
+        "secondary": "#D6FFE0",
+        "label": "#040404"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Cette composition à la fois puissante et peu connue créera la surprise. À vous les victoires !"
@@ -19780,6 +22901,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/28a2ca42b0a56cb018fe813ab8e86a534db85782-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#ABB8A8",
+        "secondary": "#293233",
+        "label": "#406838"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -19860,6 +22997,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/baedbeab2446d8ed50e032ac53d720ba1e37e229-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1C2A38",
+        "secondary": "#DCE5F9",
+        "label": "#03060A"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Prenez l'avantage avec le style de jeu bien connu et satisfaisant des Assassins !"
@@ -19910,6 +23063,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/dbd360f1f66654948cbb94f2d31de2d6ad86b2b6-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#091013",
+        "secondary": "#D6FFE7",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -19986,6 +23155,22 @@
       }
     ],
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a1de0647c06974fe71fd3fee81caa1369c0a0048-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#201A35",
+        "secondary": "#F9E0DC",
+        "label": "#030206"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -20175,6 +23360,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9aeecbd7ee66fc012222908e4fed8e4347d3cd9e-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#101B20",
+        "secondary": "#D6FFF6",
+        "label": "#060606"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Voici notre guide pour rattraper l'histoire : tout ce qu'il faut savoir pour jouer à l'Aube des Sentinelles."
@@ -20224,6 +23425,22 @@
       }
     },
     "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1aefd3e582e540dab74138b3b748f8cf5513f6bf-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#6291B8",
+        "secondary": "#332933",
+        "label": "#3C586F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
       "provider": "sanity",
       "type": "image",
       "dimensions": {
@@ -20404,6 +23621,22 @@
       },
       "mimeType": "image/jpeg"
     },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e53748901de1ee166387c8d1afa769d75a8629ec-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#8B6DB8",
+        "secondary": "#2A2933",
+        "label": "#3B2C52"
+      },
+      "mimeType": "image/jpeg"
+    },
     "description": {
       "type": "html",
       "body": "Voici Sessions : Vi, une collection de musique gratuite pour les créateurs."
@@ -20418,71 +23651,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrZqnH",
       "publishDate": "2021-07-02T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Varus en carry | Conseils tactiques - Teamfight Tactics",
-    "publishedAt": "2021-07-01T10:44:04.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "TLmbqt4bico",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=TLmbqt4bico"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5f066c1340299721843f9129765a3ef207f39e15-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#B89875",
-        "secondary": "#332A29",
-        "label": "#3F3122"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les Rôdeurs Repentants sont à la mode cette semaine. Choisissez Varus et raflez quelques victoires !"
-    },
-    "category": {
-      "title": "Médias",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt204ab2bf589ffd75.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2021-07-01T10:44:04.000Z"
     }
   }
 ]
