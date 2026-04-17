@@ -316,6 +316,84 @@
     }
   },
   {
+    "title": "/dev: Leveling Up Arena",
+    "publishedAt": "2026-04-14T17:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-leveling-up-arena"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f919c87b96b0f72de811498af458079c8c488af7-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#371C28",
+        "secondary": "#F9EADC",
+        "label": "#090205"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f919c87b96b0f72de811498af458079c8c488af7-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#371C28",
+        "secondary": "#F9EADC",
+        "label": "#090205"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "A rundown of all the changes coming to Arena in Season 2."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "52700060-1519-4a66-8e08-6da4f2166097.en-us",
+      "contentLocale": "en-us",
+      "rev": "v1PvD52ZtmMnV83XfNL8gf",
+      "publishDate": "2026-04-14T17:00:00.000Z"
+    }
+  },
+  {
     "title": "Dev Update: Arena Updates & More",
     "publishedAt": "2026-04-14T17:00:00.000Z",
     "promoCardSize": "small",
@@ -392,85 +470,7 @@
     "analytics": {
       "contentId": "e0c135e1-fe2b-44ac-aa5a-35c31307ba7e.en-us",
       "contentLocale": "en-us",
-      "rev": "v1PvD52ZtmMnV83XfNL0u5",
-      "publishDate": "2026-04-14T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "/dev: Leveling Up Arena",
-    "publishedAt": "2026-04-14T17:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-leveling-up-arena"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f919c87b96b0f72de811498af458079c8c488af7-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#371C28",
-        "secondary": "#F9EADC",
-        "label": "#090205"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f919c87b96b0f72de811498af458079c8c488af7-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#371C28",
-        "secondary": "#F9EADC",
-        "label": "#090205"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A rundown of all the changes coming to Arena in Season 2."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "52700060-1519-4a66-8e08-6da4f2166097.en-us",
-      "contentLocale": "en-us",
-      "rev": "v1PvD52ZtmMnV83XfNL8gf",
+      "rev": "rdV3nyP359VYh3GlyHB8l7",
       "publishDate": "2026-04-14T17:00:00.000Z"
     }
   },
@@ -551,7 +551,7 @@
     "analytics": {
       "contentId": "3f638ad4-b154-42bd-8f96-8de56c1801d3.en-us",
       "contentLocale": "en-us",
-      "rev": "v1PvD52ZtmMnV83XfNIuTq",
+      "rev": "rdV3nyP359VYh3GlyHB8l7",
       "publishDate": "2026-04-14T15:00:00.000Z"
     }
   },
