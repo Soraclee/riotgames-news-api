@@ -1,5 +1,83 @@
 [
   {
+    "title": "2XKO x Red Bull Knockout",
+    "publishedAt": "2026-04-17T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/announcements/2xko-x-red-bull-knockout"
+      }
+    },
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5c5b0e01bb84f52e770cb08819b06291b4815a48-1920x1080.jpg?accountingTag=2XKO",
+      "colors": {
+        "primary": "#60303C",
+        "secondary": "#F9DCF9",
+        "label": "#3A0F19"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5c5b0e01bb84f52e770cb08819b06291b4815a48-1920x1080.jpg?accountingTag=2XKO",
+      "colors": {
+        "primary": "#60303C",
+        "secondary": "#F9DCF9",
+        "label": "#3A0F19"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Announcing the Red Bull Knockout: an international, duos-only 2XKO tournament on May 16."
+    },
+    "category": {
+      "title": "Announcements",
+      "description": "Used for general announcements for 2XKO.",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "4ca57405-429c-4550-a3be-56f9f2767f6a.en-us",
+      "contentLocale": "en-us",
+      "rev": "r763pNn1ecLx7gYcPwJk4i",
+      "publishDate": "2026-04-17T16:00:00.000Z"
+    }
+  },
+  {
     "title": "The Unwritten Rules of the 2XKO Lobby",
     "publishedAt": "2026-04-16T18:00:00.000Z",
     "promoCardSize": "medium",
@@ -1922,7 +2000,7 @@
     "analytics": {
       "contentId": "43965e81-9614-43dd-b4a2-8aca868a21c9.en-us",
       "contentLocale": "en-us",
-      "rev": "BE0qeb5cY36EvZUPRtw8rv",
+      "rev": "HiScNa7oshT02wnA9yjUkk",
       "publishDate": "2026-01-21T18:00:00.000Z"
     }
   },
