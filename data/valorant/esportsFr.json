@@ -1,84 +1,5 @@
 [
   {
-    "title": "Le nouveau VALORANT Champions Tour",
-    "publishedAt": "2026-04-08T13:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://valorantesports.com/fr-fr/news/the-new-valorant-champions-tour"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b334628e0ffedf8e0dbdebc4380a8aabb0cf9bc5-1920x1080.jpg?accountingTag=VAL",
-      "colors": {
-        "primary": "#1D0E10",
-        "secondary": "#F9DCDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b334628e0ffedf8e0dbdebc4380a8aabb0cf9bc5-1920x1080.jpg?accountingTag=VAL",
-      "colors": {
-        "primary": "#1D0E10",
-        "secondary": "#F9DCDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez aujourd’hui les premières nouveautés prévues pour VALORANT Esports en 2027."
-    },
-    "category": {
-      "title": "E-sport",
-      "description": "La scène professionnelle de VALORANT.",
-      "machineName": "esports"
-    },
-    "analytics": {
-      "contentId": "e546e286-98df-47a2-b163-b3866ad44604.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ODDrZQnKW2sWQVBroqWttJ",
-      "publishDate": "2026-04-08T13:00:00.000Z"
-    }
-  },
-  {
     "title": "Au VCT 2027, TOUT EST UN TOURNOI !",
     "publishedAt": "2026-04-08T13:00:00.000Z",
     "promoCardSize": "small",
@@ -156,6 +77,85 @@
       "contentId": "68e87e27-b2c9-4ccf-b744-cb1bd8bff139.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "ZkworHGUTPIkJvE7shpmkD",
+      "publishDate": "2026-04-08T13:00:00.000Z"
+    }
+  },
+  {
+    "title": "Le nouveau VALORANT Champions Tour",
+    "publishedAt": "2026-04-08T13:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/fr-fr/news/the-new-valorant-champions-tour"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b334628e0ffedf8e0dbdebc4380a8aabb0cf9bc5-1920x1080.jpg?accountingTag=VAL",
+      "colors": {
+        "primary": "#1D0E10",
+        "secondary": "#F9DCDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b334628e0ffedf8e0dbdebc4380a8aabb0cf9bc5-1920x1080.jpg?accountingTag=VAL",
+      "colors": {
+        "primary": "#1D0E10",
+        "secondary": "#F9DCDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez aujourd’hui les premières nouveautés prévues pour VALORANT Esports en 2027."
+    },
+    "category": {
+      "title": "E-sport",
+      "description": "La scène professionnelle de VALORANT.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "e546e286-98df-47a2-b163-b3866ad44604.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "ODDrZQnKW2sWQVBroqWttJ",
       "publishDate": "2026-04-08T13:00:00.000Z"
     }
   },
