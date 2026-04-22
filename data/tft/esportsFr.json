@@ -1313,7 +1313,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "t9_MVUEUENo",
-        "videoLengthInSeconds": 101,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=t9_MVUEUENo"
       }
     },
@@ -1484,6 +1484,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/21084c50e77eac32936a4edec277bd6947d13964.webm?accountingTag=TFT",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Ouvrez la danse ! Suivez le TFT Paris Open du 12 au 14 décembre."
@@ -1496,7 +1510,7 @@
     "analytics": {
       "contentId": "7e6adbfe-b0e7-4f87-8e07-19fcd9d0ad4c.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1Q3yL5",
+      "rev": "abDHz2fAvwwOn7ufixr7Tz",
       "publishDate": "2025-12-08T13:00:05.756Z"
     }
   },

@@ -7,7 +7,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "ltMKzJ-L158",
-        "videoLengthInSeconds": 119,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=ltMKzJ-L158"
       }
     },
@@ -64,6 +64,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/feb0ea9aa85744dd0b3e545d4e983540e4756882.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Act I launches on Patch 26.09."
@@ -76,7 +90,7 @@
     "analytics": {
       "contentId": "3f638ad4-b154-42bd-8f96-8de56c1801d3.en-us",
       "contentLocale": "en-us",
-      "rev": "AqAgcAhnUiJgJu3OmUS7UL",
+      "rev": "QEVRm1pZNxFN4JPIcZyDss",
       "publishDate": "2026-04-14T15:00:00.000Z"
     }
   },
@@ -331,7 +345,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "Xoq33mAQFlg",
-        "videoLengthInSeconds": 107,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=Xoq33mAQFlg"
       }
     },
@@ -388,6 +402,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/b19f50cde5a3b09191cc3aec4b89c7b4bb1a5155.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Do not fear the fire within. Master it."
@@ -400,7 +428,7 @@
     "analytics": {
       "contentId": "85585e7b-7698-410f-9b38-ce358ce52361.en-us",
       "contentLocale": "en-us",
-      "rev": "iEEp9S8kjxTtnaxrKp8B2f",
+      "rev": "QEVRm1pZNxFN4JPIcZyGfm",
       "publishDate": "2026-02-27T16:00:00.000Z"
     }
   },
@@ -412,7 +440,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "nVKZ3mRSQNQ",
-        "videoLengthInSeconds": 127,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=nVKZ3mRSQNQ"
       }
     },
@@ -469,6 +497,36 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/7f00b36c78d42cc18caff78a009796266506c868.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "thumbnail": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 720,
+          "width": 1280,
+          "aspectRatio": 1.7777777777777777
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/971215bab3863c1a00b5789fc7fdb14c76a0312a-1280x720.jpg?accountingTag=LoL",
+        "colors": {
+          "primary": "#2C1716",
+          "secondary": "#F9DCE3",
+          "label": "#000000"
+        },
+        "mimeType": "image/jpeg"
+      }
+    },
     "description": {
       "type": "html",
       "body": "A friendship rekindled with the first bloom of spring. The Lunar Revel begins in Patch 26.03."
@@ -481,7 +539,7 @@
     "analytics": {
       "contentId": "99a75ffa-a8f5-456c-93d0-a8c8d1d093a3.en-us",
       "contentLocale": "en-us",
-      "rev": "xZ26kqMDZVZsnPwzadJzeA",
+      "rev": "QEVRm1pZNxFN4JPIcZyLAU",
       "publishDate": "2026-02-04T02:00:00.000Z"
     }
   },
@@ -630,6 +688,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/e288b3d40502e534b51f9079e1082a8c0b6b5420.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "In the darkest hours, there is always a beacon of hope. Watch the 2026 Season One Cinematic now."
@@ -642,7 +714,7 @@
     "analytics": {
       "contentId": "3d1afa30-6bbb-4461-9980-59b7a4c673f3.en-us",
       "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOBdHa",
+      "rev": "abDHz2fAvwwOn7ufixqslA",
       "publishDate": "2026-01-07T16:00:00.000Z"
     }
   },
@@ -872,6 +944,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/e83a9788dcf4abaed1213ccdbe23293ab03174f5.mp4?accountingTag=LoL",
+          "type": "video/mp4"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Every moment has led to this."
@@ -884,7 +970,7 @@
     "analytics": {
       "contentId": "189503e8-29cc-40a1-9d60-3f9c3bb40127.en-us",
       "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1SpYah",
+      "rev": "abDHz2fAvwwOn7ufixqpe6",
       "publishDate": "2025-11-15T15:00:00.000Z"
     }
   },
@@ -975,7 +1061,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "bDMqoIq1kjo",
-        "videoLengthInSeconds": 280,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=bDMqoIq1kjo"
       }
     },
@@ -1032,6 +1118,36 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/2816eef883ce71c5a9a8720bcde2d1ac2147e631.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "thumbnail": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 720,
+          "width": 1280,
+          "aspectRatio": 1.7777777777777777
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0e84b8fac3fb06272479dc88773fa08c3eddfdea-1280x720.jpg?accountingTag=LoL",
+        "colors": {
+          "primary": "#201310",
+          "secondary": "#F5F9DC",
+          "label": "#000000"
+        },
+        "mimeType": "image/jpeg"
+      }
+    },
     "description": {
       "type": "html",
       "body": "Centuries ago, Zaahen made a choice. Now, Xin Zhao must make his own."
@@ -1044,7 +1160,7 @@
     "analytics": {
       "contentId": "c3bf299d-501c-43f6-9a8a-fb1ced76ae18.en-us",
       "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOfiHu",
+      "rev": "QEVRm1pZNxFN4JPIcZyPxG",
       "publishDate": "2025-11-07T16:00:00.000Z"
     }
   },
@@ -1137,7 +1253,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "pzt6SmvGpXk",
-        "videoLengthInSeconds": 252,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=pzt6SmvGpXk"
       }
     },
@@ -1194,6 +1310,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/16f0c624c8c55d0439a68921929eb24ca5e25a50.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Watch the music video for “Sacrifice” ft. G.E.M. (鄧紫棋) now!"
@@ -1206,7 +1336,7 @@
     "analytics": {
       "contentId": "c4c96b7a-1e51-41be-8412-7efa9dd4d51c.en-us",
       "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOfiHu",
+      "rev": "QEVRm1pZNxFN4JPIcZyPxG",
       "publishDate": "2025-10-13T13:00:00.000Z"
     }
   },
@@ -1516,6 +1646,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5bb05d1d8c2eb3f6b8160cc3a92d4ec9745fb601.mp4?accountingTag=LoL",
+          "type": "video/mp4"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "A terrible nightmare… or a vision of what’s to come?"
@@ -1528,7 +1672,7 @@
     "analytics": {
       "contentId": "46066634-5160-40c4-8a30-3d6a82f800d5.en-us",
       "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOBdHa",
+      "rev": "QEVRm1pZNxFN4JPIcZyDss",
       "publishDate": "2025-08-25T15:00:00.000Z"
     }
   },
@@ -1677,6 +1821,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/644d381ac80a1c8a927660107dfd40586299c1cc.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Bask in the soothing beats of Spirit Blossom Springs, and let your worries melt away."
@@ -1689,7 +1847,7 @@
     "analytics": {
       "contentId": "15b2d1e6-f41d-4c02-adbf-296fa9183013.en-us",
       "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1SpYah",
+      "rev": "abDHz2fAvwwOn7ufixqmaQ",
       "publishDate": "2025-07-30T18:00:00.000Z"
     }
   },
@@ -1862,7 +2020,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "DD3GGy2B_lw",
-        "videoLengthInSeconds": 0,
+        "videoLengthInSeconds": 103,
         "url": "https://www.youtube.com/watch?v=DD3GGy2B_lw"
       }
     },
@@ -1919,6 +2077,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/7fe435a049ef8b5779b55eeb2d5503892993b277.mp4?accountingTag=LoL",
+          "type": "video/mp4"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Watch Fighter!! now"
@@ -1931,7 +2103,7 @@
     "analytics": {
       "contentId": "9e8bb447-ac94-4cec-9b5c-9b1cf3c12d16.en-us",
       "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOEqyE",
+      "rev": "QEVRm1pZNxFN4JPIcZyLAU",
       "publishDate": "2025-07-11T13:00:00.000Z"
     }
   },
@@ -2481,6 +2653,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/8f3e13aa8bf48454a5e534660086917d0b12ad27.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Around every light, a shadow. Beyond every ending, a beginning."
@@ -2493,7 +2679,7 @@
     "analytics": {
       "contentId": "93e57a3e-40c6-492e-8ddd-962d2a04a3fb.en-us",
       "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1SqSsX",
+      "rev": "QEVRm1pZNxFN4JPIcZyIv8",
       "publishDate": "2025-04-14T15:03:00.000Z"
     }
   },
@@ -3470,6 +3656,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/fa1a0832ce9220a2c3d46e1456d5613322898851.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "There is only one question to answer. Are you strong enough?"
@@ -3482,7 +3682,7 @@
     "analytics": {
       "contentId": "4856a6f0-14dd-40d7-892b-a46035801674.en-us",
       "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOBdHa",
+      "rev": "abDHz2fAvwwOn7ufixqvlS",
       "publishDate": "2025-01-07T16:00:00.000Z"
     }
   },
@@ -4369,6 +4569,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/e5b6b719fee179e09b3b0ac1ee9420d4729a2e20.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Wounded and near death, Ambessa sees a vision of what awaits her as a follower of the Wolf."
@@ -4381,7 +4595,7 @@
     "analytics": {
       "contentId": "a179809a-0c95-4d33-9e2c-99a4640dd4c0.en-us",
       "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOEqyE",
+      "rev": "abDHz2fAvwwOn7ufixrDlV",
       "publishDate": "2024-10-26T13:00:00.000Z"
     }
   },

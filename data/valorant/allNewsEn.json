@@ -1037,7 +1037,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "gictwC-KlTk",
-        "videoLengthInSeconds": 180,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=gictwC-KlTk"
       }
     },
@@ -1094,6 +1094,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/cc1a059687dc3841eb664e446acbe6aa506507d9.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Available in Season 26 // ACT II"
@@ -1106,7 +1120,7 @@
     "analytics": {
       "contentId": "a87d6606-4de3-463b-8924-922cfe85a0d0.en-us",
       "contentLocale": "en-us",
-      "rev": "LKS59mf5QC1GhceNBgqWUN",
+      "rev": "p5IvXxb250vkMJQJifb40X",
       "publishDate": "2026-03-15T17:00:00.000Z"
     }
   },
@@ -2920,6 +2934,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/56d915044d7d0d4a6ec202eb6907f81025fc328f.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "For vengeance. For survival. For everyone who can’t do it themselves. This is why we fight back."
@@ -2932,7 +2960,7 @@
     "analytics": {
       "contentId": "75891b0c-ce63-44f8-9d20-3434c370af17.en-us",
       "contentLocale": "en-us",
-      "rev": "ltj0AOwL0ZwYQzztZP8cog",
+      "rev": "abDHz2fAvwwOn7ufixr4cA",
       "publishDate": "2026-01-05T15:00:00.000Z"
     }
   },
@@ -5540,86 +5568,6 @@
     }
   },
   {
-    "title": "GIVE THEM NOTHING // Veto Agent Trailer - VALORANT",
-    "publishedAt": "2025-10-05T10:35:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=2FLY-gn-hGQ"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95efc32ba6301b29b3197ebe06db5a89c19553b7-1920x1080.jpg?accountingTag=VAL",
-      "colors": {
-        "primary": "#654033",
-        "secondary": "#F9ECDC",
-        "label": "#401D10"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95efc32ba6301b29b3197ebe06db5a89c19553b7-1920x1080.jpg?accountingTag=VAL",
-      "colors": {
-        "primary": "#654033",
-        "secondary": "#F9ECDC",
-        "label": "#401D10"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Your fight. His terms. This is VALORANT’s new Agent: Veto."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "03bf2340-3e73-4040-a7d8-4c0b1f882da3.en-us",
-      "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlOze99",
-      "publishDate": "2025-10-05T10:35:00.000Z"
-    }
-  },
-  {
     "title": "Veto Gameplay Reveal Trailer",
     "publishedAt": "2025-10-05T10:35:00.000Z",
     "promoCardSize": "medium",
@@ -5697,6 +5645,100 @@
       "contentId": "e0596356-89a9-4266-902c-597967cc5372.en-us",
       "contentLocale": "en-us",
       "rev": "ltj0AOwL0ZwYQzztZPSTVm",
+      "publishDate": "2025-10-05T10:35:00.000Z"
+    }
+  },
+  {
+    "title": "GIVE THEM NOTHING // Veto Agent Trailer - VALORANT",
+    "publishedAt": "2025-10-05T10:35:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=2FLY-gn-hGQ"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95efc32ba6301b29b3197ebe06db5a89c19553b7-1920x1080.jpg?accountingTag=VAL",
+      "colors": {
+        "primary": "#654033",
+        "secondary": "#F9ECDC",
+        "label": "#401D10"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95efc32ba6301b29b3197ebe06db5a89c19553b7-1920x1080.jpg?accountingTag=VAL",
+      "colors": {
+        "primary": "#654033",
+        "secondary": "#F9ECDC",
+        "label": "#401D10"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/f0e7b3c0dfbc024430c553c6790d469db57fdfbe.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
+    "description": {
+      "type": "html",
+      "body": "Your fight. His terms. This is VALORANT’s new Agent: Veto."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "03bf2340-3e73-4040-a7d8-4c0b1f882da3.en-us",
+      "contentLocale": "en-us",
+      "rev": "abDHz2fAvwwOn7ufixqjV3",
       "publishDate": "2025-10-05T10:35:00.000Z"
     }
   },
@@ -7107,6 +7149,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/1095d707875cf73756aa81ff7af3bac047359bf8.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Watch the official anthem and music video for Champions 2025: “Last Shot” by templuv and 347aidan."
@@ -7119,7 +7175,7 @@
     "analytics": {
       "contentId": "a4304c15-275a-4982-88fb-0d3423cb5bd2.en-us",
       "contentLocale": "en-us",
-      "rev": "ugA9rRsA0FWcU8w2gwb47S",
+      "rev": "abDHz2fAvwwOn7ufixrDlV",
       "publishDate": "2025-09-09T15:00:00.000Z"
     }
   },
@@ -7658,6 +7714,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/64f231a571569c677058c1f7a7a6a3e5eda4970f.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Outfit your collection in 24-carat style with the Champions 2025 Vandal, Butterfly Knife, and accessories."
@@ -7670,7 +7740,7 @@
     "analytics": {
       "contentId": "eeb405f5-3874-4c53-bb68-430f98796a88.en-us",
       "contentLocale": "en-us",
-      "rev": "Z9YyLuTxGXstanNTs1MwfI",
+      "rev": "QEVRm1pZNxFN4JPIcZybiI",
       "publishDate": "2025-08-30T16:30:00.000Z"
     }
   },
@@ -8446,6 +8516,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/cac331cf3dcaaeea4c53bb9bb44a87f69aafbb55.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Summer’s in the air. Time for VALORANT to make a splash."
@@ -8458,7 +8542,7 @@
     "analytics": {
       "contentId": "0044ddc2-a384-432d-9c88-06625f752fd4.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlOze99",
+      "rev": "abDHz2fAvwwOn7ufixqjV3",
       "publishDate": "2025-07-29T14:00:00.000Z"
     }
   },
@@ -9318,6 +9402,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/a243a2e4caf1d2c804a7a417f3f7c552f7be7f52.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "New ground, classic energy. This is Corrode."
@@ -9330,7 +9428,7 @@
     "analytics": {
       "contentId": "081a2d02-bad8-41bf-a76b-44631fd9f179.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlOze99",
+      "rev": "p5IvXxb250vkMJQJifatj7",
       "publishDate": "2025-06-22T16:03:00.000Z"
     }
   },
@@ -10028,6 +10126,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/bf424151231e1ddc18cbb236fc65bd1cda0ad99f.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "For love. For family. For redemption. For remembrance. For life. This is why we fight."
@@ -10040,7 +10152,7 @@
     "analytics": {
       "contentId": "f5d6aa6c-9b68-4aa7-a3bb-60ecc4d382f3.en-us",
       "contentLocale": "en-us",
-      "rev": "Z9YyLuTxGXstanNTs1MwfI",
+      "rev": "abDHz2fAvwwOn7ufixrfec",
       "publishDate": "2025-06-02T13:00:00.000Z"
     }
   },
@@ -10107,6 +10219,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/bf533bdc626ab91cce703abb907c26259567ce7a.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Korean VALORANT pro Gen.G t3xture shares his story of pushing through pressure to reach his ultimate potential."
@@ -10119,88 +10245,8 @@
     "analytics": {
       "contentId": "e84ec429-fc92-4803-adef-7a084565a05f.en-us",
       "contentLocale": "en-us",
-      "rev": "Z9YyLuTxGXstanNTs1MwfI",
+      "rev": "abDHz2fAvwwOn7ufixrcK0",
       "publishDate": "2025-05-31T00:00:00.000Z"
-    }
-  },
-  {
-    "title": "Abilities, Smurfing, Replays, and More // Dev Updates",
-    "publishedAt": "2025-05-30T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=_oYnSaw9A-c"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6304e354c98ffef82cccd0414b4693bd8ac0fc0b-1920x1080.jpg?accountingTag=VAL",
-      "colors": {
-        "primary": "#201110",
-        "secondary": "#F9DCE4",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6304e354c98ffef82cccd0414b4693bd8ac0fc0b-1920x1080.jpg?accountingTag=VAL",
-      "colors": {
-        "primary": "#201110",
-        "secondary": "#F9DCE4",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Learn more about how the team is approaching core topics like ability overload, smurfing, and more."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of VALORANT.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "4de0c336-1204-4c75-ba0c-750bc9922247.en-us",
-      "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP0NTT",
-      "publishDate": "2025-05-30T15:00:00.000Z"
     }
   },
   {
@@ -10279,6 +10325,100 @@
       "contentId": "ad16bfcf-b26b-4b98-82ed-3ce0eec84c40.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwb47S",
+      "publishDate": "2025-05-30T15:00:00.000Z"
+    }
+  },
+  {
+    "title": "Abilities, Smurfing, Replays, and More // Dev Updates",
+    "publishedAt": "2025-05-30T15:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=_oYnSaw9A-c"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6304e354c98ffef82cccd0414b4693bd8ac0fc0b-1920x1080.jpg?accountingTag=VAL",
+      "colors": {
+        "primary": "#201110",
+        "secondary": "#F9DCE4",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6304e354c98ffef82cccd0414b4693bd8ac0fc0b-1920x1080.jpg?accountingTag=VAL",
+      "colors": {
+        "primary": "#201110",
+        "secondary": "#F9DCE4",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/0e78f21ca2958bdad056c2cb6b8e65b5c77e4527.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
+    "description": {
+      "type": "html",
+      "body": "Learn more about how the team is approaching core topics like ability overload, smurfing, and more."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of VALORANT.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "4de0c336-1204-4c75-ba0c-750bc9922247.en-us",
+      "contentLocale": "en-us",
+      "rev": "abDHz2fAvwwOn7ufixqydH",
       "publishDate": "2025-05-30T15:00:00.000Z"
     }
   },
@@ -10503,6 +10643,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/d099a3495438fc1a5cd423439f4e9f574e4e8fb1.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "For Lig, the pressure to succeed came from right across the couch."
@@ -10515,7 +10669,7 @@
     "analytics": {
       "contentId": "ca96ec48-6555-49a7-8cb4-5c3fc28824c2.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP3wsP",
+      "rev": "abDHz2fAvwwOn7ufixrMcD",
       "publishDate": "2025-05-28T16:00:00.000Z"
     }
   },
@@ -10740,6 +10894,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/7a9f87ba45218c0889e91ebe1bc7da529ca23203.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Join Thai player SPINO for the ups and down of his rise to the competitive stage with his friends at his side."
@@ -10752,7 +10920,7 @@
     "analytics": {
       "contentId": "5fe0b5c0-aae6-460b-98e2-422fa58dc298.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP0NTT",
+      "rev": "abDHz2fAvwwOn7ufixr1Wn",
       "publishDate": "2025-05-27T23:00:00.000Z"
     }
   },
@@ -10899,6 +11067,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/2dbb04240ca6572c07c5055b9c198f06df4dc726.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Billy Yin’s story shows how true dedication can open doors in all aspects of life."
@@ -10911,7 +11093,7 @@
     "analytics": {
       "contentId": "f9f90e6a-8d77-499c-896b-c9428ddedada.en-us",
       "contentLocale": "en-us",
-      "rev": "Z9YyLuTxGXstanNTs1MwfI",
+      "rev": "abDHz2fAvwwOn7ufixrfec",
       "publishDate": "2025-05-26T16:00:00.000Z"
     }
   },
@@ -11057,6 +11239,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/617dce3e2e54f4b417c97c4ca64cf533877da280.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "This group of Vietnamese artists are telling real stories in their own VALORANT style."
@@ -11069,7 +11265,7 @@
     "analytics": {
       "contentId": "82845049-54dc-488a-a1f6-b6501e1dde96.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP0NTT",
+      "rev": "abDHz2fAvwwOn7ufixr7Tz",
       "publishDate": "2025-05-23T00:00:00.000Z"
     }
   },
@@ -11295,6 +11491,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/ff5835ebafe2c0f9c0bf60bdda8c70ff9df44210.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Meet Mel and Lou, long time friends and competitors on the VCT Game Changers stage."
@@ -11307,7 +11517,7 @@
     "analytics": {
       "contentId": "00328940-a41b-4eeb-8490-71e907bbf81c.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlOze99",
+      "rev": "abDHz2fAvwwOn7ufixo7Nq",
       "publishDate": "2025-05-19T21:00:00.000Z"
     }
   },
@@ -11774,6 +11984,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/fb037c1ae724ca64f36d5641e6d4355c5615433c.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Kicking off VALORANT’s Five Year Anniversary celebration with the launch of\nAct 3."
@@ -11786,7 +12010,7 @@
     "analytics": {
       "contentId": "e3159274-a9fb-4b6a-9ee1-f77a9dea6aa7.en-us",
       "contentLocale": "en-us",
-      "rev": "Z9YyLuTxGXstanNTs1MwfI",
+      "rev": "QEVRm1pZNxFN4JPIcZyZIc",
       "publishDate": "2025-04-30T15:00:00.000Z"
     }
   },
@@ -12881,6 +13105,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/8c8f0a41ec480c76dc579ca2363a4d5ee402ea2d.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "The best VALORANT players from around the globe begin the road to Masters Toronto."
@@ -12893,7 +13131,7 @@
     "analytics": {
       "contentId": "59df4ce4-08c1-4ee7-98c7-5966f28d499c.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP0NTT",
+      "rev": "abDHz2fAvwwOn7ufixqydH",
       "publishDate": "2025-03-13T16:00:00.000Z"
     }
   },
@@ -13356,6 +13594,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/06c7914a55e13b5df25c14b8bc891ed5b67556d3.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Bend light to break your foes with Waylay – VALORANT’s new Thai Duelist Agent. Available in S25: ACT II."
@@ -13368,7 +13620,7 @@
     "analytics": {
       "contentId": "a90d9b45-97fb-4f59-966a-19d5183a28d1.en-us",
       "contentLocale": "en-us",
-      "rev": "ugA9rRsA0FWcU8w2gwb47S",
+      "rev": "p5IvXxb250vkMJQJifb40X",
       "publishDate": "2025-03-02T10:15:00.000Z"
     }
   },
@@ -14065,6 +14317,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/36ecd86c4f0c74d1ecb5385285ab1478f9f3c3ea.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "In the heart of Thailand, where pros turn into masters, this is the Dawn of the Duelist."
@@ -14077,7 +14343,7 @@
     "analytics": {
       "contentId": "d37e4432-516b-4df8-9263-5735d7e66de3.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP3wsP",
+      "rev": "abDHz2fAvwwOn7ufixrMcD",
       "publishDate": "2025-02-13T16:00:00.000Z"
     }
   },
@@ -14144,6 +14410,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/4123adf675806a93e9575e46a31c0641e260642d.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Find out the details of the first global event of the 2025 VCT Season!"
@@ -14156,7 +14436,7 @@
     "analytics": {
       "contentId": "9a17f0d1-6dd8-4f1c-bb5e-ea32d7a668f9.en-us",
       "contentLocale": "en-us",
-      "rev": "9gPdGSHw0k5ASd7PTIlRTJ",
+      "rev": "QEVRm1pZNxFN4JPIcZyLAU",
       "publishDate": "2025-02-11T15:00:00.000Z"
     }
   },
@@ -14918,6 +15198,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/b8fcc8055662545e61d6e15a04196e4a59156b6c.mp4?accountingTag=VAL",
+          "type": "video/mp4"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Goldenboy, Pansy, Achilios and Alan debate which region’s VCT IL Kickoff is THE must-watch event."
@@ -14930,7 +15224,7 @@
     "analytics": {
       "contentId": "b4ed1d2a-1ccf-4683-b430-91c065e3bd81.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP3wsP",
+      "rev": "p5IvXxb250vkMJQJifb72P",
       "publishDate": "2025-01-10T16:00:00.000Z"
     }
   },
@@ -15230,6 +15524,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/a4543bd1f186c95eac428b970d8d0e0ccdf4b7c4.mp4?accountingTag=VAL",
+          "type": "video/mp4"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "A warm welcome to VALORANT’s 5th year from Studio Head, Anna Donlon."
@@ -15242,7 +15550,7 @@
     "analytics": {
       "contentId": "544cdf99-1ae5-4f44-832e-ea95f2e8410d.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP0NTT",
+      "rev": "abDHz2fAvwwOn7ufixqydH",
       "publishDate": "2025-01-07T15:00:00.000Z"
     }
   },
@@ -15389,6 +15697,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/43e248d82e59e5ff7c4d828e8fcb8e4a272eb380.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Tejo’s got a simple message for anyone in his way: give up your position, or give up your life."
@@ -15401,7 +15723,7 @@
     "analytics": {
       "contentId": "159cf29b-f8a1-4bde-9ea8-c8b0384f0b0f.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlOze99",
+      "rev": "abDHz2fAvwwOn7ufixqmaQ",
       "publishDate": "2025-01-06T15:00:00.000Z"
     }
   },
@@ -15469,6 +15791,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/02a2907260189d0988dc03091717b3b6e63143aa.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Ready the squad while we kickoff Season 2025."
@@ -15481,7 +15817,7 @@
     "analytics": {
       "contentId": "95ec145a-cf9b-4c74-b537-ab4aa9116cc8.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP0NTT",
+      "rev": "QEVRm1pZNxFN4JPIcZyIv8",
       "publishDate": "2025-01-06T14:00:00.000Z"
     }
   },

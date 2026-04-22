@@ -404,7 +404,7 @@
       "type": "youtube_video",
       "payload": {
         "youtubeId": "gictwC-KlTk",
-        "videoLengthInSeconds": 180,
+        "videoLengthInSeconds": 0,
         "url": "https://www.youtube.com/watch?v=gictwC-KlTk"
       }
     },
@@ -461,6 +461,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/cc1a059687dc3841eb664e446acbe6aa506507d9.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Available in Season 26 // ACT II"
@@ -473,7 +487,7 @@
     "analytics": {
       "contentId": "a87d6606-4de3-463b-8924-922cfe85a0d0.en-us",
       "contentLocale": "en-us",
-      "rev": "LKS59mf5QC1GhceNBgqWUN",
+      "rev": "p5IvXxb250vkMJQJifb40X",
       "publishDate": "2026-03-15T17:00:00.000Z"
     }
   },
@@ -1180,6 +1194,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/56d915044d7d0d4a6ec202eb6907f81025fc328f.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "For vengeance. For survival. For everyone who can’t do it themselves. This is why we fight back."
@@ -1192,7 +1220,7 @@
     "analytics": {
       "contentId": "75891b0c-ce63-44f8-9d20-3434c370af17.en-us",
       "contentLocale": "en-us",
-      "rev": "ltj0AOwL0ZwYQzztZP8cog",
+      "rev": "abDHz2fAvwwOn7ufixr4cA",
       "publishDate": "2026-01-05T15:00:00.000Z"
     }
   },
@@ -1909,86 +1937,6 @@
     }
   },
   {
-    "title": "GIVE THEM NOTHING // Veto Agent Trailer - VALORANT",
-    "publishedAt": "2025-10-05T10:35:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=2FLY-gn-hGQ"
-      }
-    },
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95efc32ba6301b29b3197ebe06db5a89c19553b7-1920x1080.jpg?accountingTag=VAL",
-      "colors": {
-        "primary": "#654033",
-        "secondary": "#F9ECDC",
-        "label": "#401D10"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95efc32ba6301b29b3197ebe06db5a89c19553b7-1920x1080.jpg?accountingTag=VAL",
-      "colors": {
-        "primary": "#654033",
-        "secondary": "#F9ECDC",
-        "label": "#401D10"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Your fight. His terms. This is VALORANT’s new Agent: Veto."
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "03bf2340-3e73-4040-a7d8-4c0b1f882da3.en-us",
-      "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlOze99",
-      "publishDate": "2025-10-05T10:35:00.000Z"
-    }
-  },
-  {
     "title": "Veto Gameplay Reveal Trailer",
     "publishedAt": "2025-10-05T10:35:00.000Z",
     "promoCardSize": "medium",
@@ -2066,6 +2014,100 @@
       "contentId": "e0596356-89a9-4266-902c-597967cc5372.en-us",
       "contentLocale": "en-us",
       "rev": "ltj0AOwL0ZwYQzztZPSTVm",
+      "publishDate": "2025-10-05T10:35:00.000Z"
+    }
+  },
+  {
+    "title": "GIVE THEM NOTHING // Veto Agent Trailer - VALORANT",
+    "publishedAt": "2025-10-05T10:35:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.youtube.com/watch?v=2FLY-gn-hGQ"
+      }
+    },
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95efc32ba6301b29b3197ebe06db5a89c19553b7-1920x1080.jpg?accountingTag=VAL",
+      "colors": {
+        "primary": "#654033",
+        "secondary": "#F9ECDC",
+        "label": "#401D10"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95efc32ba6301b29b3197ebe06db5a89c19553b7-1920x1080.jpg?accountingTag=VAL",
+      "colors": {
+        "primary": "#654033",
+        "secondary": "#F9ECDC",
+        "label": "#401D10"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/f0e7b3c0dfbc024430c553c6790d469db57fdfbe.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
+    "description": {
+      "type": "html",
+      "body": "Your fight. His terms. This is VALORANT’s new Agent: Veto."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "03bf2340-3e73-4040-a7d8-4c0b1f882da3.en-us",
+      "contentLocale": "en-us",
+      "rev": "abDHz2fAvwwOn7ufixqjV3",
       "publishDate": "2025-10-05T10:35:00.000Z"
     }
   },
@@ -2605,6 +2647,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/64f231a571569c677058c1f7a7a6a3e5eda4970f.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Outfit your collection in 24-carat style with the Champions 2025 Vandal, Butterfly Knife, and accessories."
@@ -2617,7 +2673,7 @@
     "analytics": {
       "contentId": "eeb405f5-3874-4c53-bb68-430f98796a88.en-us",
       "contentLocale": "en-us",
-      "rev": "Z9YyLuTxGXstanNTs1MwfI",
+      "rev": "QEVRm1pZNxFN4JPIcZybiI",
       "publishDate": "2025-08-30T16:30:00.000Z"
     }
   },
@@ -2841,6 +2897,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/cac331cf3dcaaeea4c53bb9bb44a87f69aafbb55.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Summer’s in the air. Time for VALORANT to make a splash."
@@ -2853,7 +2923,7 @@
     "analytics": {
       "contentId": "0044ddc2-a384-432d-9c88-06625f752fd4.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlOze99",
+      "rev": "abDHz2fAvwwOn7ufixqjV3",
       "publishDate": "2025-07-29T14:00:00.000Z"
     }
   },
@@ -3156,6 +3226,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/a243a2e4caf1d2c804a7a417f3f7c552f7be7f52.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "New ground, classic energy. This is Corrode."
@@ -3168,7 +3252,7 @@
     "analytics": {
       "contentId": "081a2d02-bad8-41bf-a76b-44631fd9f179.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlOze99",
+      "rev": "p5IvXxb250vkMJQJifatj7",
       "publishDate": "2025-06-22T16:03:00.000Z"
     }
   },
@@ -3314,6 +3398,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/bf424151231e1ddc18cbb236fc65bd1cda0ad99f.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "For love. For family. For redemption. For remembrance. For life. This is why we fight."
@@ -3326,7 +3424,7 @@
     "analytics": {
       "contentId": "f5d6aa6c-9b68-4aa7-a3bb-60ecc4d382f3.en-us",
       "contentLocale": "en-us",
-      "rev": "Z9YyLuTxGXstanNTs1MwfI",
+      "rev": "abDHz2fAvwwOn7ufixrfec",
       "publishDate": "2025-06-02T13:00:00.000Z"
     }
   },
@@ -3550,6 +3648,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/fb037c1ae724ca64f36d5641e6d4355c5615433c.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Kicking off VALORANT’s Five Year Anniversary celebration with the launch of\nAct 3."
@@ -3562,7 +3674,7 @@
     "analytics": {
       "contentId": "e3159274-a9fb-4b6a-9ee1-f77a9dea6aa7.en-us",
       "contentLocale": "en-us",
-      "rev": "Z9YyLuTxGXstanNTs1MwfI",
+      "rev": "QEVRm1pZNxFN4JPIcZyZIc",
       "publishDate": "2025-04-30T15:00:00.000Z"
     }
   },
@@ -4339,6 +4451,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/06c7914a55e13b5df25c14b8bc891ed5b67556d3.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Bend light to break your foes with Waylay – VALORANT’s new Thai Duelist Agent. Available in S25: ACT II."
@@ -4351,7 +4477,7 @@
     "analytics": {
       "contentId": "a90d9b45-97fb-4f59-966a-19d5183a28d1.en-us",
       "contentLocale": "en-us",
-      "rev": "ugA9rRsA0FWcU8w2gwb47S",
+      "rev": "p5IvXxb250vkMJQJifb40X",
       "publishDate": "2025-03-02T10:15:00.000Z"
     }
   },
@@ -4813,6 +4939,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/43e248d82e59e5ff7c4d828e8fcb8e4a272eb380.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Tejo’s got a simple message for anyone in his way: give up your position, or give up your life."
@@ -4825,7 +4965,7 @@
     "analytics": {
       "contentId": "159cf29b-f8a1-4bde-9ea8-c8b0384f0b0f.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlOze99",
+      "rev": "abDHz2fAvwwOn7ufixqmaQ",
       "publishDate": "2025-01-06T15:00:00.000Z"
     }
   },
@@ -4893,6 +5033,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/02a2907260189d0988dc03091717b3b6e63143aa.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Ready the squad while we kickoff Season 2025."
@@ -4905,7 +5059,7 @@
     "analytics": {
       "contentId": "95ec145a-cf9b-4c74-b537-ab4aa9116cc8.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP0NTT",
+      "rev": "QEVRm1pZNxFN4JPIcZyIv8",
       "publishDate": "2025-01-06T14:00:00.000Z"
     }
   },
@@ -5052,6 +5206,20 @@
       },
       "mimeType": "image/jpeg"
     },
+    "videoMedia": {
+      "provider": "sanity",
+      "type": "video",
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/16f7e72462ea5e20e9505c5ae810f44edd8ea562.mp4?accountingTag=VAL",
+          "type": "video/mp4"
+        }
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      }
+    },
     "description": {
       "type": "html",
       "body": "Refuel your arsenal with the new additions to the Araxys skinline. Featuring the Phantom, Outlaw, Guardian, Sheriff and the Bio-Atomizers. Bundle drops in the shop on Dec 12th."
@@ -5064,7 +5232,7 @@
     "analytics": {
       "contentId": "b5dd03ba-763b-4725-a5ed-7cc4d6509214.en-us",
       "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP3wsP",
+      "rev": "p5IvXxb250vkMJQJifb72P",
       "publishDate": "2024-12-10T14:30:00.000Z"
     }
   },
