@@ -1,5 +1,84 @@
 [
   {
+    "title": "Buy LCS Spring Finals Tickets here!",
+    "publishedAt": "2026-04-27T16:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://www.ticketmaster.com/event/1900648DDD868888"
+      }
+    },
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/884e9061277cf81893a9cbd7df2292a288e54834-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1B160E",
+        "secondary": "#F5F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/884e9061277cf81893a9cbd7df2292a288e54834-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#1B160E",
+        "secondary": "#F5F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "ASU’s Mullett Arena to host LCS Spring Finals on June 13-14!"
+    },
+    "category": {
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends.",
+      "machineName": "esports"
+    },
+    "analytics": {
+      "contentId": "d7a764de-5372-44a5-8536-88f3ff377a30.en-us",
+      "contentLocale": "en-us",
+      "rev": "41QVzCE65xHX8XlHv0TVX4",
+      "publishDate": "2026-04-27T16:00:00.000Z"
+    }
+  },
+  {
     "title": "/dev: Apex Tier Ranked Reset",
     "publishedAt": "2026-04-21T15:00:00.000Z",
     "promoCardSize": "small",
@@ -16047,86 +16126,6 @@
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
       "publishDate": "2025-08-28T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "K.O. Coliseum Community Zine",
-    "publishedAt": "2025-08-27T17:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/community/ko-coliseum-community-zine/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c450c425917ca52ba69d94a593856c6ece5f0f30-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#6453B8",
-        "secondary": "#292F33",
-        "label": "#39325C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c450c425917ca52ba69d94a593856c6ece5f0f30-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#6453B8",
-        "secondary": "#292F33",
-        "label": "#39325C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Check out the beautiful works from talented community members."
-    },
-    "category": {
-      "title": "Community",
-      "description": "From featured streamers to community creations, see what's new in the neighborhood.",
-      "machineName": "community"
-    },
-    "analytics": {
-      "contentId": "d58c5713-6e7b-4aea-b61f-3166fba6ea1c.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-08-27T17:00:00.000Z"
     }
   }
 ]
