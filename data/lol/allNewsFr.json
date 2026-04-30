@@ -1,5 +1,85 @@
 [
   {
+    "title": "League of Legends FTW !",
+    "publishedAt": "2026-04-29T18:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://ftw.riotgames.com/league-of-legends/challenges/welcome-to-the-arena-creators"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e406b12134d05f92175d9e3b5bde3857ba0d041d-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#552B32",
+        "secondary": "#F9F8DC",
+        "label": "#2D0B11"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e406b12134d05f92175d9e3b5bde3857ba0d041d-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#552B32",
+        "secondary": "#F9F8DC",
+        "label": "#2D0B11"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Bien, vous êtes prêts pour un vrai défi ? Jouez et remportez des \nrécompenses !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "fc8de95f-93e4-4e0f-a7dd-e6ab0180c0c9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "b2TvWZLpmL14EBAKocjACt",
+      "publishDate": "2026-04-29T18:00:00.000Z"
+    }
+  },
+  {
     "title": "Notes de patch 26.9 de League of Legends",
     "publishedAt": "2026-04-28T18:00:00.000Z",
     "action": {
@@ -318,164 +398,6 @@
     }
   },
   {
-    "title": "Notes de patch 17.1 de TFT",
-    "publishedAt": "2026-04-14T18:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-17-1/"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9315d030b2008695555719b5cd494106766da691-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#8F76B8",
-        "secondary": "#292933",
-        "label": "#463461"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9315d030b2008695555719b5cd494106766da691-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#8F76B8",
-        "secondary": "#292933",
-        "label": "#463461"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Choisissez votre dieu cosmique, obtenez sa bénédiction et formez une équipe galactique remplie de Grooviens, de Juges stellaires et de Meeples ! SPACE GODS est là !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "e765168b-b4a1-422a-b605-a966c36d6352.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "jNrKGDgaXIG7AUzuDc8bX0",
-      "publishDate": "2026-04-14T18:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 26.8 de League of Legends",
-    "publishedAt": "2026-04-14T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/league-of-legends-patch-26-8-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#9F91B8",
-        "secondary": "#292B33",
-        "label": "#342749"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#9F91B8",
-        "secondary": "#292B33",
-        "label": "#342749"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "On se met dans l’ambiance avec le patch 26.8 !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "bb975801-0f5d-44b2-87f0-9f96fa0837bf.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "9UhUnNSwRG7l5YqQGlzJJN",
-      "publishDate": "2026-04-14T18:00:00.000Z"
-    }
-  },
-  {
     "title": "Résumé : Dev Update Pandémonium, Arena et plus encore",
     "publishedAt": "2026-04-14T18:00:00.000Z",
     "promoCardSize": "small",
@@ -630,6 +552,164 @@
       "contentId": "eab12e6f-e239-4df5-87d8-241444f945d3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "jNrKGDgaXIG7AUzuDc2QhH",
+      "publishDate": "2026-04-14T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 17.1 de TFT",
+    "publishedAt": "2026-04-14T18:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "isExternal": true,
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-17-1/"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9315d030b2008695555719b5cd494106766da691-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#8F76B8",
+        "secondary": "#292933",
+        "label": "#463461"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9315d030b2008695555719b5cd494106766da691-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#8F76B8",
+        "secondary": "#292933",
+        "label": "#463461"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Choisissez votre dieu cosmique, obtenez sa bénédiction et formez une équipe galactique remplie de Grooviens, de Juges stellaires et de Meeples ! SPACE GODS est là !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "e765168b-b4a1-422a-b605-a966c36d6352.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "jNrKGDgaXIG7AUzuDc8bX0",
+      "publishDate": "2026-04-14T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 26.8 de League of Legends",
+    "publishedAt": "2026-04-14T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/league-of-legends-patch-26-8-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#9F91B8",
+        "secondary": "#292B33",
+        "label": "#342749"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#9F91B8",
+        "secondary": "#292B33",
+        "label": "#342749"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "On se met dans l’ambiance avec le patch 26.8 !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "bb975801-0f5d-44b2-87f0-9f96fa0837bf.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "9UhUnNSwRG7l5YqQGlzJJN",
       "publishDate": "2026-04-14T18:00:00.000Z"
     }
   },
@@ -16025,87 +16105,6 @@
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
       "publishDate": "2025-08-27T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Bande-annonce de l'acte 1 de la saison 3",
-    "publishedAt": "2025-08-27T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "cz_f9KOMIsg",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=cz_f9KOMIsg"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/755c928ceb4847b70d10a2cc56557a9d55a35c32-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#13090A",
-        "secondary": "#EEFFD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/755c928ceb4847b70d10a2cc56557a9d55a35c32-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#13090A",
-        "secondary": "#EEFFD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les pétales tombent... et la Rose noire éclot. Les Épreuves du crépuscule commencent maintenant."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "cdd45380-d532-4f52-8eb2-d45c807be536.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-08-27T15:00:00.000Z"
     }
   }
 ]
