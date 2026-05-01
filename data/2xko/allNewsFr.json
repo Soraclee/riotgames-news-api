@@ -1,5 +1,86 @@
 [
   {
+    "title": "Méga-pack Lune de sang disponible",
+    "publishedAt": "2026-04-30T16:30:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "MzmTSwHWfIc",
+        "videoLengthInSeconds": 60,
+        "url": "https://www.youtube.com/watch?v=MzmTSwHWfIc"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e24d2adec79f846739dd0df6fa01c0e6b71bf7a1-1920x1080.jpg?accountingTag=2XKO",
+      "colors": {
+        "primary": "#1D0E14",
+        "secondary": "#DCF9F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e24d2adec79f846739dd0df6fa01c0e6b71bf7a1-1920x1080.jpg?accountingTag=2XKO",
+      "colors": {
+        "primary": "#1D0E14",
+        "secondary": "#DCF9F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Déchaînez le démon qui sommeille en vous. Le méga-pack Lune de sang est désormais disponible."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "39374f37-bcc4-47a6-9d8a-2092f5cff8eb.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "fPZa2hrczZygWfc5juplun",
+      "publishDate": "2026-04-30T16:30:00.000Z"
+    }
+  },
+  {
     "title": "Correctif 2XKO Patch 1.1.5 (28 avril 2026)",
     "publishedAt": "2026-04-28T16:00:00.000Z",
     "promoCardSize": "small",
