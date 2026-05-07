@@ -1,5 +1,82 @@
 [
   {
+    "title": "SMASH 2026 Location Reveal",
+    "publishedAt": "2026-05-06T17:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/smash-2026-location-reveal"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1365,
+        "width": 2048,
+        "aspectRatio": 1.5003663003663004
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c7486ee3f1c889225635351fe06d9c868ba2a781-2048x1365.jpg?accountingTag=WR",
+      "colors": {
+        "primary": "#1F1A34",
+        "secondary": "#F9E6DC",
+        "label": "#020105"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1365,
+        "width": 2048,
+        "aspectRatio": 1.5003663003663004
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c7486ee3f1c889225635351fe06d9c868ba2a781-2048x1365.jpg?accountingTag=WR",
+      "colors": {
+        "primary": "#1F1A34",
+        "secondary": "#F9E6DC",
+        "label": "#020105"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "SMASH is back for 2026 and heading to Korea!"
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "caee30cf-9924-4c81-8bd4-fbbb5c78829e.en-us",
+      "contentLocale": "en-us",
+      "rev": "kSV5HTTyFsb2BqzijYXRel",
+      "publishDate": "2026-05-06T17:00:00.000Z"
+    }
+  },
+  {
     "title": "Introducing the Wild Rift Partner Program",
     "publishedAt": "2026-05-01T17:00:00.000Z",
     "promoCardSize": "medium",
@@ -15268,85 +15345,6 @@
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1QNaVV",
       "publishDate": "2023-06-08T19:30:00.000Z"
-    }
-  },
-  {
-    "title": "Frozen Over | Ice Drake Trailer",
-    "publishedAt": "2023-06-07T10:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "YzgWoPrSOaU",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=YzgWoPrSOaU"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5d7d594c13838cd9e1f5a146ae558ff042fce7c6-1920x1080.jpg?accountingTag=WR",
-      "colors": {
-        "primary": "#6888B8",
-        "secondary": "#292C33",
-        "label": "#18202D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5d7d594c13838cd9e1f5a146ae558ff042fce7c6-1920x1080.jpg?accountingTag=WR",
-      "colors": {
-        "primary": "#6888B8",
-        "secondary": "#292C33",
-        "label": "#18202D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "A new Elemental Dragon is ready to fly! Chill out with Ice Drake in Wild Rift."
-    },
-    "category": {
-      "title": "Announcements",
-      "description": "Used for general announcements for Wild Rift.",
-      "machineName": "announcements"
-    },
-    "analytics": {
-      "contentId": "articles.bltb4dea17da311231e.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvh17qt",
-      "publishDate": "2023-06-07T10:00:00.000Z"
     }
   }
 ]

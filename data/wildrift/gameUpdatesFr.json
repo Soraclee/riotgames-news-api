@@ -1,5 +1,82 @@
 [
   {
+    "title": "Présentation du lieu du SMASH 2026",
+    "publishedAt": "2026-05-06T17:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/smash-2026-location-reveal"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1365,
+        "width": 2048,
+        "aspectRatio": 1.5003663003663004
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c7486ee3f1c889225635351fe06d9c868ba2a781-2048x1365.jpg?accountingTag=WR",
+      "colors": {
+        "primary": "#1F1A34",
+        "secondary": "#F9E6DC",
+        "label": "#020105"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1365,
+        "width": 2048,
+        "aspectRatio": 1.5003663003663004
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c7486ee3f1c889225635351fe06d9c868ba2a781-2048x1365.jpg?accountingTag=WR",
+      "colors": {
+        "primary": "#1F1A34",
+        "secondary": "#F9E6DC",
+        "label": "#020105"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le SMASH est de retour, et cette année, direction la Corée !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "caee30cf-9924-4c81-8bd4-fbbb5c78829e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UCcL2M6da9NSZIQv7S0Cdk",
+      "publishDate": "2026-05-06T17:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du programme de partenariat Wild Rift",
     "publishedAt": "2026-05-01T17:00:00.000Z",
     "promoCardSize": "medium",
@@ -15250,83 +15327,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgvuVn",
       "publishDate": "2022-10-27T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Notes de patch 3.4b de Wild Rift",
-    "publishedAt": "2022-10-19T21:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-patch-notes-3-4b/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5d9d4f14a55a7276cf03d8e7e80025d64d3655d3-1920x1080.jpg?accountingTag=WR",
-      "colors": {
-        "primary": "#15222A",
-        "secondary": "#E2F9DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5d9d4f14a55a7276cf03d8e7e80025d64d3655d3-1920x1080.jpg?accountingTag=WR",
-      "colors": {
-        "primary": "#15222A",
-        "secondary": "#E2F9DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Vex fait son apparition, les équilibrages se répartissent partout dans la Faille et l'entraînement doit commencer : bienvenue dans le patch 3.4b !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt379bab9d2e35698f.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOI1QlO",
-      "publishDate": "2022-10-19T21:00:00.000Z"
     }
   }
 ]
