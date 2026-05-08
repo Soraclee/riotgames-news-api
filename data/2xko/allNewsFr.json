@@ -1,5 +1,86 @@
 [
   {
+    "title": "Nouvelle fusion : Combat d'équipe",
+    "publishedAt": "2026-05-07T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "D_jjJPUkMgs",
+        "videoLengthInSeconds": 163,
+        "url": "https://www.youtube.com/watch?v=D_jjJPUkMgs"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c5fa8d06f404ea67b5abf36e3479f235e5150abd-1920x1080.jpg?accountingTag=2XKO",
+      "colors": {
+        "primary": "#264C41",
+        "secondary": "#DCF9EC",
+        "label": "#09221B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c5fa8d06f404ea67b5abf36e3479f235e5150abd-1920x1080.jpg?accountingTag=2XKO",
+      "colors": {
+        "primary": "#264C41",
+        "secondary": "#DCF9EC",
+        "label": "#09221B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Voilà ce qu'il faut savoir sur la fusion : Combat d'équipe. Jouez en 2c2 comme jamais, dès le 12 mai."
+    },
+    "category": {
+      "title": "Annonces",
+      "description": "Pour les annonces générales de 2XKO.",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "26a2601b-4763-45a8-b188-a53b8c182eb1.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "kSV5HTTyFsb2BqzijajBTj",
+      "publishDate": "2026-05-07T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Méga-pack Lune de sang disponible",
     "publishedAt": "2026-04-30T16:30:00.000Z",
     "promoCardSize": "medium",
@@ -76,7 +157,7 @@
     "analytics": {
       "contentId": "39374f37-bcc4-47a6-9d8a-2092f5cff8eb.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "fPZa2hrczZygWfc5juplun",
+      "rev": "kSV5HTTyFsb2BqzijajBTj",
       "publishDate": "2026-04-30T16:30:00.000Z"
     }
   },
