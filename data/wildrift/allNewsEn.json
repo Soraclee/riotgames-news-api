@@ -1,5 +1,84 @@
 [
   {
+    "title": "Taliyah Champion Overview",
+    "publishedAt": "2026-05-10T02:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "jBLIxnlePiQ",
+        "videoLengthInSeconds": 120,
+        "url": "https://www.youtube.com/watch?v=jBLIxnlePiQ"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0f00b9d4ad47f02af8482b01ed581427c6eb817f-1920x1080.jpg?accountingTag=WR",
+      "colors": {
+        "primary": "#06070C",
+        "secondary": "#FFFED6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0f00b9d4ad47f02af8482b01ed581427c6eb817f-1920x1080.jpg?accountingTag=WR",
+      "colors": {
+        "primary": "#06070C",
+        "secondary": "#FFFED6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Who says you can’t surf in the desert?! Here to give you a masterclass in all things surfing and rocks: Taliyah! Weaving in May 15th UTC."
+    },
+    "category": {
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "cae2ed93-e305-4116-b1ff-dc30976f9978.en-us",
+      "contentLocale": "en-us",
+      "rev": "u2c7X9a99uVUgCuK9Eb0tf",
+      "publishDate": "2026-05-10T02:00:00.000Z"
+    }
+  },
+  {
     "title": "SMASH 2026 Location Reveal",
     "publishedAt": "2026-05-06T17:00:00.000Z",
     "promoCardSize": "medium",
@@ -15268,83 +15347,6 @@
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOHqi9u",
       "publishDate": "2023-06-14T01:00:00.000Z"
-    }
-  },
-  {
-    "title": "Wild Rift Patch Notes 4.2a",
-    "publishedAt": "2023-06-08T19:30:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/wild-rift-patch-notes-4-2a/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/52e5c0dab465ba3d4b7b3916dbb19dddf4d2a0a4-1920x1080.jpg?accountingTag=WR",
-      "colors": {
-        "primary": "#182731",
-        "secondary": "#F9ECDC",
-        "label": "#000102"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/52e5c0dab465ba3d4b7b3916dbb19dddf4d2a0a4-1920x1080.jpg?accountingTag=WR",
-      "colors": {
-        "primary": "#182731",
-        "secondary": "#F9ECDC",
-        "label": "#000102"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Hot off our big marksmen update we’ve got some balance changes, the arrival of two titan brothers, the return of the leaderboard event, and some new skins! Welcome to Patch 4.2a!"
-    },
-    "category": {
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blte068a1a68fb8ecd2.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1QNaVV",
-      "publishDate": "2023-06-08T19:30:00.000Z"
     }
   }
 ]
