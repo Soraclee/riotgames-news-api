@@ -1,5 +1,84 @@
 [
   {
+    "title": "Aperçu de Taliyah",
+    "publishedAt": "2026-05-10T02:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "LEf-SrXtMUg",
+        "videoLengthInSeconds": 120,
+        "url": "https://www.youtube.com/watch?v=LEf-SrXtMUg"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0f00b9d4ad47f02af8482b01ed581427c6eb817f-1920x1080.jpg?accountingTag=WR",
+      "colors": {
+        "primary": "#06070C",
+        "secondary": "#FFFED6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0f00b9d4ad47f02af8482b01ed581427c6eb817f-1920x1080.jpg?accountingTag=WR",
+      "colors": {
+        "primary": "#06070C",
+        "secondary": "#FFFED6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Taliyah est là pour vous apprendre à surfer, même sur des rochers ! Rendez-vous le 15 mai (CEST)."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "cae2ed93-e305-4116-b1ff-dc30976f9978.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "yX7EXDtihs8pMiZoUPcZUo",
+      "publishDate": "2026-05-10T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du lieu du SMASH 2026",
     "publishedAt": "2026-05-06T17:00:00.000Z",
     "promoCardSize": "medium",
@@ -15248,85 +15327,6 @@
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QK1R3",
       "publishDate": "2022-11-02T17:00:00.000Z"
-    }
-  },
-  {
-    "title": "Aperçu de Vex",
-    "publishedAt": "2022-10-27T17:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "nOtrYuYiflw",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=nOtrYuYiflw"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1ee9dcc5027e0cfffc4adfd44b5058acfed17a9f-1920x1080.jpg?accountingTag=WR",
-      "colors": {
-        "primary": "#0E141D",
-        "secondary": "#FFD6EE",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1ee9dcc5027e0cfffc4adfd44b5058acfed17a9f-1920x1080.jpg?accountingTag=WR",
-      "colors": {
-        "primary": "#0E141D",
-        "secondary": "#FFD6EE",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Transformez ce sourire en rictus ! Vex, Ombre du désespoir, arrive en traînant des pieds dans Wild Rift. La barbe..."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.blt30d932e543457b66.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvgvuVn",
-      "publishDate": "2022-10-27T17:00:00.000Z"
     }
   }
 ]

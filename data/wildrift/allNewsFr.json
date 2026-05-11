@@ -1,5 +1,84 @@
 [
   {
+    "title": "Aperçu de Taliyah",
+    "publishedAt": "2026-05-10T02:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "LEf-SrXtMUg",
+        "videoLengthInSeconds": 120,
+        "url": "https://www.youtube.com/watch?v=LEf-SrXtMUg"
+      }
+    },
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0f00b9d4ad47f02af8482b01ed581427c6eb817f-1920x1080.jpg?accountingTag=WR",
+      "colors": {
+        "primary": "#06070C",
+        "secondary": "#FFFED6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0f00b9d4ad47f02af8482b01ed581427c6eb817f-1920x1080.jpg?accountingTag=WR",
+      "colors": {
+        "primary": "#06070C",
+        "secondary": "#FFFED6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Taliyah est là pour vous apprendre à surfer, même sur des rochers ! Rendez-vous le 15 mai (CEST)."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "cae2ed93-e305-4116-b1ff-dc30976f9978.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "yX7EXDtihs8pMiZoUPcZUo",
+      "publishDate": "2026-05-10T02:00:00.000Z"
+    }
+  },
+  {
     "title": "Présentation du lieu du SMASH 2026",
     "publishedAt": "2026-05-06T17:00:00.000Z",
     "promoCardSize": "medium",
@@ -15264,83 +15343,6 @@
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOHrkVu",
       "publishDate": "2023-05-20T01:00:00.000Z"
-    }
-  },
-  {
-    "title": "Nouvelles de Wild Rift : mai 2023",
-    "publishedAt": "2023-05-18T01:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-news-may-2023/"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/84c4468a26c5240694a803f4617c9828aa76a76e-1920x1080.jpg?accountingTag=WR",
-      "colors": {
-        "primary": "#B83C4F",
-        "secondary": "#292933",
-        "label": "#180D0E"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/84c4468a26c5240694a803f4617c9828aa76a76e-1920x1080.jpg?accountingTag=WR",
-      "colors": {
-        "primary": "#B83C4F",
-        "secondary": "#292933",
-        "label": "#180D0E"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Le patch 4.2 arrive à grands pas ! Venez découvrir ce qui vous attend !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "articles.bltc7213fc89e47e741.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvh17qt",
-      "publishDate": "2023-05-18T01:00:00.000Z"
     }
   }
 ]
