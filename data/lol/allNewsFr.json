@@ -1,5 +1,86 @@
 [
   {
+    "title": "Manifestations éternelles du soleil et de la lune",
+    "publishedAt": "2026-05-11T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "7kUg23gAy0g",
+        "videoLengthInSeconds": 131,
+        "url": "https://www.youtube.com/watch?v=7kUg23gAy0g"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/73e5d7dc45ad4457db81cddbe3aed93dead2223b-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#100810",
+        "secondary": "#FFEFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/73e5d7dc45ad4457db81cddbe3aed93dead2223b-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#100810",
+        "secondary": "#FFEFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le Soleil et Lune sont en parfaite harmonie. Mais pour combien de temps encore ?"
+    },
+    "category": {
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "5f4565f0-c563-4ec8-bbc9-eb92f31d868e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "I2q7wxkx1kFxoQqExxFIze",
+      "publishDate": "2026-05-11T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Les Game Changers League of Legends sont de retour !",
     "publishedAt": "2026-05-06T14:00:00.000Z",
     "action": {
@@ -555,84 +636,6 @@
     }
   },
   {
-    "title": "Notes de patch 26.8 de League of Legends",
-    "publishedAt": "2026-04-14T18:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/league-of-legends-patch-26-8-notes"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#9F91B8",
-        "secondary": "#292B33",
-        "label": "#342749"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#9F91B8",
-        "secondary": "#292B33",
-        "label": "#342749"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "On se met dans l’ambiance avec le patch 26.8 !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "bb975801-0f5d-44b2-87f0-9f96fa0837bf.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "9UhUnNSwRG7l5YqQGlzJJN",
-      "publishDate": "2026-04-14T18:00:00.000Z"
-    }
-  },
-  {
     "title": "/dev : déploiement du ZQSD en mode classé",
     "publishedAt": "2026-04-14T18:00:00.000Z",
     "promoCardSize": "medium",
@@ -788,6 +791,84 @@
       "contentId": "e765168b-b4a1-422a-b605-a966c36d6352.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "jNrKGDgaXIG7AUzuDc8bX0",
+      "publishDate": "2026-04-14T18:00:00.000Z"
+    }
+  },
+  {
+    "title": "Notes de patch 26.8 de League of Legends",
+    "publishedAt": "2026-04-14T18:00:00.000Z",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/league-of-legends-patch-26-8-notes"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#9F91B8",
+        "secondary": "#292B33",
+        "label": "#342749"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#9F91B8",
+        "secondary": "#292B33",
+        "label": "#342749"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "On se met dans l’ambiance avec le patch 26.8 !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "bb975801-0f5d-44b2-87f0-9f96fa0837bf.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "9UhUnNSwRG7l5YqQGlzJJN",
       "publishDate": "2026-04-14T18:00:00.000Z"
     }
   },
@@ -1031,7 +1112,7 @@
     },
     "description": {
       "type": "html",
-      "body": "L'acte I sera disponible dans le patch 26.09."
+      "body": "Les démons se déchaînent. Vayne est en chasse. Mais quelque chose d'autre se cache dans l'ombre..."
     },
     "category": {
       "title": "Médias",
@@ -1041,7 +1122,7 @@
     "analytics": {
       "contentId": "3f638ad4-b154-42bd-8f96-8de56c1801d3.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "QEVRm1pZNxFN4JPIcZyDss",
+      "rev": "xzJHDkjaEEloDSSKMrzYFi",
       "publishDate": "2026-04-14T15:00:00.000Z"
     }
   },
@@ -4489,87 +4570,6 @@
     }
   },
   {
-    "title": "ÉP3 : Virée chanceuse | Festival lunaire 2026",
-    "publishedAt": "2026-02-04T02:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "ZDuYiNAfNPw",
-        "videoLengthInSeconds": 78,
-        "url": "https://www.youtube.com/watch?v=ZDuYiNAfNPw"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/036c0ffeab7d3d3031ecb0c3f3d443456f347037-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#381C22",
-        "secondary": "#F9DCEC",
-        "label": "#0A0304"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/036c0ffeab7d3d3031ecb0c3f3d443456f347037-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#381C22",
-        "secondary": "#F9DCEC",
-        "label": "#0A0304"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Les petites légendes motivent Riven à l'épée vaillante chibi prestige pour le festival lunaire !"
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "fc858c5f-8449-49e7-8ce0-204985e28bb9.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "MsQNQ8m2MkdlwTH5pdLFHZ",
-      "publishDate": "2026-02-04T02:00:00.000Z"
-    }
-  },
-  {
     "title": "Bande-annonce du Festival lunaire 2026",
     "publishedAt": "2026-02-04T02:00:00.000Z",
     "promoCardSize": "medium",
@@ -4677,6 +4677,87 @@
       "contentId": "99a75ffa-a8f5-456c-93d0-a8c8d1d093a3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "QEVRm1pZNxFN4JPIcZyLAU",
+      "publishDate": "2026-02-04T02:00:00.000Z"
+    }
+  },
+  {
+    "title": "ÉP3 : Virée chanceuse | Festival lunaire 2026",
+    "publishedAt": "2026-02-04T02:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "ZDuYiNAfNPw",
+        "videoLengthInSeconds": 78,
+        "url": "https://www.youtube.com/watch?v=ZDuYiNAfNPw"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/036c0ffeab7d3d3031ecb0c3f3d443456f347037-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#381C22",
+        "secondary": "#F9DCEC",
+        "label": "#0A0304"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/036c0ffeab7d3d3031ecb0c3f3d443456f347037-1920x1080.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#381C22",
+        "secondary": "#F9DCEC",
+        "label": "#0A0304"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Les petites légendes motivent Riven à l'épée vaillante chibi prestige pour le festival lunaire !"
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game-updates"
+    },
+    "analytics": {
+      "contentId": "fc858c5f-8449-49e7-8ce0-204985e28bb9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "MsQNQ8m2MkdlwTH5pdLFHZ",
       "publishDate": "2026-02-04T02:00:00.000Z"
     }
   },
@@ -16023,86 +16104,6 @@
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
       "publishDate": "2025-08-29T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Skins T1 des Worlds 2024 : les coulisses",
-    "publishedAt": "2025-08-28T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.youtube.com/watch?v=fMGJMGaeSLM"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6479200d46d2364cbb505c35021566ac66e7db3a-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#231111",
-        "secondary": "#FFE7D6",
-        "label": "#080808"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6479200d46d2364cbb505c35021566ac66e7db3a-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#231111",
-        "secondary": "#FFE7D6",
-        "label": "#080808"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Apprenez comment l'heure de gloire de T1 s'est transformée en skins."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game-updates"
-    },
-    "analytics": {
-      "contentId": "0d6100ba-0cea-4495-b1e2-a736dd12cc71.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1Sp6el",
-      "publishDate": "2025-08-28T15:00:00.000Z"
     }
   }
 ]

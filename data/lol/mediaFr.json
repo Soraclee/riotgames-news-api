@@ -1,5 +1,86 @@
 [
   {
+    "title": "Manifestations éternelles du soleil et de la lune",
+    "publishedAt": "2026-05-11T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "7kUg23gAy0g",
+        "videoLengthInSeconds": 131,
+        "url": "https://www.youtube.com/watch?v=7kUg23gAy0g"
+      }
+    },
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/73e5d7dc45ad4457db81cddbe3aed93dead2223b-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#100810",
+        "secondary": "#FFEFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 720,
+        "width": 1280,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/73e5d7dc45ad4457db81cddbe3aed93dead2223b-1280x720.jpg?accountingTag=LoL",
+      "colors": {
+        "primary": "#100810",
+        "secondary": "#FFEFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Le Soleil et Lune sont en parfaite harmonie. Mais pour combien de temps encore ?"
+    },
+    "category": {
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
+      "machineName": "media"
+    },
+    "analytics": {
+      "contentId": "5f4565f0-c563-4ec8-bbc9-eb92f31d868e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "I2q7wxkx1kFxoQqExxFIze",
+      "publishDate": "2026-05-11T15:00:00.000Z"
+    }
+  },
+  {
     "title": "Bande-annonce acte I : Pandémonium",
     "publishedAt": "2026-04-14T15:00:00.000Z",
     "promoCardSize": "small",
@@ -80,7 +161,7 @@
     },
     "description": {
       "type": "html",
-      "body": "L'acte I sera disponible dans le patch 26.09."
+      "body": "Les démons se déchaînent. Vayne est en chasse. Mais quelque chose d'autre se cache dans l'ombre..."
     },
     "category": {
       "title": "Médias",
@@ -90,7 +171,7 @@
     "analytics": {
       "contentId": "3f638ad4-b154-42bd-8f96-8de56c1801d3.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "QEVRm1pZNxFN4JPIcZyDss",
+      "rev": "xzJHDkjaEEloDSSKMrzYFi",
       "publishDate": "2026-04-14T15:00:00.000Z"
     }
   },
@@ -23683,187 +23764,6 @@
       "contentId": "articles.blt482d43362771d5ca.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrjxcb",
-      "publishDate": "2021-07-02T15:00:00.000Z"
-    }
-  },
-  {
-    "title": "Sessions : Vi - déjà disponible",
-    "publishedAt": "2021-07-02T15:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "G8a45UZJGh4",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=G8a45UZJGh4"
-      }
-    },
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_key": "DRqrIzXK",
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2024-04-27T02:07:43Z",
-              "_id": "image-bd4b3ca90aef83d47620bf0c3ebd30e88ef30653-1600x1080-jpg",
-              "_rev": "5xBFIcRPz0p0p32ItXxGIc",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2024-04-27T02:07:43Z",
-              "assetId": "bd4b3ca90aef83d47620bf0c3ebd30e88ef30653",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "blurHash": "VLHwa4mk24t9j|K%IBOtxb#=-DkENGo0RiE3kUwJS4oh",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                },
-                "hasAlpha": false,
-                "isOpaque": true,
-                "palette": {
-                  "_type": "sanity.imagePalette",
-                  "darkMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#77415c",
-                    "foreground": "#fff",
-                    "population": 1.79,
-                    "title": "#fff"
-                  },
-                  "darkVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#5a298c",
-                    "foreground": "#fff",
-                    "population": 0.51,
-                    "title": "#fff"
-                  },
-                  "dominant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#79b8f0",
-                    "foreground": "#000",
-                    "population": 6.86,
-                    "title": "#fff"
-                  },
-                  "lightMuted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#b0b9d8",
-                    "foreground": "#000",
-                    "population": 1.33,
-                    "title": "#fff"
-                  },
-                  "lightVibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#79b8f0",
-                    "foreground": "#000",
-                    "population": 6.86,
-                    "title": "#fff"
-                  },
-                  "muted": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#ad6097",
-                    "foreground": "#fff",
-                    "population": 6.45,
-                    "title": "#fff"
-                  },
-                  "vibrant": {
-                    "_type": "sanity.imagePaletteSwatch",
-                    "background": "#34a4dc",
-                    "foreground": "#fff",
-                    "population": 0,
-                    "title": "#fff"
-                  }
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "070221_Sessions_T1Decluttered.jpg",
-              "path": "images/dsfx7636/news_live/bd4b3ca90aef83d47620bf0c3ebd30e88ef30653-1600x1080.jpg",
-              "sha1hash": "bd4b3ca90aef83d47620bf0c3ebd30e88ef30653",
-              "size": 427865,
-              "uploadId": "yv2SyOwTpt6kqWEbBNW25MqHU55GW6VJ",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bd4b3ca90aef83d47620bf0c3ebd30e88ef30653-1600x1080.jpg",
-              "dataset": "news_live"
-            }
-          }
-        },
-        "hideCTAButton": false,
-        "t1CTA": "Découvrez-la",
-        "t1Description": "",
-        "t1Subtitle": "Sessions:",
-        "t1Title": "Sessions : Vi"
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e53748901de1ee166387c8d1afa769d75a8629ec-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#8B6DB8",
-        "secondary": "#2A2933",
-        "label": "#3B2C52"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e53748901de1ee166387c8d1afa769d75a8629ec-1920x1080.jpg?accountingTag=LoL",
-      "colors": {
-        "primary": "#8B6DB8",
-        "secondary": "#2A2933",
-        "label": "#3B2C52"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Voici Sessions : Vi, une collection de musique gratuite pour les créateurs."
-    },
-    "category": {
-      "title": "Médias",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore.",
-      "machineName": "media"
-    },
-    "analytics": {
-      "contentId": "articles.blt12b79edc230bf636.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvrZqnH",
       "publishDate": "2021-07-02T15:00:00.000Z"
     }
   }
