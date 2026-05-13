@@ -160,6 +160,85 @@
     }
   },
   {
+    "title": "Nouvelles fonctionnalités de duo pour 2XKO",
+    "publishedAt": "2026-05-07T16:00:00.000Z",
+    "promoCardSize": "small",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/new-duo-features-coming-to-2xko-next-week"
+      }
+    },
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a0b34b47202db8fb507dc3ee4b9da0d35bb9b85c-1920x1080.jpg?accountingTag=2XKO",
+      "colors": {
+        "primary": "#274D40",
+        "secondary": "#DCF9F9",
+        "label": "#09231A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a0b34b47202db8fb507dc3ee4b9da0d35bb9b85c-1920x1080.jpg?accountingTag=2XKO",
+      "colors": {
+        "primary": "#274D40",
+        "secondary": "#DCF9F9",
+        "label": "#09231A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "La recherche de duo en jeu, le chat vocal et une toute nouvelle fusion arrivent avec le patch 1.2.1."
+    },
+    "category": {
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu.",
+      "machineName": "game_updates"
+    },
+    "analytics": {
+      "contentId": "5e3d22d1-765c-4d5c-bddd-9aef9f36e299.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "y78qvoqL2auO3AuBz1i06L",
+      "publishDate": "2026-05-07T16:00:00.000Z"
+    }
+  },
+  {
     "title": "Méga-pack Lune de sang disponible",
     "publishedAt": "2026-04-30T16:30:00.000Z",
     "promoCardSize": "medium",
@@ -591,7 +670,6 @@
     },
     "channelsConfiguration": [
       {
-        "_key": "055e532c85bc",
         "_type": "clientInternalLinkT1",
         "hideCTAButton": true,
         "t1CTA": "REGARDER",
