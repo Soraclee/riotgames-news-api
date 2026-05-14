@@ -79,6 +79,87 @@
     }
   },
   {
+    "title": "Compétition, modes, équilibrage des agents et autres // Dev Updates",
+    "publishedAt": "2026-05-12T13:00:00.000Z",
+    "promoCardSize": "medium",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "K7CXd6XT9Ss",
+        "videoLengthInSeconds": 610,
+        "url": "https://www.youtube.com/watch?v=K7CXd6XT9Ss"
+      }
+    },
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1081,
+        "width": 1920,
+        "aspectRatio": 1.7761332099907492
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1eb4ac1e64930bb947decc95ff6b0469df8b337a-1920x1081.jpg?accountingTag=VAL",
+      "colors": {
+        "primary": "#172E2B",
+        "secondary": "#DCE7F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1081,
+        "width": 1920,
+        "aspectRatio": 1.7761332099907492
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1eb4ac1e64930bb947decc95ff6b0469df8b337a-1920x1081.jpg?accountingTag=VAL",
+      "colors": {
+        "primary": "#172E2B",
+        "secondary": "#DCE7F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "L'équipe des développeurs vient faire un point de milieu d'année sur plusieurs sujets."
+    },
+    "category": {
+      "title": "Dev",
+      "description": "Les coulisses de VALORANT.",
+      "machineName": "dev"
+    },
+    "analytics": {
+      "contentId": "c85443df-a084-41e2-8908-e90c139eaae4.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "SW98lhm8bHm7ac0t8yphRh",
+      "publishDate": "2026-05-12T13:00:00.000Z"
+    }
+  },
+  {
     "title": "Shotcall phase 1 des play-offs VCT",
     "publishedAt": "2026-05-08T19:00:00.000Z",
     "promoCardSize": "medium",
@@ -16065,85 +16146,6 @@
     },
     "analytics": {
       "contentId": "ce9ab2da-ac6a-48ed-8892-84dba7cd115a.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "a4mhqh9AqcuhVS2XlP3wsP",
-      "publishDate": "2024-09-20T16:00:00.000Z"
-    }
-  },
-  {
-    "title": "Vanguard x VALORANT",
-    "publishedAt": "2024-09-20T16:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/vanguard-x-valorant"
-      }
-    },
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/755cad32023fc3a6cc4e55d6a084ba803a561772-1920x1080.jpg?accountingTag=VAL",
-      "colors": {
-        "primary": "#3E1F2D",
-        "secondary": "#F9DCE2",
-        "label": "#11040A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/755cad32023fc3a6cc4e55d6a084ba803a561772-1920x1080.jpg?accountingTag=VAL",
-      "colors": {
-        "primary": "#3E1F2D",
-        "secondary": "#F9DCE2",
-        "label": "#11040A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "L'anti-triche continue d'évoluer avec les tricheurs."
-    },
-    "category": {
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu.",
-      "machineName": "game_updates"
-    },
-    "analytics": {
-      "contentId": "c9696bf6-8787-45de-ba08-c35848a94181.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "a4mhqh9AqcuhVS2XlP3wsP",
       "publishDate": "2024-09-20T16:00:00.000Z"

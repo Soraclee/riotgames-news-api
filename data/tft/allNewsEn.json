@@ -1,5 +1,85 @@
 [
   {
+    "title": "K.O. Coliseum Choncc's Treasure is here!",
+    "publishedAt": "2026-05-13T17:00:00.000Z",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "youtubeId": "m4qJUuHKRyw",
+        "videoLengthInSeconds": 40,
+        "url": "https://www.youtube.com/watch?v=m4qJUuHKRyw"
+      }
+    },
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "provider": "sanity",
+        "type": "image",
+        "dimensions": {
+          "height": 24,
+          "width": 24,
+          "aspectRatio": 1
+        },
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "media": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2928cbc3dc8e3c0ad5e4d11a23d5037f17067082-1920x1080.jpg?accountingTag=TFT",
+      "colors": {
+        "primary": "#433D22",
+        "secondary": "#EFF9DC",
+        "label": "#171406"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "provider": "sanity",
+      "type": "image",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920,
+        "aspectRatio": 1.7777777777777777
+      },
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2928cbc3dc8e3c0ad5e4d11a23d5037f17067082-1920x1080.jpg?accountingTag=TFT",
+      "colors": {
+        "primary": "#433D22",
+        "secondary": "#EFF9DC",
+        "label": "#171406"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "description": {
+      "type": "html",
+      "body": "Set 15 K.O. Coliseum is back but with a Chonccy twist!"
+    },
+    "category": {
+      "title": "Announcements",
+      "description": "Looking for need-to-know game info? You'll find it here.",
+      "machineName": "announcements"
+    },
+    "analytics": {
+      "contentId": "986f44a6-2c92-408f-80b8-eabdc8f01caf.en-us",
+      "contentLocale": "en-us",
+      "rev": "wrKT7BVy4TFkkkOeEr3mr9",
+      "publishDate": "2026-05-13T17:00:00.000Z"
+    }
+  },
+  {
     "title": "Teamfight Tactics patch 17.3",
     "publishedAt": "2026-05-12T18:00:00.000Z",
     "action": {
@@ -73,7 +153,7 @@
     "analytics": {
       "contentId": "41178517-b648-460c-a18a-ae15834fc195.en-us",
       "contentLocale": "en-us",
-      "rev": "QavWOtrNu5YKyceYUPdF85",
+      "rev": "48pFFXMiVTWIbp8yExWsQK",
       "publishDate": "2026-05-12T18:00:00.000Z"
     }
   },
@@ -20110,136 +20190,6 @@
       "contentId": "94b66d3d-8414-49b9-8326-dcf25983f884.en-us",
       "contentLocale": "en-us",
       "rev": "8QRzT8YuZEmTpSBtK9TtxY",
-      "publishDate": "2025-03-16T19:00:00.000Z"
-    }
-  },
-  {
-    "title": "TFT Dev Drop: Cyber City",
-    "publishedAt": "2025-03-16T19:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "9Ya0bURN_Zc",
-        "videoLengthInSeconds": 1002,
-        "url": "https://www.youtube.com/watch?v=9Ya0bURN_Zc"
-      }
-    },
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "channelsConfiguration": [
-      {
-        "_type": "clientInternalLinkT1",
-        "backdropImage": {
-          "_type": "multimediaAsset",
-          "mediaType": "image",
-          "provider": "sanity",
-          "sanityImage": {
-            "_type": "image",
-            "asset": {
-              "_createdAt": "2025-03-14T05:52:30Z",
-              "_id": "image-274a30f8e201bc1d332390e4153e897505d49d47-1600x1080-jpg",
-              "_type": "sanity.imageAsset",
-              "_updatedAt": "2025-04-08T10:31:19Z",
-              "assetId": "274a30f8e201bc1d332390e4153e897505d49d47",
-              "extension": "jpg",
-              "metadata": {
-                "_type": "sanity.imageMetadata",
-                "dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "aspectRatio": 1.4814814814814814,
-                  "height": 1080,
-                  "width": 1600
-                }
-              },
-              "mimeType": "image/jpeg",
-              "originalFilename": "TFT_S1425_Thumbnails_Client-T1-Decluttered_DevDrop_16000x1080_v002_SUMMONER.jpg",
-              "path": "images/dsfx7636/news/274a30f8e201bc1d332390e4153e897505d49d47-1600x1080.jpg",
-              "sha1hash": "274a30f8e201bc1d332390e4153e897505d49d47",
-              "size": 199981,
-              "uploadId": "5jz4DaSZd2FMZsT1njnkMvf5jiNcqd4R",
-              "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/274a30f8e201bc1d332390e4153e897505d49d47-1600x1080.jpg"
-            }
-          }
-        },
-        "hideCTAButton": true,
-        "t1Subtitle": "TFT Dev Drop",
-        "t1Title": "Cyber City",
-        "t1VideoEmbed": {
-          "_type": "multimediaAsset",
-          "mediaType": "video",
-          "provider": "youtube",
-          "youtubeAsset": {
-            "_type": "videoYoutube",
-            "videoID": "9Ya0bURN_Zc"
-          }
-        }
-      }
-    ],
-    "media": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a6cf1e61c630df98af04a770939f1535e1f7f27f-1920x1080.jpg?accountingTag=TFT",
-      "colors": {
-        "primary": "#121020",
-        "secondary": "#E1DCF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "provider": "sanity",
-      "type": "image",
-      "dimensions": {
-        "height": 1080,
-        "width": 1920,
-        "aspectRatio": 1.7777777777777777
-      },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a6cf1e61c630df98af04a770939f1535e1f7f27f-1920x1080.jpg?accountingTag=TFT",
-      "colors": {
-        "primary": "#121020",
-        "secondary": "#E1DCF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "description": {
-      "type": "html",
-      "body": "Build your crew. Expand your turf. Hack the system."
-    },
-    "category": {
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of Teamfight Tactics.",
-      "machineName": "dev"
-    },
-    "analytics": {
-      "contentId": "eb001d03-b01c-41fc-a99b-1d748ffbc875.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1Q7TjT",
       "publishDate": "2025-03-16T19:00:00.000Z"
     }
   }
