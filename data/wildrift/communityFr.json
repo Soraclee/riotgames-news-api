@@ -1,44 +1,14 @@
 [
   {
-    "title": "Joyeux 5e anniversaire",
-    "publishedAt": "2025-10-23T14:30:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "YGFsupgEWvw",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=YGFsupgEWvw"
-      }
-    },
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "provider": "sanity",
-        "type": "image",
-        "dimensions": {
-          "height": 24,
-          "width": 24,
-          "aspectRatio": 1
-        },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
     "media": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d479420c61b774e3b07ad4b6002ea99738750a6b-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 1080,
         "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d479420c61b774e3b07ad4b6002ea99738750a6b-1920x1080.jpg?accountingTag=WR",
       "colors": {
         "primary": "#A1A5B8",
         "secondary": "#292C33",
@@ -47,14 +17,14 @@
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d479420c61b774e3b07ad4b6002ea99738750a6b-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 1080,
         "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d479420c61b774e3b07ad4b6002ea99738750a6b-1920x1080.jpg?accountingTag=WR",
       "colors": {
         "primary": "#A1A5B8",
         "secondary": "#292C33",
@@ -62,61 +32,62 @@
       },
       "mimeType": "image/jpeg"
     },
-    "description": {
-      "type": "html",
-      "body": "Vous êtes Wild Rift, et Wild Rift c'est vous. Joyeux 5e anniversaire à nous."
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
+    "title": "Joyeux 5e anniversaire",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=YGFsupgEWvw",
+        "youtubeId": "YGFsupgEWvw",
+        "videoLengthInSeconds": 0
+      }
     },
     "analytics": {
       "contentId": "075b6b57-df1e-4c98-a793-3f45d71a5750.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvguAcV",
       "publishDate": "2025-10-23T14:30:00.000Z"
-    }
-  },
-  {
-    "title": "Guide de cosplay Combattants spirituels : manche 2",
-    "publishedAt": "2023-08-11T23:00:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.riotgames.com/fr/actus/guide-de-cosplay-combattants-spirituels-manche-2"
-      }
     },
+    "category": {
+      "machineName": "community",
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté."
+    },
+    "description": {
+      "type": "html",
+      "body": "Vous êtes Wild Rift, et Wild Rift c'est vous. Joyeux 5e anniversaire à nous."
+    },
+    "publishedAt": "2025-10-23T14:30:00.000Z",
+    "promoCardSize": "small",
     "product": {
       "title": "Wildrift",
       "machineName": "wildrift",
       "id": "product.wildrift.fr-fr",
       "media": {
-        "provider": "sanity",
         "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
         "dimensions": {
-          "height": 24,
           "width": 24,
+          "height": 24,
           "aspectRatio": 1
         },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
         "colors": {
           "primary": "#2ed5ff"
         },
         "mimeType": "image/svg+xml"
       }
-    },
+    }
+  },
+  {
     "media": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/635fa5cad61ed7c6d1d0785c72edb4715625d3c4-1280x720.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 720,
         "width": 1280,
+        "height": 720,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/635fa5cad61ed7c6d1d0785c72edb4715625d3c4-1280x720.jpg?accountingTag=WR",
       "colors": {
         "primary": "#211123",
         "secondary": "#F4FFD6",
@@ -125,14 +96,14 @@
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/635fa5cad61ed7c6d1d0785c72edb4715625d3c4-1280x720.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 720,
         "width": 1280,
+        "height": 720,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/635fa5cad61ed7c6d1d0785c72edb4715625d3c4-1280x720.jpg?accountingTag=WR",
       "colors": {
         "primary": "#211123",
         "secondary": "#F4FFD6",
@@ -140,61 +111,61 @@
       },
       "mimeType": "image/jpeg"
     },
-    "description": {
-      "type": "html",
-      "body": "Utilisez vos cosplays pour incarner l'âme de ces Combattants !"
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
+    "title": "Guide de cosplay Combattants spirituels : manche 2",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://www.riotgames.com/fr/actus/guide-de-cosplay-combattants-spirituels-manche-2",
+        "isExternal": true
+      }
     },
     "analytics": {
       "contentId": "articles.blt91c6901ebd8c431e.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOHrkVu",
       "publishDate": "2023-08-11T23:00:00.000Z"
-    }
-  },
-  {
-    "title": "Guide de cosplay Combattants spirituels : manche 1",
-    "publishedAt": "2023-07-27T23:00:00.000Z",
-    "promoCardSize": "medium",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://www.riotgames.com/fr/actus/guide-de-cosplay-combattants-spirituels-manche-1"
-      }
     },
+    "category": {
+      "machineName": "community",
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté."
+    },
+    "description": {
+      "type": "html",
+      "body": "Utilisez vos cosplays pour incarner l'âme de ces Combattants !"
+    },
+    "publishedAt": "2023-08-11T23:00:00.000Z",
+    "promoCardSize": "small",
     "product": {
       "title": "Wildrift",
       "machineName": "wildrift",
       "id": "product.wildrift.fr-fr",
       "media": {
-        "provider": "sanity",
         "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
         "dimensions": {
-          "height": 24,
           "width": 24,
+          "height": 24,
           "aspectRatio": 1
         },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
         "colors": {
           "primary": "#2ed5ff"
         },
         "mimeType": "image/svg+xml"
       }
-    },
+    }
+  },
+  {
     "media": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/75e7a3b90f2e1a1c0be1faff01070e8b4112dbc1-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 1080,
         "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/75e7a3b90f2e1a1c0be1faff01070e8b4112dbc1-1920x1080.jpg?accountingTag=WR",
       "colors": {
         "primary": "#4A274E",
         "secondary": "#F9DCF2",
@@ -203,14 +174,14 @@
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/75e7a3b90f2e1a1c0be1faff01070e8b4112dbc1-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 1080,
         "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/75e7a3b90f2e1a1c0be1faff01070e8b4112dbc1-1920x1080.jpg?accountingTag=WR",
       "colors": {
         "primary": "#4A274E",
         "secondary": "#F9DCF2",
@@ -218,62 +189,61 @@
       },
       "mimeType": "image/jpeg"
     },
-    "description": {
-      "type": "html",
-      "body": "Utilisez vos cosplays pour incarner l'âme de ces Combattants !"
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
+    "title": "Guide de cosplay Combattants spirituels : manche 1",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://www.riotgames.com/fr/actus/guide-de-cosplay-combattants-spirituels-manche-1",
+        "isExternal": true
+      }
     },
     "analytics": {
       "contentId": "articles.blt9e233aae1b2e63d7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOHrkVu",
       "publishDate": "2023-07-27T23:00:00.000Z"
-    }
-  },
-  {
-    "title": "Sessions : Vi - déjà disponible",
-    "publishedAt": "2021-07-02T15:15:00.000Z",
-    "promoCardSize": "small",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "youtubeId": "G8a45UZJGh4",
-        "videoLengthInSeconds": 0,
-        "url": "https://www.youtube.com/watch?v=G8a45UZJGh4"
-      }
     },
+    "category": {
+      "machineName": "community",
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté."
+    },
+    "description": {
+      "type": "html",
+      "body": "Utilisez vos cosplays pour incarner l'âme de ces Combattants !"
+    },
+    "publishedAt": "2023-07-27T23:00:00.000Z",
+    "promoCardSize": "medium",
     "product": {
       "title": "Wildrift",
       "machineName": "wildrift",
       "id": "product.wildrift.fr-fr",
       "media": {
-        "provider": "sanity",
         "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
         "dimensions": {
-          "height": 24,
           "width": 24,
+          "height": 24,
           "aspectRatio": 1
         },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
         "colors": {
           "primary": "#2ed5ff"
         },
         "mimeType": "image/svg+xml"
       }
-    },
+    }
+  },
+  {
     "media": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2b39ba74a368d2f4117ddcd3cb58b535b6938152-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 1080,
         "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2b39ba74a368d2f4117ddcd3cb58b535b6938152-1920x1080.jpg?accountingTag=WR",
       "colors": {
         "primary": "#8A6EB8",
         "secondary": "#322933",
@@ -282,14 +252,14 @@
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2b39ba74a368d2f4117ddcd3cb58b535b6938152-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 1080,
         "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2b39ba74a368d2f4117ddcd3cb58b535b6938152-1920x1080.jpg?accountingTag=WR",
       "colors": {
         "primary": "#8A6EB8",
         "secondary": "#322933",
@@ -297,61 +267,62 @@
       },
       "mimeType": "image/jpeg"
     },
-    "description": {
-      "type": "html",
-      "body": "Voici Sessions : Vi, une collection de musique gratuite pour les créateurs."
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
+    "title": "Sessions : Vi - déjà disponible",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=G8a45UZJGh4",
+        "youtubeId": "G8a45UZJGh4",
+        "videoLengthInSeconds": 0
+      }
     },
     "analytics": {
       "contentId": "articles.blt843da0f2e3a34c33.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgzMcV",
       "publishDate": "2021-07-02T15:15:00.000Z"
-    }
-  },
-  {
-    "title": "Sessions",
+    },
+    "category": {
+      "machineName": "community",
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté."
+    },
+    "description": {
+      "type": "html",
+      "body": "Voici Sessions : Vi, une collection de musique gratuite pour les créateurs."
+    },
     "publishedAt": "2021-07-02T15:15:00.000Z",
     "promoCardSize": "small",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://sessions.riotgames.com"
-      }
-    },
     "product": {
       "title": "Wildrift",
       "machineName": "wildrift",
       "id": "product.wildrift.fr-fr",
       "media": {
-        "provider": "sanity",
         "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
         "dimensions": {
-          "height": 24,
           "width": 24,
+          "height": 24,
           "aspectRatio": 1
         },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
         "colors": {
           "primary": "#2ed5ff"
         },
         "mimeType": "image/svg+xml"
       }
-    },
+    }
+  },
+  {
     "media": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1aefd3e582e540dab74138b3b748f8cf5513f6bf-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 1080,
         "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1aefd3e582e540dab74138b3b748f8cf5513f6bf-1920x1080.jpg?accountingTag=WR",
       "colors": {
         "primary": "#6291B8",
         "secondary": "#332933",
@@ -360,14 +331,14 @@
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1aefd3e582e540dab74138b3b748f8cf5513f6bf-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 1080,
         "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1aefd3e582e540dab74138b3b748f8cf5513f6bf-1920x1080.jpg?accountingTag=WR",
       "colors": {
         "primary": "#6291B8",
         "secondary": "#332933",
@@ -375,60 +346,61 @@
       },
       "mimeType": "image/jpeg"
     },
-    "description": {
-      "type": "html",
-      "body": "Une collection de musique que tout le monde peut utiliser dans son contenu sans se soucier de problèmes de copyright."
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
+    "title": "Sessions",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://sessions.riotgames.com",
+        "isExternal": true
+      }
     },
     "analytics": {
       "contentId": "articles.blta79ffc86fca5a1e3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOHrkVu",
       "publishDate": "2021-07-02T15:15:00.000Z"
-    }
-  },
-  {
-    "title": "Défi de Wukong",
-    "publishedAt": "2020-12-25T00:00:00.000Z",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "isExternal": true,
-        "url": "https://support-wildrift.riotgames.com/hc/fr/articles/360059916253"
-      }
     },
+    "category": {
+      "machineName": "community",
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté."
+    },
+    "description": {
+      "type": "html",
+      "body": "Une collection de musique que tout le monde peut utiliser dans son contenu sans se soucier de problèmes de copyright."
+    },
+    "publishedAt": "2021-07-02T15:15:00.000Z",
+    "promoCardSize": "small",
     "product": {
       "title": "Wildrift",
       "machineName": "wildrift",
       "id": "product.wildrift.fr-fr",
       "media": {
-        "provider": "sanity",
         "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
         "dimensions": {
-          "height": 24,
           "width": 24,
+          "height": 24,
           "aspectRatio": 1
         },
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
         "colors": {
           "primary": "#2ed5ff"
         },
         "mimeType": "image/svg+xml"
       }
-    },
+    }
+  },
+  {
     "media": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d071a29bcbc02843b28efb127c1e0e851b30e228-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 1080,
         "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d071a29bcbc02843b28efb127c1e0e851b30e228-1920x1080.jpg?accountingTag=WR",
       "colors": {
         "primary": "#9DB857",
         "secondary": "#332B29",
@@ -437,14 +409,14 @@
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
-      "provider": "sanity",
       "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d071a29bcbc02843b28efb127c1e0e851b30e228-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
-        "height": 1080,
         "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d071a29bcbc02843b28efb127c1e0e851b30e228-1920x1080.jpg?accountingTag=WR",
       "colors": {
         "primary": "#9DB857",
         "secondary": "#332B29",
@@ -452,20 +424,48 @@
       },
       "mimeType": "image/jpeg"
     },
-    "description": {
-      "type": "html",
-      "body": "Prêts à montrer ce que vous savez faire ? Relevez le défi de Wukong à l'occasion de notre tout nouvel événement et déverrouillez le Roi des singes en personne."
-    },
-    "category": {
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté.",
-      "machineName": "community"
+    "title": "Défi de Wukong",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://support-wildrift.riotgames.com/hc/fr/articles/360059916253",
+        "isExternal": true
+      }
     },
     "analytics": {
       "contentId": "articles.bltb53459fcea595afb.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvh17qt",
       "publishDate": "2020-12-25T00:00:00.000Z"
+    },
+    "category": {
+      "machineName": "community",
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté."
+    },
+    "description": {
+      "type": "html",
+      "body": "Prêts à montrer ce que vous savez faire ? Relevez le défi de Wukong à l'occasion de notre tout nouvel événement et déverrouillez le Roi des singes en personne."
+    },
+    "publishedAt": "2020-12-25T00:00:00.000Z",
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
     }
   }
 ]
