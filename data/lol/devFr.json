@@ -3,44 +3,46 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a1f4109a2de1ca2f40486976348602594bb4fbc2-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76d840770029a2145ec9b702060cc1f3ef24b5b8-1280x720.jpg?accountingTag=LoL",
       "dimensions": {
-        "width": 1920,
-        "height": 1080,
+        "width": 1280,
+        "height": 720,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#3F2035",
-        "secondary": "#DCF9E0",
-        "label": "#12050E"
+        "primary": "#18110C",
+        "secondary": "#FFEFD6",
+        "label": "#000000"
       },
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a1f4109a2de1ca2f40486976348602594bb4fbc2-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76d840770029a2145ec9b702060cc1f3ef24b5b8-1280x720.jpg?accountingTag=LoL",
       "dimensions": {
-        "width": 1920,
-        "height": 1080,
+        "width": 1280,
+        "height": 720,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#3F2035",
-        "secondary": "#DCF9E0",
-        "label": "#12050E"
+        "primary": "#18110C",
+        "secondary": "#FFEFD6",
+        "label": "#000000"
       },
       "mimeType": "image/jpeg"
     },
-    "title": "/dev : Optimisation maximale des optimisations en ARAM du chaos",
+    "title": "Dev Update : ARAM du chaos, classé 5c5 et plus",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "url": "/fr-fr/news/dev/dev-augmentmaxxing-aram-mayhem"
+        "url": "https://www.youtube.com/watch?v=qVGCm_aY09s",
+        "youtubeId": "qVGCm_aY09s",
+        "videoLengthInSeconds": 441
       }
     },
     "analytics": {
-      "contentId": "5ce5e226-7cb9-4e7b-92f9-3e3e4084dfae.fr-fr",
+      "contentId": "8818e909-88c0-4b74-b499-50e10fdfc6b7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "BgDhxvmlW8enVZWLTNRuPE",
       "publishDate": "2026-05-27T20:00:00.000Z"
@@ -52,7 +54,7 @@
     },
     "description": {
       "type": "html",
-      "body": "Encore plus de chaos vous attend à partir de la 26.12 !"
+      "body": "Pabro, Meddler, Phlox, et Cadmus discutent ARAM du chaos, classé 5c5, skins, MSI et plus."
     },
     "publishedAt": "2026-05-27T20:00:00.000Z",
     "promoCardSize": "medium",
@@ -161,87 +163,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76d840770029a2145ec9b702060cc1f3ef24b5b8-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#18110C",
-        "secondary": "#FFEFD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76d840770029a2145ec9b702060cc1f3ef24b5b8-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#18110C",
-        "secondary": "#FFEFD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Dev Update : ARAM du chaos, classé 5c5 et plus",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=qVGCm_aY09s",
-        "youtubeId": "qVGCm_aY09s",
-        "videoLengthInSeconds": 441
-      }
-    },
-    "analytics": {
-      "contentId": "8818e909-88c0-4b74-b499-50e10fdfc6b7.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "BgDhxvmlW8enVZWLTNRuPE",
-      "publishDate": "2026-05-27T20:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "Pabro, Meddler, Phlox, et Cadmus discutent ARAM du chaos, classé 5c5, skins, MSI et plus."
-    },
-    "publishedAt": "2026-05-27T20:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -292,6 +213,85 @@
     "description": {
       "type": "html",
       "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
+    },
+    "publishedAt": "2026-05-27T20:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a1f4109a2de1ca2f40486976348602594bb4fbc2-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#3F2035",
+        "secondary": "#DCF9E0",
+        "label": "#12050E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a1f4109a2de1ca2f40486976348602594bb4fbc2-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#3F2035",
+        "secondary": "#DCF9E0",
+        "label": "#12050E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "/dev : Optimisation maximale des optimisations en ARAM du chaos",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-augmentmaxxing-aram-mayhem"
+      }
+    },
+    "analytics": {
+      "contentId": "5ce5e226-7cb9-4e7b-92f9-3e3e4084dfae.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "TX17dXghsnb5ftSP7C02gw",
+      "publishDate": "2026-05-27T20:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Encore plus de chaos vous attend à partir de la 26.12 !"
     },
     "publishedAt": "2026-05-27T20:00:00.000Z",
     "promoCardSize": "medium",
