@@ -3,6 +3,81 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c07f29d903296e00ab9462d7515d7b8d38f53903-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#5A402D",
+        "secondary": "#F9F5DC",
+        "label": "#331D0D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c07f29d903296e00ab9462d7515d7b8d38f53903-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#5A402D",
+        "secondary": "#F9F5DC",
+        "label": "#331D0D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Joyeux mois de la Pride, VALORANT !",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/community/happy-pride-month-valorant"
+      }
+    },
+    "analytics": {
+      "contentId": "5cfe9e44-4b81-4a14-aa8e-445893ac347e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "TX17dXghsnb5ftSP7C2xza",
+      "publishDate": "2026-06-01T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "community",
+      "title": "Communauté",
+      "description": "Retrouvez vos streamers préférés et les créations de la communauté."
+    },
+    "publishedAt": "2026-06-01T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c6b076c15557c2df286a32caf369a29c1f90aec4-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -16019,85 +16094,6 @@
     },
     "publishedAt": "2024-10-28T15:00:00.000Z",
     "promoCardSize": "small",
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/db74ba3d595b8e10cc1eb4c56234bb774f8b2db2-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#422125",
-        "secondary": "#F9DDDC",
-        "label": "#160607"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/db74ba3d595b8e10cc1eb4c56234bb774f8b2db2-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#422125",
-        "secondary": "#F9DDDC",
-        "label": "#160607"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Notes de patch 9.08 de VALORANT",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/valorant-patch-notes-9-08"
-      }
-    },
-    "analytics": {
-      "contentId": "d4c74e67-2cd5-4c2e-8098-7d4f848c1406.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ugA9rRsA0FWcU8w2gwSAe6",
-      "publishDate": "2024-10-22T13:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Des mises à jour pour Yoru, Gekko et Sunset. Nouveau : carte Glitch en CMÉ."
-    },
-    "publishedAt": "2024-10-22T13:00:00.000Z",
-    "promoCardSize": "medium",
     "product": {
       "title": "Valorant (fr-fr)",
       "machineName": "valorant",
