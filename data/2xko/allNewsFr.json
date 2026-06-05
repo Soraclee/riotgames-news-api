@@ -3,6 +3,87 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/39c3aa27eb13f5aff7e7897cd0f32120adc49557-3840x2160.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#142726",
+        "secondary": "#DCF9F1",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/39c3aa27eb13f5aff7e7897cd0f32120adc49557-3840x2160.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#142726",
+        "secondary": "#DCF9F1",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Bande-annonce de gameplay de Thresh",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=zsHwtLPrS6c",
+        "youtubeId": "zsHwtLPrS6c",
+        "videoLengthInSeconds": 0
+      }
+    },
+    "analytics": {
+      "contentId": "d4c7a817-4223-4bf3-bf91-804fa37d82fa.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "OYlq9vsqnhPegeO0M9gbKO",
+      "publishDate": "2026-06-04T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "La délicieuse agonie est prête à vous faucher. Thresh arrive dans 2XKO le 9 juin."
+    },
+    "publishedAt": "2026-06-04T15:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f0bbf3a5f611b52be4db00b15c3497931792e927-1920x1080.jpg?accountingTag=2XKO",
       "dimensions": {
         "width": 1920,
