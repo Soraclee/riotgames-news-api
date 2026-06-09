@@ -3,6 +3,86 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fb7e226a8ab33995edb7956609ccee48c382e7b5-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#3C2850",
+        "secondary": "#DCE8F9",
+        "label": "#180A27"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fb7e226a8ab33995edb7956609ccee48c382e7b5-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#3C2850",
+        "secondary": "#DCE8F9",
+        "label": "#180A27"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Cinématique de Locke - In extremis",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=fsjtKHPVQB0",
+        "youtubeId": "fsjtKHPVQB0",
+        "videoLengthInSeconds": 167
+      }
+    },
+    "analytics": {
+      "contentId": "9bef730c-fb7d-4986-b0d9-328d6f0cc660.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "uKv4uXODHJ97mgTJkeCanb",
+      "publishDate": "2026-06-08T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "media",
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore."
+    },
+    "description": {
+      "type": "html",
+      "body": "Locke a chassé des démons toute sa vie, mais les vieux démons de Vayne vont le mettre à rude épreuve"
+    },
+    "publishedAt": "2026-06-08T15:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d0deb4dbd4e52eef9a7afe69e3e43caf7de88e40-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -16250,87 +16330,6 @@
     "description": {
       "type": "html",
       "body": "Écoutez le thème officiel des Sentinelles de la lumière 2021."
-    },
-    "publishedAt": "2021-07-08T20:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a1de0647c06974fe71fd3fee81caa1369c0a0048-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#201A35",
-        "secondary": "#F9E0DC",
-        "label": "#030206"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a1de0647c06974fe71fd3fee81caa1369c0a0048-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#201A35",
-        "secondary": "#F9E0DC",
-        "label": "#030206"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Avant l'aube",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=GcTgk8K-Ww8",
-        "youtubeId": "GcTgk8K-Ww8",
-        "videoLengthInSeconds": 0
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt3efa5ea28a5a2bbf.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOONSwC",
-      "publishDate": "2021-07-08T20:00:00.000Z"
-    },
-    "category": {
-      "machineName": "media",
-      "title": "Médias",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore."
-    },
-    "description": {
-      "type": "html",
-      "body": "Dans la nuit la plus sombre, une nouvelle Sentinelle se dresse."
     },
     "publishedAt": "2021-07-08T20:00:00.000Z",
     "promoCardSize": "small",
