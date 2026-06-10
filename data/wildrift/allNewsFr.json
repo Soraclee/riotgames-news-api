@@ -3,6 +3,84 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c483ed00418e3e2c9210ac4a5d57b21548b75d15-1920x1080.jpg?accountingTag=WR",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#111B22",
+        "secondary": "#D6F7FF",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c483ed00418e3e2c9210ac4a5d57b21548b75d15-1920x1080.jpg?accountingTag=WR",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#111B22",
+        "secondary": "#D6F7FF",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Aperçu de Skarner",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=NhZca0IGOcw",
+        "youtubeId": "NhZca0IGOcw",
+        "videoLengthInSeconds": 140
+      }
+    },
+    "analytics": {
+      "contentId": "8168715e-64ee-4eb4-b15d-d51e018772ac.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "uKv4uXODHJ97mgTJkeEqiR",
+      "publishDate": "2026-06-10T02:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Goûtez à la puissance séculaire. Skarner s'éveille dans la Faille le 12 juin CEST."
+    },
+    "publishedAt": "2026-06-10T02:00:00.000Z",
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/074e6bec26544017b24a2da53d4714b708541ce8-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
         "width": 1920,
@@ -15387,85 +15465,6 @@
       "body": "Nul secret ne lui échappe. Le monde est sous vos ordres avec Swain, prêt à drainer des âmes dans Wild Rift le 26 mai 2023 à 2h01 CEST."
     },
     "publishedAt": "2023-05-26T04:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5797cbb5f6b85bf238269c70e2e26917956f39fc-1920x1080.jpg?accountingTag=WR",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#130D1B",
-        "secondary": "#FFE2D6",
-        "label": "#020202"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5797cbb5f6b85bf238269c70e2e26917956f39fc-1920x1080.jpg?accountingTag=WR",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#130D1B",
-        "secondary": "#FFE2D6",
-        "label": "#020202"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Aperçu de Swain",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=NeCjYvxzU4c",
-        "youtubeId": "NeCjYvxzU4c",
-        "videoLengthInSeconds": 0
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt16170639b7167d31.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1QJWHH",
-      "publishDate": "2023-05-26T00:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Le monde a besoin de votre génie. Prenez le contrôle avec Swain, Grand général noxien, dès le 26 mai à 02h01 CEST."
-    },
-    "publishedAt": "2023-05-26T00:00:00.000Z",
     "promoCardSize": "medium",
     "product": {
       "title": "Wildrift",

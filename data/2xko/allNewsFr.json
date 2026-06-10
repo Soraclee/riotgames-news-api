@@ -3,47 +3,49 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6e6a15c2e1761bffa26fa514dc389e696311dc7a-1920x1080.jpg?accountingTag=2XKO",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/de93ef6189b4cb62d8187eaec88e6c48474924b3-3840x2160.jpg?accountingTag=2XKO",
       "dimensions": {
-        "width": 1920,
-        "height": 1080,
+        "width": 3840,
+        "height": 2160,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#10201D",
-        "secondary": "#D6FFD6",
-        "label": "#060606"
+        "primary": "#B87386",
+        "secondary": "#2F2933",
+        "label": "#371E25"
       },
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6e6a15c2e1761bffa26fa514dc389e696311dc7a-1920x1080.jpg?accountingTag=2XKO",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/de93ef6189b4cb62d8187eaec88e6c48474924b3-3840x2160.jpg?accountingTag=2XKO",
       "dimensions": {
-        "width": 1920,
-        "height": 1080,
+        "width": 3840,
+        "height": 2160,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#10201D",
-        "secondary": "#D6FFD6",
-        "label": "#060606"
+        "primary": "#B87386",
+        "secondary": "#2F2933",
+        "label": "#371E25"
       },
       "mimeType": "image/jpeg"
     },
-    "title": "Nouveau mode PvE de 2XKO : Ascension",
+    "title": "Méga-pack Fête à la piscine disponible",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "url": "/fr-fr/news/game-updates/the-climb-2xkos-new-pve-mode"
+        "url": "https://www.youtube.com/watch?v=21kmeyMRAbs",
+        "youtubeId": "21kmeyMRAbs",
+        "videoLengthInSeconds": 123
       }
     },
     "analytics": {
-      "contentId": "7461cfa7-5081-426c-8ee8-9434d644e401.fr-fr",
+      "contentId": "fcfd4232-d4ac-4f04-9015-e5afc813ceba.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "zsyn9XAf0Ssv7pooMLrIEn",
-      "publishDate": "2026-06-08T15:00:00.000Z"
+      "rev": "Zw44n8fi4AlLOxaeeCXEk8",
+      "publishDate": "2026-06-09T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -52,9 +54,88 @@
     },
     "description": {
       "type": "html",
-      "body": "Expérimentez avec vos champions préférés au-delà du PvP. Voilà comment le mode fonctionne."
+      "body": "Ils peuvent pas, ils ont piscine. Les méga-packs Fête à la piscine et Soirée piscine sont dispo !"
     },
-    "publishedAt": "2026-06-08T15:00:00.000Z",
+    "publishedAt": "2026-06-09T19:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ad92d5f2d7ada7bc377fe783a4f0215c0461d5d0-1920x1080.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2D5659",
+        "secondary": "#DCDCF9",
+        "label": "#0C2F32"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ad92d5f2d7ada7bc377fe783a4f0215c0461d5d0-1920x1080.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2D5659",
+        "secondary": "#DCDCF9",
+        "label": "#0C2F32"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Notes de patch 2XKO : 1.2.3 (9 juin 2026)",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/2xko-patch-notes-1-2-3-june-9-2026"
+      }
+    },
+    "analytics": {
+      "contentId": "2dedbab0-f5d6-4ad3-91bb-847020e11e6d.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Zw44n8fi4AlLOxaeeCQk9S",
+      "publishDate": "2026-06-09T16:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Le patch 1.2.3 arrive le 9 juin. Trouvez votre duo, débloquez Senna et Thresh et préparez-vous pour l'ascension."
+    },
+    "publishedAt": "2026-06-09T16:00:00.000Z",
     "promoCardSize": "small",
     "product": {
       "title": "2XKO (fr-fr)",
@@ -137,6 +218,85 @@
     },
     "publishedAt": "2026-06-08T15:00:00.000Z",
     "promoCardSize": "medium",
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6e6a15c2e1761bffa26fa514dc389e696311dc7a-1920x1080.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#10201D",
+        "secondary": "#D6FFD6",
+        "label": "#060606"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6e6a15c2e1761bffa26fa514dc389e696311dc7a-1920x1080.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#10201D",
+        "secondary": "#D6FFD6",
+        "label": "#060606"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Nouveau mode PvE de 2XKO : Ascension",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/the-climb-2xkos-new-pve-mode"
+      }
+    },
+    "analytics": {
+      "contentId": "7461cfa7-5081-426c-8ee8-9434d644e401.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Zw44n8fi4AlLOxaeeCMyAT",
+      "publishDate": "2026-06-08T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Expérimentez avec vos champions préférés au-delà du PvP. Voilà comment le mode fonctionne."
+    },
+    "publishedAt": "2026-06-08T15:00:00.000Z",
+    "promoCardSize": "small",
     "product": {
       "title": "2XKO (fr-fr)",
       "machineName": "2xko",

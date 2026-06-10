@@ -3,6 +3,84 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c483ed00418e3e2c9210ac4a5d57b21548b75d15-1920x1080.jpg?accountingTag=WR",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#111B22",
+        "secondary": "#D6F7FF",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c483ed00418e3e2c9210ac4a5d57b21548b75d15-1920x1080.jpg?accountingTag=WR",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#111B22",
+        "secondary": "#D6F7FF",
+        "label": "#070707"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Skarner Champion Overview",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=1DbNy3axbCM",
+        "youtubeId": "1DbNy3axbCM",
+        "videoLengthInSeconds": 139
+      }
+    },
+    "analytics": {
+      "contentId": "8168715e-64ee-4eb4-b15d-d51e018772ac.en-us",
+      "contentLocale": "en-us",
+      "rev": "uKv4uXODHJ97mgTJkeEqiR",
+      "publishDate": "2026-06-10T02:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Find out what it means to have centuries worth of power within you. Skarner emerges on the Rift June 12th UTC."
+    },
+    "publishedAt": "2026-06-10T02:00:00.000Z",
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/074e6bec26544017b24a2da53d4714b708541ce8-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
         "width": 1920,
@@ -15378,83 +15456,6 @@
       "body": "We’re launching two new mechanics, base burning and inhibitor respawns as well as balance updates across the Rift! Welcome to Patch 4.0a!"
     },
     "publishedAt": "2023-02-01T21:30:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4849ea23deb09418248c4c4624a7a25c332a5925-1920x1080.jpg?accountingTag=WR",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#26434C",
-        "secondary": "#F9ECDC",
-        "label": "#091C22"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4849ea23deb09418248c4c4624a7a25c332a5925-1920x1080.jpg?accountingTag=WR",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#26434C",
-        "secondary": "#F9ECDC",
-        "label": "#091C22"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Wild Rift Patch Notes 4.0",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/wild-rift-patch-notes-4-0/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blte592f728de856a8c.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1QNaVV",
-      "publishDate": "2023-01-11T21:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "It’s time zip and zap into Wild Rift’s first patch of the year! Zoe makes her debut, All Random Ultra Rapid Fire (ARURF) mode returns, Lunar New Year celebrations, Ranked S8, a new Wild Pass, and much more! Welcome to Patch 4.0!"
-    },
-    "publishedAt": "2023-01-11T21:00:00.000Z",
     "promoCardSize": "medium",
     "product": {
       "title": "Wildrift",
