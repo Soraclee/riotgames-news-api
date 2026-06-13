@@ -3,6 +3,87 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5b4fb62015bec914a2c6dd1cd401d9ec72b4e537-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#494925",
+        "secondary": "#DCF9F6",
+        "label": "#1E1E08"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5b4fb62015bec914a2c6dd1cd401d9ec72b4e537-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#494925",
+        "secondary": "#DCF9F6",
+        "label": "#1E1E08"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Dev Update : mise à jour technique de TFT",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=xCZeEhhceq8",
+        "youtubeId": "xCZeEhhceq8",
+        "videoLengthInSeconds": 0
+      }
+    },
+    "analytics": {
+      "contentId": "0283fe05-0960-4dd3-8ba9-1797718c2c2c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Z4Q2rNn6piaijnLDRswDos",
+      "publishDate": "2026-06-12T19:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "L'avenir de TFT se dessine grâce à des changements apportés en coulisses. Découvrez ces changements."
+    },
+    "publishedAt": "2026-06-12T19:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/bc476e6e8385d93123bf2886641f359ac176532f-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,

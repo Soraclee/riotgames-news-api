@@ -3,6 +3,85 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/515eaea5eae0d30076ec30a0e9653677b14c5ffe-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#4F60B8",
+        "secondary": "#312933",
+        "label": "#21253D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/515eaea5eae0d30076ec30a0e9653677b14c5ffe-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#4F60B8",
+        "secondary": "#312933",
+        "label": "#21253D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Exclusive Discord Drop",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/exclusive-discord-drop"
+      }
+    },
+    "analytics": {
+      "contentId": "7cabd176-c4e9-4bb8-a003-f7e6e65b4b8f.en-us",
+      "contentLocale": "en-us",
+      "rev": "kCZCfpivYS68msp05QnpG2",
+      "publishDate": "2026-06-12T18:30:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Dates and Details"
+    },
+    "publishedAt": "2026-06-12T18:30:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e83685974edceceef3fd8e0413dac95762816804-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -356,7 +435,7 @@
     "analytics": {
       "contentId": "764a8875-cdc9-4865-83f7-6864f2fe620d.en-us",
       "contentLocale": "en-us",
-      "rev": "HJmXNYczL6aRqGsM8GMR5I",
+      "rev": "Z4Q2rNn6piaijnLDRsmKFc",
       "publishDate": "2026-04-27T13:30:00.000Z"
     },
     "category": {
@@ -15924,85 +16003,6 @@
     },
     "publishedAt": "2022-05-24T13:00:00.000Z",
     "promoCardSize": "small",
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d8a71197eeaa42d49044d0f5a164cbfd9dddbbcb-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#080408",
-        "secondary": "#FFEAD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d8a71197eeaa42d49044d0f5a164cbfd9dddbbcb-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#080408",
-        "secondary": "#FFEAD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "VALORANT Gameplay Consistency Update 2",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/valorant-gameplay-consistency-update-2/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blta471c8ce7c4ad526.en-us",
-      "contentLocale": "en-us",
-      "rev": "ugA9rRsA0FWcU8w2gwiyfW",
-      "publishDate": "2022-05-24T13:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "The VALORANT Gameplay team shares a follow up on their look into game-to-game consistency."
-    },
-    "publishedAt": "2022-05-24T13:00:00.000Z",
-    "promoCardSize": "medium",
     "product": {
       "title": "Valorant (en-us)",
       "machineName": "valorant",
