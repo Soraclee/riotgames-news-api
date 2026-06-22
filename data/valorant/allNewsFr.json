@@ -3,6 +3,87 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9f79e9c4e887ee39b468ccfb59f0b3e285d1f49d-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#241512",
+        "secondary": "#D6FFFF",
+        "label": "#090909"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9f79e9c4e887ee39b468ccfb59f0b3e285d1f49d-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#241512",
+        "secondary": "#D6FFFF",
+        "label": "#090909"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "INFILTRATIONS // Bande-annonce de présentation de Summit",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=EFGVmWS4JWY",
+        "youtubeId": "EFGVmWS4JWY",
+        "videoLengthInSeconds": 186
+      }
+    },
+    "analytics": {
+      "contentId": "8952b40b-1a62-4b36-a563-54d8c1709a9c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "KX9DliTnfkmMKoa5c4FX6C",
+      "publishDate": "2026-06-21T13:03:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Trouvez la beauté du champ de bataille."
+    },
+    "publishedAt": "2026-06-21T13:03:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f24ed6aefe0422f5c6f23925fe874a93dd53df0f-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -16001,80 +16082,6 @@
       "body": "Mise à jour des sentinelles, des contrôleurs, de Phoenix et du gameplay, ajout d'un bouclier régénérateur et plus encore."
     },
     "publishedAt": "2024-11-19T14:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d6b61990cbde40216ebe44448fc9e316126dfe22-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2E2317",
-        "secondary": "#F9E8DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d6b61990cbde40216ebe44448fc9e316126dfe22-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2E2317",
-        "secondary": "#F9E8DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "La finale des Game Changers Championship, c'est ce week-end !",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://valorantesports.com/fr-fr/news/game-changers-championship-finals-this-weekend"
-      }
-    },
-    "analytics": {
-      "contentId": "5244c357-7b05-4076-af12-5a0ca2751454.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "sEwq5NBiPauorOxrhVJEf3",
-      "publishDate": "2024-11-15T16:00:00.000Z"
-    },
-    "description": {
-      "type": "html",
-      "body": "Voici comment suivre le week-end de finale du VALORANT Game Changers Championship Berlin 2024."
-    },
-    "publishedAt": "2024-11-15T16:00:00.000Z",
     "promoCardSize": "medium",
     "product": {
       "title": "Valorant (fr-fr)",
