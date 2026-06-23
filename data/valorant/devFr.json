@@ -3,6 +3,86 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9a59608ca0bd995082b8d2efba9c37de4fabbe42-1920x1081.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1081,
+        "aspectRatio": 1.7761332099907492
+      },
+      "colors": {
+        "primary": "#1A3034",
+        "secondary": "#DCF9F8",
+        "label": "#010505"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9a59608ca0bd995082b8d2efba9c37de4fabbe42-1920x1081.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1081,
+        "aspectRatio": 1.7761332099907492
+      },
+      "colors": {
+        "primary": "#1A3034",
+        "secondary": "#DCF9F8",
+        "label": "#010505"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Mogs de Summit // Dev Diaries",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=8WB4JBXqRH0",
+        "youtubeId": "8WB4JBXqRH0",
+        "videoLengthInSeconds": 449
+      }
+    },
+    "analytics": {
+      "contentId": "54135507-0881-409e-997e-ba7096cf923b.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "UPh8dZuR3f7dkNiMjQbyjO",
+      "publishDate": "2026-06-22T13:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de VALORANT."
+    },
+    "description": {
+      "type": "html",
+      "body": "Les développeurs nous expliquent la conception de la nouvelle carte Summit, située en Chine."
+    },
+    "publishedAt": "2026-06-22T13:00:00.000Z",
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1eb4ac1e64930bb947decc95ff6b0469df8b337a-1920x1081.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,

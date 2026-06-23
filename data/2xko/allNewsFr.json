@@ -3,6 +3,87 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/370ebf847541b2a60cd7eaedecf8fa77b68e0da4-1920x1080.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#33201A",
+        "secondary": "#F9EDDC",
+        "label": "#040201"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/370ebf847541b2a60cd7eaedecf8fa77b68e0da4-1920x1080.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#33201A",
+        "secondary": "#F9EDDC",
+        "label": "#040201"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Bande-annonce : 2XKO à l'Evo 2026",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=7dT32TSV984",
+        "youtubeId": "7dT32TSV984",
+        "videoLengthInSeconds": 310
+      }
+    },
+    "analytics": {
+      "contentId": "ebcd11d7-eb42-4da0-bf58-4484b92c5fcd.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "P2n66r7CkTSd8HVYZtP7UV",
+      "publishDate": "2026-06-22T19:00:00.000Z"
+    },
+    "category": {
+      "machineName": "announcements",
+      "title": "Announcements",
+      "description": "Used for general announcements for 2XKO."
+    },
+    "description": {
+      "type": "html",
+      "body": "Rencontre avec SonicFox et INZEM, bleed, Hikari, et Supernoon avant l'Evo 2026."
+    },
+    "publishedAt": "2026-06-22T19:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/de93ef6189b4cb62d8187eaec88e6c48474924b3-3840x2160.jpg?accountingTag=2XKO",
       "dimensions": {
         "width": 3840,
