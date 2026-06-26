@@ -3,6 +3,86 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fd6592fc3e371c62a5f7f802b49636049e8f06b6-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#563F2B",
+        "secondary": "#F9EDDC",
+        "label": "#2E1C0C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fd6592fc3e371c62a5f7f802b49636049e8f06b6-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#563F2B",
+        "secondary": "#F9EDDC",
+        "label": "#2E1C0C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Call Your Shot | MSI 2026",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=mvXXqz6Zc14",
+        "youtubeId": "mvXXqz6Zc14",
+        "videoLengthInSeconds": 97
+      }
+    },
+    "analytics": {
+      "contentId": "43896763-0e75-4097-87ba-4e4e6851bfff.en-us",
+      "contentLocale": "en-us",
+      "rev": "34vfwECIkc4u8XXBpGkxxr",
+      "publishDate": "2026-06-25T12:00:00.000Z"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Which of these players will call their shot and prove themselves at MSI this year?"
+    },
+    "publishedAt": "2026-06-25T12:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b7d8b6628d2009f6134175a136e386cb014f72fc-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -320,85 +400,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/345c01589386c5bfb2685b2485967ca041836424-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2B1916",
-        "secondary": "#F9F9DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/png"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/345c01589386c5bfb2685b2485967ca041836424-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2B1916",
-        "secondary": "#F9F9DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/png"
-    },
-    "title": "MSI 2026 Jacket",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://merch.riotgames.com/product/msi-2026-jacket/?utm_source=riot&utm_medium=client&utm_campaign=msi2026",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "article.8325914b-144c-46fc-b4de-148c697964ce.en-us",
-      "contentLocale": "en-us",
-      "rev": "2yC4Z1M4wov9l0Ez0hYftJ",
-      "publishDate": "2026-06-22T18:00:00.000Z"
-    },
-    "category": {
-      "machineName": "merch",
-      "title": "Merch",
-      "description": "Browse official merchandise and shop the latest collections in store."
-    },
-    "description": {
-      "type": "html",
-      "body": "Gear up and represent your region with the official MSI 2026 collection and the MSI 2026 Jacket!"
-    },
-    "publishedAt": "2026-06-22T18:00:00.000Z",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d2deccc28d238601fb95f18d0c26700d57d8a3a6-1920x1080.png?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -450,6 +451,85 @@
     "description": {
       "type": "html",
       "body": "Stay cool under the lights of international competition in the MSI 2026 Jersey!"
+    },
+    "publishedAt": "2026-06-22T18:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/345c01589386c5bfb2685b2485967ca041836424-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2B1916",
+        "secondary": "#F9F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/345c01589386c5bfb2685b2485967ca041836424-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2B1916",
+        "secondary": "#F9F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/png"
+    },
+    "title": "MSI 2026 Jacket",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://merch.riotgames.com/product/msi-2026-jacket/?utm_source=riot&utm_medium=client&utm_campaign=msi2026",
+        "isExternal": true
+      }
+    },
+    "analytics": {
+      "contentId": "article.8325914b-144c-46fc-b4de-148c697964ce.en-us",
+      "contentLocale": "en-us",
+      "rev": "2yC4Z1M4wov9l0Ez0hYftJ",
+      "publishDate": "2026-06-22T18:00:00.000Z"
+    },
+    "category": {
+      "machineName": "merch",
+      "title": "Merch",
+      "description": "Browse official merchandise and shop the latest collections in store."
+    },
+    "description": {
+      "type": "html",
+      "body": "Gear up and represent your region with the official MSI 2026 collection and the MSI 2026 Jacket!"
     },
     "publishedAt": "2026-06-22T18:00:00.000Z",
     "product": {
@@ -16013,85 +16093,6 @@
       "body": "Worlds Unlocked is back for 2025 and bigger than ever to celebrate 15 years of Lol Esports."
     },
     "publishedAt": "2025-10-10T17:00:00.000Z",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/637a52d0d2ae3979a49c68e53a3fdb504c5782ec-1601x901.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1601,
-        "height": 901,
-        "aspectRatio": 1.776914539400666
-      },
-      "colors": {
-        "primary": "#B8A4A3",
-        "secondary": "#332929",
-        "label": "#A25D57"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/637a52d0d2ae3979a49c68e53a3fdb504c5782ec-1601x901.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1601,
-        "height": 901,
-        "aspectRatio": 1.776914539400666
-      },
-      "colors": {
-        "primary": "#B8A4A3",
-        "secondary": "#332929",
-        "label": "#A25D57"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Sentinels to Join LCS in 2026",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/en-us/news/sentinels-to-join-lcs-in-2026"
-      }
-    },
-    "analytics": {
-      "contentId": "a7b4657d-903e-4ea4-820d-692f267be230.en-us",
-      "contentLocale": "en-us",
-      "rev": "e5HXxeb4ZXNlunUnrEN5uj",
-      "publishDate": "2025-10-10T17:00:00.000Z"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "A new era, new rivalries, and a new team: Sentinels join the fight."
-    },
-    "publishedAt": "2025-10-10T17:00:00.000Z",
-    "promoCardSize": "small",
     "product": {
       "title": "League of Legends (en-us)",
       "machineName": "league_of_legends",
