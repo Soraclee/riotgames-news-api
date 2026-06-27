@@ -3,6 +3,117 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a2d73fbbae68fb2e55b476dd2be9e3cbe2c9bd7d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#090704",
+        "secondary": "#D6FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a2d73fbbae68fb2e55b476dd2be9e3cbe2c9bd7d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#090704",
+        "secondary": "#D6FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "thumbnail": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a2d73fbbae68fb2e55b476dd2be9e3cbe2c9bd7d-1920x1080.jpg?accountingTag=LoL",
+        "dimensions": {
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.7777777777777777
+        },
+        "colors": {
+          "primary": "#090704",
+          "secondary": "#D6FFD6",
+          "label": "#000000"
+        },
+        "mimeType": "image/jpeg"
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/f94216c60da4cef376a266acf813e9d8ee1cec36.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "200 YEARS OF EXPERIENCE",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=fTH-CylOvcc",
+        "youtubeId": "fTH-CylOvcc",
+        "videoLengthInSeconds": 97
+      }
+    },
+    "analytics": {
+      "contentId": "5062ec11-cf61-4c25-a285-af4fd1e2a7ba.en-us",
+      "contentLocale": "en-us",
+      "rev": "TQkHpxS8RvvttZYgQvleyA",
+      "publishDate": "2026-06-26T22:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Pabro has a breakthrough, he just needs Meddler on board."
+    },
+    "publishedAt": "2026-06-26T22:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a1f4109a2de1ca2f40486976348602594bb4fbc2-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -15780,85 +15891,6 @@
       "body": "Reflections on Challenges as we wrap up PBE testing."
     },
     "publishedAt": "2022-04-08T18:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c9be7e85669c06d1244b5dc7088ebd49d883d058-2000x1125.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#552B54",
-        "secondary": "#F9DCDF",
-        "label": "#2D0B2C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c9be7e85669c06d1244b5dc7088ebd49d883d058-2000x1125.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#552B54",
-        "secondary": "#F9DCDF",
-        "label": "#2D0B2C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "/dev: Making Behavioral Systems Matter More",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-making-behavioral-systems-matter-more/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt7b8d545e0dd30861.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvrvLmD",
-      "publishDate": "2022-03-11T18:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "We're shifting our approach to directly impact your experience and strengthen our community."
-    },
-    "publishedAt": "2022-03-11T18:00:00.000Z",
     "promoCardSize": "medium",
     "product": {
       "title": "League of Legends (en-us)",
