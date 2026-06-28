@@ -3,6 +3,86 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9e2c97d81d6a8f9ea6c96a7ee2d6f651cfc0cf3f-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#101120",
+        "secondary": "#F3D6FF",
+        "label": "#060606"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9e2c97d81d6a8f9ea6c96a7ee2d6f651cfc0cf3f-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#101120",
+        "secondary": "#F3D6FF",
+        "label": "#060606"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Musique de Locke",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=X4wdYWwB2No",
+        "youtubeId": "X4wdYWwB2No",
+        "videoLengthInSeconds": 171
+      }
+    },
+    "analytics": {
+      "contentId": "4f9f2727-412a-4c93-aac6-4849cb95f030.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "34vfwECIkc4u8XXBpJWZAp",
+      "publishDate": "2026-06-26T16:00:00.000Z"
+    },
+    "category": {
+      "machineName": "media",
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore."
+    },
+    "description": {
+      "type": "html",
+      "body": "Voilà une nouvelle musique de chasseur de démons. Découvrez la musique de Locke, l'Exorciste cendré."
+    },
+    "publishedAt": "2026-06-26T16:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/971f6d67bfc2dcefabcabe070030adb86bb80681-6000x3375.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 6000,
@@ -16249,87 +16329,6 @@
       "body": "Dragons, haches et nouvelles recrues : voici ce que vous avez raté dans le Chapitre I de l'Aube des Sentinelles."
     },
     "publishedAt": "2021-07-15T20:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/baedbeab2446d8ed50e032ac53d720ba1e37e229-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1C2A38",
-        "secondary": "#DCE5F9",
-        "label": "#03060A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/baedbeab2446d8ed50e032ac53d720ba1e37e229-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1C2A38",
-        "secondary": "#DCE5F9",
-        "label": "#03060A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Assassins | Conseils tactiques - Teamfight Tactics",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=j3kXrIGIlCQ",
-        "youtubeId": "j3kXrIGIlCQ",
-        "videoLengthInSeconds": 0
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt50fdb0a2c5fb59b0.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOR0FS",
-      "publishDate": "2021-07-12T14:23:16.000Z"
-    },
-    "category": {
-      "machineName": "media",
-      "title": "Médias",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore."
-    },
-    "description": {
-      "type": "html",
-      "body": "Prenez l'avantage avec le style de jeu bien connu et satisfaisant des Assassins !"
-    },
-    "publishedAt": "2021-07-12T14:23:16.000Z",
     "promoCardSize": "small",
     "product": {
       "title": "League of Legends (fr-fr)",
