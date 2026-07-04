@@ -3,6 +3,84 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4353e9ba921e87982daafb549771b2f1e7fa13e0-1920x1080.jpg?accountingTag=WR",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#121825",
+        "secondary": "#DCF4F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4353e9ba921e87982daafb549771b2f1e7fa13e0-1920x1080.jpg?accountingTag=WR",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#121825",
+        "secondary": "#DCF4F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Aperçu de Yunara",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=QiNodw6UGuU",
+        "youtubeId": "QiNodw6UGuU",
+        "videoLengthInSeconds": 128
+      }
+    },
+    "analytics": {
+      "contentId": "5e196bb5-b628-4b25-a8ee-5facdb484321.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "htfNYinYIRMwBFI6hCOkzm",
+      "publishDate": "2026-07-04T02:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Il est temps de remettre de l'ordre dans les mondes. Yunara sera là pour vous aider dès le 9 juillet."
+    },
+    "publishedAt": "2026-07-04T02:00:00.000Z",
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3731c302cb9f66afb8cce365c54a78dfb6874c1d-7308x4608.jpg?accountingTag=WR",
       "focalPoint": "top",
       "dimensions": {
@@ -15384,83 +15462,6 @@
       "body": "Bienvenue dans le dernier patch d'équilibrage du patch Combat au sommet ! Nous continuons à ajuster les tireurs ainsi que quelques autres champions afin d'équilibrer la méta. De plus, préparez-vous à rejoindre la piste de danse avec de nouveaux skins astro-groove !"
     },
     "publishedAt": "2023-06-28T19:30:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/27f3bfd23107b3c35189dbe8819a1bbcdc9d60c1-1920x1080.jpg?accountingTag=WR",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1A0D13",
-        "secondary": "#DCF9F4",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/27f3bfd23107b3c35189dbe8819a1bbcdc9d60c1-1920x1080.jpg?accountingTag=WR",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1A0D13",
-        "secondary": "#DCF9F4",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Illustrations de Wild Rift de juin 2023",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-paintovers-june-2023/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.bltc5e9869259fade04.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvh17qt",
-      "publishDate": "2023-06-28T01:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Préparez-vous au combat avec les illustrations du mois !"
-    },
-    "publishedAt": "2023-06-28T01:00:00.000Z",
     "promoCardSize": "medium",
     "product": {
       "title": "Wildrift",
