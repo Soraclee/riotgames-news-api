@@ -3,6 +3,86 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c29b07975eab231f67625a185ce267d05cdb1896-1280x720.png?accountingTag=2XKO",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#202C40",
+        "secondary": "#DCDEF9",
+        "label": "#050A14"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c29b07975eab231f67625a185ce267d05cdb1896-1280x720.png?accountingTag=2XKO",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#202C40",
+        "secondary": "#DCDEF9",
+        "label": "#050A14"
+      },
+      "mimeType": "image/png"
+    },
+    "title": "2XKO @ Evo 2026 Event Recap",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=yxzUMGpWWAw",
+        "youtubeId": "yxzUMGpWWAw",
+        "videoLengthInSeconds": 892
+      }
+    },
+    "analytics": {
+      "contentId": "b9ace15b-0536-44b7-ad28-9f5eede79742.en-us",
+      "contentLocale": "en-us",
+      "rev": "PTk3ErT1oDs9oUL4bfQLkH",
+      "publishDate": "2026-07-10T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "announcements",
+      "title": "Announcements",
+      "description": "Used for general announcements for 2XKO."
+    },
+    "description": {
+      "type": "html",
+      "body": "From pools to Hikari’s grand finals reset, watch the highlights of 2XKO at Evo 2026."
+    },
+    "publishedAt": "2026-07-10T15:00:00.000Z",
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/28bb5ecc37b2a4683a176881c386bc9455165ca4-1920x1080.jpg?accountingTag=2XKO",
       "dimensions": {
         "width": 1920,

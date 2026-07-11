@@ -3,6 +3,86 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ef3d20f41fa32b1c70c2ee39b54eddc791163f4e-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#593F2D",
+        "secondary": "#F9F2DC",
+        "label": "#321C0C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ef3d20f41fa32b1c70c2ee39b54eddc791163f4e-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#593F2D",
+        "secondary": "#F9F2DC",
+        "label": "#321C0C"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Vous êtes invité·e au Convergence Fest",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=ALr7I7Hn6zA",
+        "youtubeId": "ALr7I7Hn6zA",
+        "videoLengthInSeconds": 58
+      }
+    },
+    "analytics": {
+      "contentId": "11699e56-f1d2-44f2-b452-9aebb497c20a.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "w6fy3M9R6XJttlV96VXrng",
+      "publishDate": "2026-07-10T13:00:00.000Z"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "E-sport",
+      "description": "La scène professionnelle de Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "Le TFT Open et le championnat régional NA de Riftbound se combinent en un événement merveilleux !"
+    },
+    "publishedAt": "2026-07-10T13:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cf2d2a3397ef5ffcbd4ebb38d8e5067586e10fbe-3840x2160.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 3840,
