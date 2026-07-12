@@ -3,6 +3,87 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fe573dda85899aa2d5ec25cdec213aa6f1717386-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#17130B",
+        "secondary": "#FFF5D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fe573dda85899aa2d5ec25cdec213aa6f1717386-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#17130B",
+        "secondary": "#FFF5D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Dev drop TFT : Enchanted Wilds",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=thk8QmsgjIE",
+        "youtubeId": "thk8QmsgjIE",
+        "videoLengthInSeconds": 756
+      }
+    },
+    "analytics": {
+      "contentId": "b572bbf4-4223-4077-a810-35a87cf859ff.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "PTk3ErT1oDs9oUL4bfgYHL",
+      "publishDate": "2026-07-11T13:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "Les devs parlent d'Enchanted Wilds, ses champions, types, cosmétiques, et des esprits de la forêt."
+    },
+    "publishedAt": "2026-07-11T13:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5b4fb62015bec914a2c6dd1cd401d9ec72b4e537-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
