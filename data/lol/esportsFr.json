@@ -396,84 +396,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5c44954b9fd666ff0c0d201502abfdec0240f23c-1600x900.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1600,
-        "height": 900,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8A19C",
-        "secondary": "#332929",
-        "label": "#7E4F44"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5c44954b9fd666ff0c0d201502abfdec0240f23c-1600x900.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1600,
-        "height": 900,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8A19C",
-        "secondary": "#332929",
-        "label": "#7E4F44"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Présentation du MSI 2026",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/fr-fr/news/msi-2026-primer"
-      }
-    },
-    "analytics": {
-      "contentId": "04f16c80-897f-4d8d-80ee-0575dab39339.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "cKCdNw7A6nR1s4IvrOHJZq",
-      "publishDate": "2026-06-15T12:00:00.000Z"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "Tout ce que vous avez besoin de savoir sur le MSI !"
-    },
-    "publishedAt": "2026-06-15T12:00:00.000Z",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e0715a32d06cc20b694f2603313229b26f05203a-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -539,6 +461,84 @@
     "description": {
       "type": "html",
       "body": "Les équipes sont prêtes à se lancer dans le MSI ! Voici ce qu'il faut savoir sur le format 2026."
+    },
+    "publishedAt": "2026-06-15T12:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5c44954b9fd666ff0c0d201502abfdec0240f23c-1600x900.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1600,
+        "height": 900,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B8A19C",
+        "secondary": "#332929",
+        "label": "#7E4F44"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5c44954b9fd666ff0c0d201502abfdec0240f23c-1600x900.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1600,
+        "height": 900,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B8A19C",
+        "secondary": "#332929",
+        "label": "#7E4F44"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Présentation du MSI 2026",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://lolesports.com/fr-fr/news/msi-2026-primer"
+      }
+    },
+    "analytics": {
+      "contentId": "04f16c80-897f-4d8d-80ee-0575dab39339.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "tqx9lAdv64yb9AsOGwYhZE",
+      "publishDate": "2026-06-15T12:00:00.000Z"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Tout ce que vous avez besoin de savoir sur le MSI !"
     },
     "publishedAt": "2026-06-15T12:00:00.000Z",
     "product": {
