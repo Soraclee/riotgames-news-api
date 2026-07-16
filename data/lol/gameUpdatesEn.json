@@ -3,6 +3,101 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/828e792657247c2a3d288548c34a0064cf4de082-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#211910",
+        "secondary": "#F9EEDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/828e792657247c2a3d288548c34a0064cf4de082-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#211910",
+        "secondary": "#F9EEDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/afa119aeb525e929d9de62ad5f2a843db3c7e2d5.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "T1, The Ascended: Worlds 2025 Skins Trailer",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=Sf09lxdDKh4",
+        "youtubeId": "Sf09lxdDKh4",
+        "videoLengthInSeconds": 112
+      }
+    },
+    "analytics": {
+      "contentId": "3efeef0f-e050-4cde-b5b8-0c66b9167c55.en-us",
+      "contentLocale": "en-us",
+      "rev": "3OeNqEdvGxjNGx3uP4g4Se",
+      "publishDate": "2026-07-15T18:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "T1 came. T1 saw. T1 conquered again. Meet T1’s World Championship 2025 team skins, available now."
+    },
+    "publishedAt": "2026-07-15T18:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/46a5ba3715ef3590aa63bb4733f0185db286bc85-1920x1087.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -43,7 +138,8 @@
       "contentId": "d7ef4cbf-0eb5-4406-a295-15ec275ebb89.en-us",
       "contentLocale": "en-us",
       "rev": "B6tyW9voZtxzQPT2L24hC8",
-      "publishDate": "2026-07-14T18:00:00.000Z"
+      "publishDate": "2026-07-14T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -75,7 +171,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -123,7 +225,8 @@
       "contentId": "99bcf75c-74be-49bb-ab67-cad328696b85.en-us",
       "contentLocale": "en-us",
       "rev": "b70jC64epkR0mKkwFGdA3w",
-      "publishDate": "2026-06-24T16:00:00.000Z"
+      "publishDate": "2026-06-24T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -203,7 +306,8 @@
       "contentId": "929bbcae-fd5d-4966-aa71-ea0f19f926e6.en-us",
       "contentLocale": "en-us",
       "rev": "PXGAXmTIf6GyHgNg21dPHd",
-      "publishDate": "2026-06-24T15:00:00.000Z"
+      "publishDate": "2026-06-24T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -281,7 +385,8 @@
       "contentId": "patchNote.6ef2ac7a-4b1b-49f3-815f-02294f0028f5.en-us",
       "contentLocale": "en-us",
       "rev": "TQkHpxS8RvvttZYgQmA5ZK",
-      "publishDate": "2026-06-23T18:00:00.000Z"
+      "publishDate": "2026-06-23T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -313,7 +418,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -360,7 +471,8 @@
       "contentId": "e83c4097-be49-4c7f-9ccc-7f3ae46867b2.en-us",
       "contentLocale": "en-us",
       "rev": "cKCdNw7A6nR1s4IvrKHIZm",
-      "publishDate": "2026-06-10T15:00:00.000Z"
+      "publishDate": "2026-06-10T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -438,7 +550,8 @@
       "contentId": "a69e4903-1fe8-45a7-b693-e2874358f5e0.en-us",
       "contentLocale": "en-us",
       "rev": "uKv4uXODHJ97mgTJkeEIKJ",
-      "publishDate": "2026-06-09T18:00:00.000Z"
+      "publishDate": "2026-06-09T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -470,7 +583,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -518,7 +637,8 @@
       "contentId": "9311b3b2-a3c5-4de8-b6d3-0a5292feb97b.en-us",
       "contentLocale": "en-us",
       "rev": "cKCdNw7A6nR1s4IvrKHIZm",
-      "publishDate": "2026-06-09T15:00:00.000Z"
+      "publishDate": "2026-06-09T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -551,7 +671,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "champion_spotlight",
+        "title": "Champion Spotlight"
+      }
+    ]
   },
   {
     "media": {
@@ -597,7 +723,8 @@
       "contentId": "7a02b594-bb82-4ecf-a96f-7061360f3425.en-us",
       "contentLocale": "en-us",
       "rev": "BgDhxvmlW8enVZWLTNWPON",
-      "publishDate": "2026-05-27T18:00:00.000Z"
+      "publishDate": "2026-05-27T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -629,7 +756,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -677,7 +810,8 @@
       "contentId": "85923565-7c01-4cdc-9c1a-37123e74a122.en-us",
       "contentLocale": "en-us",
       "rev": "BgDhxvmlW8enVZWLTNRuPE",
-      "publishDate": "2026-05-27T17:15:00.000Z"
+      "publishDate": "2026-05-27T17:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -756,7 +890,8 @@
       "contentId": "279dd146-6126-488e-90bb-19a4d1a77d6e.en-us",
       "contentLocale": "en-us",
       "rev": "LZYs3klQoBSuxHRXKYoING",
-      "publishDate": "2026-05-12T18:00:00.000Z"
+      "publishDate": "2026-05-12T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -788,7 +923,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -835,7 +976,8 @@
       "contentId": "fc8de95f-93e4-4e0f-a7dd-e6ab0180c0c9.en-us",
       "contentLocale": "en-us",
       "rev": "ptzaMGu76yVNXPlUVaQ0NH",
-      "publishDate": "2026-04-29T18:00:00.000Z"
+      "publishDate": "2026-04-29T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -847,86 +989,6 @@
       "body": "Ready for a real challenge? Play, compete, and win rewards!"
     },
     "publishedAt": "2026-04-29T18:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9fc10cca651b4dd183627af8c0c5b6a072d1a110-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2B3455",
-        "secondary": "#DCF5F9",
-        "label": "#0B132D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9fc10cca651b4dd183627af8c0c5b6a072d1a110-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2B3455",
-        "secondary": "#DCF5F9",
-        "label": "#0B132D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Encounters, new blessings, and more in TFT patch 17.2!",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-2/",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "6b30202d-509f-467f-ae81-44e1ec08c99c.en-us",
-      "contentLocale": "en-us",
-      "rev": "0js60YTKjB6SWuvC3kvbJo",
-      "publishDate": "2026-04-28T18:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Opening Encounters & new God Blessings make 17.2 a celestial encounter you won’t want to miss."
-    },
-    "publishedAt": "2026-04-28T18:00:00.000Z",
     "promoCardSize": "medium",
     "product": {
       "title": "League of Legends (en-us)",
@@ -994,7 +1056,8 @@
       "contentId": "2708fbfc-6b8a-42ee-bd21-69d4490dc93f.en-us",
       "contentLocale": "en-us",
       "rev": "iA3Eg1v50p1NFdwLFf2S57",
-      "publishDate": "2026-04-28T18:00:00.000Z"
+      "publishDate": "2026-04-28T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1026,7 +1089,104 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9fc10cca651b4dd183627af8c0c5b6a072d1a110-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2B3455",
+        "secondary": "#DCF5F9",
+        "label": "#0B132D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9fc10cca651b4dd183627af8c0c5b6a072d1a110-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2B3455",
+        "secondary": "#DCF5F9",
+        "label": "#0B132D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Encounters, new blessings, and more in TFT patch 17.2!",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-2/",
+        "isExternal": true
+      }
+    },
+    "analytics": {
+      "contentId": "6b30202d-509f-467f-ae81-44e1ec08c99c.en-us",
+      "contentLocale": "en-us",
+      "rev": "0js60YTKjB6SWuvC3kvbJo",
+      "publishDate": "2026-04-28T18:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Opening Encounters & new God Blessings make 17.2 a celestial encounter you won’t want to miss."
+    },
+    "publishedAt": "2026-04-28T18:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -1073,7 +1233,8 @@
       "contentId": "e765168b-b4a1-422a-b605-a966c36d6352.en-us",
       "contentLocale": "en-us",
       "rev": "a00TjxVQsPu5F1oppXJowB",
-      "publishDate": "2026-04-14T18:00:00.000Z"
+      "publishDate": "2026-04-14T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1106,7 +1267,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -1152,7 +1323,8 @@
       "contentId": "bb975801-0f5d-44b2-87f0-9f96fa0837bf.en-us",
       "contentLocale": "en-us",
       "rev": "ApdpPZCOo5QjMYFcoUwTYH",
-      "publishDate": "2026-04-14T18:00:00.000Z"
+      "publishDate": "2026-04-14T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1184,85 +1356,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/13375a6633f09dee4e4397083ca37fc294592203-1920x1133.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1133,
-        "aspectRatio": 1.6946160635481025
-      },
-      "colors": {
-        "primary": "#B8866E",
-        "secondary": "#33292A",
-        "label": "#3E2B21"
-      },
-      "mimeType": "image/jpeg"
     },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/13375a6633f09dee4e4397083ca37fc294592203-1920x1133.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1133,
-        "aspectRatio": 1.6946160635481025
-      },
-      "colors": {
-        "primary": "#B8866E",
-        "secondary": "#33292A",
-        "label": "#3E2B21"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "League of Legends Patch 26.7 Notes",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/league-of-legends-patch-26-7-notes"
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
       }
-    },
-    "analytics": {
-      "contentId": "53eca9e5-b038-427a-bf7f-956ace4a2881.en-us",
-      "contentLocale": "en-us",
-      "rev": "0o9mIU0NzE6a16SOC5Or27",
-      "publishDate": "2026-03-31T18:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Tons of fun and fried chicken to be had!"
-    },
-    "publishedAt": "2026-03-31T18:00:00.000Z",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
+    ]
   },
   {
     "media": {
@@ -1309,7 +1409,8 @@
       "contentId": "1e5adf8c-e6bf-4d78-bdb6-600ed79d2547.en-us",
       "contentLocale": "en-us",
       "rev": "2qBm3QVvxqbw2M8FMbYxPs",
-      "publishDate": "2026-03-31T18:00:00.000Z"
+      "publishDate": "2026-03-31T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1341,7 +1442,102 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/13375a6633f09dee4e4397083ca37fc294592203-1920x1133.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1133,
+        "aspectRatio": 1.6946160635481025
+      },
+      "colors": {
+        "primary": "#B8866E",
+        "secondary": "#33292A",
+        "label": "#3E2B21"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/13375a6633f09dee4e4397083ca37fc294592203-1920x1133.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1133,
+        "aspectRatio": 1.6946160635481025
+      },
+      "colors": {
+        "primary": "#B8866E",
+        "secondary": "#33292A",
+        "label": "#3E2B21"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "League of Legends Patch 26.7 Notes",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/league-of-legends-patch-26-7-notes"
+      }
+    },
+    "analytics": {
+      "contentId": "53eca9e5-b038-427a-bf7f-956ace4a2881.en-us",
+      "contentLocale": "en-us",
+      "rev": "0o9mIU0NzE6a16SOC5Or27",
+      "publishDate": "2026-03-31T18:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Tons of fun and fried chicken to be had!"
+    },
+    "publishedAt": "2026-03-31T18:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -1389,7 +1585,8 @@
       "contentId": "9aeeaf6b-2013-4f2c-aec1-c6747e594820.en-us",
       "contentLocale": "en-us",
       "rev": "0o9mIU0NzE6a16SOC2qQtD",
-      "publishDate": "2026-03-31T16:15:00.000Z"
+      "publishDate": "2026-03-31T16:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1469,7 +1666,8 @@
       "contentId": "a3a2f30e-cae0-4183-8612-53455aa42075.en-us",
       "contentLocale": "en-us",
       "rev": "sCu4M0Q6B9wT143XULjSiy",
-      "publishDate": "2026-03-17T18:00:00.000Z"
+      "publishDate": "2026-03-17T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1548,7 +1746,8 @@
       "contentId": "c3e3be7a-20fd-4864-922a-5b4ed5af0e52.en-us",
       "contentLocale": "en-us",
       "rev": "CMHiIZ6oXo9Bc22LIURJiw",
-      "publishDate": "2026-03-17T18:00:00.000Z"
+      "publishDate": "2026-03-17T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1580,7 +1779,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -1627,7 +1832,8 @@
       "contentId": "1128a098-ebb8-4654-9d0e-b18b46b7c95e.en-us",
       "contentLocale": "en-us",
       "rev": "SwGeUicuRlpNuikqkax2F9",
-      "publishDate": "2026-03-04T16:00:00.000Z"
+      "publishDate": "2026-03-04T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1706,7 +1912,8 @@
       "contentId": "42ba52a0-8053-401a-ac9e-fd4eeed1e93a.en-us",
       "contentLocale": "en-us",
       "rev": "AESglscCpa7pTE6u44MTUj",
-      "publishDate": "2026-03-03T19:00:00.000Z"
+      "publishDate": "2026-03-03T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1738,7 +1945,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -1785,7 +1998,8 @@
       "contentId": "b92d561b-f0b1-4fe4-be02-f00e0da643cf.en-us",
       "contentLocale": "en-us",
       "rev": "XURK0g5X9LoHQLZ3N6R56F",
-      "publishDate": "2026-03-03T19:00:00.000Z"
+      "publishDate": "2026-03-03T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1865,7 +2079,8 @@
       "contentId": "586a6c15-05bd-430e-aa51-f8928b884d16.en-us",
       "contentLocale": "en-us",
       "rev": "cWgizojas91rjIQ364XQmP",
-      "publishDate": "2026-03-03T16:00:00.000Z"
+      "publishDate": "2026-03-03T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1898,7 +2113,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "shyvana",
+        "title": "Shyvana"
+      },
+      {
+        "machineName": "champion_spotlight",
+        "title": "Champion Spotlight"
+      }
+    ]
   },
   {
     "media": {
@@ -1944,7 +2169,8 @@
       "contentId": "12331bd3-ef57-471f-9b55-7182e6b47a07.en-us",
       "contentLocale": "en-us",
       "rev": "BE0qeb5cY36EvZUPRtwAz4",
-      "publishDate": "2026-02-18T19:00:00.000Z"
+      "publishDate": "2026-02-18T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -1976,7 +2202,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -2023,7 +2255,8 @@
       "contentId": "d8aa6f07-3a2a-4d4b-837f-304312684c1d.en-us",
       "contentLocale": "en-us",
       "rev": "BE0qeb5cY36EvZUPRtwDSX",
-      "publishDate": "2026-02-18T19:00:00.000Z"
+      "publishDate": "2026-02-18T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2103,7 +2336,8 @@
       "contentId": "fc858c5f-8449-49e7-8ce0-204985e28bb9.en-us",
       "contentLocale": "en-us",
       "rev": "MsQNQ8m2MkdlwTH5pdLFHZ",
-      "publishDate": "2026-02-04T02:00:00.000Z"
+      "publishDate": "2026-02-04T02:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2136,7 +2370,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -2182,7 +2422,8 @@
       "contentId": "fbe5cc22-b99c-490b-afd9-1426b937c14b.en-us",
       "contentLocale": "en-us",
       "rev": "8dqveQE1qqKh3GzqnzpcvT",
-      "publishDate": "2026-02-03T19:00:00.000Z"
+      "publishDate": "2026-02-03T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2214,7 +2455,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -2261,7 +2508,8 @@
       "contentId": "40457160-c0ef-4a10-93ee-94d4689608d4.en-us",
       "contentLocale": "en-us",
       "rev": "sCZmld8WWeO7fCpjvpkQkL",
-      "publishDate": "2026-02-03T19:00:00.000Z"
+      "publishDate": "2026-02-03T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2294,7 +2542,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -2342,7 +2600,8 @@
       "contentId": "c5759c5a-e6d4-4335-bc00-966aea3ab705.en-us",
       "contentLocale": "en-us",
       "rev": "31KlmhYq0nD7wjDDVgiwk1",
-      "publishDate": "2026-01-28T16:00:00.000Z"
+      "publishDate": "2026-01-28T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2423,7 +2682,8 @@
       "contentId": "a5330391-718a-4b18-ae83-c53c7eec0ca1.en-us",
       "contentLocale": "en-us",
       "rev": "hkn6e6tWBarK7xOcCdXzYh",
-      "publishDate": "2026-01-28T02:00:00.000Z"
+      "publishDate": "2026-01-28T02:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2456,7 +2716,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -2504,7 +2774,8 @@
       "contentId": "24d52193-d3d5-4831-8ccd-99f6cce321ce.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2026-01-22T17:00:00.000Z"
+      "publishDate": "2026-01-22T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2537,7 +2808,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -2599,7 +2880,8 @@
       "contentId": "ac1c75a5-dc9b-4b91-848c-1b8f724028f7.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrGZw",
-      "publishDate": "2026-01-22T16:00:00.000Z"
+      "publishDate": "2026-01-22T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2678,7 +2960,8 @@
       "contentId": "patchNote.c417a64c-0a05-4fb9-9995-5d0e8eb59e18.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvtx47V",
-      "publishDate": "2026-01-21T19:00:00.000Z"
+      "publishDate": "2026-01-21T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2710,7 +2993,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -2757,7 +3046,8 @@
       "contentId": "6b03d18b-6ad1-453a-a0fc-b87c65159de9.en-us",
       "contentLocale": "en-us",
       "rev": "tqEcg6HxsZCh2tSC2cVSv2",
-      "publishDate": "2026-01-21T19:00:00.000Z"
+      "publishDate": "2026-01-21T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2789,7 +3079,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -2837,7 +3137,8 @@
       "contentId": "83e78353-93f5-4504-8c77-431853cf2d0e.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2026-01-16T02:00:00.000Z"
+      "publishDate": "2026-01-16T02:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2870,7 +3171,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -2918,7 +3229,8 @@
       "contentId": "758a8b71-7860-4ef8-a0fe-716e06d9a70d.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2026-01-09T00:00:00.000Z"
+      "publishDate": "2026-01-09T00:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -2951,7 +3263,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -2997,7 +3319,8 @@
       "contentId": "cd8e8e27-9ee3-469e-b6b1-0a76371a1fbe.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2026-01-08T19:00:00.000Z"
+      "publishDate": "2026-01-08T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3077,7 +3400,8 @@
       "contentId": "d3aa919b-09a2-41f5-b8a3-3ba59b147c68.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2026-01-08T18:00:00.000Z"
+      "publishDate": "2026-01-08T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3158,7 +3482,8 @@
       "contentId": "8d2425ae-b798-46d4-bfc4-6a1ad7779bd3.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2026-01-08T16:00:00.000Z"
+      "publishDate": "2026-01-08T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3191,7 +3516,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
   },
   {
     "media": {
@@ -3237,7 +3568,8 @@
       "contentId": "899d3a39-2958-41a6-918b-914087472f23.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2026-01-07T19:00:00.000Z"
+      "publishDate": "2026-01-07T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3269,7 +3601,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -3316,7 +3654,8 @@
       "contentId": "b9e9a434-d3f4-4151-85d8-224b51e812e5.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2026-01-07T19:00:00.000Z"
+      "publishDate": "2026-01-07T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3348,7 +3687,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -3396,7 +3745,8 @@
       "contentId": "dbe9601c-4444-4fb3-902d-d6d03b3acb1b.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2026-01-07T00:00:00.000Z"
+      "publishDate": "2026-01-07T00:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3429,7 +3779,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -3477,7 +3837,8 @@
       "contentId": "616f45de-e179-44a5-a8ce-046096e76747.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2026-01-06T14:00:00.000Z"
+      "publishDate": "2026-01-06T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3510,7 +3871,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -3557,7 +3928,8 @@
       "contentId": "d35c2dea-35bb-427e-b204-d2dee89219b9.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2026-01-05T08:00:00.000Z"
+      "publishDate": "2026-01-05T08:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3590,7 +3962,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -3638,7 +4016,8 @@
       "contentId": "a4933cc1-8611-4163-8520-dbd0ec1d1ef2.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-12-17T09:00:00.000Z"
+      "publishDate": "2025-12-17T09:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3671,7 +4050,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -3719,7 +4108,8 @@
       "contentId": "7d2233ed-d2e7-4e24-96ab-cb4e678ae588.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-12-15T02:00:00.000Z"
+      "publishDate": "2025-12-15T02:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3752,7 +4142,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -3800,7 +4200,8 @@
       "contentId": "f297029f-4f0c-4535-9df0-98e9768d33da.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-12-14T14:00:00.000Z"
+      "publishDate": "2025-12-14T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3833,7 +4234,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -3881,7 +4288,8 @@
       "contentId": "7b975f43-381a-421f-85b5-6c325ed7311f.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-12-04T02:00:00.000Z"
+      "publishDate": "2025-12-04T02:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3914,7 +4322,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -3961,7 +4379,8 @@
       "contentId": "a224c52b-72ed-48ec-9fbd-d055b7023e0d.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-12-03T20:00:00.000Z"
+      "publishDate": "2025-12-03T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -3994,7 +4413,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -4040,7 +4469,8 @@
       "contentId": "f834d4d1-2b96-4c20-901a-93e6e3a50635.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvtx47V",
-      "publishDate": "2025-12-02T19:00:00.000Z"
+      "publishDate": "2025-12-02T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -4073,7 +4503,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -4120,7 +4556,8 @@
       "contentId": "43a41939-3ce4-41e4-81d7-c7911b1d3f28.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-12-02T19:00:00.000Z"
+      "publishDate": "2025-12-02T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -4152,7 +4589,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -4199,7 +4646,8 @@
       "contentId": "350bc0d7-0f74-42b3-a38e-daa592dd6837.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-12-02T17:00:00.000Z"
+      "publishDate": "2025-12-02T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -4279,7 +4727,8 @@
       "contentId": "9619b690-6c79-4adf-9593-0a84d688e0f4.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-11-30T14:00:00.000Z"
+      "publishDate": "2025-11-30T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -4311,7 +4760,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -4359,7 +4818,8 @@
       "contentId": "e6a6aa58-16ec-431d-b8f4-c8569d6c2fef.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-11-27T03:00:00.000Z"
+      "publishDate": "2025-11-27T03:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -4392,7 +4852,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -4440,7 +4910,8 @@
       "contentId": "36f9f4c5-d201-4e88-ab7f-33af58b32169.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-11-26T16:00:00.000Z"
+      "publishDate": "2025-11-26T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -4473,7 +4944,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -4521,7 +5002,8 @@
       "contentId": "6bd3f2d7-d84b-41da-a8e3-3e48d7d0ba8b.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2025-11-24T19:00:00.000Z"
+      "publishDate": "2025-11-24T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -4602,7 +5084,8 @@
       "contentId": "c2d4cb82-6126-483c-a0a8-4c98a8a22723.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-11-20T14:00:00.000Z"
+      "publishDate": "2025-11-20T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -4635,7 +5118,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -4683,7 +5176,8 @@
       "contentId": "0fdb5733-89f2-436a-b137-3acc69170949.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sp6el",
-      "publishDate": "2025-11-20T02:00:00.000Z"
+      "publishDate": "2025-11-20T02:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -4762,7 +5256,8 @@
       "contentId": "88932e9e-0f27-4745-8691-43dca38ae8fb.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-11-18T19:00:00.000Z"
+      "publishDate": "2025-11-18T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -4795,7 +5290,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -4842,7 +5343,8 @@
       "contentId": "5984d9ed-f7ce-483f-a5a9-965d8cb20308.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-11-18T19:00:00.000Z"
+      "publishDate": "2025-11-18T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -4874,7 +5376,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -4922,7 +5434,8 @@
       "contentId": "523caf79-7360-4b42-83f0-0d59b0f053b1.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-11-18T14:00:00.000Z"
+      "publishDate": "2025-11-18T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5002,7 +5515,8 @@
       "contentId": "8540a2a7-2a7e-44bc-ba79-656bc26efb7b.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-11-16T18:00:00.000Z"
+      "publishDate": "2025-11-16T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5082,7 +5596,8 @@
       "contentId": "7394d9f6-1bba-4484-ac01-b7d2d3f80878.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-11-10T16:00:00.000Z"
+      "publishDate": "2025-11-10T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5163,7 +5678,8 @@
       "contentId": "b415ea79-b8a8-49ba-81b2-3b7f3bdcdd92.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2025-11-09T16:00:00.000Z"
+      "publishDate": "2025-11-09T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5241,7 +5757,8 @@
       "contentId": "07634ed1-b205-4dee-b7de-13f87f93d54d.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2025-11-09T11:00:00.000Z"
+      "publishDate": "2025-11-09T11:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5320,7 +5837,8 @@
       "contentId": "52d06c9d-f063-4d36-8399-80a282218a89.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-11-04T19:00:00.000Z"
+      "publishDate": "2025-11-04T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5352,7 +5870,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -5399,7 +5923,8 @@
       "contentId": "79a3184b-c3e8-4a59-aab2-e466212eabeb.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-11-04T19:00:00.000Z"
+      "publishDate": "2025-11-04T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5432,7 +5957,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -5480,7 +6015,8 @@
       "contentId": "9766779e-b5c9-458c-b3ff-0788a1212cd3.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-10-23T16:00:00.000Z"
+      "publishDate": "2025-10-23T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5513,7 +6049,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -5561,7 +6107,8 @@
       "contentId": "78ec8243-caeb-4537-9846-73bb8505606e.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-10-23T13:00:00.000Z"
+      "publishDate": "2025-10-23T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5593,7 +6140,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -5641,7 +6198,8 @@
       "contentId": "9ed26afe-51ae-45bb-9dc6-5119b46a90d8.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-10-22T16:00:00.000Z"
+      "publishDate": "2025-10-22T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5719,7 +6277,8 @@
       "contentId": "93ef2010-1197-4b54-8b65-0eddbf947e5b.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-10-21T18:00:00.000Z"
+      "publishDate": "2025-10-21T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5751,7 +6310,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -5798,7 +6363,8 @@
       "contentId": "0c2606d5-874b-4919-9617-d6ac9134737a.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sp6el",
-      "publishDate": "2025-10-21T18:00:00.000Z"
+      "publishDate": "2025-10-21T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5830,7 +6396,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -5878,7 +6450,8 @@
       "contentId": "fcbcfdec-defd-4e64-8712-2222692a4e15.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsGSNp",
-      "publishDate": "2025-10-17T16:00:00.000Z"
+      "publishDate": "2025-10-17T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -5958,7 +6531,8 @@
       "contentId": "3c03e3a6-7fa5-4473-b254-8781c6bf9822.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-10-17T15:00:00.000Z"
+      "publishDate": "2025-10-17T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6039,7 +6613,8 @@
       "contentId": "a6c7d795-e9e0-4d0d-bf60-4703ad467062.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-10-13T16:00:00.000Z"
+      "publishDate": "2025-10-13T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6072,7 +6647,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -6120,7 +6705,8 @@
       "contentId": "874f8dcd-d9d8-4437-900e-e88a07428b64.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-10-13T01:00:00.000Z"
+      "publishDate": "2025-10-13T01:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6153,7 +6739,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -6201,7 +6797,8 @@
       "contentId": "c6c4bdfd-18c9-45a2-8a4d-31d6540c259a.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-10-10T16:00:00.000Z"
+      "publishDate": "2025-10-10T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6234,7 +6831,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -6282,7 +6889,8 @@
       "contentId": "e6cde8fd-7c48-4460-b93b-28bc373d4bc1.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-10-08T01:30:00.000Z"
+      "publishDate": "2025-10-08T01:30:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6315,7 +6923,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -6362,7 +6976,8 @@
       "contentId": "99271384-c694-4277-b300-8c37d1bf8706.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-10-07T21:21:00.000Z"
+      "publishDate": "2025-10-07T21:21:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6441,7 +7056,8 @@
       "contentId": "ce04728a-bf86-426d-a1df-833a59088521.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvtx47V",
-      "publishDate": "2025-10-07T18:00:00.000Z"
+      "publishDate": "2025-10-07T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6473,7 +7089,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -6520,7 +7142,8 @@
       "contentId": "88b8b555-2d9e-495b-906e-2f490104db18.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-10-07T18:00:00.000Z"
+      "publishDate": "2025-10-07T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6552,7 +7175,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -6599,7 +7228,8 @@
       "contentId": "c248a423-7352-4f9f-8cee-c845b57a18fa.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-10-07T00:00:00.000Z"
+      "publishDate": "2025-10-07T00:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6632,7 +7262,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -6680,7 +7316,8 @@
       "contentId": "c1bde5be-9afd-472b-a938-f6f4c21bdf91.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-09-29T16:00:00.000Z"
+      "publishDate": "2025-09-29T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6712,7 +7349,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -6760,7 +7407,8 @@
       "contentId": "24dd4711-05d3-4258-a011-d838561ec089.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-09-26T16:00:00.000Z"
+      "publishDate": "2025-09-26T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6838,7 +7486,8 @@
       "contentId": "d9135b0b-66b2-4374-a090-a096cb89441f.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvtx47V",
-      "publishDate": "2025-09-23T18:00:00.000Z"
+      "publishDate": "2025-09-23T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6870,7 +7519,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -6917,7 +7572,8 @@
       "contentId": "92c1c7d9-41f0-4bde-8bbc-a3dfa19ef9ca.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-09-23T18:00:00.000Z"
+      "publishDate": "2025-09-23T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -6950,7 +7606,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -6997,7 +7663,8 @@
       "contentId": "c5aece32-6d86-48eb-abd7-3b684d817176.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-09-23T16:00:00.000Z"
+      "publishDate": "2025-09-23T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7078,7 +7745,8 @@
       "contentId": "da59ebce-af17-4c66-a0c0-709bda6d863e.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-09-22T16:00:00.000Z"
+      "publishDate": "2025-09-22T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7171,7 +7839,8 @@
       "contentId": "0b99409d-69e5-49ae-af35-5bb5bb5085f5.en-us",
       "contentLocale": "en-us",
       "rev": "p5IvXxb250vkMJQJifatj7",
-      "publishDate": "2025-09-10T18:00:00.000Z"
+      "publishDate": "2025-09-10T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7250,7 +7919,8 @@
       "contentId": "d4c5e025-058c-42d1-945a-3df0eea57ad8.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvtx47V",
-      "publishDate": "2025-09-09T18:00:00.000Z"
+      "publishDate": "2025-09-09T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7282,7 +7952,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -7329,7 +8005,8 @@
       "contentId": "fb62de6a-9104-4c63-b9c1-6c9bf548edb8.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-09-09T18:00:00.000Z"
+      "publishDate": "2025-09-09T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7361,7 +8038,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -7409,7 +8096,8 @@
       "contentId": "11d76e4a-88fc-4efb-bc17-aff4c78dcc97.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sp6el",
-      "publishDate": "2025-09-01T16:00:00.000Z"
+      "publishDate": "2025-09-01T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7490,7 +8178,8 @@
       "contentId": "ad8586c9-2114-4943-a619-81b560b6e555.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2025-08-28T15:00:00.000Z"
+      "publishDate": "2025-08-28T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7571,7 +8260,8 @@
       "contentId": "28698c7a-5e4b-42c6-b3df-b5d1a525a510.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-08-27T16:00:41.044Z"
+      "publishDate": "2025-08-27T16:00:41.044Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7652,7 +8342,8 @@
       "contentId": "cdd45380-d532-4f52-8eb2-d45c807be536.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-08-27T15:00:00.000Z"
+      "publishDate": "2025-08-27T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7731,7 +8422,8 @@
       "contentId": "3c0a58f3-096a-4647-8905-b8b0f17c70e3.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-08-26T18:00:00.000Z"
+      "publishDate": "2025-08-26T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7763,7 +8455,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -7810,7 +8508,8 @@
       "contentId": "21913c76-57d7-4775-b5bf-1ec7ceb679e5.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2025-08-26T18:00:00.000Z"
+      "publishDate": "2025-08-26T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7842,7 +8541,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -7904,7 +8613,8 @@
       "contentId": "ddadda92-6dc5-46e9-ad28-61b9c93c9960.en-us",
       "contentLocale": "en-us",
       "rev": "p5IvXxb250vkMJQJifbAdV",
-      "publishDate": "2025-08-26T15:00:00.000Z"
+      "publishDate": "2025-08-26T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -7984,7 +8694,8 @@
       "contentId": "d03aa0cc-adbc-41ce-a22e-e1b832950eec.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-08-20T15:00:00.000Z"
+      "publishDate": "2025-08-20T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8017,7 +8728,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -8065,7 +8782,8 @@
       "contentId": "f88cb668-1e12-4f78-9951-19df080f9e27.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-08-18T16:00:00.000Z"
+      "publishDate": "2025-08-18T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8098,7 +8816,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -8144,7 +8872,8 @@
       "contentId": "9589ba47-48c1-4f14-abc5-680bee2b9320.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-08-12T18:00:00.000Z"
+      "publishDate": "2025-08-12T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8176,7 +8905,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -8223,7 +8958,8 @@
       "contentId": "e1b5882e-5b3d-4b92-a7b8-3b0d6681bff3.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-08-12T18:00:00.000Z"
+      "publishDate": "2025-08-12T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8255,7 +8991,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -8303,7 +9049,8 @@
       "contentId": "4972e09b-443e-49f1-aaee-23a05ca82f3f.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-08-12T15:00:00.000Z"
+      "publishDate": "2025-08-12T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8383,7 +9130,8 @@
       "contentId": "cc2fddab-f4af-4b26-a531-38654d8f33ff.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-08-05T13:00:00.000Z"
+      "publishDate": "2025-08-05T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8416,7 +9164,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -8464,7 +9222,8 @@
       "contentId": "a3590f3e-02dd-471d-8652-d14e55da791e.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-08-04T13:00:00.000Z"
+      "publishDate": "2025-08-04T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8496,7 +9255,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -8544,7 +9313,8 @@
       "contentId": "17c7389f-db35-46a2-8281-eba171ae7b92.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2025-08-01T13:00:00.000Z"
+      "publishDate": "2025-08-01T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8577,7 +9347,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -8625,7 +9405,8 @@
       "contentId": "7bd0d7cb-2cdb-4d02-acfd-b719ad39e4b6.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-07-31T16:00:00.000Z"
+      "publishDate": "2025-07-31T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8658,7 +9439,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -8705,7 +9496,8 @@
       "contentId": "3b33e38b-9864-41f4-918d-810c9d35d0fb.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-07-30T19:00:00.000Z"
+      "publishDate": "2025-07-30T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8737,7 +9529,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      },
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -8785,7 +9587,8 @@
       "contentId": "1e854af4-9f79-4a42-9b22-ddf65eaccfb9.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2025-07-30T15:00:00.000Z"
+      "publishDate": "2025-07-30T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8817,7 +9620,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -8863,7 +9676,8 @@
       "contentId": "0eabce91-89ee-4749-af09-c1664b5bd586.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-07-29T18:00:00.000Z"
+      "publishDate": "2025-07-29T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8895,7 +9709,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -8942,7 +9762,8 @@
       "contentId": "de34c9b2-87c1-435e-a382-88c322d949de.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-07-29T18:00:00.000Z"
+      "publishDate": "2025-07-29T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -8975,7 +9796,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -9022,7 +9853,8 @@
       "contentId": "926d0159-4460-4f52-a689-80975db0dc08.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-07-29T17:00:00.000Z"
+      "publishDate": "2025-07-29T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9054,7 +9886,21 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_dev",
+        "title": "Teamfight Tactics Dev"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -9102,7 +9948,8 @@
       "contentId": "8201a73e-e43d-49c7-b1e7-e40269bd26e1.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-07-17T13:00:00.000Z"
+      "publishDate": "2025-07-17T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9135,7 +9982,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -9183,7 +10040,8 @@
       "contentId": "ef86c8dc-8919-4c20-ba1f-450f4dada523.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-07-16T20:00:00.000Z"
+      "publishDate": "2025-07-16T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9261,7 +10119,8 @@
       "contentId": "12e3e749-e919-45d6-92fc-601858c0a6ca.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-07-15T18:00:00.000Z"
+      "publishDate": "2025-07-15T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9293,7 +10152,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -9340,7 +10205,8 @@
       "contentId": "4ec1fe47-66dd-4988-b831-841ef3e9e4df.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-07-15T18:00:00.000Z"
+      "publishDate": "2025-07-15T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9373,7 +10239,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -9420,7 +10296,8 @@
       "contentId": "07d57e3a-a2d5-48bc-ac5a-d2da91f86eef.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2025-07-15T15:00:00.000Z"
+      "publishDate": "2025-07-15T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9452,7 +10329,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -9499,7 +10382,8 @@
       "contentId": "39d0da50-1f1e-426f-969f-956669a20360.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-07-14T15:00:00.000Z"
+      "publishDate": "2025-07-14T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9532,7 +10416,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -9580,7 +10474,8 @@
       "contentId": "cf62268a-0f94-4bd5-b283-82b0ee00cf0b.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-06-26T13:00:00.000Z"
+      "publishDate": "2025-06-26T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9613,7 +10508,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -9661,7 +10566,8 @@
       "contentId": "28815e2a-e5b0-45f7-bf94-7de2f4c68fda.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-06-25T18:00:00.000Z"
+      "publishDate": "2025-06-25T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9740,7 +10646,8 @@
       "contentId": "2be51a20-4f9e-429c-a399-b60fe60080dd.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-06-24T18:00:00.000Z"
+      "publishDate": "2025-06-24T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9772,7 +10679,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -9819,7 +10732,8 @@
       "contentId": "3b442a42-bc5c-4a19-b24e-b573aeb66f05.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-06-24T18:00:00.000Z"
+      "publishDate": "2025-06-24T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9851,7 +10765,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -9897,7 +10821,8 @@
       "contentId": "fef974cc-bc58-4b9c-b4d7-5878375cf6af.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsGSNp",
-      "publishDate": "2025-06-24T17:00:00.000Z"
+      "publishDate": "2025-06-24T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -9978,7 +10903,8 @@
       "contentId": "220234df-c6d1-4d62-b52e-4ac42d04875a.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2025-06-24T16:00:00.000Z"
+      "publishDate": "2025-06-24T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10011,7 +10937,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "champion_spotlight",
+        "title": "Champion Spotlight"
+      }
+    ]
   },
   {
     "media": {
@@ -10057,7 +10989,8 @@
       "contentId": "da83e7ea-245f-4679-9209-6f080f122689.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-06-16T17:00:00.000Z"
+      "publishDate": "2025-06-16T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10090,7 +11023,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "game_mode",
+        "title": "Game Mode"
+      }
+    ]
   },
   {
     "media": {
@@ -10138,7 +11077,8 @@
       "contentId": "09a4d01f-67da-4125-a1ab-d43e0d11a5ef.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sp6el",
-      "publishDate": "2025-06-12T13:00:00.000Z"
+      "publishDate": "2025-06-12T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10170,7 +11110,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -10216,7 +11166,8 @@
       "contentId": "a12ddace-a49d-403a-a1c9-c6952cb602a7.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-06-10T18:05:00.000Z"
+      "publishDate": "2025-06-10T18:05:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10249,7 +11200,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -10296,7 +11253,8 @@
       "contentId": "7dced60e-b0aa-412b-b077-8283229b7bec.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-06-10T18:00:00.000Z"
+      "publishDate": "2025-06-10T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10329,7 +11287,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -10391,7 +11359,8 @@
       "contentId": "64c02cda-691b-4c93-8d3b-d82f8c14222a.en-us",
       "contentLocale": "en-us",
       "rev": "p5IvXxb250vkMJQJifb0Xp",
-      "publishDate": "2025-06-09T15:15:00.000Z"
+      "publishDate": "2025-06-09T15:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10486,7 +11455,8 @@
       "contentId": "7d43aa81-135c-441e-a475-c88577248bab.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixr4cA",
-      "publishDate": "2025-06-07T01:00:00.000Z"
+      "publishDate": "2025-06-07T01:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10519,7 +11489,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -10567,7 +11547,8 @@
       "contentId": "767fef78-055a-4746-ab99-fcc97e7c4ac5.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-05-30T13:00:00.000Z"
+      "publishDate": "2025-05-30T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10600,7 +11581,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -10648,7 +11639,8 @@
       "contentId": "8e5b6b19-489e-4dea-988d-caeadb1e9c59.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-05-29T13:00:00.000Z"
+      "publishDate": "2025-05-29T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10680,7 +11672,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -10726,7 +11728,8 @@
       "contentId": "5da2a965-65db-4a89-aea0-20fa74514832.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-05-27T18:00:00.000Z"
+      "publishDate": "2025-05-27T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10759,7 +11762,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -10806,7 +11815,8 @@
       "contentId": "4223a221-bafa-4224-ab27-5e004af3c728.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-05-27T18:00:00.000Z"
+      "publishDate": "2025-05-27T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10838,7 +11848,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -10885,7 +11905,8 @@
       "contentId": "8cbe2f7c-00de-4e60-87a0-14e94a9d20db.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-05-27T16:00:00.000Z"
+      "publishDate": "2025-05-27T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -10966,7 +11987,8 @@
       "contentId": "ba2b628a-27bd-45a9-9781-e64bfa535d8a.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2025-05-27T15:00:00.000Z"
+      "publishDate": "2025-05-27T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11046,7 +12068,8 @@
       "contentId": "ad4953e2-6021-46c0-9d41-891f1e93e1d5.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2025-05-26T16:00:00.000Z"
+      "publishDate": "2025-05-26T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11079,7 +12102,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -11127,7 +12156,8 @@
       "contentId": "4b3cada4-17a1-4b9a-bbb7-d19240b2c09e.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-05-26T14:00:00.000Z"
+      "publishDate": "2025-05-26T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11159,7 +12189,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -11207,7 +12247,8 @@
       "contentId": "61d033ae-0576-40a0-b7b0-08de8ecfff90.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2025-05-15T13:00:00.000Z"
+      "publishDate": "2025-05-15T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11239,7 +12280,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -11285,7 +12336,8 @@
       "contentId": "2bee000a-5ad8-473f-a975-e0ca8d693417.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-05-13T18:00:00.000Z"
+      "publishDate": "2025-05-13T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11318,7 +12370,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -11365,7 +12423,8 @@
       "contentId": "26a51de4-d03c-45fb-af3d-a63e560ef803.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-05-13T18:00:00.000Z"
+      "publishDate": "2025-05-13T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11398,7 +12457,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -11445,7 +12514,8 @@
       "contentId": "ed268233-b94a-4b5d-85f6-798295f2e869.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-05-13T17:00:00.000Z"
+      "publishDate": "2025-05-13T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11477,7 +12547,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -11524,7 +12604,8 @@
       "contentId": "345c65bc-4fa3-47f4-8f08-e406e3aa19cf.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-05-12T14:00:00.000Z"
+      "publishDate": "2025-05-12T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11557,7 +12638,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -11605,7 +12692,8 @@
       "contentId": "06a81d52-24dd-4011-ab13-ec923957aa8f.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2025-05-01T13:00:00.000Z"
+      "publishDate": "2025-05-01T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11637,7 +12725,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -11685,7 +12783,8 @@
       "contentId": "b64401cb-f50e-4f6b-b6a3-fe7facd443d1.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2025-04-30T18:00:00.000Z"
+      "publishDate": "2025-04-30T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11764,7 +12863,8 @@
       "contentId": "238e4827-5576-40b8-be43-bd3342d2de9b.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-04-29T18:00:00.000Z"
+      "publishDate": "2025-04-29T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11797,7 +12897,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -11844,7 +12950,8 @@
       "contentId": "d0151aca-855c-4b51-9fe3-42b1cf1f5bb4.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-04-28T16:00:00.000Z"
+      "publishDate": "2025-04-28T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11925,7 +13032,8 @@
       "contentId": "4e64f0ec-aa93-4423-8eb6-035357b4c2e6.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-04-17T13:00:00.000Z"
+      "publishDate": "2025-04-17T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -11957,7 +13065,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -12005,7 +13123,8 @@
       "contentId": "e7643eb7-17c0-4392-b510-cb50259634c4.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-04-16T16:00:00.000Z"
+      "publishDate": "2025-04-16T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12085,7 +13204,8 @@
       "contentId": "c2aa4f37-c082-4f49-8fb2-43d68c59d3ee.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-04-16T13:00:00.000Z"
+      "publishDate": "2025-04-16T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12117,7 +13237,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -12163,7 +13293,8 @@
       "contentId": "d3bc50dc-1962-4fba-84ec-820b782fba28.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvtx47V",
-      "publishDate": "2025-04-15T18:00:00.000Z"
+      "publishDate": "2025-04-15T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12196,7 +13327,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -12243,7 +13380,8 @@
       "contentId": "1eb77b3e-2f58-4931-86cd-4c7d10774ff0.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2025-04-15T18:00:00.000Z"
+      "publishDate": "2025-04-15T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12275,7 +13413,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      },
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -12323,7 +13471,8 @@
       "contentId": "d248286a-b5d7-4e01-ab00-090c2d51cb0a.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-04-15T13:00:00.000Z"
+      "publishDate": "2025-04-15T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12355,7 +13504,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -12403,7 +13562,8 @@
       "contentId": "55aacf3f-d3c4-409d-98bb-ea5e3cbdb5d2.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-04-10T14:00:00.000Z"
+      "publishDate": "2025-04-10T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12435,7 +13595,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -12482,7 +13652,8 @@
       "contentId": "22fc3011-61f9-4b38-bd32-5245c0de9221.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2025-04-03T15:00:00.000Z"
+      "publishDate": "2025-04-03T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12514,7 +13685,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -12562,7 +13743,8 @@
       "contentId": "40220b9a-289d-418e-9f5b-30f4933d1d8c.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-04-03T13:00:00.000Z"
+      "publishDate": "2025-04-03T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12594,7 +13776,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -12641,7 +13833,8 @@
       "contentId": "7a3ac3ee-5e4b-46c4-b8df-20919838cccf.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-04-02T19:00:00.000Z"
+      "publishDate": "2025-04-02T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12673,7 +13866,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -12721,7 +13920,8 @@
       "contentId": "c9918c7a-0b76-4d8e-8dbd-43cc5d747ef6.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-04-02T13:00:00.000Z"
+      "publishDate": "2025-04-02T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12753,7 +13953,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -12799,7 +14009,8 @@
       "contentId": "d0066988-681d-46a1-9de1-89e2b316967e.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvtx47V",
-      "publishDate": "2025-04-01T18:00:00.000Z"
+      "publishDate": "2025-04-01T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12832,7 +14043,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -12879,7 +14096,8 @@
       "contentId": "904914fb-6806-4d90-bd82-ae33801bb10d.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-04-01T18:00:00.000Z"
+      "publishDate": "2025-04-01T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12912,7 +14130,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -12959,7 +14187,8 @@
       "contentId": "8aa566c8-ca10-41e9-b88e-d5d4e7822118.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-04-01T16:00:00.000Z"
+      "publishDate": "2025-04-01T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -12991,7 +14220,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -13051,7 +14290,8 @@
       "contentId": "19e809c4-b0cc-4c4a-9fcb-c7487252cd74.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixqpe6",
-      "publishDate": "2025-03-19T19:00:00.000Z"
+      "publishDate": "2025-03-19T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13083,7 +14323,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "noxus",
+        "title": "Noxus"
+      }
+    ]
   },
   {
     "media": {
@@ -13130,7 +14376,8 @@
       "contentId": "a1da1eb4-3575-4bdd-8bbf-ec2c98d7883a.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-03-19T16:00:00.000Z"
+      "publishDate": "2025-03-19T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13162,7 +14409,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      },
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -13210,7 +14467,8 @@
       "contentId": "498d96b2-6c45-411c-883a-9d572af97b41.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-03-19T13:00:00.000Z"
+      "publishDate": "2025-03-19T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13242,7 +14500,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -13288,7 +14556,8 @@
       "contentId": "861a530f-ad9e-42f3-8b64-a9e78c63a6b5.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-03-18T18:00:00.000Z"
+      "publishDate": "2025-03-18T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13321,7 +14590,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -13368,7 +14643,8 @@
       "contentId": "8128f915-377c-40d1-b1c4-efb14586483c.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-03-18T18:00:00.000Z"
+      "publishDate": "2025-03-18T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13400,7 +14676,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -13447,7 +14733,8 @@
       "contentId": "c17fa01c-0a30-4697-a07b-a76d2bf159af.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-03-18T16:00:00.000Z"
+      "publishDate": "2025-03-18T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13479,7 +14766,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -13526,7 +14823,8 @@
       "contentId": "0a510546-eda4-4a16-b32b-e72bc4b3c569.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sp6el",
-      "publishDate": "2025-03-17T14:00:00.000Z"
+      "publishDate": "2025-03-17T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13559,7 +14857,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -13606,7 +14910,8 @@
       "contentId": "14fcc4df-6443-45fd-8fcc-0529b150eaf8.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2025-03-16T19:00:00.000Z"
+      "publishDate": "2025-03-16T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13638,7 +14943,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -13686,7 +15001,8 @@
       "contentId": "41f691d8-5047-4aed-b2ff-9dec6141fc9e.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-03-05T16:00:00.000Z"
+      "publishDate": "2025-03-05T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13765,7 +15081,8 @@
       "contentId": "9e529228-3c45-476d-8185-7342d539312f.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-03-04T19:00:00.000Z"
+      "publishDate": "2025-03-04T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13798,7 +15115,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -13845,7 +15168,8 @@
       "contentId": "d605b113-c552-440d-955c-0015d36e7600.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-03-04T19:00:00.000Z"
+      "publishDate": "2025-03-04T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13877,7 +15201,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -13924,7 +15258,8 @@
       "contentId": "025583cb-99b8-4fea-a345-3b78cd04d4c5.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2025-03-04T16:00:00.000Z"
+      "publishDate": "2025-03-04T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -13956,7 +15291,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "skin_preview",
+        "title": "Skin Preview"
+      }
+    ]
   },
   {
     "media": {
@@ -14004,7 +15345,8 @@
       "contentId": "1863b3fe-b7fd-40fd-9c79-90af8b312ca7.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2025-02-20T18:00:00.000Z"
+      "publishDate": "2025-02-20T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14082,7 +15424,8 @@
       "contentId": "93b8f5c4-38b5-4b66-a546-551320f4a39a.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-02-19T19:00:00.000Z"
+      "publishDate": "2025-02-19T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14115,7 +15458,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -14162,7 +15511,8 @@
       "contentId": "b0aa4214-49d7-4e3d-adad-8eba0dee45fc.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2025-02-19T19:00:00.000Z"
+      "publishDate": "2025-02-19T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14195,7 +15545,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -14257,7 +15613,8 @@
       "contentId": "6061b29c-a5ca-479d-bf88-382ecb8c7fc2.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixr1Wn",
-      "publishDate": "2025-02-19T16:00:00.000Z"
+      "publishDate": "2025-02-19T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14338,7 +15695,8 @@
       "contentId": "bd05ebec-7d9c-4038-8dee-7ca2488f5963.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2025-02-05T14:00:00.000Z"
+      "publishDate": "2025-02-05T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14371,7 +15729,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -14417,7 +15785,8 @@
       "contentId": "e021caae-4813-4bed-a67e-1d67e5ce4c77.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvtx47V",
-      "publishDate": "2025-02-04T19:00:00.000Z"
+      "publishDate": "2025-02-04T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14450,7 +15819,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -14497,7 +15872,8 @@
       "contentId": "60d4b647-8e5a-41f7-a37d-e8df1b4721ef.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2025-02-04T19:00:00.000Z"
+      "publishDate": "2025-02-04T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14530,7 +15906,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -14578,7 +15960,8 @@
       "contentId": "549de4d7-4a89-4edf-912e-a719312d0735.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-01-24T19:00:00.000Z"
+      "publishDate": "2025-01-24T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14611,7 +15994,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -14659,7 +16052,8 @@
       "contentId": "7329f5fd-8192-4eec-a711-7a90c567f5ce.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-01-24T14:00:00.000Z"
+      "publishDate": "2025-01-24T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14692,7 +16086,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -14740,7 +16144,8 @@
       "contentId": "2bda6523-fe62-4777-9ac5-46faee680fd0.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-01-23T19:00:00.000Z"
+      "publishDate": "2025-01-23T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14772,7 +16177,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -14820,7 +16235,8 @@
       "contentId": "8b0af2ed-b6f3-4398-afb5-e97a5b87c720.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-01-23T14:00:00.000Z"
+      "publishDate": "2025-01-23T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14853,7 +16269,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -14900,7 +16326,8 @@
       "contentId": "517191be-bf99-415e-ae08-45b4baab3ca0.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-01-23T03:00:00.000Z"
+      "publishDate": "2025-01-23T03:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -14933,7 +16360,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -14979,7 +16416,8 @@
       "contentId": "096fc010-0e93-43db-9776-ec7ae9dc9773.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-01-22T19:00:00.000Z"
+      "publishDate": "2025-01-22T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15012,7 +16450,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -15059,7 +16503,8 @@
       "contentId": "7dbe5d97-93ea-4b2d-a2aa-7ab137f032a0.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-01-22T19:00:00.000Z"
+      "publishDate": "2025-01-22T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15092,7 +16537,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -15140,7 +16595,8 @@
       "contentId": "d422ccc6-19a7-4aa7-a135-1c34d1ee408a.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-01-13T16:00:00.000Z"
+      "publishDate": "2025-01-13T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15221,7 +16677,8 @@
       "contentId": "c414b6ec-86fd-4ef3-8d95-ecd1a01bec51.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-01-10T14:00:00.000Z"
+      "publishDate": "2025-01-10T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15254,7 +16711,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -15300,7 +16767,8 @@
       "contentId": "76c5f154-ca9b-479c-88c1-12551ff5b987.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-01-09T20:00:00.000Z"
+      "publishDate": "2025-01-09T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15395,7 +16863,8 @@
       "contentId": "b682fb4c-c062-490f-a781-f86f0e358026.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrJV9",
-      "publishDate": "2025-01-09T20:00:00.000Z"
+      "publishDate": "2025-01-09T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15428,7 +16897,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "champion_spotlight",
+        "title": "Champion Spotlight"
+      }
+    ]
   },
   {
     "media": {
@@ -15476,7 +16951,8 @@
       "contentId": "a7c34b5b-9e58-4022-aeef-96467143323a.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2025-01-09T16:00:00.000Z"
+      "publishDate": "2025-01-09T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15556,7 +17032,8 @@
       "contentId": "beea478c-2a58-4e22-9272-ca34af443b5a.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-01-09T02:15:00.000Z"
+      "publishDate": "2025-01-09T02:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15589,7 +17066,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      }
+    ]
   },
   {
     "media": {
@@ -15637,7 +17120,8 @@
       "contentId": "bbdfe0e5-b222-4740-b497-f6b39ceb1b11.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2025-01-09T02:00:00.000Z"
+      "publishDate": "2025-01-09T02:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15670,7 +17154,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -15716,7 +17210,8 @@
       "contentId": "5dde154c-a74d-47ac-b050-9a1d1dbc4842.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1THLuf",
-      "publishDate": "2025-01-07T19:00:00.000Z"
+      "publishDate": "2025-01-07T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15749,7 +17244,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -15796,7 +17297,8 @@
       "contentId": "17b78eba-0185-4530-ab60-949386fcb0df.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2025-01-07T19:00:00.000Z"
+      "publishDate": "2025-01-07T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15829,7 +17331,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_patch_notes",
+        "title": "Teamfight Tactics Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -15877,7 +17389,8 @@
       "contentId": "a909689a-b827-43b0-a930-86b0db0d46a6.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2024-12-12T16:00:00.000Z"
+      "publishDate": "2024-12-12T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15910,7 +17423,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
+      },
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
+      }
+    ]
   },
   {
     "media": {
@@ -15958,7 +17481,8 @@
       "contentId": "b10acf73-1342-4ae3-a58d-bd87f82acde2.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2024-12-12T14:00:00.000Z"
+      "publishDate": "2024-12-12T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "game-updates",
@@ -15991,87 +17515,16 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7634e455ba7a5b3b0de24cbf82488ca6e7b4d24d-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2C3958",
-        "secondary": "#EBDCF9",
-        "label": "#0C1730"
-      },
-      "mimeType": "image/jpeg"
     },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7634e455ba7a5b3b0de24cbf82488ca6e7b4d24d-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_",
+        "title": "Teamfight Tactics"
       },
-      "colors": {
-        "primary": "#2C3958",
-        "secondary": "#EBDCF9",
-        "label": "#0C1730"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "A Practice in Perfection Mini Cinematic",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=A6M8pCBAeYc",
-        "youtubeId": "A6M8pCBAeYc",
-        "videoLengthInSeconds": 56
+      {
+        "machineName": "teamfight_tactics_new_content",
+        "title": "Teamfight Tactics New Content"
       }
-    },
-    "analytics": {
-      "contentId": "6c3aa257-6cd7-4892-b654-0a886ff348d9.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2024-12-12T02:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Chibi Porcelain Irelia helps Pengu hone their technique in this striking show of steel."
-    },
-    "publishedAt": "2024-12-12T02:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
+    ]
   }
 ]

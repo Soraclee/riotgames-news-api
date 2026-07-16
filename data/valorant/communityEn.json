@@ -43,7 +43,8 @@
       "contentId": "5cfe9e44-4b81-4a14-aa8e-445893ac347e.en-us",
       "contentLocale": "en-us",
       "rev": "MN4u2Wf7JcIfVEpZlchuxT",
-      "publishDate": "2026-06-01T15:00:00.000Z"
+      "publishDate": "2026-06-01T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -118,7 +119,8 @@
       "contentId": "2699c1eb-b063-4bd5-849c-0dbc10ee9601.en-us",
       "contentLocale": "en-us",
       "rev": "YYIVzqNT3tV11j473jxFZ8",
-      "publishDate": "2026-05-29T20:00:00.000Z"
+      "publishDate": "2026-05-29T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -197,7 +199,8 @@
       "contentId": "b9e702f0-e9ee-4e56-88cf-e9a46c5ed87f.en-us",
       "contentLocale": "en-us",
       "rev": "YN5O0E0twCsFqZBkbi3rhe",
-      "publishDate": "2026-03-15T21:00:00.000Z"
+      "publishDate": "2026-03-15T21:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -276,7 +279,8 @@
       "contentId": "172e3c88-08b5-48ec-a40a-0d24ff570c61.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlOze99",
-      "publishDate": "2025-06-21T15:30:00.000Z"
+      "publishDate": "2025-06-21T15:30:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -289,84 +293,6 @@
     },
     "publishedAt": "2025-06-21T15:30:00.000Z",
     "promoCardSize": "medium",
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/218c97320a65b6f46c19211af8e9a3a4eb89e034-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#3D361E",
-        "secondary": "#F9E7DC",
-        "label": "#100D04"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/218c97320a65b6f46c19211af8e9a3a4eb89e034-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#3D361E",
-        "secondary": "#F9E7DC",
-        "label": "#100D04"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "VALORANT Americas Celebrates Pride Month at Masters Toronto",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://valorantesports.com/en-us/news/valorant-americas-celebrates-pride-month-at-masters-toronto"
-      }
-    },
-    "analytics": {
-      "contentId": "f092d55a-80cb-42df-a4c8-f2be78c5b684.en-us",
-      "contentLocale": "en-us",
-      "rev": "XVtKWWMlpKwfoFWLksUvE7",
-      "publishDate": "2025-06-03T16:00:00.000Z"
-    },
-    "category": {
-      "machineName": "community",
-      "title": "Community",
-      "description": "From featured streamers to community creations, see what's new in the neighborhood."
-    },
-    "description": {
-      "type": "html",
-      "body": "Learn more about the VALORANT Pride mural in Toronto"
-    },
-    "publishedAt": "2025-06-03T16:00:00.000Z",
     "product": {
       "title": "Valorant (en-us)",
       "machineName": "valorant",
@@ -433,7 +359,8 @@
       "contentId": "191a19d5-dbb4-4bce-98a6-b1ae7ca4431a.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlOze99",
-      "publishDate": "2025-06-02T21:00:00.000Z"
+      "publishDate": "2025-06-02T21:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -466,7 +393,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community",
+        "title": "Community",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -527,7 +461,8 @@
       "contentId": "e84ec429-fc92-4803-adef-7a084565a05f.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrcK0",
-      "publishDate": "2025-05-31T00:00:00.000Z"
+      "publishDate": "2025-05-31T00:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -620,7 +555,8 @@
       "contentId": "ca96ec48-6555-49a7-8cb4-5c3fc28824c2.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrMcD",
-      "publishDate": "2025-05-28T16:00:00.000Z"
+      "publishDate": "2025-05-28T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -713,7 +649,8 @@
       "contentId": "5fe0b5c0-aae6-460b-98e2-422fa58dc298.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixr1Wn",
-      "publishDate": "2025-05-27T23:00:00.000Z"
+      "publishDate": "2025-05-27T23:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -806,7 +743,8 @@
       "contentId": "f9f90e6a-8d77-499c-896b-c9428ddedada.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrfec",
-      "publishDate": "2025-05-26T16:00:00.000Z"
+      "publishDate": "2025-05-26T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -900,7 +838,8 @@
       "contentId": "82845049-54dc-488a-a1f6-b6501e1dde96.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixr7Tz",
-      "publishDate": "2025-05-23T00:00:00.000Z"
+      "publishDate": "2025-05-23T00:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -994,7 +933,8 @@
       "contentId": "00328940-a41b-4eeb-8490-71e907bbf81c.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixo7Nq",
-      "publishDate": "2025-05-19T21:00:00.000Z"
+      "publishDate": "2025-05-19T21:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1073,7 +1013,8 @@
       "contentId": "b83bb190-21f4-4baa-990e-86095278b297.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP3wsP",
-      "publishDate": "2025-03-28T13:00:00.000Z"
+      "publishDate": "2025-03-28T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1106,7 +1047,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -1152,7 +1100,8 @@
       "contentId": "4a9876b9-c8db-4898-9055-06a3708ab359.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP0NTT",
-      "publishDate": "2025-02-28T23:00:00.000Z"
+      "publishDate": "2025-02-28T23:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1185,7 +1134,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -1231,7 +1187,8 @@
       "contentId": "7f2ab4af-cdfe-469c-b28f-6de423a2452a.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP0NTT",
-      "publishDate": "2025-01-31T14:00:00.000Z"
+      "publishDate": "2025-01-31T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1310,7 +1267,8 @@
       "contentId": "fa351a86-b194-4a8d-8f01-7667510434a4.en-us",
       "contentLocale": "en-us",
       "rev": "Z9YyLuTxGXstanNTs1MwfI",
-      "publishDate": "2025-01-16T22:00:19.136Z"
+      "publishDate": "2025-01-16T22:00:19.136Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1388,7 +1346,8 @@
       "contentId": "6ebc64fd-6cab-4755-adec-00dda25cd567.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP0NTT",
-      "publishDate": "2024-12-20T20:00:00.000Z"
+      "publishDate": "2024-12-20T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1421,7 +1380,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -1467,7 +1433,8 @@
       "contentId": "26068048-67d5-4570-b92d-b07e67acad4d.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlOze99",
-      "publishDate": "2024-11-22T20:00:00.000Z"
+      "publishDate": "2024-11-22T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1500,7 +1467,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -1546,7 +1520,8 @@
       "contentId": "f756ea0c-4437-48d5-b890-68cddd3a023a.en-us",
       "contentLocale": "en-us",
       "rev": "Z9YyLuTxGXstanNTs1MwfI",
-      "publishDate": "2024-10-09T15:00:00.000Z"
+      "publishDate": "2024-10-09T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1579,7 +1554,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -1625,7 +1607,8 @@
       "contentId": "27228044-394e-4702-a676-689f866bb4c2.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlOze99",
-      "publishDate": "2024-09-13T15:00:00.000Z"
+      "publishDate": "2024-09-13T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1704,7 +1687,8 @@
       "contentId": "38ae78d2-5ed7-4568-9f3c-3ddc69b3b8c1",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlOze99",
-      "publishDate": "2024-08-05T15:00:00.000Z"
+      "publishDate": "2024-08-05T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1737,7 +1721,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -1783,7 +1774,8 @@
       "contentId": "a1f8e730-da49-49b1-82d2-b277106580ca",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlOze99",
-      "publishDate": "2024-07-10T15:00:00.000Z"
+      "publishDate": "2024-07-10T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1862,7 +1854,8 @@
       "contentId": "c5b7409e-ec45-4701-897c-259b0b8a5c4b",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlOze99",
-      "publishDate": "2024-06-07T15:00:00.000Z"
+      "publishDate": "2024-06-07T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1941,7 +1934,8 @@
       "contentId": "articles.bltff82dd6fc6e210b3.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP3wsP",
-      "publishDate": "2024-05-30T16:00:00.000Z"
+      "publishDate": "2024-05-30T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2020,7 +2014,8 @@
       "contentId": "articles.blte759563a06eb0881.en-us",
       "contentLocale": "en-us",
       "rev": "x6e5cvzkf14I5RCNbLoTfL",
-      "publishDate": "2024-05-10T15:00:00.000Z"
+      "publishDate": "2024-05-10T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2053,7 +2048,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -2099,7 +2101,8 @@
       "contentId": "articles.blt8599158bb99dffad.en-us",
       "contentLocale": "en-us",
       "rev": "fRDoAyFHHVMOzUFd3FzhZJ",
-      "publishDate": "2024-04-11T15:00:00.000Z"
+      "publishDate": "2024-04-11T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2178,7 +2181,8 @@
       "contentId": "articles.blta6fb8aa095b564b6.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwiyfW",
-      "publishDate": "2024-03-08T16:00:00.000Z"
+      "publishDate": "2024-03-08T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2211,7 +2215,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -2257,7 +2268,8 @@
       "contentId": "articles.blt0bde9b0d813541c6.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwb47S",
-      "publishDate": "2024-01-30T16:00:00.000Z"
+      "publishDate": "2024-01-30T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2290,7 +2302,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -2336,7 +2355,8 @@
       "contentId": "articles.bltc024649f9b67c2b2.en-us",
       "contentLocale": "en-us",
       "rev": "fRDoAyFHHVMOzUFd3G2EGo",
-      "publishDate": "2023-11-30T16:00:00.000Z"
+      "publishDate": "2023-11-30T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2415,7 +2435,8 @@
       "contentId": "articles.blt884cddd9a1d0970d.en-us",
       "contentLocale": "en-us",
       "rev": "fRDoAyFHHVMOzUFd3FzhZJ",
-      "publishDate": "2023-11-20T16:00:00.000Z"
+      "publishDate": "2023-11-20T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2448,7 +2469,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_challenges",
+        "title": "Community Challenges",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -2495,7 +2523,8 @@
       "contentId": "articles.blt7b90b8b9b1c5abee.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP1muW",
-      "publishDate": "2023-11-13T16:00:00.000Z"
+      "publishDate": "2023-11-13T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2574,7 +2603,8 @@
       "contentId": "articles.blt09946ddaf924a8e0.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwb47S",
-      "publishDate": "2023-10-30T15:00:00.000Z"
+      "publishDate": "2023-10-30T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2607,7 +2637,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -2653,7 +2690,8 @@
       "contentId": "articles.bltd9c249e43fb28188.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP35GS",
-      "publishDate": "2023-09-27T15:00:00.000Z"
+      "publishDate": "2023-09-27T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2686,7 +2724,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -2732,7 +2777,8 @@
       "contentId": "articles.bltf74baa9f31a36249.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP3wsP",
-      "publishDate": "2023-08-27T18:00:00.000Z"
+      "publishDate": "2023-08-27T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2811,7 +2857,8 @@
       "contentId": "articles.blte7f4f3113f832f93.en-us",
       "contentLocale": "en-us",
       "rev": "x6e5cvzkf14I5RCNbLoTfL",
-      "publishDate": "2023-07-28T15:00:00.000Z"
+      "publishDate": "2023-07-28T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2844,7 +2891,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -2890,7 +2944,8 @@
       "contentId": "articles.blt77e075d58834c61e.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP1muW",
-      "publishDate": "2023-07-21T19:00:00.000Z"
+      "publishDate": "2023-07-21T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2923,7 +2978,19 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community",
+        "title": "Community",
+        "description": ""
+      },
+      {
+        "machineName": "community_spotlight",
+        "title": "Community Spotlight",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -2970,7 +3037,8 @@
       "contentId": "articles.blt3aba763c8e0f49f3.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwePIM",
-      "publishDate": "2023-06-30T15:00:00.000Z"
+      "publishDate": "2023-06-30T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3003,7 +3071,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "deadlock",
+        "title": "Deadlock",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -3049,7 +3124,8 @@
       "contentId": "articles.blt9eed3bd946971189.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwiyfW",
-      "publishDate": "2023-05-31T19:00:00.000Z"
+      "publishDate": "2023-05-31T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3082,7 +3158,19 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community",
+        "title": "Community",
+        "description": ""
+      },
+      {
+        "machineName": "community_spotlight",
+        "title": "Community Spotlight",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -3128,7 +3216,8 @@
       "contentId": "articles.blta0397248e55b24c7.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwiyfW",
-      "publishDate": "2023-05-30T13:00:00.000Z"
+      "publishDate": "2023-05-30T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3161,7 +3250,19 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      },
+      {
+        "machineName": "community",
+        "title": "Community",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -3207,7 +3308,8 @@
       "contentId": "articles.blta955ede793c68515.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwiyfW",
-      "publishDate": "2023-04-28T14:00:00.000Z"
+      "publishDate": "2023-04-28T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3240,7 +3342,19 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      },
+      {
+        "machineName": "community",
+        "title": "Community",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -3286,7 +3400,8 @@
       "contentId": "articles.blta0df5a795e7c73ae.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwiyfW",
-      "publishDate": "2023-03-31T16:00:00.000Z"
+      "publishDate": "2023-03-31T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3319,7 +3434,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -3365,7 +3487,8 @@
       "contentId": "articles.blt340d4559a26f3834.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwePIM",
-      "publishDate": "2023-02-24T16:00:00.000Z"
+      "publishDate": "2023-02-24T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3398,7 +3521,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -3444,7 +3574,8 @@
       "contentId": "articles.blte3c7fdaff4bffcfe.en-us",
       "contentLocale": "en-us",
       "rev": "x6e5cvzkf14I5RCNbLoTfL",
-      "publishDate": "2023-01-31T16:00:00.000Z"
+      "publishDate": "2023-01-31T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3477,7 +3608,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_roundup",
+        "title": "Community Roundup",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -3524,7 +3662,8 @@
       "contentId": "articles.bltcd643ac571f4f036.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP35GS",
-      "publishDate": "2022-12-13T17:00:00.000Z"
+      "publishDate": "2022-12-13T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3604,7 +3743,8 @@
       "contentId": "articles.bltd28c2bf9bb14cac1.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP35GS",
-      "publishDate": "2022-12-12T16:00:00.000Z"
+      "publishDate": "2022-12-12T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3683,7 +3823,8 @@
       "contentId": "articles.blte8bd508d2dfb6ec9.en-us",
       "contentLocale": "en-us",
       "rev": "x6e5cvzkf14I5RCNbLoTfL",
-      "publishDate": "2022-10-27T17:00:00.000Z"
+      "publishDate": "2022-10-27T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3716,7 +3857,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "harbor",
+        "title": "Harbor",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -3762,7 +3910,8 @@
       "contentId": "articles.blta4c939815b7c6528.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwiyfW",
-      "publishDate": "2022-10-08T16:00:00.000Z"
+      "publishDate": "2022-10-08T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3795,7 +3944,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community",
+        "title": "Community",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -3841,7 +3997,8 @@
       "contentId": "articles.blte0d4bd85c8c823fd.en-us",
       "contentLocale": "en-us",
       "rev": "x6e5cvzkf14I5RCNbLoTfL",
-      "publishDate": "2022-09-29T15:00:00.000Z"
+      "publishDate": "2022-09-29T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3874,7 +4031,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_spotlight",
+        "title": "Community Spotlight",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -3920,7 +4084,8 @@
       "contentId": "articles.blt7100b8c48e21e445.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP1muW",
-      "publishDate": "2022-08-15T15:00:00.000Z"
+      "publishDate": "2022-08-15T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3999,7 +4164,8 @@
       "contentId": "articles.blt3a572d8f9d73fdf0.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwePIM",
-      "publishDate": "2022-07-25T15:00:00.000Z"
+      "publishDate": "2022-07-25T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4078,7 +4244,8 @@
       "contentId": "articles.bltac20ff7463104d02.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwiyfW",
-      "publishDate": "2022-07-21T15:00:00.000Z"
+      "publishDate": "2022-07-21T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4111,7 +4278,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "pearl",
+        "title": "Pearl",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -4158,7 +4332,8 @@
       "contentId": "articles.blt484f83ed4519c2d0.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwg714",
-      "publishDate": "2022-06-03T15:00:00.000Z"
+      "publishDate": "2022-06-03T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4191,7 +4366,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "fade",
+        "title": "Fade",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -4237,7 +4419,8 @@
       "contentId": "articles.blte79a4641348aeb0d.en-us",
       "contentLocale": "en-us",
       "rev": "x6e5cvzkf14I5RCNbLoTfL",
-      "publishDate": "2022-06-01T21:00:00.000Z"
+      "publishDate": "2022-06-01T21:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4317,7 +4500,8 @@
       "contentId": "articles.bltdc7a09e7e88d9077.en-us",
       "contentLocale": "en-us",
       "rev": "a4mhqh9AqcuhVS2XlP35GS",
-      "publishDate": "2022-03-08T17:00:00.000Z"
+      "publishDate": "2022-03-08T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4350,7 +4534,14 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "raze",
+        "title": "Raze",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -4396,7 +4587,8 @@
       "contentId": "articles.blt0d9ef6d4ab4caff5.en-us",
       "contentLocale": "en-us",
       "rev": "ugA9rRsA0FWcU8w2gwb47S",
-      "publishDate": "2022-02-28T22:00:00.000Z"
+      "publishDate": "2022-02-28T22:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4429,7 +4621,79 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "neon",
+        "title": "Neon",
+        "description": ""
+      },
+      {
+        "machineName": "reyna",
+        "title": "Reyna",
+        "description": ""
+      },
+      {
+        "machineName": "sova",
+        "title": "Sova",
+        "description": ""
+      },
+      {
+        "machineName": "breach",
+        "title": "Breach",
+        "description": ""
+      },
+      {
+        "machineName": "chamber",
+        "title": "Chamber",
+        "description": ""
+      },
+      {
+        "machineName": "cypher",
+        "title": "Cypher",
+        "description": ""
+      },
+      {
+        "machineName": "skye",
+        "title": "Skye",
+        "description": ""
+      },
+      {
+        "machineName": "killjoy",
+        "title": "Killjoy",
+        "description": ""
+      },
+      {
+        "machineName": "phoenix",
+        "title": "Phoenix",
+        "description": ""
+      },
+      {
+        "machineName": "sage",
+        "title": "Sage",
+        "description": ""
+      },
+      {
+        "machineName": "yoru",
+        "title": "Yoru",
+        "description": ""
+      },
+      {
+        "machineName": "viper",
+        "title": "Viper",
+        "description": ""
+      },
+      {
+        "machineName": "jett",
+        "title": "Jett",
+        "description": ""
+      },
+      {
+        "machineName": "raze",
+        "title": "Raze",
+        "description": ""
+      }
+    ]
   },
   {
     "media": {
@@ -4476,7 +4740,8 @@
       "contentId": "articles.blt6596068f624026c6.en-us",
       "contentLocale": "en-us",
       "rev": "x6e5cvzkf14I5RCNbLnIyf",
-      "publishDate": "2022-01-13T11:00:00.000Z"
+      "publishDate": "2022-01-13T11:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4509,6 +4774,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "neon",
+        "title": "Neon",
+        "description": ""
+      }
+    ]
   }
 ]

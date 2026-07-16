@@ -43,7 +43,8 @@
       "contentId": "176d3d18-3f35-4dc9-a929-d4e622e0fbc3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "b9AAjtp9u5qBSVj0YxxLtq",
-      "publishDate": "2026-05-28T17:30:00.000Z"
+      "publishDate": "2026-05-28T17:30:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -138,7 +139,8 @@
       "contentId": "8ca2f2bd-9701-42e7-b0c5-ba2d16ec7771.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "abDHz2fAvwwOn7ufixrASa",
-      "publishDate": "2026-03-17T15:30:00.000Z"
+      "publishDate": "2026-03-17T15:30:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -151,84 +153,6 @@
     },
     "publishedAt": "2026-03-17T15:30:00.000Z",
     "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c1ef08b92878f0d68545770b83f92ba0d59b7d62-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#142327",
-        "secondary": "#DCEDF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c1ef08b92878f0d68545770b83f92ba0d59b7d62-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#142327",
-        "secondary": "#DCEDF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Commentateurs, co-streamers et partenaires de diffusion du LEC 2026",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://lolesports.com/fr-fr/news/2026-lec-talent-broadcast-partners-and-co-streamers"
-      }
-    },
-    "analytics": {
-      "contentId": "2ff6852a-c9b3-4239-b48a-9d435dad8b01.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "x6e5cvzkf14I5RCNbLO7yL",
-      "publishDate": "2026-01-13T15:00:00.000Z"
-    },
-    "category": {
-      "machineName": "community",
-      "title": "Communauté",
-      "description": "Retrouvez vos streamers préférés et les créations de la communauté."
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez celles et ceux qui vous feront vibrer devant vos écrans toute la saison 2026 du LEC"
-    },
-    "publishedAt": "2026-01-13T15:00:00.000Z",
     "product": {
       "title": "League of Legends (fr-fr)",
       "machineName": "league_of_legends",
@@ -295,7 +219,8 @@
       "contentId": "c3d610a9-da8e-46d3-8cf3-e180da77eec9.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-12-01T16:00:00.000Z"
+      "publishDate": "2025-12-01T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -327,7 +252,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community",
+        "title": "Community"
+      }
+    ]
   },
   {
     "media": {
@@ -374,7 +305,8 @@
       "contentId": "2e5cf806-8770-4bb6-9342-9451d2aff773.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-11-17T17:00:00.000Z"
+      "publishDate": "2025-11-17T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -453,7 +385,8 @@
       "contentId": "d58c5713-6e7b-4aea-b61f-3166fba6ea1c.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-08-27T17:00:00.000Z"
+      "publishDate": "2025-08-27T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -486,7 +419,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community",
+        "title": "Community"
+      },
+      {
+        "machineName": "fan_art",
+        "title": "Fan Art"
+      }
+    ]
   },
   {
     "media": {
@@ -532,7 +475,8 @@
       "contentId": "626e4696-65b6-4be7-9b6c-ed8aac4f6de3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2025-06-27T13:00:00.000Z"
+      "publishDate": "2025-06-27T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -610,7 +554,8 @@
       "contentId": "786a93bf-6386-418b-af29-7e9a1f2fcf32.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-06-04T15:00:00.000Z"
+      "publishDate": "2025-06-04T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -642,7 +587,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "spirit_blossom",
+        "title": "Spirit Blossom"
+      }
+    ]
   },
   {
     "media": {
@@ -688,7 +639,8 @@
       "contentId": "7250895d-c6a6-4c4d-a2aa-abfb375291fb.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2025-05-28T15:00:00.000Z"
+      "publishDate": "2025-05-28T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -721,7 +673,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_collab",
+        "title": "Collaboration communautaire :"
+      }
+    ]
   },
   {
     "media": {
@@ -767,7 +725,8 @@
       "contentId": "f7041cc6-1502-470e-b047-54d91b8c767b.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-05-13T16:00:00.000Z"
+      "publishDate": "2025-05-13T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -845,7 +804,8 @@
       "contentId": "3d335eb5-ebaf-49ce-a004-0f6655c9d7b1.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-04-21T15:00:00.000Z"
+      "publishDate": "2025-04-21T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -924,7 +884,8 @@
       "contentId": "0462da16-1113-4b4f-bd66-98582a99d9de.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2025-03-10T12:00:00.000Z"
+      "publishDate": "2025-03-10T12:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1004,7 +965,8 @@
       "contentId": "a36bbb7d-b7c3-4e58-ac86-d592fdb87bdd.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-03-10T11:09:05Z"
+      "publishDate": "2025-03-10T11:09:05Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1082,7 +1044,8 @@
       "contentId": "71539f80-a00e-4d65-b994-bad9bfa8d593.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2024-11-11T12:58:18Z"
+      "publishDate": "2024-11-11T12:58:18Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1114,7 +1077,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "ftw",
+        "title": "FTW"
+      }
+    ]
   },
   {
     "media": {
@@ -1162,7 +1131,8 @@
       "contentId": "d0b83ab1-dac8-4770-9493-732824a2bbf7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2024-10-21T16:00:00.000Z"
+      "publishDate": "2024-10-21T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1241,7 +1211,8 @@
       "contentId": "c0db288d-78a2-47de-ab4f-3aeeaaf50cb9.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2024-10-18T10:59:00Z"
+      "publishDate": "2024-10-18T10:59:00Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1321,7 +1292,8 @@
       "contentId": "f071e5f8-e82c-4ca1-9896-3a21d2a46231.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2024-10-02T15:07:05Z"
+      "publishDate": "2024-10-02T15:07:05Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1399,7 +1371,8 @@
       "contentId": "675d63e0-abd6-4502-8591-d5e16ee6dccc.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2024-09-23T15:00:00.000Z"
+      "publishDate": "2024-09-23T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1479,7 +1452,8 @@
       "contentId": "78b6998f-f0be-49ea-b92a-c1ff39611db7",
       "contentLocale": "fr-fr",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2024-08-28T15:20:14Z"
+      "publishDate": "2024-08-28T15:20:14Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1557,7 +1531,8 @@
       "contentId": "abe3f2ac-40d7-4012-8fb9-1693afeb9e9a",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2024-07-16T13:23:38Z"
+      "publishDate": "2024-07-16T13:23:38Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1589,7 +1564,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "ftw",
+        "title": "FTW"
+      }
+    ]
   },
   {
     "media": {
@@ -1635,7 +1616,8 @@
       "contentId": "53deec35-fc62-45ad-9671-f025154dbcb3",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2024-06-26T15:00:00.000Z"
+      "publishDate": "2024-06-26T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1668,7 +1650,21 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "fan_art",
+        "title": "Fan Art"
+      },
+      {
+        "machineName": "contest",
+        "title": "Concours"
+      },
+      {
+        "machineName": "community",
+        "title": "Community"
+      }
+    ]
   },
   {
     "media": {
@@ -1714,7 +1710,8 @@
       "contentId": "articles.blt4ddaabd50acc95e4.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOR0FS",
-      "publishDate": "2024-05-29T16:00:00.000Z"
+      "publishDate": "2024-05-29T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1747,7 +1744,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community",
+        "title": "Community"
+      }
+    ]
   },
   {
     "media": {
@@ -1794,7 +1797,8 @@
       "contentId": "6b8ba3bb-2941-4295-9be7-c0a02ed787ab",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2024-05-23T12:04:03Z"
+      "publishDate": "2024-05-23T12:04:03Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1873,7 +1877,8 @@
       "contentId": "articles.bltaab27ff1d987d9f6.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
-      "publishDate": "2024-05-14T14:02:58.000Z"
+      "publishDate": "2024-05-14T14:02:58.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1953,7 +1958,8 @@
       "contentId": "articles.blt3f364ba09bdd9da3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOONSwC",
-      "publishDate": "2024-02-08T20:00:00.000Z"
+      "publishDate": "2024-02-08T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -1986,7 +1992,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -2032,7 +2044,8 @@
       "contentId": "articles.blt0ec88d419d45b966.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrXoOD",
-      "publishDate": "2024-01-12T17:00:00.000Z"
+      "publishDate": "2024-01-12T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2065,7 +2078,37 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "cosplay",
+        "title": "Cosplay"
+      },
+      {
+        "machineName": "aatrox",
+        "title": "Aatrox"
+      },
+      {
+        "machineName": "ashe",
+        "title": "Ashe"
+      },
+      {
+        "machineName": "kayle",
+        "title": "Kayle"
+      },
+      {
+        "machineName": "morgana",
+        "title": "Morgana"
+      },
+      {
+        "machineName": "tryndamere",
+        "title": "Tryndamere"
+      },
+      {
+        "machineName": "yasuo",
+        "title": "Yasuo"
+      }
+    ]
   },
   {
     "media": {
@@ -2112,7 +2155,8 @@
       "contentId": "articles.bltb00fa00168867af5.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvs1Ea7",
-      "publishDate": "2024-01-11T20:00:00.000Z"
+      "publishDate": "2024-01-11T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2145,7 +2189,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -2191,7 +2241,8 @@
       "contentId": "articles.blt714ba308c50058be.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrscU3",
-      "publishDate": "2023-12-14T00:00:00.000Z"
+      "publishDate": "2023-12-14T00:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2271,7 +2322,8 @@
       "contentId": "articles.bltd1cf929092858c0d.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SwvJx",
-      "publishDate": "2023-11-24T16:00:00.000Z"
+      "publishDate": "2023-11-24T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2304,7 +2356,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "karma",
+        "title": "Karma"
+      }
+    ]
   },
   {
     "media": {
@@ -2350,7 +2408,8 @@
       "contentId": "articles.blt1e5d5506aec98ecb.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOIo26",
-      "publishDate": "2023-11-21T14:00:00.000Z"
+      "publishDate": "2023-11-21T14:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2430,7 +2489,8 @@
       "contentId": "articles.blt09c0d308cc4533fe.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOHJ9s",
-      "publishDate": "2023-11-17T20:00:00.000Z"
+      "publishDate": "2023-11-17T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2463,7 +2523,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -2510,7 +2576,8 @@
       "contentId": "articles.blt1098c9fab528fbc7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrXoOD",
-      "publishDate": "2023-11-10T00:00:00.000Z"
+      "publishDate": "2023-11-10T00:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2590,7 +2657,8 @@
       "contentId": "articles.bltb1a00c1759e85c39.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvs1Ea7",
-      "publishDate": "2023-10-18T17:00:00.000Z"
+      "publishDate": "2023-10-18T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2623,7 +2691,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -2669,7 +2743,8 @@
       "contentId": "articles.blt469699fef6b7686d.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrjxcb",
-      "publishDate": "2023-10-02T18:00:00.000Z"
+      "publishDate": "2023-10-02T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2702,7 +2777,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community",
+        "title": "Community"
+      }
+    ]
   },
   {
     "media": {
@@ -2749,7 +2830,8 @@
       "contentId": "articles.blte79feabde23ad56f.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOcsrw",
-      "publishDate": "2023-10-02T18:00:00.000Z"
+      "publishDate": "2023-10-02T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2829,7 +2911,8 @@
       "contentId": "articles.blt506fc1eda0408866.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOR0FS",
-      "publishDate": "2023-09-18T17:00:00.000Z"
+      "publishDate": "2023-09-18T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2862,7 +2945,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -2909,7 +2998,8 @@
       "contentId": "articles.bltb8f0e33fc00df467.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "BMNrGLgwKDF4EjlAoVDgZ8",
-      "publishDate": "2023-08-21T17:00:00.000Z"
+      "publishDate": "2023-08-21T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -2942,7 +3032,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -2989,7 +3085,8 @@
       "contentId": "articles.blt590da3bd745ddf43.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "4JtdF5NqmkvmgUeb12IlEN",
-      "publishDate": "2023-08-13T23:00:00.000Z"
+      "publishDate": "2023-08-13T23:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3069,7 +3166,8 @@
       "contentId": "articles.blt99416468e890d4c2.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvcMH",
-      "publishDate": "2023-08-11T20:00:00.000Z"
+      "publishDate": "2023-08-11T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3102,7 +3200,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community",
+        "title": "Community"
+      },
+      {
+        "machineName": "cosplay",
+        "title": "Cosplay"
+      }
+    ]
   },
   {
     "media": {
@@ -3149,7 +3257,8 @@
       "contentId": "articles.blt83aea546d3b49296.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOVhs6",
-      "publishDate": "2023-07-27T15:00:00.000Z"
+      "publishDate": "2023-07-27T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3228,7 +3337,8 @@
       "contentId": "articles.blt8ea07abb021618a1.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2023-07-21T10:00:00.000Z"
+      "publishDate": "2023-07-21T10:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3308,7 +3418,8 @@
       "contentId": "articles.bltd586254a41b49a8f.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SwvJx",
-      "publishDate": "2023-07-19T16:15:00.000Z"
+      "publishDate": "2023-07-19T16:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3341,7 +3452,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -3387,7 +3504,8 @@
       "contentId": "articles.blt007a9b3d980828c4.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2023-07-14T15:00:00.000Z"
+      "publishDate": "2023-07-14T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3420,7 +3538,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "twitch",
+        "title": "Twitch"
+      }
+    ]
   },
   {
     "media": {
@@ -3467,7 +3591,8 @@
       "contentId": "articles.blt3a084b0b9606d469.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrfa37",
-      "publishDate": "2023-06-19T16:15:00.000Z"
+      "publishDate": "2023-06-19T16:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3500,7 +3625,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -3547,7 +3678,8 @@
       "contentId": "articles.bltb9719f93d354123a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "BMNrGLgwKDF4EjlAoVDgZ8",
-      "publishDate": "2023-06-06T15:00:00.000Z"
+      "publishDate": "2023-06-06T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3580,7 +3712,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -3626,7 +3764,8 @@
       "contentId": "articles.bltbfc4a96023ca6545.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvs5YNt",
-      "publishDate": "2023-06-01T15:00:00.000Z"
+      "publishDate": "2023-06-01T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3706,7 +3845,8 @@
       "contentId": "articles.bltee26cef7d5346d1a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SxfIl",
-      "publishDate": "2023-06-01T15:00:00.000Z"
+      "publishDate": "2023-06-01T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3786,7 +3926,8 @@
       "contentId": "articles.bltc34ef5a22c8e5a89.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOZRIA",
-      "publishDate": "2023-05-24T13:00:00.000Z"
+      "publishDate": "2023-05-24T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3866,7 +4007,8 @@
       "contentId": "articles.blt92436dc54eb45b1e.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2023-05-17T13:00:00.000Z"
+      "publishDate": "2023-05-17T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3946,7 +4088,8 @@
       "contentId": "articles.blt7c7b6d7e39e1b20b.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrvLmD",
-      "publishDate": "2023-05-03T16:00:00.000Z"
+      "publishDate": "2023-05-03T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -3979,7 +4122,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -4026,7 +4175,8 @@
       "contentId": "articles.blt0d66dd2267c4fd26.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrXoOD",
-      "publishDate": "2023-04-25T17:15:00.000Z"
+      "publishDate": "2023-04-25T17:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4059,7 +4209,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -4106,7 +4262,8 @@
       "contentId": "articles.blt70b67e9dc35700ca.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrscU3",
-      "publishDate": "2023-04-19T10:38:07.000Z"
+      "publishDate": "2023-04-19T10:38:07.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4186,7 +4343,8 @@
       "contentId": "articles.bltf73115eacb71c9f2.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvsB18b",
-      "publishDate": "2023-03-16T18:00:00.000Z"
+      "publishDate": "2023-03-16T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4219,7 +4377,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -4266,7 +4430,8 @@
       "contentId": "articles.blt8721a4037b14deb9.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOVhs6",
-      "publishDate": "2023-02-16T17:15:00.000Z"
+      "publishDate": "2023-02-16T17:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4299,7 +4464,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -4346,7 +4517,8 @@
       "contentId": "articles.blta6267f2b3279858a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOY69e",
-      "publishDate": "2023-01-31T17:15:00.000Z"
+      "publishDate": "2023-01-31T17:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4379,7 +4551,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -4426,7 +4604,8 @@
       "contentId": "articles.bltd2ddd8bf31e11dae.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SwvJx",
-      "publishDate": "2022-12-29T17:15:00.000Z"
+      "publishDate": "2022-12-29T17:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4459,7 +4638,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -4506,7 +4691,8 @@
       "contentId": "articles.bltdef92abe02444d33.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOObv0o",
-      "publishDate": "2022-12-12T16:00:00.000Z"
+      "publishDate": "2022-12-12T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4539,7 +4725,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "karma",
+        "title": "Karma"
+      }
+    ]
   },
   {
     "media": {
@@ -4586,7 +4778,8 @@
       "contentId": "articles.blt02b842653e0a2af3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2022-11-29T17:15:00.000Z"
+      "publishDate": "2022-11-29T17:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4619,7 +4812,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -4666,7 +4865,8 @@
       "contentId": "articles.blt29edccb18abd03ce.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "kNWDW7h0OSfIJBVqddZQqJ",
-      "publishDate": "2022-11-01T16:15:00.000Z"
+      "publishDate": "2022-11-01T16:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4699,7 +4899,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -4747,7 +4953,8 @@
       "contentId": "articles.blt92291f24f664df35.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2022-10-20T11:00:00.000Z"
+      "publishDate": "2022-10-20T11:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4827,7 +5034,8 @@
       "contentId": "articles.blt62f9308d84192ad9.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Su3Ad",
-      "publishDate": "2022-09-29T16:15:00.000Z"
+      "publishDate": "2022-09-29T16:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4860,7 +5068,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -4907,7 +5121,8 @@
       "contentId": "articles.blt25d7da605416d0c1.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2022-08-30T16:15:00.000Z"
+      "publishDate": "2022-08-30T16:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -4940,7 +5155,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -4986,7 +5207,8 @@
       "contentId": "articles.blt62c63c7163be46db.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Su3Ad",
-      "publishDate": "2022-08-17T15:00:00.000Z"
+      "publishDate": "2022-08-17T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5066,7 +5288,8 @@
       "contentId": "articles.blt69504a28d9ea1dcb.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOTkp6",
-      "publishDate": "2022-07-28T16:15:00.000Z"
+      "publishDate": "2022-07-28T16:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5099,7 +5322,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -5146,7 +5375,8 @@
       "contentId": "articles.bltf12f8908a9984aec.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SxfIl",
-      "publishDate": "2022-06-30T16:15:00.000Z"
+      "publishDate": "2022-06-30T16:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5179,7 +5409,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -5225,7 +5461,8 @@
       "contentId": "articles.blt934a4438371e409b.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2022-06-01T20:00:00.000Z"
+      "publishDate": "2022-06-01T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5305,7 +5542,8 @@
       "contentId": "articles.bltcc086a867e3684dd.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvs8Har",
-      "publishDate": "2022-05-31T16:15:00.000Z"
+      "publishDate": "2022-05-31T16:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5338,7 +5576,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -5385,7 +5629,8 @@
       "contentId": "articles.blte8aad94fc6e2f791.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOcsrw",
-      "publishDate": "2022-04-28T16:15:00.000Z"
+      "publishDate": "2022-04-28T16:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5418,7 +5663,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -5466,7 +5717,8 @@
       "contentId": "articles.bltc980ee384b5a46d0.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOZRIA",
-      "publishDate": "2022-04-20T13:46:57.000Z"
+      "publishDate": "2022-04-20T13:46:57.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5546,7 +5798,8 @@
       "contentId": "articles.blt00f5746313043fce.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2022-04-01T19:00:00.000Z"
+      "publishDate": "2022-04-01T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5579,7 +5832,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -5626,7 +5885,8 @@
       "contentId": "articles.blt51d49bf09c8e7597.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOR0FS",
-      "publishDate": "2022-03-03T17:15:00.000Z"
+      "publishDate": "2022-03-03T17:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5659,7 +5919,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -5706,7 +5972,8 @@
       "contentId": "articles.blt5e3332b827f52aa0.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "4JtdF5NqmkvmgUeb12IlEN",
-      "publishDate": "2022-02-01T16:00:00.000Z"
+      "publishDate": "2022-02-01T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5786,7 +6053,8 @@
       "contentId": "articles.blt78a5e7c3fe9c3900.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Sua3f",
-      "publishDate": "2022-01-27T17:15:00.000Z"
+      "publishDate": "2022-01-27T17:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5819,7 +6087,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -5866,7 +6140,8 @@
       "contentId": "articles.bltfebc830b6b7a12ad.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOeSjg",
-      "publishDate": "2022-01-13T18:00:00.000Z"
+      "publishDate": "2022-01-13T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5945,7 +6220,8 @@
       "contentId": "articles.blt64c57c287d8a7f17.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Su3Ad",
-      "publishDate": "2022-01-07T16:00:00.000Z"
+      "publishDate": "2022-01-07T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -5978,7 +6254,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "champion_update",
+        "title": "Mise à jour de champions"
+      }
+    ]
   },
   {
     "media": {
@@ -6025,7 +6307,8 @@
       "contentId": "articles.bltcb952dbfdbb0468b.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvs8Har",
-      "publishDate": "2021-12-30T17:15:00.000Z"
+      "publishDate": "2021-12-30T17:15:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6058,7 +6341,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -6105,7 +6394,8 @@
       "contentId": "articles.bltcd79083c0df1efa5.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvs8Har",
-      "publishDate": "2021-11-30T17:00:00.000Z"
+      "publishDate": "2021-11-30T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6138,7 +6428,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -6186,7 +6482,8 @@
       "contentId": "articles.bltaf5fa6227d1d485c.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
-      "publishDate": "2021-11-16T15:45:00.000Z"
+      "publishDate": "2021-11-16T15:45:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6219,7 +6516,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "riot_forge",
+        "title": "Riot Forge"
+      }
+    ]
   },
   {
     "media": {
@@ -6266,7 +6569,8 @@
       "contentId": "articles.blt9833b3e3de4048ed.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvcMH",
-      "publishDate": "2021-11-12T16:00:00.000Z"
+      "publishDate": "2021-11-12T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6299,7 +6603,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "riotx_arcane",
+        "title": "RiotX Arcane"
+      },
+      {
+        "machineName": "xp1_website",
+        "title": "XP1 website"
+      }
+    ]
   },
   {
     "media": {
@@ -6346,7 +6660,8 @@
       "contentId": "articles.blt6cebb32db5dbbbbf.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOTkp6",
-      "publishDate": "2021-10-29T17:00:00.000Z"
+      "publishDate": "2021-10-29T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6379,7 +6694,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -6426,7 +6747,8 @@
       "contentId": "articles.blt6841cc2691dd0038.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOTkp6",
-      "publishDate": "2021-10-27T16:00:00.000Z"
+      "publishDate": "2021-10-27T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6459,7 +6781,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -6505,7 +6833,8 @@
       "contentId": "articles.blt149ddce8a787c4ed.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrZqnH",
-      "publishDate": "2021-10-27T16:00:00.000Z"
+      "publishDate": "2021-10-27T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6538,7 +6867,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -6585,7 +6920,8 @@
       "contentId": "articles.blt3c238b8f0a8fc925.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrfa37",
-      "publishDate": "2021-10-04T16:00:00.000Z"
+      "publishDate": "2021-10-04T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6618,7 +6954,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -6665,7 +7007,8 @@
       "contentId": "articles.blt2065c8239114f1ac.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2021-09-23T16:00:00.000Z"
+      "publishDate": "2021-09-23T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6698,7 +7041,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -6745,7 +7094,8 @@
       "contentId": "articles.blt40696469574ffbbb.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOONSwC",
-      "publishDate": "2021-09-13T16:00:00.000Z"
+      "publishDate": "2021-09-13T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6778,7 +7128,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -6825,7 +7181,8 @@
       "contentId": "articles.blt1d78035b8606ed70.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOIo26",
-      "publishDate": "2021-09-02T16:00:00.000Z"
+      "publishDate": "2021-09-02T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6858,7 +7215,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -6905,7 +7268,8 @@
       "contentId": "articles.blt2b622be1eda14082.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrcUJ5",
-      "publishDate": "2021-08-23T16:00:00.000Z"
+      "publishDate": "2021-08-23T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -6938,7 +7302,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -6985,7 +7355,8 @@
       "contentId": "articles.blt09652fe5f0edfebb.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOHJ9s",
-      "publishDate": "2021-08-12T16:00:00.000Z"
+      "publishDate": "2021-08-12T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7018,7 +7389,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -7065,7 +7442,8 @@
       "contentId": "articles.blt5054e7c0dcf4b9b5.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOR0FS",
-      "publishDate": "2021-08-02T16:00:00.000Z"
+      "publishDate": "2021-08-02T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7098,7 +7476,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -7145,7 +7529,8 @@
       "contentId": "articles.blt236474d1f578b504.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2021-07-22T16:00:00.000Z"
+      "publishDate": "2021-07-22T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7178,7 +7563,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -7225,7 +7616,8 @@
       "contentId": "articles.blta955b6e328892e44.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
-      "publishDate": "2021-07-14T17:00:00.000Z"
+      "publishDate": "2021-07-14T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7258,7 +7650,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "legends_of_runeterra",
+        "title": "Legends of Runeterra"
+      },
+      {
+        "machineName": "sentinels_of_light",
+        "title": "Sentinels of Light"
+      }
+    ]
   },
   {
     "media": {
@@ -7305,7 +7707,8 @@
       "contentId": "articles.blt23e7df0d8e456dd4.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2021-07-12T17:00:00.000Z"
+      "publishDate": "2021-07-12T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7338,7 +7741,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -7385,7 +7794,8 @@
       "contentId": "articles.blt8ea2774267c44feb.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2021-07-01T16:00:00.000Z"
+      "publishDate": "2021-07-01T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7418,7 +7828,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -7466,7 +7882,8 @@
       "contentId": "articles.blt72b4355693147341.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrscU3",
-      "publishDate": "2021-06-23T15:00:00.000Z"
+      "publishDate": "2021-06-23T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7546,7 +7963,8 @@
       "contentId": "articles.blt267fbdc99a1adfb2.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "kNWDW7h0OSfIJBVqddZQqJ",
-      "publishDate": "2021-06-22T11:57:13.000Z"
+      "publishDate": "2021-06-22T11:57:13.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7626,7 +8044,8 @@
       "contentId": "articles.bltb5e0a3cb099500dc.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvs1Ea7",
-      "publishDate": "2021-06-21T16:00:00.000Z"
+      "publishDate": "2021-06-21T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7659,7 +8078,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -7706,7 +8131,8 @@
       "contentId": "articles.bltb7281c6f9ef44b1e.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "tG8aRZvgYHVPamBbJHLM7R",
-      "publishDate": "2021-06-11T16:00:00.000Z"
+      "publishDate": "2021-06-11T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7739,7 +8165,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -7785,7 +8217,8 @@
       "contentId": "articles.bltea83ec146d091315.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOcsrw",
-      "publishDate": "2021-06-08T15:38:12.000Z"
+      "publishDate": "2021-06-08T15:38:12.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7864,7 +8297,8 @@
       "contentId": "articles.blt925262170690ac3a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2021-06-04T10:32:32.000Z"
+      "publishDate": "2021-06-04T10:32:32.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7944,7 +8378,8 @@
       "contentId": "articles.blt6c6b8c55a808f85a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOTkp6",
-      "publishDate": "2021-06-01T16:00:00.000Z"
+      "publishDate": "2021-06-01T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -7977,7 +8412,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -8024,7 +8465,8 @@
       "contentId": "articles.bltfe2fcb6f30df4366.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOeSjg",
-      "publishDate": "2021-05-21T16:00:00.000Z"
+      "publishDate": "2021-05-21T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8057,7 +8499,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -8105,7 +8553,8 @@
       "contentId": "articles.bltf618b67b89253537.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvsB18b",
-      "publishDate": "2021-05-20T14:27:53.000Z"
+      "publishDate": "2021-05-20T14:27:53.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8184,7 +8633,8 @@
       "contentId": "articles.blt09ae93a0c379858f.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOHJ9s",
-      "publishDate": "2021-05-17T19:00:00.000Z"
+      "publishDate": "2021-05-17T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8264,7 +8714,8 @@
       "contentId": "articles.blt51e42ee5f63b2f60.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOR0FS",
-      "publishDate": "2021-05-10T16:00:00.000Z"
+      "publishDate": "2021-05-10T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8297,7 +8748,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -8344,7 +8801,8 @@
       "contentId": "articles.blt8b7d2b2f4369c501.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOWpJk",
-      "publishDate": "2021-04-29T16:00:00.000Z"
+      "publishDate": "2021-04-29T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8377,7 +8835,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -8424,7 +8888,8 @@
       "contentId": "articles.blt93e51b46ef62e5b4.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvcMH",
-      "publishDate": "2021-04-25T16:00:00.000Z"
+      "publishDate": "2021-04-25T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8503,7 +8968,8 @@
       "contentId": "articles.bltcfab640356fd13fe.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SwvJx",
-      "publishDate": "2021-04-22T17:00:00.000Z"
+      "publishDate": "2021-04-22T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8583,7 +9049,8 @@
       "contentId": "articles.blte62c47a6e034b4ed.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOcsrw",
-      "publishDate": "2021-04-19T16:00:00.000Z"
+      "publishDate": "2021-04-19T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8616,7 +9083,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -8663,7 +9136,8 @@
       "contentId": "articles.blt9dee75f9409c331a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvyD7",
-      "publishDate": "2021-04-08T16:00:00.000Z"
+      "publishDate": "2021-04-08T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8696,7 +9170,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -8743,7 +9223,8 @@
       "contentId": "articles.blt7628931b509620c6.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Sua3f",
-      "publishDate": "2021-03-29T16:00:00.000Z"
+      "publishDate": "2021-03-29T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8776,7 +9257,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -8823,7 +9310,8 @@
       "contentId": "articles.blt27fd9b4d6c13749d.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "kNWDW7h0OSfIJBVqddZQqJ",
-      "publishDate": "2021-03-18T16:00:00.000Z"
+      "publishDate": "2021-03-18T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8856,7 +9344,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -8904,7 +9398,8 @@
       "contentId": "articles.blt9ddf3e8cf29167a2.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvyD7",
-      "publishDate": "2021-03-18T14:41:57.000Z"
+      "publishDate": "2021-03-18T14:41:57.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -8983,7 +9478,8 @@
       "contentId": "articles.blt469416d63ee9ddae.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrjxcb",
-      "publishDate": "2021-03-18T13:00:00.000Z"
+      "publishDate": "2021-03-18T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9063,7 +9559,8 @@
       "contentId": "articles.blt93240f3578fefd40.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2021-03-08T17:00:00.000Z"
+      "publishDate": "2021-03-08T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9096,7 +9593,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -9143,7 +9646,8 @@
       "contentId": "articles.blt2aa883852ba13b15.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "kNWDW7h0OSfIJBVqddZQqJ",
-      "publishDate": "2021-02-25T17:00:00.000Z"
+      "publishDate": "2021-02-25T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9175,7 +9679,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -9222,7 +9732,8 @@
       "contentId": "articles.blt416df9fc9941647e.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOONSwC",
-      "publishDate": "2021-02-15T17:00:00.000Z"
+      "publishDate": "2021-02-15T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9254,7 +9765,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -9300,7 +9817,8 @@
       "contentId": "articles.bltdb52b8bdb9f7da0e.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOap9E",
-      "publishDate": "2021-02-15T16:00:00.000Z"
+      "publishDate": "2021-02-15T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9332,7 +9850,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "fan_art",
+        "title": "Fan Art"
+      },
+      {
+        "machineName": "contest",
+        "title": "Concours"
+      }
+    ]
   },
   {
     "media": {
@@ -9379,7 +9907,8 @@
       "contentId": "articles.bltfe4f1f1b41482625.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOeSjg",
-      "publishDate": "2021-02-04T17:00:00.000Z"
+      "publishDate": "2021-02-04T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9411,7 +9940,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -9458,7 +9993,8 @@
       "contentId": "articles.blt97f471765afbd765.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvcMH",
-      "publishDate": "2021-01-25T17:00:00.000Z"
+      "publishDate": "2021-01-25T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9490,7 +10026,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -9536,7 +10078,8 @@
       "contentId": "articles.blt222d4544caec20ef.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2021-01-18T16:00:00.000Z"
+      "publishDate": "2021-01-18T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9615,7 +10158,8 @@
       "contentId": "articles.blt18ca7b92b8a23cd9.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrZqnH",
-      "publishDate": "2021-01-15T17:00:00.000Z"
+      "publishDate": "2021-01-15T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9647,7 +10191,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -9693,7 +10243,8 @@
       "contentId": "articles.blt790cdc6a68cecaf7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Q5qfL",
-      "publishDate": "2021-01-13T15:05:12.000Z"
+      "publishDate": "2021-01-13T15:05:12.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9771,7 +10322,8 @@
       "contentId": "articles.blt50e405c92c1711c6.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOR0FS",
-      "publishDate": "2021-01-08T17:00:00.000Z"
+      "publishDate": "2021-01-08T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9803,7 +10355,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "champion_update",
+        "title": "Mise à jour de champions"
+      }
+    ]
   },
   {
     "media": {
@@ -9850,7 +10408,8 @@
       "contentId": "articles.blt72173d271a24186b.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrscU3",
-      "publishDate": "2021-01-05T17:00:00.000Z"
+      "publishDate": "2021-01-05T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -9882,7 +10441,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -9929,7 +10494,8 @@
       "contentId": "articles.blt642724fc64e80c7a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Su3Ad",
-      "publishDate": "2020-12-18T16:00:00.000Z"
+      "publishDate": "2020-12-18T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10007,7 +10573,8 @@
       "contentId": "articles.bltbe921fe8bf2c400d.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvs5YNt",
-      "publishDate": "2020-12-09T17:00:00.000Z"
+      "publishDate": "2020-12-09T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10039,7 +10606,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "kda",
+        "title": "K/DA"
+      }
+    ]
   },
   {
     "media": {
@@ -10086,7 +10659,8 @@
       "contentId": "articles.blt6e1f2dbc5e6df6c0.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrscU3",
-      "publishDate": "2020-12-03T17:00:00.000Z"
+      "publishDate": "2020-12-03T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10118,7 +10692,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -10165,7 +10745,8 @@
       "contentId": "articles.bltaa688eb725e82aaa.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
-      "publishDate": "2020-11-23T17:00:00.000Z"
+      "publishDate": "2020-11-23T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10197,7 +10778,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -10244,7 +10831,8 @@
       "contentId": "articles.blt19abbb0036c6bc8f.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOIo26",
-      "publishDate": "2020-11-06T17:00:00.000Z"
+      "publishDate": "2020-11-06T17:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10276,7 +10864,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -10323,7 +10917,8 @@
       "contentId": "articles.blt2b2870c154362348.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "kNWDW7h0OSfIJBVqddZQqJ",
-      "publishDate": "2020-10-29T16:00:00.000Z"
+      "publishDate": "2020-10-29T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10355,7 +10950,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -10401,7 +11002,8 @@
       "contentId": "articles.blt050eba8729b6a58b.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOHJ9s",
-      "publishDate": "2020-10-28T14:35:00.000Z"
+      "publishDate": "2020-10-28T14:35:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10433,7 +11035,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "kda",
+        "title": "K/DA"
+      }
+    ]
   },
   {
     "media": {
@@ -10480,7 +11088,8 @@
       "contentId": "articles.blta1841bb6c025847c.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOY69e",
-      "publishDate": "2020-10-19T15:00:00.000Z"
+      "publishDate": "2020-10-19T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10512,7 +11121,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -10559,7 +11174,8 @@
       "contentId": "articles.blta2ddf99182288131.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOY69e",
-      "publishDate": "2020-09-29T15:00:00.000Z"
+      "publishDate": "2020-09-29T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10591,7 +11207,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -10638,7 +11260,8 @@
       "contentId": "articles.bltae3a9e771f0ae857.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
-      "publishDate": "2020-09-18T15:00:00.000Z"
+      "publishDate": "2020-09-18T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10670,7 +11293,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -10717,7 +11346,8 @@
       "contentId": "articles.blt8facb16b69d6775a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2020-09-02T15:00:00.000Z"
+      "publishDate": "2020-09-02T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10796,7 +11426,8 @@
       "contentId": "articles.blt0f2e9b8ecbfba6f8.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrXoOD",
-      "publishDate": "2020-08-27T15:00:00.000Z"
+      "publishDate": "2020-08-27T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10828,7 +11459,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -10875,7 +11512,8 @@
       "contentId": "articles.blt044556ecc4f0e8d3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOHJ9s",
-      "publishDate": "2020-08-19T15:00:00.000Z"
+      "publishDate": "2020-08-19T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -10907,7 +11545,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "prime_gaming",
+        "title": "Prime Gaming"
+      }
+    ]
   },
   {
     "media": {
@@ -10953,7 +11597,8 @@
       "contentId": "articles.blt2f837abc6c5a8036.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrcUJ5",
-      "publishDate": "2020-08-07T15:00:00.000Z"
+      "publishDate": "2020-08-07T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11031,7 +11676,8 @@
       "contentId": "articles.blt30095dd829405309.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrcUJ5",
-      "publishDate": "2020-08-05T11:53:03.000Z"
+      "publishDate": "2020-08-05T11:53:03.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11110,7 +11756,8 @@
       "contentId": "articles.blt22c832f5d3101c60.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2020-08-03T16:00:00.000Z"
+      "publishDate": "2020-08-03T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11142,7 +11789,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "twitch",
+        "title": "Twitch"
+      },
+      {
+        "machineName": "twitch_prime",
+        "title": "Twitch Prime"
+      }
+    ]
   },
   {
     "media": {
@@ -11188,7 +11845,8 @@
       "contentId": "articles.bltf60123f05eab438b.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvsB18b",
-      "publishDate": "2020-07-07T13:53:11.000Z"
+      "publishDate": "2020-07-07T13:53:11.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11266,7 +11924,8 @@
       "contentId": "articles.bltf979bc8b7aea7d23.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvsB18b",
-      "publishDate": "2020-06-26T14:19:50.000Z"
+      "publishDate": "2020-06-26T14:19:50.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11345,7 +12004,8 @@
       "contentId": "articles.blt2f5b1b85035fdcc0.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrcUJ5",
-      "publishDate": "2020-06-15T15:00:00.000Z"
+      "publishDate": "2020-06-15T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11423,7 +12083,8 @@
       "contentId": "articles.bltb5bc0248e7e1b901.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvs1Ea7",
-      "publishDate": "2020-06-15T12:00:00.000Z"
+      "publishDate": "2020-06-15T12:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11501,7 +12162,8 @@
       "contentId": "articles.blt0d18e5b39801f4eb.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrXoOD",
-      "publishDate": "2020-06-10T12:00:00.000Z"
+      "publishDate": "2020-06-10T12:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11580,7 +12242,8 @@
       "contentId": "articles.blt2f5aaf29c964cdfb.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrcUJ5",
-      "publishDate": "2020-05-29T13:00:00.000Z"
+      "publishDate": "2020-05-29T13:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11612,7 +12275,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "featured_streamers",
+        "title": "Streamers"
+      }
+    ]
   },
   {
     "media": {
@@ -11658,7 +12327,8 @@
       "contentId": "articles.bltf6d899c0030b6845.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvsB18b",
-      "publishDate": "2020-05-27T20:00:00.000Z"
+      "publishDate": "2020-05-27T20:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11690,7 +12360,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "volibear",
+        "title": "Volibear"
+      },
+      {
+        "machineName": "skin_release",
+        "title": "Sortie de skin"
+      }
+    ]
   },
   {
     "media": {
@@ -11736,7 +12416,8 @@
       "contentId": "articles.blt4508ceadad8f45ee.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrjxcb",
-      "publishDate": "2020-05-22T12:00:00.000Z"
+      "publishDate": "2020-05-22T12:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11814,7 +12495,8 @@
       "contentId": "articles.blt11a2e0c3ac54ff6a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrXoOD",
-      "publishDate": "2020-05-17T18:00:00.000Z"
+      "publishDate": "2020-05-17T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11846,7 +12528,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "idahotb",
+        "title": "IDAHOTB"
+      },
+      {
+        "machineName": "poro",
+        "title": "Poro"
+      }
+    ]
   },
   {
     "media": {
@@ -11893,7 +12585,8 @@
       "contentId": "articles.blta2fe7e101121f04a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOY69e",
-      "publishDate": "2020-05-11T19:00:00.000Z"
+      "publishDate": "2020-05-11T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -11925,7 +12618,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "twitch",
+        "title": "Twitch"
+      },
+      {
+        "machineName": "twitch_prime",
+        "title": "Twitch Prime"
+      }
+    ]
   },
   {
     "media": {
@@ -11972,7 +12675,8 @@
       "contentId": "articles.blt87a1fd1695a6436e.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOVhs6",
-      "publishDate": "2020-04-20T18:00:00.000Z"
+      "publishDate": "2020-04-20T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -12004,7 +12708,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "twitch_prime",
+        "title": "Twitch Prime"
+      }
+    ]
   },
   {
     "media": {
@@ -12050,7 +12760,8 @@
       "contentId": "articles.blt434a50e803e0ef33.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOONSwC",
-      "publishDate": "2020-04-20T13:05:55.000Z"
+      "publishDate": "2020-04-20T13:05:55.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -12128,7 +12839,8 @@
       "contentId": "articles.blt3e9b6bece0d44566.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOONSwC",
-      "publishDate": "2020-04-10T18:00:00.000Z"
+      "publishDate": "2020-04-10T18:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -12160,7 +12872,21 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "night_&_dawn",
+        "title": "Nuit et aube"
+      },
+      {
+        "machineName": "dawn_karma",
+        "title": "Karma héraut de l'aube"
+      },
+      {
+        "machineName": "karma",
+        "title": "Karma"
+      }
+    ]
   },
   {
     "media": {
@@ -12207,7 +12933,8 @@
       "contentId": "articles.blt77dab7b5b466606a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Sua3f",
-      "publishDate": "2020-03-16T19:00:00.000Z"
+      "publishDate": "2020-03-16T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -12239,7 +12966,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "twitch_prime",
+        "title": "Twitch Prime"
+      }
+    ]
   },
   {
     "media": {
@@ -12285,7 +13018,8 @@
       "contentId": "articles.blt6017675710db2eee.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1Su3Ad",
-      "publishDate": "2020-02-25T14:28:48.000Z"
+      "publishDate": "2020-02-25T14:28:48.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -12365,7 +13099,8 @@
       "contentId": "articles.blt831792b3f8fc5786.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOVhs6",
-      "publishDate": "2020-02-07T15:00:00.000Z"
+      "publishDate": "2020-02-07T15:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -12443,7 +13178,8 @@
       "contentId": "articles.bltc28c77dfdcc87f94.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvs5YNt",
-      "publishDate": "2020-01-31T16:33:24.000Z"
+      "publishDate": "2020-01-31T16:33:24.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -12523,7 +13259,8 @@
       "contentId": "articles.bltab44f383aac99639.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
-      "publishDate": "2019-10-24T17:59:06.467Z"
+      "publishDate": "2019-10-24T17:59:06.467Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -12555,7 +13292,17 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "10-year-anniversary",
+        "title": "10e anniversaire"
+      },
+      {
+        "machineName": "ryze",
+        "title": "Ryze"
+      }
+    ]
   },
   {
     "media": {
@@ -12603,7 +13350,8 @@
       "contentId": "articles.blt5b6f9a76280809a3.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "4JtdF5NqmkvmgUeb12IlEN",
-      "publishDate": "2019-10-22T20:10:01.055Z"
+      "publishDate": "2019-10-22T20:10:01.055Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -12635,7 +13383,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "10-year-anniversary",
+        "title": "10e anniversaire"
+      }
+    ]
   },
   {
     "media": {
@@ -12681,7 +13435,8 @@
       "contentId": "articles.blt81f85ce6fd320d69.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOVhs6",
-      "publishDate": "2019-09-30T21:43:43.471Z"
+      "publishDate": "2019-09-30T21:43:43.471Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -12713,7 +13468,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "teemo",
+        "title": "Teemo"
+      }
+    ]
   },
   {
     "media": {
@@ -12759,7 +13520,8 @@
       "contentId": "articles.bltc7bc1901e6ccb4b7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOOZRIA",
-      "publishDate": "2018-11-05T16:00:00.000Z"
+      "publishDate": "2018-11-05T16:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
@@ -12791,7 +13553,13 @@
         },
         "mimeType": "image/svg+xml"
       }
-    }
+    },
+    "tags": [
+      {
+        "machineName": "community_collab",
+        "title": "Collaboration communautaire :"
+      }
+    ]
   },
   {
     "media": {
@@ -12837,7 +13605,8 @@
       "contentId": "articles.blt0cb01a895f90e4db.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvrXoOD",
-      "publishDate": "2018-10-08T19:00:00.000Z"
+      "publishDate": "2018-10-08T19:00:00.000Z",
+      "placementSourcing": "listed"
     },
     "category": {
       "machineName": "community",
