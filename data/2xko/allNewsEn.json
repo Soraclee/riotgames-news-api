@@ -3,6 +3,88 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3a08c6879a54dfd52a49ab76046e78700b3cca3e-1920x1080.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#333F65",
+        "secondary": "#F9F1DC",
+        "label": "#101C40"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3a08c6879a54dfd52a49ab76046e78700b3cca3e-1920x1080.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#333F65",
+        "secondary": "#F9F1DC",
+        "label": "#101C40"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Evo 2026 Champ Reveal",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=3MXczHKMgDA",
+        "youtubeId": "3MXczHKMgDA",
+        "videoLengthInSeconds": 51
+      }
+    },
+    "analytics": {
+      "contentId": "82da356b-6277-41c1-affe-a0fc81129f69.en-us",
+      "contentLocale": "en-us",
+      "rev": "Mvja82p5kP0tWj48hHgfT7",
+      "publishDate": "2026-07-20T19:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "announcements",
+      "title": "Announcements",
+      "description": "Used for general announcements for 2XKO."
+    },
+    "description": {
+      "type": "html",
+      "body": "Lux and Samira are 2XKO’s next champions. Get a first look in the Evo 2026 reveal."
+    },
+    "publishedAt": "2026-07-20T19:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "2XKO (en-us)",
+      "machineName": "2xko",
+      "id": "product.project_l.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c29b07975eab231f67625a185ce267d05cdb1896-1280x720.png?accountingTag=2XKO",
       "dimensions": {
         "width": 1280,
