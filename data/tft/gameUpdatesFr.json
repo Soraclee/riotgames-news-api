@@ -212,7 +212,7 @@
     "analytics": {
       "contentId": "9f8dc5be-48a0-461a-8c9f-9aab26df5f31.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "PTk3ErT1oDs9oUL4bfN4e4",
+      "rev": "wVFGYoGgosk0w42Xx6W1Jk",
       "publishDate": "2026-06-12T19:00:08.387Z",
       "placementSourcing": "listed"
     },
@@ -784,13 +784,30 @@
     "videoMedia": {
       "type": "video",
       "provider": "sanity",
+      "thumbnail": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c3b1e733f9241c7a0b15a108e3bc8b0bb4aa0bc3-1920x1080.jpg?accountingTag=TFT",
+        "dimensions": {
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.7777777777777777
+        },
+        "colors": {
+          "primary": "#2E5B56",
+          "secondary": "#F9F9DC",
+          "label": "#0D342F"
+        },
+        "mimeType": "image/jpeg"
+      },
       "dimensions": {
         "width": 1600,
         "height": 900
       },
+      "hasSound": true,
       "sources": [
         {
-          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/e07435e30eb5d699b31f7a7064144cd07ef1c29e.webm?accountingTag=TFT",
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/9da5710d1c69d084497475ec0f36f4366cae3f1c.webm?accountingTag=TFT",
           "type": "video/webm"
         }
       ]
@@ -807,7 +824,7 @@
     "analytics": {
       "contentId": "3ba81f4b-1eb8-4171-9459-715e135c7b26.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "4mdG72IWk6wtbzQCAvNm4X",
+      "rev": "zmuJo6hLfZ5ooDqqaxjj8i",
       "publishDate": "2026-04-15T15:00:00.000Z",
       "placementSourcing": "listed"
     },
