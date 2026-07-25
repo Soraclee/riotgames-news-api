@@ -3,6 +3,88 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/35f7409786eb7bf04eea05fed599c9d70a98f3d7-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#352A1A",
+        "secondary": "#F7F9DC",
+        "label": "#060502"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/35f7409786eb7bf04eea05fed599c9d70a98f3d7-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#352A1A",
+        "secondary": "#F7F9DC",
+        "label": "#060502"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Dev Video TFT : Enchanted Wilds et plus",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=u54bmFXf_vc",
+        "youtubeId": "u54bmFXf_vc",
+        "videoLengthInSeconds": 280
+      }
+    },
+    "analytics": {
+      "contentId": "e4510691-ae33-4cfd-ae6c-6cf155cf3a9e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "zmuJo6hLfZ5ooDqqb0QQmy",
+      "publishDate": "2026-07-23T22:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "Geoff et Peter parlent des nouveautés d'Enchanted Wilds, des cosmétiques, des modes de jeu, et plus."
+    },
+    "publishedAt": "2026-07-23T22:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fe573dda85899aa2d5ec25cdec213aa6f1717386-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
