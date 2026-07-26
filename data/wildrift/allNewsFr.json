@@ -3,6 +3,86 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cae3a531844fbb3d4e60ec1050440d33360dd579-1920x1080.jpg?accountingTag=WR",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#5478B8",
+        "secondary": "#2D3329",
+        "label": "#141A25"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cae3a531844fbb3d4e60ec1050440d33360dd579-1920x1080.jpg?accountingTag=WR",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#5478B8",
+        "secondary": "#2D3329",
+        "label": "#141A25"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Événement Classic de Wild Rift",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=3QDCzc0cI2U",
+        "youtubeId": "3QDCzc0cI2U",
+        "videoLengthInSeconds": 120
+      }
+    },
+    "analytics": {
+      "contentId": "86a61100-1e5d-49b5-8356-d2170f4e8591.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "Wrm7Y0vMNMDEF6Eqs6ai1H",
+      "publishDate": "2026-07-25T10:30:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "On remonte le temps comme League Classic. Revivez la nostalgie de Wild Rift et profitez d'un tas de surprises dès le 7 août CEST !"
+    },
+    "publishedAt": "2026-07-25T10:30:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c866980f254e2a4b62eba65d4b77d2cb48aafd06-1980x891.jpg?accountingTag=WR",
       "dimensions": {
         "width": 1980,
@@ -16371,83 +16451,5 @@
         "description": ""
       }
     ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3a52fa52cf77d2235a32e4cd55f2bb52437b41a7-1920x1080.jpg?accountingTag=WR",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2F2518",
-        "secondary": "#F9F2DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3a52fa52cf77d2235a32e4cd55f2bb52437b41a7-1920x1080.jpg?accountingTag=WR",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2F2518",
-        "secondary": "#F9F2DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Mises à jour du mode classé de la saison 10",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/season-10-ranked-updates/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt06ac934d26b19110.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1QJWHH",
-      "publishDate": "2023-07-13T01:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "Les coulisses de Wild Rift."
-    },
-    "description": {
-      "type": "html",
-      "body": "Découvrez tout ce qu’il y a à savoir sur le nouveau rang et les mises à jour du mode classé de la saison 10 !"
-    },
-    "publishedAt": "2023-07-13T01:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
   }
 ]
