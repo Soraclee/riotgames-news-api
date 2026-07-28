@@ -3,6 +3,86 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4655b20a93afd761e45a6442a0aecb33aa0077af-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B89E92",
+        "secondary": "#2D3329",
+        "label": "#624435"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4655b20a93afd761e45a6442a0aecb33aa0077af-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B89E92",
+        "secondary": "#2D3329",
+        "label": "#624435"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Aperçu d'Enchanted Wilds",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/enchanted-wilds-overview"
+      }
+    },
+    "analytics": {
+      "contentId": "71a4c680-f33a-4157-b844-67b38c4743b8.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "BDmBoc2MYYXz4CQMGbTE97",
+      "publishDate": "2026-07-27T15:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Découvrez les esprits de la forêt et certains nouveaux types d'Enchanted Wilds !"
+    },
+    "publishedAt": "2026-07-27T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/722b52937f6911c40872e972c01c88c40b0731fc-1920x1138.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -17972,96 +18052,6 @@
     },
     "publishedAt": "2024-02-06T19:00:00.000Z",
     "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_tag",
-        "title": "Teamfight Tactics"
-      },
-      {
-        "machineName": "teamfight_tactics_patch_notes",
-        "title": "Notes de patch de Teamfight Tactics"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a56d7dc344975c4571968b3c3737a2379e642ea1-1280x720.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2D5359",
-        "secondary": "#DCF9F9",
-        "label": "#0C2C32"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a56d7dc344975c4571968b3c3737a2379e642ea1-1280x720.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2D5359",
-        "secondary": "#DCF9F9",
-        "label": "#0C2C32"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Notes de patch 14.2 de Teamfight Tactics",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-14-2-notes/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.bltbe7a0bb02d26a9e2.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOHNpXg",
-      "publishDate": "2024-01-23T19:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "L'ensemble 3.5 Retour aux étoiles revient sous la forme d'un mode de jeu qui fait revivre notre premier ensemble de mi-parcours (d'où le .5). Ce mode de jeu débarque aux côtés des festivités du Festival lunaire, de nouveaux chibis, d'une arène sur un toit et bien plus encore ! Bien sûr, nous avons aussi des équilibrages et quelques refontes pour Mega Remix !"
-    },
-    "publishedAt": "2024-01-23T19:00:00.000Z",
-    "promoCardSize": "small",
     "product": {
       "title": "Teamfight Tactics (fr-fr)",
       "machineName": "teamfight_tactics",

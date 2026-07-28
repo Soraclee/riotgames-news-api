@@ -3,6 +3,88 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d9c94fe3a5c0efb9820b870a8dd93f7946e87060-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#0D060B",
+        "secondary": "#D6FFFC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d9c94fe3a5c0efb9820b870a8dd93f7946e87060-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#0D060B",
+        "secondary": "#D6FFFC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "NEO FRONTIER Skin Reveal Trailer",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=iYfYrsd09lo",
+        "youtubeId": "iYfYrsd09lo",
+        "videoLengthInSeconds": 31
+      }
+    },
+    "analytics": {
+      "contentId": "43413322-976c-4953-b7d9-51311a3a3061.en-us",
+      "contentLocale": "en-us",
+      "rev": "BDmBoc2MYYXz4CQMGbT4vc",
+      "publishDate": "2026-07-27T13:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Neo Frontier returns. Introducing the Vandal, Shorty, and Lasso Melee."
+    },
+    "publishedAt": "2026-07-27T13:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/04c6b3aab17969ae9a74294b0692dda88aade451-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -17204,93 +17286,6 @@
       {
         "machineName": "ascent",
         "title": "Ascent",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/74e1b05559ad31e0961791cd8a5bbca758f9036b-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#496131",
-        "secondary": "#F9E2DC",
-        "label": "#253B0F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/74e1b05559ad31e0961791cd8a5bbca758f9036b-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#496131",
-        "secondary": "#F9E2DC",
-        "label": "#253B0F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "VALORANT Map Pool Changes",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/valorant-map-pool-changes/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt02af286fd8294928.en-us",
-      "contentLocale": "en-us",
-      "rev": "ugA9rRsA0FWcU8w2gwb47S",
-      "publishDate": "2022-06-16T18:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Split is leaving the Competitive and Unrated map rotation temporarily."
-    },
-    "publishedAt": "2022-06-16T18:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "split",
-        "title": "Split",
         "description": ""
       }
     ]
