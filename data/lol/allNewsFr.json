@@ -3,6 +3,107 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6c85c356abf97bc3d5050506ce4d541c9e6d60b1-1280x720.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#659AB8",
+        "secondary": "#292C33",
+        "label": "#22343F"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6c85c356abf97bc3d5050506ce4d541c9e6d60b1-1280x720.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#659AB8",
+        "secondary": "#292C33",
+        "label": "#22343F"
+      },
+      "mimeType": "image/png"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/a441d6787eee8120c7cce3af1e72025de0b7e49b.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "LoL Classic - Bon retour parmi nous, invocateurs",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=xt7a_t1Xim4",
+        "youtubeId": "xt7a_t1Xim4",
+        "videoLengthInSeconds": 154
+      }
+    },
+    "analytics": {
+      "contentId": "272dd17b-2a72-4a46-a9af-2805053e3434.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "pTDGKSbcWF5mBSRC69V0Ye",
+      "publishDate": "2026-07-29T18:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "media",
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore."
+    },
+    "description": {
+      "type": "html",
+      "body": "Réunissez vos amis et revivez les jours de gloire du jeu avec League of Legends Classic, déjà dispo."
+    },
+    "publishedAt": "2026-07-29T18:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "classic",
+        "title": "Classic"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a88a30771c4450415ee6fb2769bb056a5b52993a-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -42,7 +143,7 @@
     "analytics": {
       "contentId": "patchNote.6c2279e8-d509-4c6e-b333-2ec6a19c9eb3.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "9aULudjoO5D8m1sCUKwbpn",
+      "rev": "kU2wfHjJsuX4sagoqaTnmN",
       "publishDate": "2026-07-28T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -16931,86 +17032,6 @@
     },
     "publishedAt": "2025-10-17T15:00:00.000Z",
     "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3de576fa56e15beb029f8c02f60b8c26606cd862-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#070306",
-        "secondary": "#FFE2D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3de576fa56e15beb029f8c02f60b8c26606cd862-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#070306",
-        "secondary": "#FFE2D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Collection de produits dérivés des Worlds 2025",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://merch.riotgames.com/collection/worlds-2025/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-worlds25",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "2ad96c15-d082-462f-ae27-f4c86d5f7bc3.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-10-14T21:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "merch",
-      "title": "Produits dérivés",
-      "description": "Découvrez les produits dérivés officiels et parcourez les dernières collections de la boutique."
-    },
-    "description": {
-      "type": "html",
-      "body": "Fêtez les 15 ans de Lol Esports avec la collection de produits dérivés officielle des Worlds 2025 !"
-    },
-    "publishedAt": "2025-10-14T21:00:00.000Z",
     "product": {
       "title": "League of Legends (fr-fr)",
       "machineName": "league_of_legends",

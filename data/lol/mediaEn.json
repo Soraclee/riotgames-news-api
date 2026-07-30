@@ -3,6 +3,107 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6c85c356abf97bc3d5050506ce4d541c9e6d60b1-1280x720.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#659AB8",
+        "secondary": "#292C33",
+        "label": "#22343F"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6c85c356abf97bc3d5050506ce4d541c9e6d60b1-1280x720.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#659AB8",
+        "secondary": "#292C33",
+        "label": "#22343F"
+      },
+      "mimeType": "image/png"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/a441d6787eee8120c7cce3af1e72025de0b7e49b.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "League Classic Cinematic - Welcome Back, Summoners",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=rSyXnX9BSAA",
+        "youtubeId": "rSyXnX9BSAA",
+        "videoLengthInSeconds": 154
+      }
+    },
+    "analytics": {
+      "contentId": "272dd17b-2a72-4a46-a9af-2805053e3434.en-us",
+      "contentLocale": "en-us",
+      "rev": "pTDGKSbcWF5mBSRC69V0Ye",
+      "publishDate": "2026-07-29T18:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "media",
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more."
+    },
+    "description": {
+      "type": "html",
+      "body": "Time to grab your friends and relive a golden era with League of Legends Classic. Now live."
+    },
+    "publishedAt": "2026-07-29T18:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "classic",
+        "title": "Classic"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9e2c97d81d6a8f9ea6c96a7ee2d6f651cfc0cf3f-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -18161,117 +18262,6 @@
       {
         "machineName": "gwen",
         "title": "Gwen"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/079be3bc87862d24c34d5442ba8c22237b7ba4b9-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#14101F",
-        "secondary": "#F9DCE3",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/079be3bc87862d24c34d5442ba8c22237b7ba4b9-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#14101F",
-        "secondary": "#F9DCE3",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Lunar Beast 2021 Theme",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=xotOsL4NRCs",
-        "youtubeId": "xotOsL4NRCs",
-        "videoLengthInSeconds": 207
-      }
-    },
-    "analytics": {
-      "contentId": "articles.bltde617668a59a9b2a.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOap9E",
-      "publishDate": "2021-02-02T13:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "media",
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more."
-    },
-    "description": {
-      "type": "html",
-      "body": "Listen to the official theme for Lunar Beast 2021 and check out the splash art development behind the skinline."
-    },
-    "publishedAt": "2021-02-02T13:00:00.000Z",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "music_theme",
-        "title": "Music Theme"
-      },
-      {
-        "machineName": "annie",
-        "title": "Annie"
-      },
-      {
-        "machineName": "darius",
-        "title": "Darius"
-      },
-      {
-        "machineName": "fiora",
-        "title": "Fiora"
-      },
-      {
-        "machineName": "miss_fortune",
-        "title": "Miss Fortune"
-      },
-      {
-        "machineName": "alistar",
-        "title": "Alistar"
-      },
-      {
-        "machineName": "jarvan_iv",
-        "title": "Jarvan IV"
       }
     ]
   }
