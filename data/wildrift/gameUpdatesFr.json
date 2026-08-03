@@ -3,6 +3,85 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c7c46818341e9c8b5f07169cb86391250128ecd5-1920x1080.jpg?accountingTag=WR",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#1C1225",
+        "secondary": "#F9DCF7",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c7c46818341e9c8b5f07169cb86391250128ecd5-1920x1080.jpg?accountingTag=WR",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#1C1225",
+        "secondary": "#F9DCF7",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Aperçu de Cho'Gath",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=2EDhuV4n8Ds",
+        "youtubeId": "2EDhuV4n8Ds",
+        "videoLengthInSeconds": 96
+      }
+    },
+    "analytics": {
+      "contentId": "d4019b29-e7c5-48c5-9fd2-67673dac6315.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "emnl8CNXOHHhGdR4eZ3zsL",
+      "publishDate": "2026-08-02T02:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Vous n'échapperez pas à la faim dévorante de Cho'Gath. Le 7 août CEST, les ténèbres vous appellent."
+    },
+    "publishedAt": "2026-08-02T02:00:00.000Z",
+    "product": {
+      "title": "Wildrift",
+      "machineName": "wildrift",
+      "id": "product.wildrift.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#2ed5ff"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0e51f4ce80a6c8846429295a0e438124d2ceba07-1920x1080.jpg?accountingTag=WR",
       "dimensions": {
         "width": 1920,
@@ -16483,91 +16562,6 @@
       {
         "machineName": "patch_preview",
         "title": "Aperçu de patch",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2e6df6805f0be667929d0bf82fd608ac93a9f0cb-1920x1080.jpg?accountingTag=WR",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#234145",
-        "secondary": "#DCF8F9",
-        "label": "#06171A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2e6df6805f0be667929d0bf82fd608ac93a9f0cb-1920x1080.jpg?accountingTag=WR",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#234145",
-        "secondary": "#DCF8F9",
-        "label": "#06171A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Notes de patch 4.0c de Wild Rift",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/wild-rift-patch-notes-4-0c/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt975ca6293cd5a5ec.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1QNaVV",
-      "publishDate": "2023-03-01T21:30:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "La récré est finie, place au patch 4.0c ! Voici le dernier patch d'équilibrage du cycle 4.0 ! Quelques champions ont été ajustés et Leona de l'Académie du combat et Proviseur Yuumi de l'Académie font leur arrivée !"
-    },
-    "publishedAt": "2023-03-01T21:30:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Wildrift",
-      "machineName": "wildrift",
-      "id": "product.wildrift.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/3a8b726f12edb8b70843502917ec331209a92a94-24x24.svg?accountingTag=WR",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#2ed5ff"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "patch_notes",
-        "title": "Notes de patch",
         "description": ""
       }
     ]
