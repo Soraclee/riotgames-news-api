@@ -3,6 +3,91 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f962dcbdcbf62c611666d7089e4c3cce6efbe81d-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#15192A",
+        "secondary": "#F9E6DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f962dcbdcbf62c611666d7089e4c3cce6efbe81d-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#15192A",
+        "secondary": "#F9E6DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Notes de patch 17.9 de TFT",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-17-9"
+      }
+    },
+    "analytics": {
+      "contentId": "7c5cd1fe-e182-46d4-a624-a663dd86d660.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "7wFsgcwOztbRsoze5jYDCZ",
+      "publishDate": "2026-08-11T18:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Voici la dernière mise à jour dédiée à Space Gods avant l'arrivée d'Enchanted Wilds."
+    },
+    "publishedAt": "2026-08-11T18:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Notes de patch"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/28f5179890240a8e0edbbff78d260d157e16fbee-1106x656.png?accountingTag=TFT",
       "dimensions": {
         "width": 1106,
@@ -17520,91 +17605,6 @@
     },
     "publishedAt": "2025-03-22T15:00:00.000Z",
     "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_new_content_",
-        "title": "Nouveau contenu de Teamfight Tactics"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3520949ab635f14b7da7847bb714547c34a4825f-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8A291",
-        "secondary": "#333329",
-        "label": "#624935"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3520949ab635f14b7da7847bb714547c34a4825f-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8A291",
-        "secondary": "#333329",
-        "label": "#624935"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Mise à jour du mode Double Up",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/double-up-upgraded"
-      }
-    },
-    "analytics": {
-      "contentId": "1139fe08-abb5-4c3f-9615-6125a4161cb0.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1Q3Zid",
-      "publishDate": "2025-03-19T16:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Double Up devient un mode permanent de TFT."
-    },
-    "publishedAt": "2025-03-19T16:00:00.000Z",
     "product": {
       "title": "Teamfight Tactics (fr-fr)",
       "machineName": "teamfight_tactics",
