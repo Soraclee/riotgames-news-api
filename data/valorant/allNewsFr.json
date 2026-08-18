@@ -3,6 +3,118 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0a8942f1a87094c7878e810e8e2693f64b3fd89e-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2B3457",
+        "secondary": "#DCE8F9",
+        "label": "#0C132F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0a8942f1a87094c7878e810e8e2693f64b3fd89e-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2B3457",
+        "secondary": "#DCE8F9",
+        "label": "#0C132F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "thumbnail": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0a8942f1a87094c7878e810e8e2693f64b3fd89e-1920x1080.jpg?accountingTag=VAL",
+        "dimensions": {
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.7777777777777777
+        },
+        "colors": {
+          "primary": "#2B3457",
+          "secondary": "#DCE8F9",
+          "label": "#0C132F"
+        },
+        "mimeType": "image/jpeg"
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/29c9b4207e45d824e675f5e0edb4b422182efdfa.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "PLAY YOUR HAND // Bande-annonce du skin Aeris - VALORANT",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=FLidYOkYNrI",
+        "youtubeId": "FLidYOkYNrI",
+        "videoLengthInSeconds": 107
+      }
+    },
+    "analytics": {
+      "contentId": "ce132809-9790-481f-8684-d72cd815e054.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "0N7cepDQJyHL5gmvXoKvNo",
+      "publishDate": "2026-08-17T13:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Tirez votre magie des cartes avec quelques tours captivants et les nouveaux skins Aeris."
+    },
+    "publishedAt": "2026-08-17T13:00:00.000Z",
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/721fc782bba6ccafb313041e29bc8cf5b983439c-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -16890,80 +17002,5 @@
         "description": ""
       }
     ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/1fd57f02abd4503f842af48ea8c8d6d38e20daa0-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#030201",
-        "secondary": "#FFF5D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/1fd57f02abd4503f842af48ea8c8d6d38e20daa0-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#030201",
-        "secondary": "#FFF5D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Conclusion du VCT 2024 : vivent nos progrès et notre communauté",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://valorantesports.com/fr-fr/news/closing-out-vct-2024-celebrating-growth-and-our-community"
-      }
-    },
-    "analytics": {
-      "contentId": "c107e774-e85a-4ea7-a05c-e4fd04e835ce.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "R4zj9VDraGU9JFViGdr6ta",
-      "publishDate": "2024-12-18T16:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "description": {
-      "type": "html",
-      "body": "Un dernier regard sur la saison 2024 du VCT !"
-    },
-    "publishedAt": "2024-12-18T16:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
   }
 ]
