@@ -3,6 +3,117 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1decad95bd06ea00182d4bf9eb046f26388e6e2f-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#9094B8",
+        "secondary": "#292A33",
+        "label": "#2A2E4E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1decad95bd06ea00182d4bf9eb046f26388e6e2f-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#9094B8",
+        "secondary": "#292A33",
+        "label": "#2A2E4E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "thumbnail": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/64199f52aad1f114586b3a8ecd3bdec1006aea97-1600x1080.jpg?accountingTag=TFT",
+        "dimensions": {
+          "width": 1600,
+          "height": 1080,
+          "aspectRatio": 1.4814814814814814
+        },
+        "colors": {
+          "primary": "#2C2C58",
+          "secondary": "#F7F9DC",
+          "label": "#0C0C30"
+        },
+        "mimeType": "image/jpeg"
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/18c5f9b41edadb041957844fe807ce73b192bbff.webm?accountingTag=TFT",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "Enchanted Wilds | Set Trailer",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=VgUKoBcTU7I",
+        "youtubeId": "VgUKoBcTU7I",
+        "videoLengthInSeconds": 116
+      }
+    },
+    "analytics": {
+      "contentId": "13273cfb-f4a5-4557-b2f7-4d7c71ee3b31.en-us",
+      "contentLocale": "en-us",
+      "rev": "eFZomBdefpK6168Vibbq8c",
+      "publishDate": "2026-08-20T02:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "How will your favorite champions channel the ancient untamed magic of the Enchanted Wilds?"
+    },
+    "publishedAt": "2026-08-20T02:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f47be253d311c49c0d8c7d6ec904c38bb03f4ccd-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -163,6 +274,87 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c4b1b511be72413c531e3529b68f52706bf7d0f9-960x540.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 960,
+        "height": 540,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B172B8",
+        "secondary": "#2C2933",
+        "label": "#3A213D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c4b1b511be72413c531e3529b68f52706bf7d0f9-960x540.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 960,
+        "height": 540,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B172B8",
+        "secondary": "#2C2933",
+        "label": "#3A213D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "TFT Patch 17.9 Rundown",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=yxZBQZKrbz4",
+        "youtubeId": "yxZBQZKrbz4",
+        "videoLengthInSeconds": 491
+      }
+    },
+    "analytics": {
+      "contentId": "article.36c3370a-60fa-4ba4-9546-3d1117ef0514.en-us",
+      "contentLocale": "en-us",
+      "rev": "I6kxhdTbzMjOE4Y1tQlwJB",
+      "publishDate": "2026-08-11T18:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Everything you need to know about patch 17.9 with Riot Truexy"
+    },
+    "publishedAt": "2026-08-11T18:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f962dcbdcbf62c611666d7089e4c3cce6efbe81d-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -202,7 +394,7 @@
     "analytics": {
       "contentId": "7c5cd1fe-e182-46d4-a624-a663dd86d660.en-us",
       "contentLocale": "en-us",
-      "rev": "AFXbrynmfTqmVfvW5SSx1B",
+      "rev": "OaUfzy2DT15srQJotdAReM",
       "publishDate": "2026-08-11T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -248,87 +440,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c4b1b511be72413c531e3529b68f52706bf7d0f9-960x540.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 960,
-        "height": 540,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B172B8",
-        "secondary": "#2C2933",
-        "label": "#3A213D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c4b1b511be72413c531e3529b68f52706bf7d0f9-960x540.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 960,
-        "height": 540,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B172B8",
-        "secondary": "#2C2933",
-        "label": "#3A213D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "TFT Patch 17.9 Rundown",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=yxZBQZKrbz4",
-        "youtubeId": "yxZBQZKrbz4",
-        "videoLengthInSeconds": 491
-      }
-    },
-    "analytics": {
-      "contentId": "article.36c3370a-60fa-4ba4-9546-3d1117ef0514.en-us",
-      "contentLocale": "en-us",
-      "rev": "HJdppCg1XI6hEkrUtyZaUP",
-      "publishDate": "2026-08-11T18:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Everything you need to know about patch 17.9 with Riot Truexy"
-    },
-    "publishedAt": "2026-08-11T18:00:00.000Z",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/28f5179890240a8e0edbbff78d260d157e16fbee-1106x656.png?accountingTag=TFT",
       "dimensions": {
         "width": 1106,
@@ -368,7 +479,7 @@
     "analytics": {
       "contentId": "patchNote.4165791d-0b93-4dc1-b815-aa77fc722ef7.en-us",
       "contentLocale": "en-us",
-      "rev": "f00oxwOqcm63XWxRpoBBf5",
+      "rev": "OaUfzy2DT15srQJotd7j7C",
       "publishDate": "2026-07-28T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -455,7 +566,7 @@
     "analytics": {
       "contentId": "e524caa7-8be5-4567-b0e3-90f58d8dec1b.en-us",
       "contentLocale": "en-us",
-      "rev": "f00oxwOqcm63XWxRpoBBf5",
+      "rev": "I6kxhdTbzMjOE4Y1tQo9D7",
       "publishDate": "2026-07-27T20:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -616,7 +727,7 @@
     "analytics": {
       "contentId": "71a4c680-f33a-4157-b844-67b38c4743b8.en-us",
       "contentLocale": "en-us",
-      "rev": "Ly6gxLfORMWqtQvqy0AhTn",
+      "rev": "OaUfzy2DT15srQJotd2WTO",
       "publishDate": "2026-07-27T15:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -698,7 +809,7 @@
     "analytics": {
       "contentId": "e4510691-ae33-4cfd-ae6c-6cf155cf3a9e.en-us",
       "contentLocale": "en-us",
-      "rev": "Ly6gxLfORMWqtQvqy0AhTn",
+      "rev": "I6kxhdTbzMjOE4Y1tQo7gn",
       "publishDate": "2026-07-23T22:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -778,7 +889,7 @@
     "analytics": {
       "contentId": "bb289a18-a032-44c3-8f9a-929bde150188.en-us",
       "contentLocale": "en-us",
-      "rev": "f00oxwOqcm63XWxRpo8wY5",
+      "rev": "OaUfzy2DT15srQJotd4GU8",
       "publishDate": "2026-07-20T14:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -857,7 +968,7 @@
     "analytics": {
       "contentId": "025a2f69-5855-4d52-8f3b-d95e7bc9a88c.en-us",
       "contentLocale": "en-us",
-      "rev": "Ly6gxLfORMWqtQvqy0AhTn",
+      "rev": "XCTgZQwSGIOEwOvRbvKXbF",
       "publishDate": "2026-07-14T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -944,7 +1055,7 @@
     "analytics": {
       "contentId": "81505a0f-030f-47ea-b874-b307d9fcef21.en-us",
       "contentLocale": "en-us",
-      "rev": "6KunHeXRLssa2Y4nXFFQNB",
+      "rev": "OaUfzy2DT15srQJotd2qFw",
       "publishDate": "2026-07-13T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1026,7 +1137,7 @@
     "analytics": {
       "contentId": "article.18fdf26f-6551-4958-9d8d-59effeb3ba96.en-us",
       "contentLocale": "en-us",
-      "rev": "w6fy3M9R6XJttlV96XfMrg",
+      "rev": "I6kxhdTbzMjOE4Y1tQlwJB",
       "publishDate": "2026-07-12T14:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1107,7 +1218,7 @@
     "analytics": {
       "contentId": "b572bbf4-4223-4077-a810-35a87cf859ff.en-us",
       "contentLocale": "en-us",
-      "rev": "PTk3ErT1oDs9oUL4bfgYHL",
+      "rev": "XCTgZQwSGIOEwOvRbvTXfR",
       "publishDate": "2026-07-11T13:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1193,7 +1304,7 @@
     "analytics": {
       "contentId": "56895e4d-5c58-4956-a57b-77da56404fa8.en-us",
       "contentLocale": "en-us",
-      "rev": "SMBwsToyGmtRj8sRo2lBQB",
+      "rev": "OaUfzy2DT15srQJotd1wTe",
       "publishDate": "2026-07-11T12:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1208,6 +1319,85 @@
     },
     "publishedAt": "2026-07-11T12:00:00.000Z",
     "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4000060d329201a377bc66c8ae591bf1fdfa9450-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#190E1C",
+        "secondary": "#F9DCED",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4000060d329201a377bc66c8ae591bf1fdfa9450-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#190E1C",
+        "secondary": "#F9DCED",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Celebrate TFT and Riftbound at Convergence Fest",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/announcements/celebrate-tft-and-riftbound-at-convergence-fest"
+      }
+    },
+    "analytics": {
+      "contentId": "9ccc3d8e-7c6b-4cd5-a92c-d5679b5272a1.en-us",
+      "contentLocale": "en-us",
+      "rev": "e27V3dPpde726sN2q5SNzc",
+      "publishDate": "2026-07-10T13:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "announcements",
+      "title": "Announcements",
+      "description": "Looking for need-to-know game info? You'll find it here."
+    },
+    "description": {
+      "type": "html",
+      "body": "Join us Dec 11-13 for the ultimate community experience in Las Vegas!"
+    },
+    "publishedAt": "2026-07-10T13:00:00.000Z",
     "product": {
       "title": "Teamfight Tactics",
       "machineName": "teamfight_tactics",
@@ -1275,7 +1465,7 @@
     "analytics": {
       "contentId": "11699e56-f1d2-44f2-b452-9aebb497c20a.en-us",
       "contentLocale": "en-us",
-      "rev": "w6fy3M9R6XJttlV96VXrng",
+      "rev": "I6kxhdTbzMjOE4Y1tQj8d3",
       "publishDate": "2026-07-10T13:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1287,85 +1477,6 @@
     "description": {
       "type": "html",
       "body": "The TFT Open and Riftbound’s NA Regional Championship combine into something amazing!"
-    },
-    "publishedAt": "2026-07-10T13:00:00.000Z",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4000060d329201a377bc66c8ae591bf1fdfa9450-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#190E1C",
-        "secondary": "#F9DCED",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4000060d329201a377bc66c8ae591bf1fdfa9450-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#190E1C",
-        "secondary": "#F9DCED",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Celebrate TFT and Riftbound at Convergence Fest",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/announcements/celebrate-tft-and-riftbound-at-convergence-fest"
-      }
-    },
-    "analytics": {
-      "contentId": "9ccc3d8e-7c6b-4cd5-a92c-d5679b5272a1.en-us",
-      "contentLocale": "en-us",
-      "rev": "slV5a3vuYndT7PDVh4La2n",
-      "publishDate": "2026-07-10T13:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "announcements",
-      "title": "Announcements",
-      "description": "Looking for need-to-know game info? You'll find it here."
-    },
-    "description": {
-      "type": "html",
-      "body": "Join us Dec 11-13 for the ultimate community experience in Las Vegas!"
     },
     "publishedAt": "2026-07-10T13:00:00.000Z",
     "product": {
@@ -1433,7 +1544,7 @@
     "analytics": {
       "contentId": "96e24f30-53a7-49a5-aaf3-39eddf813629.en-us",
       "contentLocale": "en-us",
-      "rev": "WIzsw2gQT7mbba7YDKDGUx",
+      "rev": "XCTgZQwSGIOEwOvRbvS5M7",
       "publishDate": "2026-07-09T14:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1521,7 +1632,7 @@
     "analytics": {
       "contentId": "cbe4c320-fe84-44f9-821f-40e58d2bbcc3.en-us",
       "contentLocale": "en-us",
-      "rev": "Jk3Ag4oY5kCTzNkLgOo1oI",
+      "rev": "I6kxhdTbzMjOE4Y1tQmsIP",
       "publishDate": "2026-06-24T14:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1600,7 +1711,7 @@
     "analytics": {
       "contentId": "014acd5a-0258-4e13-85c8-039cd17a0711.en-us",
       "contentLocale": "en-us",
-      "rev": "Jk3Ag4oY5kCTzNkLgOo1oI",
+      "rev": "I6kxhdTbzMjOE4Y1tQiuiz",
       "publishDate": "2026-06-24T11:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1685,7 +1796,7 @@
     "analytics": {
       "contentId": "49141c33-01da-4383-bb51-c2918fe88e51.en-us",
       "contentLocale": "en-us",
-      "rev": "wiv1Z1yfnGUHdfRt3j3L7r",
+      "rev": "OaUfzy2DT15srQJotd1bua",
       "publishDate": "2026-06-23T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1772,7 +1883,7 @@
     "analytics": {
       "contentId": "af24f5ce-38b4-4a99-979f-add6aba4193f.en-us",
       "contentLocale": "en-us",
-      "rev": "wiv1Z1yfnGUHdfRt3j3L7r",
+      "rev": "XCTgZQwSGIOEwOvRbvT2da",
       "publishDate": "2026-06-22T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1851,7 +1962,7 @@
     "analytics": {
       "contentId": "51aceed3-54b1-43f7-9de8-f34bee743fc5.en-us",
       "contentLocale": "en-us",
-      "rev": "2yC4Z1M4wov9l0Ez0hXxWb",
+      "rev": "XCTgZQwSGIOEwOvRbvPJOd",
       "publishDate": "2026-06-22T14:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1939,7 +2050,7 @@
     "analytics": {
       "contentId": "9981ed18-9d91-4d4a-a69c-e0785412ce71.en-us",
       "contentLocale": "en-us",
-      "rev": "CHgPdgJEXwFO7wEfdjtzBx",
+      "rev": "I6kxhdTbzMjOE4Y1tQlcWz",
       "publishDate": "2026-06-22T14:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1979,94 +2090,6 @@
       {
         "machineName": "teamfight_tactics_esports",
         "title": "Teamfight Tactics eSports"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5b4fb62015bec914a2c6dd1cd401d9ec72b4e537-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#494925",
-        "secondary": "#DCF9F6",
-        "label": "#1E1E08"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5b4fb62015bec914a2c6dd1cd401d9ec72b4e537-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#494925",
-        "secondary": "#DCF9F6",
-        "label": "#1E1E08"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Dev Update: TFT's Incoming Tech Upgrade",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=mT_dLnzbQKA",
-        "youtubeId": "mT_dLnzbQKA",
-        "videoLengthInSeconds": 223
-      }
-    },
-    "analytics": {
-      "contentId": "0283fe05-0960-4dd3-8ba9-1797718c2c2c.en-us",
-      "contentLocale": "en-us",
-      "rev": "cKCdNw7A6nR1s4IvrLjggM",
-      "publishDate": "2026-06-12T19:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of Teamfight Tactics."
-    },
-    "description": {
-      "type": "html",
-      "body": "We’re investing in TFT’s future by making some changes under the hood. Here’s what that means for us, and for you!"
-    },
-    "publishedAt": "2026-06-12T19:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "dev",
-        "title": "/dev"
       }
     ]
   },
@@ -2153,6 +2176,94 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5b4fb62015bec914a2c6dd1cd401d9ec72b4e537-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#494925",
+        "secondary": "#DCF9F6",
+        "label": "#1E1E08"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5b4fb62015bec914a2c6dd1cd401d9ec72b4e537-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#494925",
+        "secondary": "#DCF9F6",
+        "label": "#1E1E08"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Dev Update: TFT's Incoming Tech Upgrade",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=mT_dLnzbQKA",
+        "youtubeId": "mT_dLnzbQKA",
+        "videoLengthInSeconds": 223
+      }
+    },
+    "analytics": {
+      "contentId": "0283fe05-0960-4dd3-8ba9-1797718c2c2c.en-us",
+      "contentLocale": "en-us",
+      "rev": "XCTgZQwSGIOEwOvRbvKa5y",
+      "publishDate": "2026-06-12T19:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "We’re investing in TFT’s future by making some changes under the hood. Here’s what that means for us, and for you!"
+    },
+    "publishedAt": "2026-06-12T19:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/06779a2d232242e8817f02e7bc9c066c31d4fe97-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -2192,7 +2303,7 @@
     "analytics": {
       "contentId": "d1d38240-5056-4306-b7b9-7298292aa28c.en-us",
       "contentLocale": "en-us",
-      "rev": "8WC74fAmDi3XtMuSfToGXB",
+      "rev": "OaUfzy2DT15srQJotd5Sti",
       "publishDate": "2026-06-09T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2279,7 +2390,7 @@
     "analytics": {
       "contentId": "8f652a62-4a5b-4733-b4ee-90f9433af5e0.en-us",
       "contentLocale": "en-us",
-      "rev": "Zw44n8fi4AlLOxaeeBvhsk",
+      "rev": "XCTgZQwSGIOEwOvRbvRplo",
       "publishDate": "2026-06-08T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2361,7 +2472,7 @@
     "analytics": {
       "contentId": "62c4c15c-4467-43be-9ec8-11dbd96b78fc.en-us",
       "contentLocale": "en-us",
-      "rev": "QkwzbUGogfiARFWKJ2atOR",
+      "rev": "OaUfzy2DT15srQJotd2H4E",
       "publishDate": "2026-06-02T00:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2441,7 +2552,7 @@
     "analytics": {
       "contentId": "83287c1e-6f6c-4ee3-b946-0c8ca12cf87c.en-us",
       "contentLocale": "en-us",
-      "rev": "QkwzbUGogfiARFWKJ2atOR",
+      "rev": "OaUfzy2DT15srQJotd2uGa",
       "publishDate": "2026-05-28T17:30:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2521,7 +2632,7 @@
     "analytics": {
       "contentId": "204796c5-c000-477c-914a-567f5b2fac35.en-us",
       "contentLocale": "en-us",
-      "rev": "wPLG3Aj6xw2lllKwg1PYa0",
+      "rev": "OaUfzy2DT15srQJotd0MoE",
       "publishDate": "2026-05-27T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2606,7 +2717,7 @@
     "analytics": {
       "contentId": "29de2b9d-f5aa-4cfb-a3e7-040f792fccb3.en-us",
       "contentLocale": "en-us",
-      "rev": "BgDhxvmlW8enVZWLTNOGWS",
+      "rev": "I6kxhdTbzMjOE4Y1tQjkf7",
       "publishDate": "2026-05-27T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2688,7 +2799,7 @@
     "analytics": {
       "contentId": "cfefabf7-9288-4556-bb7a-50a1ca07aaf7.en-us",
       "contentLocale": "en-us",
-      "rev": "PtebrSD9WOXgUNx5Mwuka3",
+      "rev": "OaUfzy2DT15srQJotd57QY",
       "publishDate": "2026-05-27T13:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2768,7 +2879,7 @@
     "analytics": {
       "contentId": "4b1ffb0f-8610-4988-99a2-bc429e945a5c.en-us",
       "contentLocale": "en-us",
-      "rev": "l4bRoGJB6AfVgVy96rxeQt",
+      "rev": "XCTgZQwSGIOEwOvRbvOv9A",
       "publishDate": "2026-05-26T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2849,7 +2960,7 @@
     "analytics": {
       "contentId": "986f44a6-2c92-408f-80b8-eabdc8f01caf.en-us",
       "contentLocale": "en-us",
-      "rev": "QQPI8EE9dTLPal9ynftcXb",
+      "rev": "XCTgZQwSGIOEwOvRbvSErp",
       "publishDate": "2026-05-13T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2928,7 +3039,7 @@
     "analytics": {
       "contentId": "41178517-b648-460c-a18a-ae15834fc195.en-us",
       "contentLocale": "en-us",
-      "rev": "4QjxnWaZRYTL6JsL6i1iMl",
+      "rev": "I6kxhdTbzMjOE4Y1tQkDxN",
       "publishDate": "2026-05-12T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -3013,7 +3124,7 @@
     "analytics": {
       "contentId": "a2fd70d2-1fe5-409d-9d4f-9fec846ab841.en-us",
       "contentLocale": "en-us",
-      "rev": "b2TvWZLpmL14EBAKoctBY5",
+      "rev": "I6kxhdTbzMjOE4Y1tQlnSn",
       "publishDate": "2026-04-28T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -3098,7 +3209,7 @@
     "analytics": {
       "contentId": "3ce7bd8a-729e-4476-a881-90f99dafe10c.en-us",
       "contentLocale": "en-us",
-      "rev": "fOwcY0643jaGejaROeigee",
+      "rev": "XCTgZQwSGIOEwOvRbvO0b1",
       "publishDate": "2026-04-27T14:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -3273,7 +3384,7 @@
     "analytics": {
       "contentId": "eb87e3db-4f7e-48c5-993e-3fc6ee9d25de.en-us",
       "contentLocale": "en-us",
-      "rev": "HiScNa7oshT02wnA9xUHrO",
+      "rev": "XCTgZQwSGIOEwOvRbvYyWV",
       "publishDate": "2026-04-15T16:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -3385,7 +3496,7 @@
     "analytics": {
       "contentId": "3ba81f4b-1eb8-4171-9459-715e135c7b26.en-us",
       "contentLocale": "en-us",
-      "rev": "zmuJo6hLfZ5ooDqqaxjj8i",
+      "rev": "I6kxhdTbzMjOE4Y1tQk6dJ",
       "publishDate": "2026-04-15T15:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -3465,7 +3576,7 @@
     "analytics": {
       "contentId": "65c07a4e-dc76-4f43-8892-44b905285f4d.en-us",
       "contentLocale": "en-us",
-      "rev": "4jnDTR53VjWfbQhn1Zf4fT",
+      "rev": "XCTgZQwSGIOEwOvRbvQ6n2",
       "publishDate": "2026-04-15T14:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -3553,7 +3664,7 @@
     "analytics": {
       "contentId": "d05340f6-6e9e-4552-8ea3-6ac2ae093b9f.en-us",
       "contentLocale": "en-us",
-      "rev": "fOwcY0643jaGejaROejIbE",
+      "rev": "OaUfzy2DT15srQJotd5QWe",
       "publishDate": "2026-04-15T14:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -3802,7 +3913,7 @@
     "analytics": {
       "contentId": "72bff6ee-5314-4d59-b36e-a4308c11a334.en-us",
       "contentLocale": "en-us",
-      "rev": "JwaCUGi8mcawHGLDqV4OlV",
+      "rev": "OaUfzy2DT15srQJotd2YnQ",
       "publishDate": "2026-04-01T14:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -3888,7 +3999,7 @@
     "analytics": {
       "contentId": "128148cd-b5a0-4abc-a77d-5f52c841675d.en-us",
       "contentLocale": "en-us",
-      "rev": "jNrKGDgaXIG7AUzuDc3uda",
+      "rev": "XCTgZQwSGIOEwOvRbvLG62",
       "publishDate": "2026-03-31T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -3973,7 +4084,7 @@
     "analytics": {
       "contentId": "875cf9db-ab49-418d-bd97-26eec6d73766.en-us",
       "contentLocale": "en-us",
-      "rev": "QfFWvDViDgB4wfgoDYOqnW",
+      "rev": "OaUfzy2DT15srQJotd2zBK",
       "publishDate": "2026-03-30T16:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -4055,13 +4166,13 @@
       "payload": {
         "url": "https://www.youtube.com/watch?v=IOnfAHUDM10",
         "youtubeId": "IOnfAHUDM10",
-        "videoLengthInSeconds": 0
+        "videoLengthInSeconds": 837
       }
     },
     "analytics": {
       "contentId": "fee81618-9301-40f3-b2ab-9e5f28a4335d.en-us",
       "contentLocale": "en-us",
-      "rev": "fAOJQOYs6ilbkH8aeEdrXJ",
+      "rev": "OaUfzy2DT15srQJotd7NBE",
       "publishDate": "2026-03-28T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -4168,7 +4279,7 @@
     "analytics": {
       "contentId": "d99f5b74-c895-4850-bfcb-74267402a752.en-us",
       "contentLocale": "en-us",
-      "rev": "QEVRm1pZNxFN4JPIcZySPW",
+      "rev": "OaUfzy2DT15srQJotd5cto",
       "publishDate": "2026-03-27T16:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -4250,7 +4361,7 @@
     "analytics": {
       "contentId": "5f751fb0-d260-4ab1-9571-29433976d915.en-us",
       "contentLocale": "en-us",
-      "rev": "MTwGXiNq8KCukLG9Ccybu4",
+      "rev": "OaUfzy2DT15srQJotd2A68",
       "publishDate": "2026-03-26T16:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -4290,6 +4401,92 @@
       {
         "machineName": "dev",
         "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/07b78ea73d9c337747876fc23ab5c987a12e50c3-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#212942",
+        "secondary": "#F9F1DC",
+        "label": "#060A16"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/07b78ea73d9c337747876fc23ab5c987a12e50c3-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#212942",
+        "secondary": "#F9F1DC",
+        "label": "#060A16"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Lore & Legends Tactician’s Crown Event Primer",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/esports/lore-legends-tacticians-crown-event-primer"
+      }
+    },
+    "analytics": {
+      "contentId": "3df8110c-f969-479d-9fb1-e51b137f39c2.en-us",
+      "contentLocale": "en-us",
+      "rev": "OaUfzy2DT15srQJotd18WC",
+      "publishDate": "2026-03-19T13:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "It’s time to crown a new TFT global champion!"
+    },
+    "publishedAt": "2026-03-19T13:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_esports",
+        "title": "Teamfight Tactics eSports"
       }
     ]
   },
@@ -4337,7 +4534,7 @@
     "analytics": {
       "contentId": "66362c65-b08c-470c-a707-d800701404b8.en-us",
       "contentLocale": "en-us",
-      "rev": "MsQNQ8m2MkdlwTH5pJxEif",
+      "rev": "I6kxhdTbzMjOE4Y1tQkq9J",
       "publishDate": "2026-03-19T13:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -4349,92 +4546,6 @@
     "description": {
       "type": "html",
       "body": "Watch the Next Legend Unfold"
-    },
-    "publishedAt": "2026-03-19T13:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_esports",
-        "title": "Teamfight Tactics eSports"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/07b78ea73d9c337747876fc23ab5c987a12e50c3-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#212942",
-        "secondary": "#F9F1DC",
-        "label": "#060A16"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/07b78ea73d9c337747876fc23ab5c987a12e50c3-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#212942",
-        "secondary": "#F9F1DC",
-        "label": "#060A16"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Lore & Legends Tactician’s Crown Event Primer",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/esports/lore-legends-tacticians-crown-event-primer"
-      }
-    },
-    "analytics": {
-      "contentId": "3df8110c-f969-479d-9fb1-e51b137f39c2.en-us",
-      "contentLocale": "en-us",
-      "rev": "MsQNQ8m2MkdlwTH5pcK4Bt",
-      "publishDate": "2026-03-19T13:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional Teamfight Tactics."
-    },
-    "description": {
-      "type": "html",
-      "body": "It’s time to crown a new TFT global champion!"
     },
     "publishedAt": "2026-03-19T13:00:00.000Z",
     "promoCardSize": "small",
@@ -4509,7 +4620,7 @@
     "analytics": {
       "contentId": "80c13d65-71ce-4dd9-8ad2-5268d94d9bc3.en-us",
       "contentLocale": "en-us",
-      "rev": "MsQNQ8m2MkdlwTH5pPPyOf",
+      "rev": "OaUfzy2DT15srQJotd2qFw",
       "publishDate": "2026-03-18T16:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -4595,7 +4706,7 @@
     "analytics": {
       "contentId": "9cebb479-62d1-4a42-b003-d36b8a89e5f8.en-us",
       "contentLocale": "en-us",
-      "rev": "MsQNQ8m2MkdlwTH5pcMdk5",
+      "rev": "XCTgZQwSGIOEwOvRbvSVaC",
       "publishDate": "2026-03-17T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -4766,7 +4877,7 @@
     "analytics": {
       "contentId": "8caba30c-7ea5-4d42-8604-733d0526cb9d.en-us",
       "contentLocale": "en-us",
-      "rev": "AESglscCpa7pTE6u47J7y9",
+      "rev": "XCTgZQwSGIOEwOvRbvRiHd",
       "publishDate": "2026-03-03T19:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -4851,7 +4962,7 @@
     "analytics": {
       "contentId": "b23643be-1959-405c-84c9-19195dcd9c53.en-us",
       "contentLocale": "en-us",
-      "rev": "VC1gRqPmhcBEL2MLYqHIPj",
+      "rev": "I6kxhdTbzMjOE4Y1tQmAJp",
       "publishDate": "2026-02-26T16:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -4931,7 +5042,7 @@
     "analytics": {
       "contentId": "bffaebc1-274e-4d5c-9ed4-099cc2ec341a.en-us",
       "contentLocale": "en-us",
-      "rev": "YsIV1wmhgdb0y278xOhCzQ",
+      "rev": "I6kxhdTbzMjOE4Y1tQmIBt",
       "publishDate": "2026-02-18T19:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -5048,7 +5159,7 @@
     "analytics": {
       "contentId": "d9b7745b-e738-478f-8e58-4766ad3ecdc9.en-us",
       "contentLocale": "en-us",
-      "rev": "QEVRm1pZNxFN4JPIcZySPW",
+      "rev": "OaUfzy2DT15srQJotd5cto",
       "publishDate": "2026-02-04T02:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -5138,7 +5249,7 @@
     "analytics": {
       "contentId": "f6634ada-19e9-4b99-a3a1-4632ca144afd.en-us",
       "contentLocale": "en-us",
-      "rev": "pdmbI3uRq6VIWaHE9MJB2C",
+      "rev": "I6kxhdTbzMjOE4Y1tQoPI5",
       "publishDate": "2026-02-03T19:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -5224,7 +5335,7 @@
     "analytics": {
       "contentId": "305053d0-40d4-45c5-bdab-573728e032bb.en-us",
       "contentLocale": "en-us",
-      "rev": "KgfljLQRCNpfW5LddI8yh9",
+      "rev": "XCTgZQwSGIOEwOvRbvNATI",
       "publishDate": "2026-01-30T21:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -5320,7 +5431,7 @@
     "analytics": {
       "contentId": "71d10fcf-a747-4e3e-9a7f-aa0e945823de.en-us",
       "contentLocale": "en-us",
-      "rev": "abDHz2fAvwwOn7ufixr4cA",
+      "rev": "OaUfzy2DT15srQJotd2XqI",
       "publishDate": "2026-01-28T02:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -5402,7 +5513,7 @@
     "analytics": {
       "contentId": "a725370f-f933-4994-ae93-d40eaed69499.en-us",
       "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvq2wQ5",
+      "rev": "I6kxhdTbzMjOE4Y1tQlqo5",
       "publishDate": "2026-01-27T17:30:00.000Z",
       "placementSourcing": "listed"
     },
@@ -5503,7 +5614,7 @@
     "analytics": {
       "contentId": "3bba7736-b172-43c5-bf1d-fa073f14c204.en-us",
       "contentLocale": "en-us",
-      "rev": "abDHz2fAvwwOn7ufixqslA",
+      "rev": "OaUfzy2DT15srQJotd12ry",
       "publishDate": "2026-01-22T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -5671,7 +5782,7 @@
     "analytics": {
       "contentId": "patchNote.3a80aab5-f6f0-45e7-94c7-afeeab1f70d1.en-us",
       "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvq2wQ5",
+      "rev": "OaUfzy2DT15srQJotd7j7C",
       "publishDate": "2026-01-21T19:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -5756,7 +5867,7 @@
     "analytics": {
       "contentId": "0acc4ab5-4602-4abb-aa76-d3348bc56d57.en-us",
       "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOH6iZq",
+      "rev": "I6kxhdTbzMjOE4Y1tQj2SH",
       "publishDate": "2026-01-21T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -5851,7 +5962,7 @@
     "analytics": {
       "contentId": "f21e0657-0c99-4669-ab1c-eb88ac5a10af.en-us",
       "contentLocale": "en-us",
-      "rev": "QEVRm1pZNxFN4JPIcZydyw",
+      "rev": "OaUfzy2DT15srQJotd6wwQ",
       "publishDate": "2026-01-16T02:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -5932,7 +6043,7 @@
     "analytics": {
       "contentId": "488348d7-6235-42ff-866a-f6f464bed7a7.en-us",
       "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOH8F5C",
+      "rev": "I6kxhdTbzMjOE4Y1tQkPhd",
       "publishDate": "2026-01-09T21:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -9245,6 +9356,88 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f7f2261c5b1d7cc582e70e32052d6e948bdc46d5-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#3C2E5B",
+        "secondary": "#F9E5DC",
+        "label": "#190D34"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f7f2261c5b1d7cc582e70e32052d6e948bdc46d5-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#3C2E5B",
+        "secondary": "#F9E5DC",
+        "label": "#190D34"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "K.O. Coliseum: Tactician’s Crown",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=_q5YaYdFfuk",
+        "youtubeId": "_q5YaYdFfuk",
+        "videoLengthInSeconds": 128
+      }
+    },
+    "analytics": {
+      "contentId": "e2f10fb7-4001-4d1d-acf5-680c46a925c7.en-us",
+      "contentLocale": "en-us",
+      "rev": "wcF0J7hsRskGUKiR1Q7TjT",
+      "publishDate": "2025-11-05T14:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "Big stars. Bigger Battles. Be there!"
+    },
+    "publishedAt": "2025-11-05T14:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c31463cbd9b22cc71767425dbedb6c42954a741d-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -9326,88 +9519,6 @@
         "title": "Teamfight Tactics eSports"
       }
     ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f7f2261c5b1d7cc582e70e32052d6e948bdc46d5-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#3C2E5B",
-        "secondary": "#F9E5DC",
-        "label": "#190D34"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f7f2261c5b1d7cc582e70e32052d6e948bdc46d5-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#3C2E5B",
-        "secondary": "#F9E5DC",
-        "label": "#190D34"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "K.O. Coliseum: Tactician’s Crown",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=_q5YaYdFfuk",
-        "youtubeId": "_q5YaYdFfuk",
-        "videoLengthInSeconds": 128
-      }
-    },
-    "analytics": {
-      "contentId": "e2f10fb7-4001-4d1d-acf5-680c46a925c7.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-11-05T14:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional Teamfight Tactics."
-    },
-    "description": {
-      "type": "html",
-      "body": "Big stars. Bigger Battles. Be there!"
-    },
-    "publishedAt": "2025-11-05T14:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
   },
   {
     "media": {
@@ -17412,85 +17523,5 @@
         "title": "Teamfight Tactics New Content"
       }
     ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/75de3cbd3816ca43b8ea74788d0de09a8900f1a4-1280x720.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#44223F",
-        "secondary": "#F9DCEB",
-        "label": "#180616"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/75de3cbd3816ca43b8ea74788d0de09a8900f1a4-1280x720.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#44223F",
-        "secondary": "#F9DCEB",
-        "label": "#180616"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Celebrate Pride 2025: League and TFT",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://leagueoflegends.com/en-us/news/community/celebrate-pride-2025-league-and-tft",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "1abe81d2-afea-462b-84ba-89837a69b755.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1Q3Zid",
-      "publishDate": "2025-05-13T16:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "community",
-      "title": "Community",
-      "description": "From featured streamers to community creations, see what's new in the neighborhood."
-    },
-    "description": {
-      "type": "html",
-      "body": "Celebrate Pride and the community with us!"
-    },
-    "publishedAt": "2025-05-13T16:00:00.000Z",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
   }
 ]

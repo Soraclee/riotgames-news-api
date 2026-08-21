@@ -3,6 +3,117 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1decad95bd06ea00182d4bf9eb046f26388e6e2f-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#9094B8",
+        "secondary": "#292A33",
+        "label": "#2A2E4E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1decad95bd06ea00182d4bf9eb046f26388e6e2f-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#9094B8",
+        "secondary": "#292A33",
+        "label": "#2A2E4E"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "thumbnail": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/64199f52aad1f114586b3a8ecd3bdec1006aea97-1600x1080.jpg?accountingTag=TFT",
+        "dimensions": {
+          "width": 1600,
+          "height": 1080,
+          "aspectRatio": 1.4814814814814814
+        },
+        "colors": {
+          "primary": "#2C2C58",
+          "secondary": "#F7F9DC",
+          "label": "#0C0C30"
+        },
+        "mimeType": "image/jpeg"
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/18c5f9b41edadb041957844fe807ce73b192bbff.webm?accountingTag=TFT",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "Enchanted Wilds | Bande-annonce du set",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=GWjoegsJmWI",
+        "youtubeId": "GWjoegsJmWI",
+        "videoLengthInSeconds": 116
+      }
+    },
+    "analytics": {
+      "contentId": "13273cfb-f4a5-4557-b2f7-4d7c71ee3b31.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "eFZomBdefpK6168Vibbq8c",
+      "publishDate": "2026-08-20T02:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Comment vos champions préférés canaliseront-ils la magie antique et sauvage d'Enchanted Wilds ?"
+    },
+    "publishedAt": "2026-08-20T02:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f962dcbdcbf62c611666d7089e4c3cce6efbe81d-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -42,7 +153,7 @@
     "analytics": {
       "contentId": "7c5cd1fe-e182-46d4-a624-a663dd86d660.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "slV5a3vuYndT7PDVh4PaqR",
+      "rev": "OaUfzy2DT15srQJotdAReM",
       "publishDate": "2026-08-11T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -127,7 +238,7 @@
     "analytics": {
       "contentId": "patchNote.4165791d-0b93-4dc1-b815-aa77fc722ef7.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "f00oxwOqcm63XWxRpoBBf5",
+      "rev": "OaUfzy2DT15srQJotd7j7C",
       "publishDate": "2026-07-28T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -212,7 +323,7 @@
     "analytics": {
       "contentId": "71a4c680-f33a-4157-b844-67b38c4743b8.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "sDMyvslRfVxmBIFcztdBez",
+      "rev": "OaUfzy2DT15srQJotd2WTO",
       "publishDate": "2026-07-27T15:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -292,7 +403,7 @@
     "analytics": {
       "contentId": "025a2f69-5855-4d52-8f3b-d95e7bc9a88c.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "bqS4BUP3StcHfcq4LPGBeQ",
+      "rev": "XCTgZQwSGIOEwOvRbvKXbF",
       "publishDate": "2026-07-14T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -377,7 +488,7 @@
     "analytics": {
       "contentId": "49141c33-01da-4383-bb51-c2918fe88e51.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "Jk3Ag4oY5kCTzNkLgLlrgm",
+      "rev": "OaUfzy2DT15srQJotd1bua",
       "publishDate": "2026-06-23T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -541,7 +652,7 @@
     "analytics": {
       "contentId": "d1d38240-5056-4306-b7b9-7298292aa28c.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "cKCdNw7A6nR1s4IvrPQvbO",
+      "rev": "OaUfzy2DT15srQJotd5Sti",
       "publishDate": "2026-06-09T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -626,7 +737,7 @@
     "analytics": {
       "contentId": "204796c5-c000-477c-914a-567f5b2fac35.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "RhFwkLhlFXZ8SLJjc1oZTL",
+      "rev": "OaUfzy2DT15srQJotd0MoE",
       "publishDate": "2026-05-27T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -711,7 +822,7 @@
     "analytics": {
       "contentId": "29de2b9d-f5aa-4cfb-a3e7-040f792fccb3.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "l4bRoGJB6AfVgVy96rwY1f",
+      "rev": "I6kxhdTbzMjOE4Y1tQjkf7",
       "publishDate": "2026-05-27T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -791,7 +902,7 @@
     "analytics": {
       "contentId": "41178517-b648-460c-a18a-ae15834fc195.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "TD7vAXu9X8U1U4zB6wRXjY",
+      "rev": "I6kxhdTbzMjOE4Y1tQkDxN",
       "publishDate": "2026-05-12T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -876,7 +987,7 @@
     "analytics": {
       "contentId": "a2fd70d2-1fe5-409d-9d4f-9fec846ab841.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "HJmXNYczL6aRqGsM8GNy6Y",
+      "rev": "I6kxhdTbzMjOE4Y1tQlnSn",
       "publishDate": "2026-04-28T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -962,7 +1073,7 @@
     "analytics": {
       "contentId": "eb87e3db-4f7e-48c5-993e-3fc6ee9d25de.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "PuW5cpOoI51XEmxZ6J47HR",
+      "rev": "XCTgZQwSGIOEwOvRbvYyWV",
       "publishDate": "2026-04-15T16:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1074,7 +1185,7 @@
     "analytics": {
       "contentId": "3ba81f4b-1eb8-4171-9459-715e135c7b26.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "zmuJo6hLfZ5ooDqqaxjj8i",
+      "rev": "I6kxhdTbzMjOE4Y1tQk6dJ",
       "publishDate": "2026-04-15T15:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1154,7 +1265,7 @@
     "analytics": {
       "contentId": "43c09088-09e7-431f-893b-494c0ebbbf61.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "rdV3nyP359VYh3GlyssW36",
+      "rev": "I6kxhdTbzMjOE4Y1tQkIFt",
       "publishDate": "2026-04-14T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1318,7 +1429,7 @@
     "analytics": {
       "contentId": "128148cd-b5a0-4abc-a77d-5f52c841675d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "jNrKGDgaXIG7AUzuDc3uda",
+      "rev": "XCTgZQwSGIOEwOvRbvLG62",
       "publishDate": "2026-03-31T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1403,7 +1514,7 @@
     "analytics": {
       "contentId": "875cf9db-ab49-418d-bd97-26eec6d73766.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "QfFWvDViDgB4wfgoDYOYJW",
+      "rev": "OaUfzy2DT15srQJotd2zBK",
       "publishDate": "2026-03-30T16:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1489,7 +1600,7 @@
     "analytics": {
       "contentId": "9cebb479-62d1-4a42-b003-d36b8a89e5f8.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "k7qbICCitkpbibbEuQJSbi",
+      "rev": "XCTgZQwSGIOEwOvRbvSVaC",
       "publishDate": "2026-03-17T18:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1574,7 +1685,7 @@
     "analytics": {
       "contentId": "8caba30c-7ea5-4d42-8604-733d0526cb9d.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "AESglscCpa7pTE6u47J7y9",
+      "rev": "XCTgZQwSGIOEwOvRbvRiHd",
       "publishDate": "2026-03-03T19:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1659,7 +1770,7 @@
     "analytics": {
       "contentId": "bffaebc1-274e-4d5c-9ed4-099cc2ec341a.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "YsIV1wmhgdb0y278xOb8zy",
+      "rev": "I6kxhdTbzMjOE4Y1tQmIBt",
       "publishDate": "2026-02-18T19:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1776,7 +1887,7 @@
     "analytics": {
       "contentId": "d9b7745b-e738-478f-8e58-4766ad3ecdc9.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "QEVRm1pZNxFN4JPIcZySPW",
+      "rev": "OaUfzy2DT15srQJotd5cto",
       "publishDate": "2026-02-04T02:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1866,7 +1977,7 @@
     "analytics": {
       "contentId": "f6634ada-19e9-4b99-a3a1-4632ca144afd.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "pdmbI3uRq6VIWaHE9MJB2C",
+      "rev": "I6kxhdTbzMjOE4Y1tQoPI5",
       "publishDate": "2026-02-03T19:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -1967,7 +2078,7 @@
     "analytics": {
       "contentId": "71d10fcf-a747-4e3e-9a7f-aa0e945823de.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "abDHz2fAvwwOn7ufixr4cA",
+      "rev": "OaUfzy2DT15srQJotd2XqI",
       "publishDate": "2026-01-28T02:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2063,7 +2174,7 @@
     "analytics": {
       "contentId": "3bba7736-b172-43c5-bf1d-fa073f14c204.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "abDHz2fAvwwOn7ufixqslA",
+      "rev": "OaUfzy2DT15srQJotd12ry",
       "publishDate": "2026-01-22T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2143,7 +2254,7 @@
     "analytics": {
       "contentId": "patchNote.3a80aab5-f6f0-45e7-94c7-afeeab1f70d1.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1U2wdf",
+      "rev": "OaUfzy2DT15srQJotd7j7C",
       "publishDate": "2026-01-21T19:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2228,7 +2339,7 @@
     "analytics": {
       "contentId": "0acc4ab5-4602-4abb-aa76-d3348bc56d57.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOH6iZq",
+      "rev": "I6kxhdTbzMjOE4Y1tQj2SH",
       "publishDate": "2026-01-21T17:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2324,7 +2435,7 @@
     "analytics": {
       "contentId": "f21e0657-0c99-4669-ab1c-eb88ac5a10af.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "QEVRm1pZNxFN4JPIcZydyw",
+      "rev": "OaUfzy2DT15srQJotd6wwQ",
       "publishDate": "2026-01-16T02:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -2406,7 +2517,7 @@
     "analytics": {
       "contentId": "8cd191ef-a557-47e8-8b31-f468c82a9e7f.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1Q3yL5",
+      "rev": "I6kxhdTbzMjOE4Y1tQlTx3",
       "publishDate": "2026-01-09T07:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -16846,7 +16957,7 @@
     "analytics": {
       "contentId": "f47538b1-1fcc-4bd2-916e-302f36c5b8f3",
       "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOH6iZq",
+      "rev": "I6kxhdTbzMjOE4Y1tQoLJJ",
       "publishDate": "2024-05-21T16:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -17977,100 +18088,6 @@
       {
         "machineName": "teamfight_tactics_patch_notes",
         "title": "Notes de patch de Teamfight Tactics"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7eb76936375fb46876333a84fd4ae2da563120a3-1600x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1600,
-        "height": 1080,
-        "aspectRatio": 1.4814814814814814
-      },
-      "colors": {
-        "primary": "#543E2A",
-        "secondary": "#F9EDDC",
-        "label": "#2C1A0B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7eb76936375fb46876333a84fd4ae2da563120a3-1600x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1600,
-        "height": 1080,
-        "aspectRatio": 1.4814814814814814
-      },
-      "colors": {
-        "primary": "#543E2A",
-        "secondary": "#F9EDDC",
-        "label": "#2C1A0B"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Gameplay de Légendes des encres",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/tft-inkborn-fables-gameplay-overview/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.bltd2c9f1e57ff6c2dd.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOH8F5C",
-      "publishDate": "2024-03-05T10:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Déchiffrez les parchemins des nouveaux types et amis qui rejoignent cette nouvelle aventure."
-    },
-    "publishedAt": "2024-03-05T10:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_tag",
-        "title": "Teamfight Tactics"
-      },
-      {
-        "machineName": "teamfight_tactics_new_content_",
-        "title": "Nouveau contenu de Teamfight Tactics"
-      },
-      {
-        "machineName": "inkborn_fables",
-        "title": "Inkborn Fables"
       }
     ]
   }
