@@ -3,6 +3,92 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/77c51191b4547ff9f3e843a3847ef2c9b4cfa9c5-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#8F76B8",
+        "secondary": "#292933",
+        "label": "#463461"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/77c51191b4547ff9f3e843a3847ef2c9b4cfa9c5-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#8F76B8",
+        "secondary": "#292933",
+        "label": "#463461"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Dev TFT : Leçons de Space Gods",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-tft-space-gods-reviewed"
+      }
+    },
+    "analytics": {
+      "contentId": "f726c399-41c7-45b5-bd62-3dd97bccd5c3.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "ZfrnkoFPwLWc3MbImDekOe",
+      "publishDate": "2026-08-21T16:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "Retour sur Space Gods (et plus encore) avec l'équipe à l'origine du set !"
+    },
+    "publishedAt": "2026-08-21T16:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1decad95bd06ea00182d4bf9eb046f26388e6e2f-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -1058,7 +1144,7 @@
     "analytics": {
       "contentId": "9ccc3d8e-7c6b-4cd5-a92c-d5679b5272a1.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "XCTgZQwSGIOEwOvRbvSVaC",
+      "rev": "OaUfzy2DT15srQJotfhhmI",
       "publishDate": "2026-07-10T13:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -17542,92 +17628,6 @@
       {
         "machineName": "teamfight_tactics_new_content_",
         "title": "Nouveau contenu de Teamfight Tactics"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/084fcda7277f12459ac79bef5214e9db7edc7615-1280x720.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1F1C37",
-        "secondary": "#E8DCF9",
-        "label": "#030209"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/084fcda7277f12459ac79bef5214e9db7edc7615-1280x720.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1F1C37",
-        "secondary": "#E8DCF9",
-        "label": "#030209"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Teamfight Tactics – notes du patch 14.1 (2025)",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-14-1-notes-2025"
-      }
-    },
-    "analytics": {
-      "contentId": "20a18741-a4b2-4bf4-9d7f-c0681df21dbe.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-04-01T18:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Bienvenue dans notre nouveau set : Cyber City. Relancez, hackez ou explosez pour conquérir votre territoire !"
-    },
-    "publishedAt": "2025-04-01T18:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics (fr-fr)",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "patch_notes",
-        "title": "Notes de patch"
       }
     ]
   }
