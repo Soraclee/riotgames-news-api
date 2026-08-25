@@ -3,6 +3,101 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/079d9872816ff168ba5d49439ba5b830d14bdde0-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#0D0F1A",
+        "secondary": "#FFD6D8",
+        "label": "#010101"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/079d9872816ff168ba5d49439ba5b830d14bdde0-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#0D0F1A",
+        "secondary": "#FFD6D8",
+        "label": "#010101"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/087778cd8f250078789a9a2dfbc630ce348e25cd.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "Hall of Legends Event Trailer: Caps",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=qulG8eewz3U",
+        "youtubeId": "qulG8eewz3U",
+        "videoLengthInSeconds": 165
+      }
+    },
+    "analytics": {
+      "contentId": "e124b1e7-c639-4db9-9c9d-4fad43aea4e7.en-us",
+      "contentLocale": "en-us",
+      "rev": "6m769bzN9EwfIugQpsqLNQ",
+      "publishDate": "2026-08-24T15:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "A true beacon of hope – Caps enters the Hall of Legends."
+    },
+    "publishedAt": "2026-08-24T15:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e68f31a74579ce085c3de6798f56a26cc04f9767-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -17420,107 +17515,5 @@
         "mimeType": "image/svg+xml"
       }
     }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/10f41bdd3e0428dd26f5305e5afe28c71860e99c-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#120B09",
-        "secondary": "#FFEDD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/10f41bdd3e0428dd26f5305e5afe28c71860e99c-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#120B09",
-        "secondary": "#FFEDD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "videoMedia": {
-      "type": "video",
-      "provider": "sanity",
-      "dimensions": {
-        "width": 1600,
-        "height": 900
-      },
-      "sources": [
-        {
-          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/1d6f82eda8b9ecbdde16d08b0af389f932751367.webm?accountingTag=LoL",
-          "type": "video/webm"
-        }
-      ]
-    },
-    "title": "Mel Champion Spotlight",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=hECQiybsrsM",
-        "youtubeId": "hECQiybsrsM",
-        "videoLengthInSeconds": 0
-      }
-    },
-    "analytics": {
-      "contentId": "b682fb4c-c062-490f-a781-f86f0e358026.en-us",
-      "contentLocale": "en-us",
-      "rev": "abDHz2fAvwwOn7ufixrJV9",
-      "publishDate": "2025-01-09T20:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Shift the paradigm with Mel, the Soul’s Reflection."
-    },
-    "publishedAt": "2025-01-09T20:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "champion_spotlight",
-        "title": "Champion Spotlight"
-      }
-    ]
   }
 ]
