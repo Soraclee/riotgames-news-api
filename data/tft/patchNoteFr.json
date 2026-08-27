@@ -3,6 +3,90 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4655b20a93afd761e45a6442a0aecb33aa0077af-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B89E92",
+        "secondary": "#2D3329",
+        "label": "#624435"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4655b20a93afd761e45a6442a0aecb33aa0077af-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B89E92",
+        "secondary": "#2D3329",
+        "label": "#624435"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Notes de patch 18.1 de TFT",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/teamfight-tactics-patch-18-1"
+      }
+    },
+    "analytics": {
+      "contentId": "patchNote.445108a9-b3c4-419b-84dd-5a1d343aaf31.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "z5FvBlyiPEY5dgYPFPUb9d",
+      "publishDate": "2026-08-25T18:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Explorez le nouveau set, Enchanted Wilds, avec les monstres de la Jungle, les Sylvestres, un Yéti et une nouvelle mécanique, les esprits de la forêt !"
+    },
+    "publishedAt": "2026-08-25T18:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Notes de patch"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f962dcbdcbf62c611666d7089e4c3cce6efbe81d-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -43,8 +127,7 @@
       "contentId": "7c5cd1fe-e182-46d4-a624-a663dd86d660.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "OaUfzy2DT15srQJotdAReM",
-      "publishDate": "2026-08-11T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-11T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -128,8 +211,7 @@
       "contentId": "patchNote.4165791d-0b93-4dc1-b815-aa77fc722ef7.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "OaUfzy2DT15srQJotd7j7C",
-      "publishDate": "2026-07-28T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-28T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -213,8 +295,7 @@
       "contentId": "025a2f69-5855-4d52-8f3b-d95e7bc9a88c.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "XCTgZQwSGIOEwOvRbvKXbF",
-      "publishDate": "2026-07-14T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-14T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -298,8 +379,7 @@
       "contentId": "49141c33-01da-4383-bb51-c2918fe88e51.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "OaUfzy2DT15srQJotd1bua",
-      "publishDate": "2026-06-23T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-23T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -383,8 +463,7 @@
       "contentId": "d1d38240-5056-4306-b7b9-7298292aa28c.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "OaUfzy2DT15srQJotd5Sti",
-      "publishDate": "2026-06-09T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-09T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -468,8 +547,7 @@
       "contentId": "204796c5-c000-477c-914a-567f5b2fac35.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "OaUfzy2DT15srQJotd0MoE",
-      "publishDate": "2026-05-27T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-27T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -553,8 +631,7 @@
       "contentId": "41178517-b648-460c-a18a-ae15834fc195.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "I6kxhdTbzMjOE4Y1tQkDxN",
-      "publishDate": "2026-05-12T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-12T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -638,8 +715,7 @@
       "contentId": "a2fd70d2-1fe5-409d-9d4f-9fec846ab841.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "I6kxhdTbzMjOE4Y1tQlnSn",
-      "publishDate": "2026-04-28T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-28T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -723,8 +799,7 @@
       "contentId": "43c09088-09e7-431f-893b-494c0ebbbf61.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "I6kxhdTbzMjOE4Y1tQkIFt",
-      "publishDate": "2026-04-14T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-14T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -808,8 +883,7 @@
       "contentId": "128148cd-b5a0-4abc-a77d-5f52c841675d.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "XCTgZQwSGIOEwOvRbvLG62",
-      "publishDate": "2026-03-31T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-31T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -893,8 +967,7 @@
       "contentId": "9cebb479-62d1-4a42-b003-d36b8a89e5f8.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "XCTgZQwSGIOEwOvRbvSVaC",
-      "publishDate": "2026-03-17T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-17T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -978,8 +1051,7 @@
       "contentId": "8caba30c-7ea5-4d42-8604-733d0526cb9d.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "XCTgZQwSGIOEwOvRbvRiHd",
-      "publishDate": "2026-03-03T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-03T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1063,8 +1135,7 @@
       "contentId": "bffaebc1-274e-4d5c-9ed4-099cc2ec341a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "I6kxhdTbzMjOE4Y1tQmIBt",
-      "publishDate": "2026-02-18T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-02-18T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1148,8 +1219,7 @@
       "contentId": "f6634ada-19e9-4b99-a3a1-4632ca144afd.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "I6kxhdTbzMjOE4Y1tQoPI5",
-      "publishDate": "2026-02-03T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-02-03T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1233,8 +1303,7 @@
       "contentId": "patchNote.3a80aab5-f6f0-45e7-94c7-afeeab1f70d1.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "OaUfzy2DT15srQJotd7j7C",
-      "publishDate": "2026-01-21T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-21T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1318,8 +1387,7 @@
       "contentId": "a217b8ea-816b-4e81-ad89-4b0f9ad7408c.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2026-01-07T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-07T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1403,8 +1471,7 @@
       "contentId": "e9ee79b0-fa3c-4dbc-a7e6-c860dac28d3a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "QEVRm1pZNxFN4JPIcaQcDW",
-      "publishDate": "2025-12-02T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-02T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1488,8 +1555,7 @@
       "contentId": "e4cd337a-f6e8-4e2d-b270-8ec7e63f7fe4.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-11-18T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-18T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1573,8 +1639,7 @@
       "contentId": "d371b202-6ddc-4e66-9b7c-1db61ddbb118.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-11-04T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-04T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1658,8 +1723,7 @@
       "contentId": "2686ea62-3653-4970-bbfd-61286632c014.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-10-21T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-21T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1743,8 +1807,7 @@
       "contentId": "41ba2b33-666f-436a-a2dc-ae2c77320921.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-10-07T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-07T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1828,8 +1891,7 @@
       "contentId": "e59b6d27-56e9-405f-8cb7-4c921b850a58.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-09-23T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-23T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1913,8 +1975,7 @@
       "contentId": "839cba48-a1b2-4bc1-86b4-7e3106a7564a.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-09-09T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-09T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -1998,8 +2059,7 @@
       "contentId": "ccc015cc-a535-4a38-87fe-62f516fd88d6.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-08-26T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-26T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -2083,8 +2143,7 @@
       "contentId": "7a95d073-4e4d-4641-9c43-f3924f4c1c2c.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-08-12T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-12T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -2168,8 +2227,7 @@
       "contentId": "71425069-96b8-4286-836c-ce712542534f.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-07-29T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-29T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -2254,8 +2312,7 @@
       "contentId": "31623fc8-de83-4dec-b148-9574300d28b9.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-07-15T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-15T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -2339,8 +2396,7 @@
       "contentId": "f069e9dc-9029-4e4c-b142-3dfb4c7fcba2.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-06-24T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-06-24T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -2424,8 +2480,7 @@
       "contentId": "d73711be-e5b6-4b6a-8eae-8f61e71f6a89.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-06-10T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-06-10T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -2510,8 +2565,7 @@
       "contentId": "4c58b395-0ebe-4317-ba46-f3eb78487bfe.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-05-27T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-05-27T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -2595,8 +2649,7 @@
       "contentId": "dded60e6-279f-468e-8267-2e495a6a9e36.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-05-13T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-05-13T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -2681,8 +2734,7 @@
       "contentId": "7870c6af-485d-4e07-9965-ec483954caa5.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-04-29T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-04-29T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -2767,8 +2819,7 @@
       "contentId": "21bad679-a58a-4c18-9c6c-1d8f6c10178d.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-04-15T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-04-15T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -2857,8 +2908,7 @@
       "contentId": "20a18741-a4b2-4bf4-9d7f-c0681df21dbe.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-04-01T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-04-01T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -2943,8 +2993,7 @@
       "contentId": "b08c5bb6-8f3c-4ca0-a8be-9b7b103f289c.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-03-18T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-03-18T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -3029,8 +3078,7 @@
       "contentId": "5c312291-fffa-4cd7-aa43-f6302938bd4b.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-03-04T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-03-04T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -3115,8 +3163,7 @@
       "contentId": "1ad103b8-d505-4dd8-a5b4-f28838783ef0.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-02-19T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-02-19T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -3205,8 +3252,7 @@
       "contentId": "23607a3e-e6bd-49cb-81b1-d1866b277054.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-02-04T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-02-04T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -3295,8 +3341,7 @@
       "contentId": "ffb0924d-2326-4070-a5e8-657479160b82.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-01-22T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-01-22T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -3385,8 +3430,7 @@
       "contentId": "de870c8c-b974-45ab-a3e4-0ea5bb8c7e31.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-01-07T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-01-07T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -3475,8 +3519,7 @@
       "contentId": "e1e00426-c620-4288-b019-89887d24c258.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2024-12-10T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-12-10T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -3564,8 +3607,7 @@
       "contentId": "ad95ec1c-717b-4805-9401-c3123cce3185.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2024-11-19T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-19T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -3654,8 +3696,7 @@
       "contentId": "8fd78cf2-2998-4a85-8c5f-f9faede9b5c2.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2024-11-05T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-05T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -3744,8 +3785,7 @@
       "contentId": "3284ce42-aba9-4a9c-89ee-b379d2514d03.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2024-10-22T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-10-22T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -3834,8 +3874,7 @@
       "contentId": "eca5e519-ede3-4d57-90f8-6d88664d6c59.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2024-10-08T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-10-08T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -3924,8 +3963,7 @@
       "contentId": "a66aa5f0-21dc-403a-b9af-1bade4a8e3d8",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2024-08-27T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-08-27T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -4010,8 +4048,7 @@
       "contentId": "ba581cc1-7696-4458-a9ba-f13979fc8e4b",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2024-08-13T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-08-13T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -4096,8 +4133,7 @@
       "contentId": "a29b4220-950e-4bf0-90db-3eca5c0f78b0",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2024-07-30T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-07-30T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -4186,8 +4222,7 @@
       "contentId": "5cf8b8df-f1bb-493e-919b-2f1f78bc067a",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2024-07-16T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-07-16T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -4274,8 +4309,7 @@
       "contentId": "50190c6b-a091-4cc3-b809-74e80b405474",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2024-06-25T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-06-25T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -4366,8 +4400,7 @@
       "contentId": "b57f75de-a342-4a15-8225-b01ba0245202",
       "contentLocale": "fr-fr",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2024-06-11T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-06-11T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -4452,8 +4485,7 @@
       "contentId": "articles.bltc64b497d9bef4748.fr-fr",
       "contentLocale": "fr-fr",
       "rev": "iuvR1X3un5VQGa5MOHNpXg",
-      "publishDate": "2019-12-17T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2019-12-17T19:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",

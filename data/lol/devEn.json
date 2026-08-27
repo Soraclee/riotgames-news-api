@@ -3,6 +3,91 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e8da464db6c410cda7fa97c07a851acd5712c0e0-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#131426",
+        "secondary": "#D6FFF1",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e8da464db6c410cda7fa97c07a851acd5712c0e0-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#131426",
+        "secondary": "#D6FFF1",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "/dev: The Council",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-the-council"
+      }
+    },
+    "analytics": {
+      "contentId": "23bec82e-8e49-43eb-903d-19c4cd786608.en-us",
+      "contentLocale": "en-us",
+      "rev": "z5FvBlyiPEY5dgYPFNugBt",
+      "publishDate": "2026-08-26T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "How you can shape what’s next for League Classic."
+    },
+    "publishedAt": "2026-08-26T15:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "classic",
+        "title": "Classic"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b0ccba718bdfaeeb3c25b45349c03c0cfa26e484-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -45,8 +130,7 @@
       "contentId": "1e584d96-8b23-494e-8897-65f9579737d3.en-us",
       "contentLocale": "en-us",
       "rev": "gebeW1zYggN3eO9X9dBCUh",
-      "publishDate": "2026-08-06T00:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-06T00:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -80,96 +164,6 @@
         "mimeType": "image/svg+xml"
       }
     }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7482b562e4a39260eee110ada1f81f76b6febfc9-1280x720.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#224244",
-        "secondary": "#DCF9EF",
-        "label": "#061718"
-      },
-      "mimeType": "image/png"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7482b562e4a39260eee110ada1f81f76b6febfc9-1280x720.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#224244",
-        "secondary": "#DCF9EF",
-        "label": "#061718"
-      },
-      "mimeType": "image/png"
-    },
-    "title": "/dev: League of Legends Classic",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-league-of-legends-classic"
-      }
-    },
-    "analytics": {
-      "contentId": "1637902d-ab56-452c-8f42-4232e5079f2f.en-us",
-      "contentLocale": "en-us",
-      "rev": "XCTgZQwSGIOEwOvRbvLWR3",
-      "publishDate": "2026-07-14T15:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "Welcome back, Summoners."
-    },
-    "publishedAt": "2026-07-14T15:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "dev",
-        "title": "/dev"
-      },
-      {
-        "machineName": "classic",
-        "title": "Classic"
-      }
-    ]
   },
   {
     "media": {
@@ -217,8 +211,7 @@
       "contentId": "d614149d-f16c-4c85-b250-3bb7b4d960cd.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd5XcK",
-      "publishDate": "2026-07-14T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-14T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -230,6 +223,95 @@
       "body": "Pabro, Meddler, FeralPony, and Phreak talk about Classic, Mayhem, Hall of Legends, and more."
     },
     "publishedAt": "2026-07-14T15:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      },
+      {
+        "machineName": "classic",
+        "title": "Classic"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7482b562e4a39260eee110ada1f81f76b6febfc9-1280x720.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#224244",
+        "secondary": "#DCF9EF",
+        "label": "#061718"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7482b562e4a39260eee110ada1f81f76b6febfc9-1280x720.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#224244",
+        "secondary": "#DCF9EF",
+        "label": "#061718"
+      },
+      "mimeType": "image/png"
+    },
+    "title": "/dev: League of Legends Classic",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-league-of-legends-classic"
+      }
+    },
+    "analytics": {
+      "contentId": "1637902d-ab56-452c-8f42-4232e5079f2f.en-us",
+      "contentLocale": "en-us",
+      "rev": "XCTgZQwSGIOEwOvRbvLWR3",
+      "publishDate": "2026-07-14T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Welcome back, Summoners."
+    },
+    "publishedAt": "2026-07-14T15:00:00.000Z",
+    "promoCardSize": "small",
     "product": {
       "title": "League of Legends (en-us)",
       "machineName": "league_of_legends",
@@ -306,8 +388,7 @@
       "contentId": "ea8beba9-61a3-4006-a7ff-7744ab6e9b76.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd6qaE",
-      "publishDate": "2026-07-14T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-14T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -428,8 +509,7 @@
       "contentId": "5062ec11-cf61-4c25-a285-af4fd1e2a7ba.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvPA4b",
-      "publishDate": "2026-06-26T22:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-26T22:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -514,8 +594,7 @@
       "contentId": "1480c10a-768f-4913-b24b-5c0744a1839e.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQjESz",
-      "publishDate": "2026-05-27T20:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-27T20:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -594,8 +673,7 @@
       "contentId": "5ce5e226-7cb9-4e7b-92f9-3e3e4084dfae.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvPiD8",
-      "publishDate": "2026-05-27T20:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-27T20:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -676,8 +754,7 @@
       "contentId": "8818e909-88c0-4b74-b499-50e10fdfc6b7.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQlPJh",
-      "publishDate": "2026-05-27T20:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-27T20:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -762,8 +839,7 @@
       "contentId": "2f9622c8-c2a9-45dc-a7df-e8fe48ee52b7.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd0fZ6",
-      "publishDate": "2026-05-27T20:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-27T20:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -842,8 +918,7 @@
       "contentId": "750be710-2e3e-4bf9-a66a-a7e2d66f2601.en-us",
       "contentLocale": "en-us",
       "rev": "nuN6I0uN1OufCsmkod0rBx",
-      "publishDate": "2026-04-21T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-21T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -930,8 +1005,7 @@
       "contentId": "7dc1cdb9-7e85-48fe-a9af-3820e9211ad0.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd2nyw",
-      "publishDate": "2026-04-21T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-21T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1020,8 +1094,7 @@
       "contentId": "eab12e6f-e239-4df5-87d8-241444f945d3.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQoEK5",
-      "publishDate": "2026-04-14T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-14T18:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1106,8 +1179,7 @@
       "contentId": "01b22846-8e71-43da-a91c-7ea8b5f081d2.en-us",
       "contentLocale": "en-us",
       "rev": "v1PvD52ZtmMnV83XfNKx3o",
-      "publishDate": "2026-04-14T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-14T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1117,6 +1189,93 @@
     "description": {
       "type": "html",
       "body": "A short rundown of changes from today’s Dev Update."
+    },
+    "publishedAt": "2026-04-14T17:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/700a26e353717c03d458c0facb94c0fafe6fea2b-1280x720.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#140E0A",
+        "secondary": "#FFE7D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/700a26e353717c03d458c0facb94c0fafe6fea2b-1280x720.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#140E0A",
+        "secondary": "#FFE7D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Dev Update: Arena Updates & More",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=K1TLR8HQgiU",
+        "youtubeId": "K1TLR8HQgiU",
+        "videoLengthInSeconds": 890
+      }
+    },
+    "analytics": {
+      "contentId": "e0c135e1-fe2b-44ac-aa5a-35c31307ba7e.en-us",
+      "contentLocale": "en-us",
+      "rev": "I6kxhdTbzMjOE4Y1tQo469",
+      "publishDate": "2026-04-14T17:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Pabro and Meddler talk about Season Two Pandemonium, gameplay changes, Arena updates, and more."
     },
     "publishedAt": "2026-04-14T17:00:00.000Z",
     "promoCardSize": "small",
@@ -1192,8 +1351,7 @@
       "contentId": "52700060-1519-4a66-8e08-6da4f2166097.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd1tZE",
-      "publishDate": "2026-04-14T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-14T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1205,94 +1363,6 @@
       "body": "A rundown of all the changes coming to Arena in Season 2."
     },
     "publishedAt": "2026-04-14T17:00:00.000Z",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "dev",
-        "title": "/dev"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/700a26e353717c03d458c0facb94c0fafe6fea2b-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#140E0A",
-        "secondary": "#FFE7D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/700a26e353717c03d458c0facb94c0fafe6fea2b-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#140E0A",
-        "secondary": "#FFE7D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Dev Update: Arena Updates & More",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=K1TLR8HQgiU",
-        "youtubeId": "K1TLR8HQgiU",
-        "videoLengthInSeconds": 890
-      }
-    },
-    "analytics": {
-      "contentId": "e0c135e1-fe2b-44ac-aa5a-35c31307ba7e.en-us",
-      "contentLocale": "en-us",
-      "rev": "I6kxhdTbzMjOE4Y1tQo469",
-      "publishDate": "2026-04-14T17:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "Pabro and Meddler talk about Season Two Pandemonium, gameplay changes, Arena updates, and more."
-    },
-    "publishedAt": "2026-04-14T17:00:00.000Z",
-    "promoCardSize": "small",
     "product": {
       "title": "League of Legends (en-us)",
       "machineName": "league_of_legends",
@@ -1367,8 +1437,7 @@
       "contentId": "8f4d25fa-9a25-4e83-8973-d79e9644aaf6.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd38Cm",
-      "publishDate": "2026-03-28T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-28T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1463,8 +1532,7 @@
       "contentId": "3decbe66-4eb3-4f7f-a479-a056efe7077a.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd17CK",
-      "publishDate": "2026-03-26T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-26T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1557,8 +1625,7 @@
       "contentId": "29f95f9f-04bb-4ae7-ba43-5a3c5ed4b47e.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvMku5",
-      "publishDate": "2026-03-13T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-13T18:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1637,8 +1704,7 @@
       "contentId": "8b2e7fec-ff9b-466a-b02a-a7f1e6635d62.en-us",
       "contentLocale": "en-us",
       "rev": "BaJZN9SZZSkebYlpgjbrcb",
-      "publishDate": "2026-03-02T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-02T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1723,8 +1789,7 @@
       "contentId": "2af8b697-f6e3-435a-b5bc-153a7e373f5b.en-us",
       "contentLocale": "en-us",
       "rev": "BaJZN9SZZSkebYlpgjc4aJ",
-      "publishDate": "2026-03-02T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-02T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1809,8 +1874,7 @@
       "contentId": "29fe105e-cf91-4079-8e1b-4d7815f61134.en-us",
       "contentLocale": "en-us",
       "rev": "BaJZN9SZZSkebYlpgjc1se",
-      "publishDate": "2026-03-02T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-02T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1897,8 +1961,7 @@
       "contentId": "16a98685-7ca5-405d-9bda-8c019b36e164.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvLaCb",
-      "publishDate": "2026-03-02T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-02T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1976,8 +2039,7 @@
       "contentId": "2bdf0e93-ef0c-4e6d-a294-d3537c770938.en-us",
       "contentLocale": "en-us",
       "rev": "di517VvjZIMNWDTW6j8h6N",
-      "publishDate": "2026-01-08T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-08T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2063,8 +2125,7 @@
       "contentId": "2c34b006-8bc3-42e9-a51f-92488842c5be.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-12-14T12:45:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-14T12:45:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2145,8 +2206,7 @@
       "contentId": "cfa3ef46-bfd3-44d5-9350-90e42f2a70cb.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-12-01T16:05:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-01T16:05:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2231,8 +2291,7 @@
       "contentId": "cc7aea20-8366-4155-85a6-d9641df870a7.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-12-01T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-01T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2316,8 +2375,7 @@
       "contentId": "81efe8d0-fbbe-4e56-abd3-bc0c3e9da068.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-12-01T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-01T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2402,8 +2460,7 @@
       "contentId": "add3f32f-df34-4a31-a9ca-a04a82f8a441.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2025-12-01T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-01T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2488,8 +2545,7 @@
       "contentId": "9e262b7a-a53f-4559-a505-14189d4c8a18.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-12-01T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-01T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2575,8 +2631,7 @@
       "contentId": "efb55016-e55a-4ea9-b0c4-2c52b4568085.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-11-14T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-14T14:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2656,8 +2711,7 @@
       "contentId": "e03572da-9173-4ffb-a63b-55d6e20f3390.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-10-22T23:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-22T23:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2748,8 +2802,7 @@
       "contentId": "422e0d14-752b-4005-9bed-1c52068db7b7.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-10-14T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-14T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2834,8 +2887,7 @@
       "contentId": "557a602b-b039-421e-872f-33daa729bbda.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-10-06T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-06T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2914,8 +2966,7 @@
       "contentId": "a6858fda-32c3-4628-81c3-b19c31d64431.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-10-06T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-06T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2994,8 +3045,7 @@
       "contentId": "b11006de-dcc3-4d9a-862c-4cad8c049180.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2025-10-06T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-06T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3079,8 +3129,7 @@
       "contentId": "0aeb34aa-660d-41b1-bfaa-9cf7606cc551.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sp6el",
-      "publishDate": "2025-10-06T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-06T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3167,8 +3216,7 @@
       "contentId": "7e36e712-4778-4146-a0f2-f8074f42ad39.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-10-06T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-06T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3255,8 +3303,7 @@
       "contentId": "985a202c-3431-4bac-8031-febfaa96dcc0.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-09-17T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-17T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3351,8 +3398,7 @@
       "contentId": "7419d2f6-ba1d-4346-8446-bf6b03cbfe0d.en-us",
       "contentLocale": "en-us",
       "rev": "icGAf4sJr7sLz8Tj0PNSjZ",
-      "publishDate": "2025-09-05T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-05T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3436,8 +3482,7 @@
       "contentId": "467249fc-bb5a-44c7-a761-40e6b5773207.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-08-11T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-11T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3515,8 +3560,7 @@
       "contentId": "6c452a35-da9e-438b-ab2b-99afda5fbf09.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2025-08-11T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-11T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3594,8 +3638,7 @@
       "contentId": "40b6382f-0c7a-4348-8c7f-607e93df3205.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-08-11T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-11T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3675,8 +3718,7 @@
       "contentId": "e0783e87-5bbf-4eae-8d17-a28931918b16.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-08-11T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-11T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3761,8 +3803,7 @@
       "contentId": "dab38214-fbe6-4fdf-a0ca-68ec4f36b0a1.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQnI9t",
-      "publishDate": "2025-08-11T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-11T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3849,8 +3890,7 @@
       "contentId": "6db48584-109b-4e00-9ee9-cdf206989f82.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2025-07-13T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-13T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3939,8 +3979,7 @@
       "contentId": "a3cfc8ac-aaa3-4d4e-9792-1f58e81ccd74.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-07-07T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-07T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4027,8 +4066,7 @@
       "contentId": "4f62205a-a053-406b-94cf-bb4b12a5b81e.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-06-09T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-06-09T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4113,8 +4151,7 @@
       "contentId": "72647cf7-8c5d-4543-84de-b082452d542c.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd2YnQ",
-      "publishDate": "2025-06-09T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-06-09T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4192,8 +4229,7 @@
       "contentId": "258d25f9-4e38-4f2a-a7a5-fb494fa82bd0.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvMVPc",
-      "publishDate": "2025-06-09T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-06-09T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4273,8 +4309,7 @@
       "contentId": "f736eb41-974e-4a15-a514-168931594422.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-05-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-05-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4365,8 +4400,7 @@
       "contentId": "e0579900-23f2-4522-81c2-fb74fab155ad.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-04-22T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-04-22T14:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4460,8 +4494,7 @@
       "contentId": "bd120e40-ee8f-42b6-bfc4-66002b64616a.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2025-04-15T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-04-15T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4546,8 +4579,7 @@
       "contentId": "d3c7dfeb-327e-4aad-9e81-be61adcc786c.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-04-15T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-04-15T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4631,8 +4663,7 @@
       "contentId": "df9ea100-cdaf-4677-b272-6e26867c3ad8.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2025-04-15T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-04-15T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4721,8 +4752,7 @@
       "contentId": "9c3e4312-ef02-4a20-bfd6-a35262d4db20.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-04-15T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-04-15T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4807,8 +4837,7 @@
       "contentId": "8cce4a87-d172-4313-a215-73665be9d8a7.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2025-04-15T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-04-15T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4894,8 +4923,7 @@
       "contentId": "01a63a42-d398-4352-b231-ff56f341da33.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2025-04-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-04-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4980,8 +5008,7 @@
       "contentId": "05d4eb41-015f-4158-8ef3-b0fba30a01f5.en-us",
       "contentLocale": "en-us",
       "rev": "vVKkUeQokL8IrJ29QFpuBx",
-      "publishDate": "2025-03-19T15:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-03-19T15:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5069,8 +5096,7 @@
       "contentId": "284de0f1-9417-4e1e-ab33-909672bac80d.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-03-18T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-03-18T18:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5157,8 +5183,7 @@
       "contentId": "547efda9-7491-41bd-9c82-1b96e975d512.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-03-16T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-03-16T19:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5248,8 +5273,7 @@
       "contentId": "259bff97-725d-4949-884b-c112958cb0bc.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2025-03-10T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-03-10T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5338,8 +5362,7 @@
       "contentId": "03fac73a-4b62-4f2c-9b54-b9e8dc6c971a.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2025-02-26T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-02-26T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5417,8 +5440,7 @@
       "contentId": "cd3136d8-e51c-4f17-94f5-b706e969bf16.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-02-26T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-02-26T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5504,8 +5526,7 @@
       "contentId": "3a02a729-e97d-4ccd-a35c-4e89237a36a5.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2025-02-07T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-02-07T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5590,8 +5611,7 @@
       "contentId": "cb41c475-fcfb-4df9-91ac-7691778d88e4.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2025-02-07T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-02-07T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5669,8 +5689,7 @@
       "contentId": "9fb191af-7234-4346-8bfe-6e45693b63cf.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2025-02-07T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-02-07T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5748,8 +5767,7 @@
       "contentId": "e72ea31d-601c-4651-b580-4514a34c22fa.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2025-02-04T17:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-02-04T17:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5830,8 +5848,7 @@
       "contentId": "70d36cc4-fcee-43c2-8262-aad9410cb7b9.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2025-01-29T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-01-29T14:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5923,8 +5940,7 @@
       "contentId": "5b508705-48ac-4dbc-8ea7-a276299d95cc.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-01-15T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-01-15T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6009,8 +6025,7 @@
       "contentId": "c26be0cf-2834-4911-a443-be44dcc1da49.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOfiHu",
-      "publishDate": "2024-12-15T10:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-12-15T10:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6103,8 +6118,7 @@
       "contentId": "4968e4b2-66ec-4f59-a352-0092ad20ff72.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOBdHa",
-      "publishDate": "2024-11-25T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-25T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6189,8 +6203,7 @@
       "contentId": "2a20d935-2821-4090-ad4a-4cb4478c00f0.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2024-11-25T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-25T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6277,8 +6290,7 @@
       "contentId": "9e8104a5-045f-4505-915b-99a9347ff913.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2024-11-25T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-25T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6363,8 +6375,7 @@
       "contentId": "aede617c-f4d2-4ba5-8307-4f89e7aff7ce.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2024-11-25T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-25T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6449,8 +6460,7 @@
       "contentId": "6cb14a5e-fc7d-40a6-a5fa-dec974c85529.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2024-11-25T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-25T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6539,8 +6549,7 @@
       "contentId": "a6e68f20-992b-4452-8863-288c7107e4d7.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2024-11-25T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-25T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6626,8 +6635,7 @@
       "contentId": "57a74d24-81d8-4e98-bf3c-d4a115ca06e7.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2024-11-25T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-25T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6714,8 +6722,7 @@
       "contentId": "f371fa65-2de8-4a8f-9eaf-aa4b89ffd77a.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsEz4r",
-      "publishDate": "2024-11-10T20:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-10T20:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6806,8 +6813,7 @@
       "contentId": "9ad5006d-03e4-461b-ac7b-845b4c80c140.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2024-11-08T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-08T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6897,8 +6903,7 @@
       "contentId": "6ffbf30f-acde-46dc-9799-038a25da2268.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2024-11-06T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-06T14:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6984,8 +6989,7 @@
       "contentId": "98a03856-6efe-47d7-9062-9495474da589.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOEqyE",
-      "publishDate": "2024-11-04T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-11-04T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7070,8 +7074,7 @@
       "contentId": "1af825f3-a068-44b8-8ed5-713ca703628a.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2024-09-23T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-09-23T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7158,8 +7161,7 @@
       "contentId": "2f5f6721-e8d2-4571-ab46-eba403debbd4.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2024-09-23T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-09-23T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7243,8 +7245,7 @@
       "contentId": "23c74ff4-6613-457a-9481-79f984046a24.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2024-09-23T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-09-23T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7341,8 +7342,7 @@
       "contentId": "e3158df5-e8b5-4481-bc85-fc0fe98f6c62.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOgl5U",
-      "publishDate": "2024-09-23T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-09-23T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7421,8 +7421,7 @@
       "contentId": "94653273-fd36-4593-937f-c8035691199a.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2024-09-23T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-09-23T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7501,8 +7500,7 @@
       "contentId": "8861af88-990f-4ba0-a1be-320c05b89e6d.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SqSsX",
-      "publishDate": "2024-09-10T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-09-10T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7588,8 +7586,7 @@
       "contentId": "5b1e2580-32ff-4e51-ad51-6793958563aa.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2024-09-09T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-09-09T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7682,8 +7679,7 @@
       "contentId": "3c086b29-9a80-4278-80a6-f0a97636826c",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sp6el",
-      "publishDate": "2024-08-22T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-08-22T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7768,8 +7764,7 @@
       "contentId": "aa8f214d-3acc-40fa-9ca6-5efaeb69aff1",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2024-08-22T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-08-22T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7854,8 +7849,7 @@
       "contentId": "57229e97-8232-45e1-b5dd-68223f6351c8",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2024-08-22T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-08-22T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7940,8 +7934,7 @@
       "contentId": "f6ee73f7-4b5d-4561-b644-d4c709687d0e",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2024-08-22T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-08-22T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8027,8 +8020,7 @@
       "contentId": "4577c759-b778-492c-9784-3f88a131a2c0",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2024-08-22T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-08-22T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8115,8 +8107,7 @@
       "contentId": "7525c8e1-7741-4ffa-a935-9eac72984a22",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2024-07-31T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-07-31T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8203,8 +8194,7 @@
       "contentId": "ceb8c1cf-e382-4c63-bc21-6323ca418d3a",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SodWJ",
-      "publishDate": "2024-07-14T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-07-14T19:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8293,8 +8283,7 @@
       "contentId": "dec8a525-5cbe-45fc-9de8-ae59f866caee",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sp6el",
-      "publishDate": "2024-07-10T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-07-10T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8381,8 +8370,7 @@
       "contentId": "aee11fc1-926c-4644-8c17-792c736ccb75",
       "contentLocale": "en-us",
       "rev": "O1Cbaz2qJ4U1QZ4kFfWnl4",
-      "publishDate": "2024-07-09T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-07-09T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8472,8 +8460,7 @@
       "contentId": "375ada02-d135-4813-afd9-2be69ac1b495",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2024-06-24T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-06-24T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8552,8 +8539,7 @@
       "contentId": "e2c783d7-d58a-41f3-971d-dd824304d4fe",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sp6el",
-      "publishDate": "2024-06-20T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-06-20T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8644,8 +8630,7 @@
       "contentId": "70df1c6c-54ca-45dd-9b97-fed20362cdbc",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOODdwI",
-      "publishDate": "2024-06-13T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-06-13T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8734,8 +8719,7 @@
       "contentId": "d0c93633-d514-4f8d-a66f-f70c5bcad0f5",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrV0pB",
-      "publishDate": "2024-06-11T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-06-11T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8821,8 +8805,7 @@
       "contentId": "515b829d-1776-4f97-9b8f-d5dc8ce6b4ca",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SpYah",
-      "publishDate": "2024-06-11T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-06-11T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8907,8 +8890,7 @@
       "contentId": "articles.blt61cac9ac5c73b7cc.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Su3Ad",
-      "publishDate": "2024-05-07T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-05-07T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -8997,8 +8979,7 @@
       "contentId": "articles.blt7a6e7f0f9630c205.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sua3f",
-      "publishDate": "2024-04-30T18:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-04-30T18:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9083,8 +9064,7 @@
       "contentId": "articles.blt6a36115635a0828a.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOTkp6",
-      "publishDate": "2024-04-15T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-04-15T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9169,8 +9149,7 @@
       "contentId": "articles.blt4281ad757dc3ee60.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOONSwC",
-      "publishDate": "2024-04-11T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-04-11T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9257,8 +9236,7 @@
       "contentId": "articles.blte04053218b76cdcb.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOObv0o",
-      "publishDate": "2024-04-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-04-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9351,8 +9329,7 @@
       "contentId": "articles.blt25f2dc8552023f39.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2024-04-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-04-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9449,8 +9426,7 @@
       "contentId": "articles.bltfdf5f86034b0a747.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOeSjg",
-      "publishDate": "2024-04-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-04-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9539,8 +9515,7 @@
       "contentId": "articles.bltc6d3a9773afbf47c.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOZRIA",
-      "publishDate": "2024-04-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-04-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9639,8 +9614,7 @@
       "contentId": "articles.blt17d3c7c5a7434b87.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrZqnH",
-      "publishDate": "2024-03-29T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-03-29T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9725,8 +9699,7 @@
       "contentId": "articles.bltb6fcc69c0a5972af.en-us",
       "contentLocale": "en-us",
       "rev": "ebFUNpMndz2LKq7K6s2dk8",
-      "publishDate": "2024-02-29T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-02-29T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9811,8 +9784,7 @@
       "contentId": "articles.blt8ddddfdd515fcfe6.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2024-02-29T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-02-29T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9897,8 +9869,7 @@
       "contentId": "articles.blt711de2505b35a26d.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrscU3",
-      "publishDate": "2024-02-29T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-02-29T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9985,8 +9956,7 @@
       "contentId": "articles.blt07a2e1ccd98eb9ba.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOHJ9s",
-      "publishDate": "2024-02-29T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-02-29T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -10071,8 +10041,7 @@
       "contentId": "articles.blt3a8e2ebe2aa3a5f1.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrfa37",
-      "publishDate": "2024-01-10T21:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-01-10T21:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -10161,8 +10130,7 @@
       "contentId": "articles.blt713f9acd2cbd0f0e.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrscU3",
-      "publishDate": "2024-01-08T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-01-08T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -10253,8 +10221,7 @@
       "contentId": "a8179f15-738e-4d44-873f-7da181425ea5.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOGLtW",
-      "publishDate": "2024-01-08T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-01-08T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -10339,8 +10306,7 @@
       "contentId": "articles.blt70e45491663ae870.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrscU3",
-      "publishDate": "2024-01-05T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-01-05T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -10425,8 +10391,7 @@
       "contentId": "articles.blt7e052bdf53add56a.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrvLmD",
-      "publishDate": "2024-01-05T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2024-01-05T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -10519,8 +10484,7 @@
       "contentId": "articles.bltd92cbc28b2ea4ad7.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOap9E",
-      "publishDate": "2023-12-11T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-12-11T19:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -10607,8 +10571,7 @@
       "contentId": "articles.bltc556f05f9a3380d0.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOZRIA",
-      "publishDate": "2023-12-11T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-12-11T19:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -10693,8 +10656,7 @@
       "contentId": "articles.blt6b750098bc92a082.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOTkp6",
-      "publishDate": "2023-11-29T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-11-29T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -10783,8 +10745,7 @@
       "contentId": "articles.bltcfe6dbd3338347a5.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SwvJx",
-      "publishDate": "2023-11-27T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-11-27T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -10873,8 +10834,7 @@
       "contentId": "articles.bltcb909cfeed902058.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvs8Har",
-      "publishDate": "2023-11-23T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-11-23T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -10963,8 +10923,7 @@
       "contentId": "articles.blt9f03ebe888d7f0e9.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvyD7",
-      "publishDate": "2023-11-21T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-11-21T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11053,8 +11012,7 @@
       "contentId": "articles.blta07610771f40e418.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvyD7",
-      "publishDate": "2023-11-19T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-11-19T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11141,8 +11099,7 @@
       "contentId": "articles.bltb75aa81b7137b443.en-us",
       "contentLocale": "en-us",
       "rev": "bxuuTlbyftRPueMcYQcQIj",
-      "publishDate": "2023-10-12T17:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-10-12T17:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11227,8 +11184,7 @@
       "contentId": "articles.blt7577d1928c21841b.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sua3f",
-      "publishDate": "2023-10-12T17:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-10-12T17:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11313,8 +11269,7 @@
       "contentId": "articles.bltd1334b7e52b2ad8d.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SwvJx",
-      "publishDate": "2023-10-12T17:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-10-12T17:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11399,8 +11354,7 @@
       "contentId": "articles.blt216e45af61e6765d.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2023-10-12T17:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-10-12T17:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11479,8 +11433,7 @@
       "contentId": "articles.bltce6e827869b51456.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvs8Har",
-      "publishDate": "2023-09-14T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-09-14T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11565,8 +11518,7 @@
       "contentId": "articles.blt20c2ebcb10476a16.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2023-08-30T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-08-30T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11653,8 +11605,7 @@
       "contentId": "articles.blt1ff2f4890bfe3161.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOIo26",
-      "publishDate": "2023-08-28T18:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-08-28T18:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11739,8 +11690,7 @@
       "contentId": "articles.bltca29b849606cbfad.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvs8Har",
-      "publishDate": "2023-08-28T18:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-08-28T18:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11825,8 +11775,7 @@
       "contentId": "articles.blt9e15d0aee72f4ed9.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvyD7",
-      "publishDate": "2023-08-28T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-08-28T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11911,8 +11860,7 @@
       "contentId": "articles.blt0c1b449fe7d2e30b.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrXoOD",
-      "publishDate": "2023-08-25T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-08-25T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11997,8 +11945,7 @@
       "contentId": "articles.blt77dfd5ba2ee8125f.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sua3f",
-      "publishDate": "2023-07-28T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-07-28T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12083,8 +12030,7 @@
       "contentId": "articles.blt42ecf8204287f016.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOONSwC",
-      "publishDate": "2023-07-28T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-07-28T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12171,8 +12117,7 @@
       "contentId": "articles.blt8f992c46d116af76.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2023-07-27T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-07-27T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12261,8 +12206,7 @@
       "contentId": "articles.bltace9f0bc8f855184.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
-      "publishDate": "2023-06-27T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-06-27T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12347,8 +12291,7 @@
       "contentId": "articles.blt706763cc44d08641.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrscU3",
-      "publishDate": "2023-06-22T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-06-22T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12433,8 +12376,7 @@
       "contentId": "articles.blt3bd7901f8c55ac5f.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrfa37",
-      "publishDate": "2023-06-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-06-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12521,8 +12463,7 @@
       "contentId": "articles.blt2b3d112c9239d59d.en-us",
       "contentLocale": "en-us",
       "rev": "kNWDW7h0OSfIJBVqddZQqJ",
-      "publishDate": "2023-06-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-06-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12615,8 +12556,7 @@
       "contentId": "articles.blt984544c232d858d2.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvcMH",
-      "publishDate": "2023-06-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-06-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12709,8 +12649,7 @@
       "contentId": "articles.blt2ca65857f8b19224.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrcUJ5",
-      "publishDate": "2023-06-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-06-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12795,8 +12734,7 @@
       "contentId": "articles.bltdb1b6346fb8798f2.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOap9E",
-      "publishDate": "2023-06-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-06-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12881,8 +12819,7 @@
       "contentId": "articles.bltff2da287757d6818.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvsDCvL",
-      "publishDate": "2023-05-30T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-05-30T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12971,8 +12908,7 @@
       "contentId": "articles.blt6a4e799a45694e6e.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOTkp6",
-      "publishDate": "2023-05-24T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-05-24T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13057,8 +12993,7 @@
       "contentId": "articles.blt4adc47851e8b65ac.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOR0FS",
-      "publishDate": "2023-05-04T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-05-04T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13145,8 +13080,7 @@
       "contentId": "articles.blt57a9953db5a043ab.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrnvjF",
-      "publishDate": "2023-04-28T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-04-28T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13235,8 +13169,7 @@
       "contentId": "articles.blt5e9a36f074933937.en-us",
       "contentLocale": "en-us",
       "rev": "4JtdF5NqmkvmgUeb12IlEN",
-      "publishDate": "2023-04-28T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-04-28T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13325,8 +13258,7 @@
       "contentId": "articles.bltce6a22e3788595e8.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvs8Har",
-      "publishDate": "2023-04-28T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-04-28T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13411,8 +13343,7 @@
       "contentId": "articles.blt88b0e5410e73c3b8.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOWpJk",
-      "publishDate": "2023-04-28T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-04-28T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13501,8 +13432,7 @@
       "contentId": "articles.blt6a390c5d9e659ed3.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOTkp6",
-      "publishDate": "2023-04-28T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-04-28T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13587,8 +13517,7 @@
       "contentId": "articles.blt0fc7168f46ffe2bb.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrXoOD",
-      "publishDate": "2023-04-10T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-04-10T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13677,8 +13606,7 @@
       "contentId": "articles.bltd7c64268b04214f4.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOap9E",
-      "publishDate": "2023-03-20T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-03-20T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13763,8 +13691,7 @@
       "contentId": "articles.bltdc377af15816f330.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOap9E",
-      "publishDate": "2023-03-17T20:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-03-17T20:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13849,8 +13776,7 @@
       "contentId": "articles.blt151444e349c1d42a.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrZqnH",
-      "publishDate": "2023-03-17T20:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-03-17T20:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13939,8 +13865,7 @@
       "contentId": "articles.blt4a80969e11ddc3b1.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrjxcb",
-      "publishDate": "2023-03-17T19:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-03-17T19:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14029,8 +13954,7 @@
       "contentId": "articles.blt3378d4dd59968d7f.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOKS3G",
-      "publishDate": "2023-03-13T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-03-13T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14115,8 +14039,7 @@
       "contentId": "articles.bltb96610fc372d7d7b.en-us",
       "contentLocale": "en-us",
       "rev": "lESIXfhUM7GwGlQ32qw9lT",
-      "publishDate": "2023-03-10T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-03-10T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14205,8 +14128,7 @@
       "contentId": "articles.blt43117de1bce5a72d.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOONSwC",
-      "publishDate": "2023-03-08T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-03-08T19:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14291,8 +14213,7 @@
       "contentId": "articles.blt36abc3284d5a73e7.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOKS3G",
-      "publishDate": "2023-03-06T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-03-06T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14377,8 +14298,7 @@
       "contentId": "articles.blt81d35e466d67f65b.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOVhs6",
-      "publishDate": "2023-03-06T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-03-06T14:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14467,8 +14387,7 @@
       "contentId": "articles.bltce33de48dd20ef49.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvs8Har",
-      "publishDate": "2023-02-24T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-02-24T19:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14557,8 +14476,7 @@
       "contentId": "articles.blta03e04934cec2166.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvyD7",
-      "publishDate": "2023-02-16T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-02-16T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14643,8 +14561,7 @@
       "contentId": "articles.blt914a0d10305366da.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2023-02-16T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-02-16T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14733,8 +14650,7 @@
       "contentId": "articles.blt7a65965251959db9.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sua3f",
-      "publishDate": "2023-02-10T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-02-10T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14825,8 +14741,7 @@
       "contentId": "articles.blt04d181acb4823631.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOHJ9s",
-      "publishDate": "2023-01-21T10:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-01-21T10:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14911,8 +14826,7 @@
       "contentId": "articles.blt9e4166fb8cfe42ac.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvyD7",
-      "publishDate": "2023-01-13T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-01-13T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14993,8 +14907,7 @@
       "contentId": "articles.blteda375647b7708d2.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SxfIl",
-      "publishDate": "2023-01-09T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-01-09T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -15085,8 +14998,7 @@
       "contentId": "articles.blt5bbca5c83a3b261f.en-us",
       "contentLocale": "en-us",
       "rev": "4JtdF5NqmkvmgUeb12IlEN",
-      "publishDate": "2023-01-09T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-01-09T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -15173,8 +15085,7 @@
       "contentId": "articles.blt2332d461b57b1d7a.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2023-01-09T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2023-01-09T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -15259,8 +15170,7 @@
       "contentId": "articles.blt6ccb721af91bb167.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOTkp6",
-      "publishDate": "2022-12-16T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-12-16T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -15353,8 +15263,7 @@
       "contentId": "articles.blt6459a733576f7f00.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Su3Ad",
-      "publishDate": "2022-12-07T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-12-07T19:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -15439,8 +15348,7 @@
       "contentId": "articles.blt8e85582c741a126b.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2022-12-07T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-12-07T18:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -15527,8 +15435,7 @@
       "contentId": "articles.bltaa6e65123b3a46df.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
-      "publishDate": "2022-11-11T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-11-11T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -15607,8 +15514,7 @@
       "contentId": "articles.blt2c78bcf228535249.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrcUJ5",
-      "publishDate": "2022-11-01T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-11-01T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -15693,8 +15599,7 @@
       "contentId": "articles.blt357f9f7e626e26fc.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOKS3G",
-      "publishDate": "2022-10-18T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-10-18T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -15783,8 +15688,7 @@
       "contentId": "articles.blt17a7aeb20757f5fe.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrZqnH",
-      "publishDate": "2022-09-30T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-09-30T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -15869,8 +15773,7 @@
       "contentId": "articles.bltfd0dc58676586cd5.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOeSjg",
-      "publishDate": "2022-09-27T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-09-27T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -15955,8 +15858,7 @@
       "contentId": "articles.blt235ca93a66ed3dec.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sr8cH",
-      "publishDate": "2022-09-01T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-09-01T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -16045,8 +15947,7 @@
       "contentId": "articles.blt03985d300c81f856.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOHJ9s",
-      "publishDate": "2022-08-24T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-08-24T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -16131,8 +16032,7 @@
       "contentId": "articles.blt2cb09726253773cf.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrcUJ5",
-      "publishDate": "2022-08-23T19:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-08-23T19:30:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -16219,8 +16119,7 @@
       "contentId": "articles.blt782c5dc64fb64702.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Sua3f",
-      "publishDate": "2022-08-12T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-08-12T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -16305,8 +16204,7 @@
       "contentId": "articles.blta207ab8fffe68123.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOY69e",
-      "publishDate": "2022-08-12T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-08-12T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -16391,8 +16289,7 @@
       "contentId": "articles.blt2a87f767b5bde5af.en-us",
       "contentLocale": "en-us",
       "rev": "kNWDW7h0OSfIJBVqddZQqJ",
-      "publishDate": "2022-08-08T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-08-08T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -16477,8 +16374,7 @@
       "contentId": "articles.bltb231cb90630090a2.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvs1Ea7",
-      "publishDate": "2022-08-01T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-08-01T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -16563,8 +16459,7 @@
       "contentId": "articles.bltc016709a21298af2.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvs5YNt",
-      "publishDate": "2022-07-29T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-07-29T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -16653,8 +16548,7 @@
       "contentId": "articles.bltceebfc7604cce2fd.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvs8Har",
-      "publishDate": "2022-07-29T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-07-29T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -16739,8 +16633,7 @@
       "contentId": "articles.bltda7dd8b0b812ffe7.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOap9E",
-      "publishDate": "2022-07-15T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-07-15T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -16827,8 +16720,7 @@
       "contentId": "articles.blt8dff5712a4635c50.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2022-07-15T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-07-15T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -16917,8 +16809,7 @@
       "contentId": "articles.blt918e8002e514ee76.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1SvHNd",
-      "publishDate": "2022-06-24T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-06-24T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -17003,8 +16894,7 @@
       "contentId": "articles.blt55630ef3e71536ce.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrnvjF",
-      "publishDate": "2022-06-22T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-06-22T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -17093,8 +16983,7 @@
       "contentId": "articles.bltc386ce5dcde0aebd.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOZRIA",
-      "publishDate": "2022-06-22T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-06-22T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -17179,8 +17068,7 @@
       "contentId": "articles.bltbcc94d0806d5e0a5.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvs5YNt",
-      "publishDate": "2022-06-10T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-06-10T15:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -17265,8 +17153,7 @@
       "contentId": "articles.blt345869cc21ee2eb4.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOOKS3G",
-      "publishDate": "2022-06-08T20:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-06-08T20:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -17355,8 +17242,7 @@
       "contentId": "articles.blt55f98fada0d2e6b5.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvrnvjF",
-      "publishDate": "2022-05-16T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2022-05-16T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -17394,92 +17280,6 @@
       {
         "machineName": "sylas",
         "title": "Sylas"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e5a45d8904887ba59b875fc924c7520b55df5312-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#152A27",
-        "secondary": "#DCF9EB",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e5a45d8904887ba59b875fc924c7520b55df5312-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#152A27",
-        "secondary": "#DCF9EB",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Quick Gameplay Thoughts: 5/6",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/quick-gameplay-thoughts-5-6/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.bltab64d64710fd36ab.en-us",
-      "contentLocale": "en-us",
-      "rev": "JrdCdTB43ZIe9jtTvrzLoJ",
-      "publishDate": "2022-05-06T17:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "A look into what you can expect with the Champion Durability Update in patch 12.10!"
-    },
-    "publishedAt": "2022-05-06T17:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "quick_lol_thoughts",
-        "title": "Quick Thoughts"
       }
     ]
   }
