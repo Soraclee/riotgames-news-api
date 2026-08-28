@@ -114,6 +114,22 @@
     "videoMedia": {
       "type": "video",
       "provider": "sanity",
+      "thumbnail": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/81966c96c695cf1138a9457a1c7336af00c43056-1920x1080.jpg?accountingTag=TFT",
+        "dimensions": {
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.7777777777777777
+        },
+        "colors": {
+          "primary": "#A8B886",
+          "secondary": "#33292A",
+          "label": "#516034"
+        },
+        "mimeType": "image/jpeg"
+      },
       "dimensions": {
         "width": 1600,
         "height": 900
@@ -128,16 +144,17 @@
     },
     "title": "Cinématique de TFT : Enchanted Wilds",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "url": "https://youtu.be/7Cl7DBtG77U",
-        "isExternal": true
+        "url": "https://www.youtube.com/watch?v=7Cl7DBtG77U",
+        "youtubeId": "7Cl7DBtG77U",
+        "videoLengthInSeconds": 113
       }
     },
     "analytics": {
       "contentId": "a394c111-b6b6-4ca7-8b51-164b402d6400.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "z5FvBlyiPEY5dgYPFPoNmV",
+      "rev": "ExoG2LGpYSmX7BhUZEyLbi",
       "publishDate": "2026-08-26T16:00:00.000Z"
     },
     "category": {
