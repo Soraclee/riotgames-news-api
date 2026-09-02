@@ -756,6 +756,7 @@
         "width": 1600,
         "height": 900
       },
+      "hasSound": true,
       "sources": [
         {
           "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/18c5f9b41edadb041957844fe807ce73b192bbff.webm?accountingTag=TFT",
@@ -775,7 +776,7 @@
     "analytics": {
       "contentId": "13273cfb-f4a5-4557-b2f7-4d7c71ee3b31.en-us",
       "contentLocale": "en-us",
-      "rev": "eFZomBdefpK6168Vibbq8c",
+      "rev": "URtQBhG01bodf7WhdwXTz6",
       "publishDate": "2026-08-20T02:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -975,6 +976,87 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c4b1b511be72413c531e3529b68f52706bf7d0f9-960x540.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 960,
+        "height": 540,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B172B8",
+        "secondary": "#2C2933",
+        "label": "#3A213D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c4b1b511be72413c531e3529b68f52706bf7d0f9-960x540.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 960,
+        "height": 540,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B172B8",
+        "secondary": "#2C2933",
+        "label": "#3A213D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "TFT Patch 17.9 Rundown",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=yxZBQZKrbz4",
+        "youtubeId": "yxZBQZKrbz4",
+        "videoLengthInSeconds": 491
+      }
+    },
+    "analytics": {
+      "contentId": "article.36c3370a-60fa-4ba4-9546-3d1117ef0514.en-us",
+      "contentLocale": "en-us",
+      "rev": "I6kxhdTbzMjOE4Y1tQlwJB",
+      "publishDate": "2026-08-11T18:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Everything you need to know about patch 17.9 with Riot Truexy"
+    },
+    "publishedAt": "2026-08-11T18:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f962dcbdcbf62c611666d7089e4c3cce6efbe81d-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -1055,87 +1137,6 @@
         "title": "Patch Notes"
       }
     ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c4b1b511be72413c531e3529b68f52706bf7d0f9-960x540.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 960,
-        "height": 540,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B172B8",
-        "secondary": "#2C2933",
-        "label": "#3A213D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c4b1b511be72413c531e3529b68f52706bf7d0f9-960x540.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 960,
-        "height": 540,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B172B8",
-        "secondary": "#2C2933",
-        "label": "#3A213D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "TFT Patch 17.9 Rundown",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=yxZBQZKrbz4",
-        "youtubeId": "yxZBQZKrbz4",
-        "videoLengthInSeconds": 491
-      }
-    },
-    "analytics": {
-      "contentId": "article.36c3370a-60fa-4ba4-9546-3d1117ef0514.en-us",
-      "contentLocale": "en-us",
-      "rev": "I6kxhdTbzMjOE4Y1tQlwJB",
-      "publishDate": "2026-08-11T18:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Everything you need to know about patch 17.9 with Riot Truexy"
-    },
-    "publishedAt": "2026-08-11T18:00:00.000Z",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
   },
   {
     "media": {
@@ -2046,6 +2047,85 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4000060d329201a377bc66c8ae591bf1fdfa9450-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#190E1C",
+        "secondary": "#F9DCED",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4000060d329201a377bc66c8ae591bf1fdfa9450-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#190E1C",
+        "secondary": "#F9DCED",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Celebrate TFT and Riftbound at Convergence Fest",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/announcements/celebrate-tft-and-riftbound-at-convergence-fest"
+      }
+    },
+    "analytics": {
+      "contentId": "9ccc3d8e-7c6b-4cd5-a92c-d5679b5272a1.en-us",
+      "contentLocale": "en-us",
+      "rev": "azUrToz0QDT8cMzYN7H0VA",
+      "publishDate": "2026-07-10T13:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "announcements",
+      "title": "Announcements",
+      "description": "Looking for need-to-know game info? You'll find it here."
+    },
+    "description": {
+      "type": "html",
+      "body": "Join us Dec 11-13 for the ultimate community experience in Las Vegas!"
+    },
+    "publishedAt": "2026-07-10T13:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ef3d20f41fa32b1c70c2ee39b54eddc791163f4e-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -2099,85 +2179,6 @@
     "description": {
       "type": "html",
       "body": "The TFT Open and Riftbound’s NA Regional Championship combine into something amazing!"
-    },
-    "publishedAt": "2026-07-10T13:00:00.000Z",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4000060d329201a377bc66c8ae591bf1fdfa9450-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#190E1C",
-        "secondary": "#F9DCED",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4000060d329201a377bc66c8ae591bf1fdfa9450-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#190E1C",
-        "secondary": "#F9DCED",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Celebrate TFT and Riftbound at Convergence Fest",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/announcements/celebrate-tft-and-riftbound-at-convergence-fest"
-      }
-    },
-    "analytics": {
-      "contentId": "9ccc3d8e-7c6b-4cd5-a92c-d5679b5272a1.en-us",
-      "contentLocale": "en-us",
-      "rev": "azUrToz0QDT8cMzYN7H0VA",
-      "publishDate": "2026-07-10T13:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "announcements",
-      "title": "Announcements",
-      "description": "Looking for need-to-know game info? You'll find it here."
-    },
-    "description": {
-      "type": "html",
-      "body": "Join us Dec 11-13 for the ultimate community experience in Las Vegas!"
     },
     "publishedAt": "2026-07-10T13:00:00.000Z",
     "product": {
@@ -4238,6 +4239,92 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b3988f5249f0ace774d8dacc451f1218d165a470-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B8B6A6",
+        "secondary": "#292C33",
+        "label": "#938C4F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b3988f5249f0ace774d8dacc451f1218d165a470-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B8B6A6",
+        "secondary": "#292C33",
+        "label": "#938C4F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Compete in SPACE GODS!",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/esports/compete-space-gods"
+      }
+    },
+    "analytics": {
+      "contentId": "65c07a4e-dc76-4f43-8892-44b905285f4d.en-us",
+      "contentLocale": "en-us",
+      "rev": "XCTgZQwSGIOEwOvRbvQ6n2",
+      "publishDate": "2026-04-15T14:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "A competitive space where anyone can play. Time to call in some divine favor!"
+    },
+    "publishedAt": "2026-04-15T14:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_esports",
+        "title": "Teamfight Tactics eSports"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a0fb86bfbe40d4f13461bf8954224457a5c5ca99-3840x2160.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 3840,
@@ -4293,92 +4380,6 @@
       "body": "Trials. Pro Circuit. Finals. The Crown. Four stages on your path to becoming a TFT legend!"
     },
     "publishedAt": "2026-04-15T14:00:00.000Z",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_esports",
-        "title": "Teamfight Tactics eSports"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b3988f5249f0ace774d8dacc451f1218d165a470-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8B6A6",
-        "secondary": "#292C33",
-        "label": "#938C4F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b3988f5249f0ace774d8dacc451f1218d165a470-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8B6A6",
-        "secondary": "#292C33",
-        "label": "#938C4F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Compete in SPACE GODS!",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/esports/compete-space-gods"
-      }
-    },
-    "analytics": {
-      "contentId": "65c07a4e-dc76-4f43-8892-44b905285f4d.en-us",
-      "contentLocale": "en-us",
-      "rev": "XCTgZQwSGIOEwOvRbvQ6n2",
-      "publishDate": "2026-04-15T14:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional Teamfight Tactics."
-    },
-    "description": {
-      "type": "html",
-      "body": "A competitive space where anyone can play. Time to call in some divine favor!"
-    },
-    "publishedAt": "2026-04-15T14:00:00.000Z",
-    "promoCardSize": "medium",
     "product": {
       "title": "Teamfight Tactics",
       "machineName": "teamfight_tactics",
@@ -5109,92 +5110,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/07b78ea73d9c337747876fc23ab5c987a12e50c3-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#212942",
-        "secondary": "#F9F1DC",
-        "label": "#060A16"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/07b78ea73d9c337747876fc23ab5c987a12e50c3-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#212942",
-        "secondary": "#F9F1DC",
-        "label": "#060A16"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Lore & Legends Tactician’s Crown Event Primer",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/esports/lore-legends-tacticians-crown-event-primer"
-      }
-    },
-    "analytics": {
-      "contentId": "3df8110c-f969-479d-9fb1-e51b137f39c2.en-us",
-      "contentLocale": "en-us",
-      "rev": "OaUfzy2DT15srQJotd18WC",
-      "publishDate": "2026-03-19T13:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional Teamfight Tactics."
-    },
-    "description": {
-      "type": "html",
-      "body": "It’s time to crown a new TFT global champion!"
-    },
-    "publishedAt": "2026-03-19T13:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_esports",
-        "title": "Teamfight Tactics eSports"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f1b3646af18e713a1324ba7d90d54652c2969259-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -5247,6 +5162,92 @@
     "description": {
       "type": "html",
       "body": "Watch the Next Legend Unfold"
+    },
+    "publishedAt": "2026-03-19T13:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_esports",
+        "title": "Teamfight Tactics eSports"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/07b78ea73d9c337747876fc23ab5c987a12e50c3-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#212942",
+        "secondary": "#F9F1DC",
+        "label": "#060A16"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/07b78ea73d9c337747876fc23ab5c987a12e50c3-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#212942",
+        "secondary": "#F9F1DC",
+        "label": "#060A16"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Lore & Legends Tactician’s Crown Event Primer",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/esports/lore-legends-tacticians-crown-event-primer"
+      }
+    },
+    "analytics": {
+      "contentId": "3df8110c-f969-479d-9fb1-e51b137f39c2.en-us",
+      "contentLocale": "en-us",
+      "rev": "OaUfzy2DT15srQJotd18WC",
+      "publishDate": "2026-03-19T13:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "It’s time to crown a new TFT global champion!"
     },
     "publishedAt": "2026-03-19T13:00:00.000Z",
     "promoCardSize": "small",
