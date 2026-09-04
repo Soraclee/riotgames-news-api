@@ -3,6 +3,87 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/99bb1fc4af880f7a3c4a4e24645468201c282081-3840x2160.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#A0A3B8",
+        "secondary": "#292933",
+        "label": "#515996"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/99bb1fc4af880f7a3c4a4e24645468201c282081-3840x2160.jpg?accountingTag=2XKO",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#A0A3B8",
+        "secondary": "#292933",
+        "label": "#515996"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Présentation du gameplay de Lux",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=iOYoRVi23eQ",
+        "youtubeId": "iOYoRVi23eQ",
+        "videoLengthInSeconds": 103
+      }
+    },
+    "analytics": {
+      "contentId": "afc0183d-4c47-4ff8-a860-e16f22104eeb.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "igBJ4wrOOF6v9DEo8oIOKb",
+      "publishDate": "2026-09-03T15:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Rayonnez de beauté grâce à la magie. Lux arrivera dans 2XKO le 8 septembre."
+    },
+    "publishedAt": "2026-09-03T15:00:00.000Z",
+    "product": {
+      "title": "2XKO (fr-fr)",
+      "machineName": "2xko",
+      "id": "product.project_l.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/d82a3dc907d6f5f914eaf4019fc510df95492588-24x24.svg?accountingTag=2XKO",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#cdf564",
+          "secondary": "#F1F9DC",
+          "label": "#29340D"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/967a155d59a0615ee5f615ceb7b372753655e157-1920x1080.jpg?accountingTag=2XKO",
       "dimensions": {
         "width": 1920,
@@ -122,7 +203,7 @@
     "analytics": {
       "contentId": "faf0646a-a357-48e0-b686-65c6f4829c5b.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "ZfrnkoFPwLWc3MbImDe7Ce",
+      "rev": "igBJ4wrOOF6v9DEo8oIOKb",
       "publishDate": "2026-08-20T19:00:00.000Z",
       "placementSourcing": "listed"
     },
