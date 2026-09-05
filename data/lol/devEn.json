@@ -169,6 +169,96 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8290591d703920534342f613893a70fecff80f42-3840x2160.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#17100B",
+        "secondary": "#FFFAD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8290591d703920534342f613893a70fecff80f42-3840x2160.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#17100B",
+        "secondary": "#FFFAD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Dev Update: Classic, Mayhem & More",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=KV1ArTWlEFU",
+        "youtubeId": "KV1ArTWlEFU",
+        "videoLengthInSeconds": 432
+      }
+    },
+    "analytics": {
+      "contentId": "d614149d-f16c-4c85-b250-3bb7b4d960cd.en-us",
+      "contentLocale": "en-us",
+      "rev": "OaUfzy2DT15srQJotd5XcK",
+      "publishDate": "2026-07-14T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Pabro, Meddler, FeralPony, and Phreak talk about Classic, Mayhem, Hall of Legends, and more."
+    },
+    "publishedAt": "2026-07-14T15:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      },
+      {
+        "machineName": "classic",
+        "title": "Classic"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6d25b3c5dc494a30f6ef9cdfcf3b515bcc9bce83-7000x4124.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 7000,
@@ -347,96 +437,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8290591d703920534342f613893a70fecff80f42-3840x2160.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 3840,
-        "height": 2160,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#17100B",
-        "secondary": "#FFFAD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8290591d703920534342f613893a70fecff80f42-3840x2160.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 3840,
-        "height": 2160,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#17100B",
-        "secondary": "#FFFAD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Dev Update: Classic, Mayhem & More",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=KV1ArTWlEFU",
-        "youtubeId": "KV1ArTWlEFU",
-        "videoLengthInSeconds": 432
-      }
-    },
-    "analytics": {
-      "contentId": "d614149d-f16c-4c85-b250-3bb7b4d960cd.en-us",
-      "contentLocale": "en-us",
-      "rev": "OaUfzy2DT15srQJotd5XcK",
-      "publishDate": "2026-07-14T15:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "Pabro, Meddler, FeralPony, and Phreak talk about Classic, Mayhem, Hall of Legends, and more."
-    },
-    "publishedAt": "2026-07-14T15:00:00.000Z",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "dev",
-        "title": "/dev"
-      },
-      {
-        "machineName": "classic",
-        "title": "Classic"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a2d73fbbae68fb2e55b476dd2be9e3cbe2c9bd7d-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -554,6 +554,85 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#222211",
+        "secondary": "#FFD6FA",
+        "label": "#070707"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#222211",
+        "secondary": "#FFD6FA",
+        "label": "#070707"
+      },
+      "mimeType": "image/png"
+    },
+    "title": "TL;DW: Mayhem, Ranked 5s & More Dev Update",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/tldw-mayhem-ranked-5s-more-dev-update"
+      }
+    },
+    "analytics": {
+      "contentId": "2f9622c8-c2a9-45dc-a7df-e8fe48ee52b7.en-us",
+      "contentLocale": "en-us",
+      "rev": "OaUfzy2DT15srQJotd0fZ6",
+      "publishDate": "2026-05-27T20:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "A short rundown of changes from today’s Dev Update."
+    },
+    "publishedAt": "2026-05-27T20:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76d840770029a2145ec9b702060cc1f3ef24b5b8-1280x720.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1280,
@@ -641,164 +720,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/38c3240034d266bc9dc85a1497ebab7e4b9682c2-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#11080C",
-        "secondary": "#FFF2D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/38c3240034d266bc9dc85a1497ebab7e4b9682c2-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#11080C",
-        "secondary": "#FFF2D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "/dev: The Return of Ranked 5s",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-the-return-of-ranked-5s"
-      }
-    },
-    "analytics": {
-      "contentId": "1480c10a-768f-4913-b24b-5c0744a1839e.en-us",
-      "contentLocale": "en-us",
-      "rev": "CwTeWlL4J3e1jBCzpiuY9w",
-      "publishDate": "2026-05-27T20:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "We’re experimenting with a new Ranked queue."
-    },
-    "publishedAt": "2026-05-27T20:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#222211",
-        "secondary": "#FFD6FA",
-        "label": "#070707"
-      },
-      "mimeType": "image/png"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#222211",
-        "secondary": "#FFD6FA",
-        "label": "#070707"
-      },
-      "mimeType": "image/png"
-    },
-    "title": "TL;DW: Mayhem, Ranked 5s & More Dev Update",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/tldw-mayhem-ranked-5s-more-dev-update"
-      }
-    },
-    "analytics": {
-      "contentId": "2f9622c8-c2a9-45dc-a7df-e8fe48ee52b7.en-us",
-      "contentLocale": "en-us",
-      "rev": "OaUfzy2DT15srQJotd0fZ6",
-      "publishDate": "2026-05-27T20:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "A short rundown of changes from today’s Dev Update."
-    },
-    "publishedAt": "2026-05-27T20:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a1f4109a2de1ca2f40486976348602594bb4fbc2-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -849,6 +770,85 @@
     "description": {
       "type": "html",
       "body": "More Mayhem ensues starting in 26.12!"
+    },
+    "publishedAt": "2026-05-27T20:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/38c3240034d266bc9dc85a1497ebab7e4b9682c2-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#11080C",
+        "secondary": "#FFF2D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/38c3240034d266bc9dc85a1497ebab7e4b9682c2-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#11080C",
+        "secondary": "#FFF2D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "/dev: The Return of Ranked 5s",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-the-return-of-ranked-5s"
+      }
+    },
+    "analytics": {
+      "contentId": "1480c10a-768f-4913-b24b-5c0744a1839e.en-us",
+      "contentLocale": "en-us",
+      "rev": "CwTeWlL4J3e1jBCzpiuY9w",
+      "publishDate": "2026-05-27T20:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "We’re experimenting with a new Ranked queue."
     },
     "publishedAt": "2026-05-27T20:00:00.000Z",
     "promoCardSize": "medium",
@@ -1139,6 +1139,90 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f919c87b96b0f72de811498af458079c8c488af7-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#371C28",
+        "secondary": "#F9EADC",
+        "label": "#090205"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f919c87b96b0f72de811498af458079c8c488af7-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#371C28",
+        "secondary": "#F9EADC",
+        "label": "#090205"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "/dev: Leveling Up Arena",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-leveling-up-arena"
+      }
+    },
+    "analytics": {
+      "contentId": "52700060-1519-4a66-8e08-6da4f2166097.en-us",
+      "contentLocale": "en-us",
+      "rev": "YcA5WSLAmTmULVpZA440PK",
+      "publishDate": "2026-04-14T17:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "A rundown of all the changes coming to Arena in Season 2."
+    },
+    "publishedAt": "2026-04-14T17:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/700a26e353717c03d458c0facb94c0fafe6fea2b-1280x720.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1280,
@@ -1279,90 +1363,6 @@
     },
     "publishedAt": "2026-04-14T17:00:00.000Z",
     "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "dev",
-        "title": "/dev"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f919c87b96b0f72de811498af458079c8c488af7-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#371C28",
-        "secondary": "#F9EADC",
-        "label": "#090205"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f919c87b96b0f72de811498af458079c8c488af7-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#371C28",
-        "secondary": "#F9EADC",
-        "label": "#090205"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "/dev: Leveling Up Arena",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-leveling-up-arena"
-      }
-    },
-    "analytics": {
-      "contentId": "52700060-1519-4a66-8e08-6da4f2166097.en-us",
-      "contentLocale": "en-us",
-      "rev": "YcA5WSLAmTmULVpZA440PK",
-      "publishDate": "2026-04-14T17:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "A rundown of all the changes coming to Arena in Season 2."
-    },
-    "publishedAt": "2026-04-14T17:00:00.000Z",
     "product": {
       "title": "League of Legends (en-us)",
       "machineName": "league_of_legends",
@@ -3685,84 +3685,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/eccd363b965ba743b6ea575c823ca892cb435414-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1F0F18",
-        "secondary": "#FFE6D6",
-        "label": "#050505"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/eccd363b965ba743b6ea575c823ca892cb435414-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1F0F18",
-        "secondary": "#FFE6D6",
-        "label": "#050505"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "/dev: Banning Bots, Boosters & More in 2025",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-banning-bots-boosters-and-more-in-2025"
-      }
-    },
-    "analytics": {
-      "contentId": "40b6382f-0c7a-4348-8c7f-607e93df3205.en-us",
-      "contentLocale": "en-us",
-      "rev": "WUkItk3MG6LS0iMWdk4SGh",
-      "publishDate": "2025-08-11T15:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "An update on the work we’re doing to improve your games in 2025"
-    },
-    "publishedAt": "2025-08-11T15:00:00.000Z",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2006f45e3b42d68daa80a83bd2f6c69dcc2ac9ba-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -3843,6 +3765,84 @@
         "title": "/dev"
       }
     ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/eccd363b965ba743b6ea575c823ca892cb435414-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#1F0F18",
+        "secondary": "#FFE6D6",
+        "label": "#050505"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/eccd363b965ba743b6ea575c823ca892cb435414-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#1F0F18",
+        "secondary": "#FFE6D6",
+        "label": "#050505"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "/dev: Banning Bots, Boosters & More in 2025",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-banning-bots-boosters-and-more-in-2025"
+      }
+    },
+    "analytics": {
+      "contentId": "40b6382f-0c7a-4348-8c7f-607e93df3205.en-us",
+      "contentLocale": "en-us",
+      "rev": "WUkItk3MG6LS0iMWdk4SGh",
+      "publishDate": "2025-08-11T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "An update on the work we’re doing to improve your games in 2025"
+    },
+    "publishedAt": "2025-08-11T15:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
   },
   {
     "media": {
@@ -4111,84 +4111,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/89ccfbf71a56c5bb027dc5c18c08845f57431d82-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1B162D",
-        "secondary": "#E9DCF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/89ccfbf71a56c5bb027dc5c18c08845f57431d82-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1B162D",
-        "secondary": "#E9DCF9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "/dev: All Random, All Mid, Blind Bridge",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-all-random-all-mid-blind-bridge"
-      }
-    },
-    "analytics": {
-      "contentId": "258d25f9-4e38-4f2a-a7a5-fb494fa82bd0.en-us",
-      "contentLocale": "en-us",
-      "rev": "YcA5WSLAmTmULVpZA42pY3",
-      "publishDate": "2025-06-09T15:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "A quick rundown of the 2 maps and Champ Select updates coming to ARAM in patch 25.13."
-    },
-    "publishedAt": "2025-06-09T15:00:00.000Z",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6ef0d5575a75a0cfbfc2e0646102ecbc9fa8a0cd-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -4239,6 +4161,84 @@
     "description": {
       "type": "html",
       "body": "A short rundown of changes from today’s Dev Update."
+    },
+    "publishedAt": "2025-06-09T15:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/89ccfbf71a56c5bb027dc5c18c08845f57431d82-1280x720.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#1B162D",
+        "secondary": "#E9DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/89ccfbf71a56c5bb027dc5c18c08845f57431d82-1280x720.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#1B162D",
+        "secondary": "#E9DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "/dev: All Random, All Mid, Blind Bridge",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-all-random-all-mid-blind-bridge"
+      }
+    },
+    "analytics": {
+      "contentId": "258d25f9-4e38-4f2a-a7a5-fb494fa82bd0.en-us",
+      "contentLocale": "en-us",
+      "rev": "YcA5WSLAmTmULVpZA42pY3",
+      "publishDate": "2025-06-09T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "A quick rundown of the 2 maps and Champ Select updates coming to ARAM in patch 25.13."
     },
     "publishedAt": "2025-06-09T15:00:00.000Z",
     "product": {
@@ -4708,90 +4708,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5c2ff6cc05011a93e9c0bfc554c9ea150e8444b1-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#060303",
-        "secondary": "#FFD6DA",
-        "label": "#000000"
-      },
-      "mimeType": "image/png"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5c2ff6cc05011a93e9c0bfc554c9ea150e8444b1-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#060303",
-        "secondary": "#FFD6DA",
-        "label": "#000000"
-      },
-      "mimeType": "image/png"
-    },
-    "title": "/dev: Season 2 Gameplay Changes Preview",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-season-2-gameplay-changes-preview"
-      }
-    },
-    "analytics": {
-      "contentId": "8cce4a87-d172-4313-a215-73665be9d8a7.en-us",
-      "contentLocale": "en-us",
-      "rev": "WUkItk3MG6LS0iMWdk7hJD",
-      "publishDate": "2025-04-15T15:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "Changes to Atakhan, Void objectives, bounties, and more."
-    },
-    "publishedAt": "2025-04-15T15:00:00.000Z",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "dev",
-        "title": "/dev"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d29979d2ef96d022147b7ba71fefa51bb1f7b9a2-1280x720.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1280,
@@ -4874,6 +4790,90 @@
       {
         "machineName": "game_mode",
         "title": "Game Mode"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5c2ff6cc05011a93e9c0bfc554c9ea150e8444b1-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#060303",
+        "secondary": "#FFD6DA",
+        "label": "#000000"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/5c2ff6cc05011a93e9c0bfc554c9ea150e8444b1-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#060303",
+        "secondary": "#FFD6DA",
+        "label": "#000000"
+      },
+      "mimeType": "image/png"
+    },
+    "title": "/dev: Season 2 Gameplay Changes Preview",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-season-2-gameplay-changes-preview"
+      }
+    },
+    "analytics": {
+      "contentId": "8cce4a87-d172-4313-a215-73665be9d8a7.en-us",
+      "contentLocale": "en-us",
+      "rev": "WUkItk3MG6LS0iMWdk7hJD",
+      "publishDate": "2025-04-15T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Changes to Atakhan, Void objectives, bounties, and more."
+    },
+    "publishedAt": "2025-04-15T15:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
       }
     ]
   },
@@ -6078,93 +6078,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/64076972da6217c06fcc576f34e310953e79ca5e-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1F1610",
-        "secondary": "#DCF9EF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/64076972da6217c06fcc576f34e310953e79ca5e-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1F1610",
-        "secondary": "#DCF9EF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Dev Update: Season 1 Reveal, Gameplay Preview & Ranked Resets",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=3zx1PwFXFdQ",
-        "youtubeId": "3zx1PwFXFdQ",
-        "videoLengthInSeconds": 911
-      }
-    },
-    "analytics": {
-      "contentId": "9e8104a5-045f-4505-915b-99a9347ff913.en-us",
-      "contentLocale": "en-us",
-      "rev": "YcA5WSLAmTmULVpZA46O6I",
-      "publishDate": "2024-11-25T16:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "Pabro, Meddler, and other devs share the Season One theme, gameplay changes for 2025, Ranked resets, and more."
-    },
-    "publishedAt": "2024-11-25T16:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "dev",
-        "title": "/dev"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/e19e610a76043bfff488716050d4a5533d20bfbe-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -6218,91 +6131,6 @@
     },
     "publishedAt": "2024-11-25T16:00:00.000Z",
     "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "dev",
-        "title": "/dev"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a2ccb3130ff8eb7c8da54be68099275bc3ae958d-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1D120E",
-        "secondary": "#F9EFDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a2ccb3130ff8eb7c8da54be68099275bc3ae958d-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1D120E",
-        "secondary": "#F9EFDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "/dev: 2025 Season One Gameplay Preview",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/dev-2025-season-one-gameplay-preview"
-      }
-    },
-    "analytics": {
-      "contentId": "a6e68f20-992b-4452-8863-288c7107e4d7.en-us",
-      "contentLocale": "en-us",
-      "rev": "i703pIZMmns4nYupSrRs99",
-      "publishDate": "2024-11-25T16:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "The biggest changes coming in 2025 Season One."
-    },
-    "publishedAt": "2024-11-25T16:00:00.000Z",
-    "promoCardSize": "small",
     "product": {
       "title": "League of Legends (en-us)",
       "machineName": "league_of_legends",
@@ -6420,46 +6248,48 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bf7239f10ecfba9b38a274d73a394bd1e10b026d-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/64076972da6217c06fcc576f34e310953e79ca5e-1280x720.jpg?accountingTag=LoL",
       "dimensions": {
-        "width": 1920,
-        "height": 1080,
+        "width": 1280,
+        "height": 720,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#33321A",
-        "secondary": "#F6F9DC",
-        "label": "#040401"
+        "primary": "#1F1610",
+        "secondary": "#DCF9EF",
+        "label": "#000000"
       },
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bf7239f10ecfba9b38a274d73a394bd1e10b026d-1920x1080.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/64076972da6217c06fcc576f34e310953e79ca5e-1280x720.jpg?accountingTag=LoL",
       "dimensions": {
-        "width": 1920,
-        "height": 1080,
+        "width": 1280,
+        "height": 720,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#33321A",
-        "secondary": "#F6F9DC",
-        "label": "#040401"
+        "primary": "#1F1610",
+        "secondary": "#DCF9EF",
+        "label": "#000000"
       },
       "mimeType": "image/jpeg"
     },
-    "title": "/dev: Introducing Swiftplay",
+    "title": "Dev Update: Season 1 Reveal, Gameplay Preview & Ranked Resets",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "url": "/en-us/news/dev/dev-introducing-swiftplay"
+        "url": "https://www.youtube.com/watch?v=3zx1PwFXFdQ",
+        "youtubeId": "3zx1PwFXFdQ",
+        "videoLengthInSeconds": 911
       }
     },
     "analytics": {
-      "contentId": "2a20d935-2821-4090-ad4a-4cb4478c00f0.en-us",
+      "contentId": "9e8104a5-045f-4505-915b-99a9347ff913.en-us",
       "contentLocale": "en-us",
-      "rev": "WUkItk3MG6LS0iMWdk42if",
+      "rev": "YcA5WSLAmTmULVpZA46O6I",
       "publishDate": "2024-11-25T16:00:00.000Z"
     },
     "category": {
@@ -6469,7 +6299,7 @@
     },
     "description": {
       "type": "html",
-      "body": "The newest queue coming to League."
+      "body": "Pabro, Meddler, and other devs share the Season One theme, gameplay changes for 2025, Ranked resets, and more."
     },
     "publishedAt": "2024-11-25T16:00:00.000Z",
     "promoCardSize": "small",
@@ -6587,6 +6417,176 @@
       {
         "machineName": "ranked",
         "title": "Ranked"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a2ccb3130ff8eb7c8da54be68099275bc3ae958d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#1D120E",
+        "secondary": "#F9EFDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a2ccb3130ff8eb7c8da54be68099275bc3ae958d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#1D120E",
+        "secondary": "#F9EFDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "/dev: 2025 Season One Gameplay Preview",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-2025-season-one-gameplay-preview"
+      }
+    },
+    "analytics": {
+      "contentId": "a6e68f20-992b-4452-8863-288c7107e4d7.en-us",
+      "contentLocale": "en-us",
+      "rev": "i703pIZMmns4nYupSrRs99",
+      "publishDate": "2024-11-25T16:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "The biggest changes coming in 2025 Season One."
+    },
+    "publishedAt": "2024-11-25T16:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bf7239f10ecfba9b38a274d73a394bd1e10b026d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#33321A",
+        "secondary": "#F6F9DC",
+        "label": "#040401"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/bf7239f10ecfba9b38a274d73a394bd1e10b026d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#33321A",
+        "secondary": "#F6F9DC",
+        "label": "#040401"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "/dev: Introducing Swiftplay",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-introducing-swiftplay"
+      }
+    },
+    "analytics": {
+      "contentId": "2a20d935-2821-4090-ad4a-4cb4478c00f0.en-us",
+      "contentLocale": "en-us",
+      "rev": "WUkItk3MG6LS0iMWdk42if",
+      "publishDate": "2024-11-25T16:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "The newest queue coming to League."
+    },
+    "publishedAt": "2024-11-25T16:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
       }
     ]
   },
