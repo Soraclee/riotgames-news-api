@@ -3,6 +3,117 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c66043d2669cc11fee4d870f414731bea4388c71-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B87D69",
+        "secondary": "#2C2933",
+        "label": "#432C24"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c66043d2669cc11fee4d870f414731bea4388c71-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B87D69",
+        "secondary": "#2C2933",
+        "label": "#432C24"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "thumbnail": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c66043d2669cc11fee4d870f414731bea4388c71-3840x2160.jpg?accountingTag=VAL",
+        "dimensions": {
+          "width": 3840,
+          "height": 2160,
+          "aspectRatio": 1.7777777777777777
+        },
+        "colors": {
+          "primary": "#B87D69",
+          "secondary": "#2C2933",
+          "label": "#432C24"
+        },
+        "mimeType": "image/jpeg"
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/7a60cead7f31e090ec3f0e3369db30f86682e6f7.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "GAUNTLET: GLITCHED // Game Mode Reveal Trailer - VALORANT",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=V_uHGQUvLPw",
+        "youtubeId": "V_uHGQUvLPw",
+        "videoLengthInSeconds": 103
+      }
+    },
+    "analytics": {
+      "contentId": "9b17af73-663b-4179-8a71-171b6ec455c6.en-us",
+      "contentLocale": "en-us",
+      "rev": "aFJi9TvdYz311AbtEqK6IS",
+      "publishDate": "2026-09-14T14:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "16 players, 8 teams, pure chaos. Check out our newest game mode."
+    },
+    "publishedAt": "2026-09-14T14:00:00.000Z",
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/610c12b411c40e6af76eec5d50646a56baf5dc26-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -16971,105 +17082,5 @@
         "mimeType": "image/svg+xml"
       }
     }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ea513bb441206bebe2ff9db1f9c4e06b04293f99-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8A8B8",
-        "secondary": "#292C33",
-        "label": "#7A427A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ea513bb441206bebe2ff9db1f9c4e06b04293f99-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8A8B8",
-        "secondary": "#292C33",
-        "label": "#7A427A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "VALORANT Patch Notes 5.03",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/valorant-patch-notes-5-03/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt146a736564e7dd0e.en-us",
-      "contentLocale": "en-us",
-      "rev": "x6e5cvzkf14I5RCNbLitJ3",
-      "publishDate": "2022-08-09T13:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "You want to play? Let’s play with Chamber’s balance."
-    },
-    "publishedAt": "2022-08-09T13:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "patch_notes",
-        "title": "Patch Notes"
-      },
-      {
-        "machineName": "chamber",
-        "title": "Chamber",
-        "description": ""
-      },
-      {
-        "machineName": "jett",
-        "title": "Jett",
-        "description": ""
-      },
-      {
-        "machineName": "neon",
-        "title": "Neon",
-        "description": ""
-      }
-    ]
   }
 ]

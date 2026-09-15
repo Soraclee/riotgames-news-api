@@ -3,6 +3,199 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c66043d2669cc11fee4d870f414731bea4388c71-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B87D69",
+        "secondary": "#2C2933",
+        "label": "#432C24"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c66043d2669cc11fee4d870f414731bea4388c71-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B87D69",
+        "secondary": "#2C2933",
+        "label": "#432C24"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "thumbnail": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c66043d2669cc11fee4d870f414731bea4388c71-3840x2160.jpg?accountingTag=VAL",
+        "dimensions": {
+          "width": 3840,
+          "height": 2160,
+          "aspectRatio": 1.7777777777777777
+        },
+        "colors": {
+          "primary": "#B87D69",
+          "secondary": "#2C2933",
+          "label": "#432C24"
+        },
+        "mimeType": "image/jpeg"
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/7a60cead7f31e090ec3f0e3369db30f86682e6f7.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "GAUNTLET: GLITCHED // Game Mode Reveal Trailer - VALORANT",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=V_uHGQUvLPw",
+        "youtubeId": "V_uHGQUvLPw",
+        "videoLengthInSeconds": 103
+      }
+    },
+    "analytics": {
+      "contentId": "9b17af73-663b-4179-8a71-171b6ec455c6.en-us",
+      "contentLocale": "en-us",
+      "rev": "aFJi9TvdYz311AbtEqK6IS",
+      "publishDate": "2026-09-14T14:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "16 players, 8 teams, pure chaos. Check out our newest game mode."
+    },
+    "publishedAt": "2026-09-14T14:00:00.000Z",
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cbed2492bdf6a0f3e3f1f573133395d98449ac5b-1920x1081.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1081,
+        "aspectRatio": 1.7761332099907492
+      },
+      "colors": {
+        "primary": "#312B57",
+        "secondary": "#EADCF9",
+        "label": "#100C2F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cbed2492bdf6a0f3e3f1f573133395d98449ac5b-1920x1081.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1081,
+        "aspectRatio": 1.7761332099907492
+      },
+      "colors": {
+        "primary": "#312B57",
+        "secondary": "#EADCF9",
+        "label": "#100C2F"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "One BIG Dev Update",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=EDOshYsSzT8",
+        "youtubeId": "EDOshYsSzT8",
+        "videoLengthInSeconds": 310
+      }
+    },
+    "analytics": {
+      "contentId": "2a4240b5-4cc9-4d3b-9269-292e7fcff08d.en-us",
+      "contentLocale": "en-us",
+      "rev": "aFJi9TvdYz311AbtEqK6IS",
+      "publishDate": "2026-09-14T13:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of VALORANT."
+    },
+    "description": {
+      "type": "html",
+      "body": "Insane new mode, new rifle, new systems. Get a look at VALORANT’s biggest update of 2026 with the help of some glitched out devs."
+    },
+    "publishedAt": "2026-09-14T13:00:00.000Z",
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b51fe298be9ef054f2c2fa60a6c125a2db020af0-1920x1080.png?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -4692,86 +4885,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1a3e2a38bf27827a0e562fc0c3278faf3d27fa0a-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1C0E0F",
-        "secondary": "#F9DCDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1a3e2a38bf27827a0e562fc0c3278faf3d27fa0a-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#1C0E0F",
-        "secondary": "#F9DCDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "The New VALORANT Champions Tour",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://valorantesports.com/en-us/news/the-new-valorant-champions-tour"
-      }
-    },
-    "analytics": {
-      "contentId": "e546e286-98df-47a2-b163-b3866ad44604.en-us",
-      "contentLocale": "en-us",
-      "rev": "I6kxhdTbzMjOE4Y1tQo9D7",
-      "publishDate": "2026-04-08T13:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional VALORANT."
-    },
-    "description": {
-      "type": "html",
-      "body": "Today, we’re sharing the first in a series of updates on changes you’ll see in VALORANT Esports in 2027."
-    },
-    "publishedAt": "2026-04-08T13:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e37e8a4ff08661e4c45e406ace4cf2d39c223048-1920x1081.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -4825,6 +4938,86 @@
     "description": {
       "type": "html",
       "body": "Open Qualifiers, Cups, and Masters + Champions. It’s simple, right?"
+    },
+    "publishedAt": "2026-04-08T13:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1a3e2a38bf27827a0e562fc0c3278faf3d27fa0a-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#1C0E0F",
+        "secondary": "#F9DCDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1a3e2a38bf27827a0e562fc0c3278faf3d27fa0a-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#1C0E0F",
+        "secondary": "#F9DCDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "The New VALORANT Champions Tour",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://valorantesports.com/en-us/news/the-new-valorant-champions-tour"
+      }
+    },
+    "analytics": {
+      "contentId": "e546e286-98df-47a2-b163-b3866ad44604.en-us",
+      "contentLocale": "en-us",
+      "rev": "I6kxhdTbzMjOE4Y1tQo9D7",
+      "publishDate": "2026-04-08T13:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional VALORANT."
+    },
+    "description": {
+      "type": "html",
+      "body": "Today, we’re sharing the first in a series of updates on changes you’ll see in VALORANT Esports in 2027."
     },
     "publishedAt": "2026-04-08T13:00:00.000Z",
     "promoCardSize": "small",
@@ -16654,171 +16847,6 @@
       "body": "Check out the details of the new tournament format granting VCT Americas access!"
     },
     "publishedAt": "2025-05-19T17:00:00.000Z",
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/86af74136d5204ab386ee8ace5094de4f77d47d8-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#05070B",
-        "secondary": "#FFECD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/86af74136d5204ab386ee8ace5094de4f77d47d8-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#05070B",
-        "secondary": "#FFECD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "VALORANT Patch Notes 10.09",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/valorant-patch-notes-10-09"
-      }
-    },
-    "analytics": {
-      "contentId": "086e1513-58a2-49ad-9597-28979bb9e0e4.en-us",
-      "contentLocale": "en-us",
-      "rev": "x6e5cvzkf14I5RCNbLitJ3",
-      "publishDate": "2025-05-13T13:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Tejo and Breach changes, Swiftplay updates, and bug fixes."
-    },
-    "publishedAt": "2025-05-13T13:00:00.000Z",
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "patch_notes",
-        "title": "Patch Notes"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2fe63cf7a5846849f2ddfcf1939caf79164998ec-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#472624",
-        "secondary": "#F9E5DC",
-        "label": "#1C0807"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2fe63cf7a5846849f2ddfcf1939caf79164998ec-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#472624",
-        "secondary": "#F9E5DC",
-        "label": "#1C0807"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "VALORANT’s GOATs",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=n7NYMVaatxI",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "6bcd1d06-839c-4088-9811-f747750b2b9c.en-us",
-      "contentLocale": "en-us",
-      "rev": "a4mhqh9AqcuhVS2XlP0NTT",
-      "publishDate": "2025-05-12T14:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional VALORANT."
-    },
-    "description": {
-      "type": "html",
-      "body": "VALORANT pros answer VALORANT’s greatest moments, plays, players, and more!"
-    },
-    "publishedAt": "2025-05-12T14:00:00.000Z",
     "product": {
       "title": "Valorant (en-us)",
       "machineName": "valorant",

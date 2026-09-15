@@ -3,6 +3,117 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c66043d2669cc11fee4d870f414731bea4388c71-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B87D69",
+        "secondary": "#2C2933",
+        "label": "#432C24"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c66043d2669cc11fee4d870f414731bea4388c71-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B87D69",
+        "secondary": "#2C2933",
+        "label": "#432C24"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "thumbnail": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c66043d2669cc11fee4d870f414731bea4388c71-3840x2160.jpg?accountingTag=VAL",
+        "dimensions": {
+          "width": 3840,
+          "height": 2160,
+          "aspectRatio": 1.7777777777777777
+        },
+        "colors": {
+          "primary": "#B87D69",
+          "secondary": "#2C2933",
+          "label": "#432C24"
+        },
+        "mimeType": "image/jpeg"
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/7a60cead7f31e090ec3f0e3369db30f86682e6f7.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "GAUNTLET: GLITCHED // Bande-annonce de mode de jeu - VALORANT",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=Z7SLB4ourvM",
+        "youtubeId": "Z7SLB4ourvM",
+        "videoLengthInSeconds": 103
+      }
+    },
+    "analytics": {
+      "contentId": "9b17af73-663b-4179-8a71-171b6ec455c6.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "VDgfj0OSHQ2M1aizvZcwGm",
+      "publishDate": "2026-09-14T14:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "16 joueurs, 8 équipes, du chaos à l'état pur. Voici notre nouveau mode de jeu."
+    },
+    "publishedAt": "2026-09-14T14:00:00.000Z",
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/610c12b411c40e6af76eec5d50646a56baf5dc26-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -17020,106 +17131,6 @@
       {
         "machineName": "episode_5",
         "title": "Episode 5",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/041e8693f35c192f6968420aeccc170007607e49-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#122225",
-        "secondary": "#DCF9F6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/041e8693f35c192f6968420aeccc170007607e49-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#122225",
-        "secondary": "#DCF9F6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Notes de patch 5.0 de VALORANT",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/valorant-patch-notes-5-0/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt35e7e56bf2e8cf1d.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "x6e5cvzkf14I5RCNbLitJ3",
-      "publishDate": "2022-06-16T18:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Nouvelle carte, nouveau rang, nouvel épisode."
-    },
-    "publishedAt": "2022-06-16T18:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "patch_notes",
-        "title": "Notes de patch"
-      },
-      {
-        "machineName": "pearl",
-        "title": "Pearl",
-        "description": ""
-      },
-      {
-        "machineName": "split",
-        "title": "Split",
-        "description": ""
-      },
-      {
-        "machineName": "ascent",
-        "title": "Ascent",
         "description": ""
       }
     ]
