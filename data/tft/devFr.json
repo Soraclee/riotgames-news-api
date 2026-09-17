@@ -3,6 +3,87 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/db99e08b9b518fcb799ea211960857f34aab33c9-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#142819",
+        "secondary": "#DCF9F2",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/db99e08b9b518fcb799ea211960857f34aab33c9-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#142819",
+        "secondary": "#DCF9F2",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "TFT Dev : client complet et nouveaux joueurs",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=3KJhrzROu_s",
+        "youtubeId": "3KJhrzROu_s",
+        "videoLengthInSeconds": 211
+      }
+    },
+    "analytics": {
+      "contentId": "0ab9fcbd-bc37-4b1b-b376-20cf8ef8c7e9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "MVArHDPJBeI4pQD0ypRAZ7",
+      "publishDate": "2026-09-14T23:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "L'équipe TFT parle des cosmétiques, du client et de l'expérience Nouveaux joueurs."
+    },
+    "publishedAt": "2026-09-14T23:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f332e7822582fa9a6298e220659b36be63abdb3a-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
