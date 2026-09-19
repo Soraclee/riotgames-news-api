@@ -3,6 +3,110 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/786791b0293bc5a1f3b1ce46bb38d106f5f25cb5-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#f5fe95",
+        "secondary": "#dddddd",
+        "label": "#2A180B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/786791b0293bc5a1f3b1ce46bb38d106f5f25cb5-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#f5fe95",
+        "secondary": "#dddddd",
+        "label": "#2A180B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/81a61476133d390b4fb130f91c60bb9b743a5fa5.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "HEARTSTEEL - Live My Life",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=gMkuV5hh7-s",
+        "isExternal": true
+      }
+    },
+    "analytics": {
+      "contentId": "085abb8f-284a-4f7f-bfd8-4876441d3626.en-us",
+      "contentLocale": "en-us",
+      "rev": "rp6Tg5qYMoj1K2UNN1SAWh",
+      "publishDate": "2026-09-18T16:00:00.000Z"
+    },
+    "category": {
+      "machineName": "media",
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more."
+    },
+    "description": {
+      "type": "html",
+      "body": "did you miss us?"
+    },
+    "publishedAt": "2026-09-18T16:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "cinematic",
+        "title": "Cinematic"
+      },
+      {
+        "machineName": "music",
+        "title": "Music"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6c85c356abf97bc3d5050506ce4d541c9e6d60b1-1280x720.png?accountingTag=LoL",
       "dimensions": {
         "width": 1280,
@@ -17972,96 +18076,6 @@
       {
         "machineName": "music_theme",
         "title": "Music Theme"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/dae973f8984b8ee5e58ea642f6e7b528ea9a1752-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#3A291D",
-        "secondary": "#F9ECDC",
-        "label": "#0C0703"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/dae973f8984b8ee5e58ea642f6e7b528ea9a1752-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#3A291D",
-        "secondary": "#F9ECDC",
-        "label": "#0C0703"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Made with Love: Gwen Teaser",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=-Dkz19W9Dfw",
-        "youtubeId": "-Dkz19W9Dfw",
-        "videoLengthInSeconds": 0
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt051528fe7dd10254.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOHJ9s",
-      "publishDate": "2021-03-26T15:00:00.000Z"
-    },
-    "category": {
-      "machineName": "media",
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more."
-    },
-    "description": {
-      "type": "html",
-      "body": "Once upon a time, a seamstress made a darling little doll..."
-    },
-    "publishedAt": "2021-03-26T15:00:00.000Z",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "champion_reveal",
-        "title": "Champion Reveal"
-      },
-      {
-        "machineName": "gwen",
-        "title": "Gwen"
       }
     ]
   }

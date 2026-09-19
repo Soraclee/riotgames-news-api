@@ -3,6 +3,110 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/786791b0293bc5a1f3b1ce46bb38d106f5f25cb5-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#f5fe95",
+        "secondary": "#dddddd",
+        "label": "#2A180B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/786791b0293bc5a1f3b1ce46bb38d106f5f25cb5-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#f5fe95",
+        "secondary": "#dddddd",
+        "label": "#2A180B"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/81a61476133d390b4fb130f91c60bb9b743a5fa5.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "HEARTSTEEL - Live My Life",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=gMkuV5hh7-s",
+        "isExternal": true
+      }
+    },
+    "analytics": {
+      "contentId": "085abb8f-284a-4f7f-bfd8-4876441d3626.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "2WZBAmUaj24yIct3icBrPz",
+      "publishDate": "2026-09-18T16:00:00.000Z"
+    },
+    "category": {
+      "machineName": "media",
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore."
+    },
+    "description": {
+      "type": "html",
+      "body": "on vous a manqué ?"
+    },
+    "publishedAt": "2026-09-18T16:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "cinematic",
+        "title": "Cinématique"
+      },
+      {
+        "machineName": "music",
+        "title": "Musique"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6c85c356abf97bc3d5050506ce4d541c9e6d60b1-1280x720.png?accountingTag=LoL",
       "dimensions": {
         "width": 1280,
@@ -17639,86 +17743,5 @@
         "title": "Musique"
       }
     ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/068855d68c1ffdc77a1c68791868b3ad7656286b-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#0F1E1A",
-        "secondary": "#D6FFE0",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/068855d68c1ffdc77a1c68791868b3ad7656286b-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#0F1E1A",
-        "secondary": "#D6FFE0",
-        "label": "#040404"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Vayne en carry | Conseils tactiques - Teamfight Tactics",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=sEaCoOzST9Y",
-        "youtubeId": "sEaCoOzST9Y",
-        "videoLengthInSeconds": 0
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt4b8f2788a88fdd2b.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOR0FS",
-      "publishDate": "2021-07-19T12:47:16.000Z"
-    },
-    "category": {
-      "machineName": "media",
-      "title": "Médias",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore."
-    },
-    "description": {
-      "type": "html",
-      "body": "Cette composition à la fois puissante et peu connue créera la surprise. À vous les victoires !"
-    },
-    "publishedAt": "2021-07-19T12:47:16.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
   }
 ]
