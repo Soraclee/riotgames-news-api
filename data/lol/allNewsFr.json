@@ -3,6 +3,200 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f0af4b4a21dfd7efa142ae3e51290b5c3863ad2b-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2C274E",
+        "secondary": "#E3DCF9",
+        "label": "#0D0924"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f0af4b4a21dfd7efa142ae3e51290b5c3863ad2b-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2C274E",
+        "secondary": "#E3DCF9",
+        "label": "#0D0924"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Red Bull League of Its Own 2026 arrive en Espagne",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://www.redbull.com/int-en/events/red-bull-league-of-its-own",
+        "isExternal": true
+      }
+    },
+    "analytics": {
+      "contentId": "86f14403-5f6a-4eb0-b680-13b89dcd1896.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "5La2zaSlGxTAdPKmf8URNc",
+      "publishDate": "2026-09-22T16:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "L’Europe peut-elle battre T1 ? T1, G2 Esports, Karmine Corp et Movistar KOI s’affrontent à Barcelone le 5 décembre pour une journée de League of Legends.\nEn savoir plus et acheter des billets : Red Bull League of Its Own"
+    },
+    "publishedAt": "2026-09-22T16:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2360f2b51374083fba4ebde8924d4854f60189ff-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#322819",
+        "secondary": "#F9E6DC",
+        "label": "#030201"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2360f2b51374083fba4ebde8924d4854f60189ff-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#322819",
+        "secondary": "#F9E6DC",
+        "label": "#030201"
+      },
+      "mimeType": "image/png"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "thumbnail": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2360f2b51374083fba4ebde8924d4854f60189ff-1920x1080.png?accountingTag=LoL",
+        "dimensions": {
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.7777777777777777
+        },
+        "colors": {
+          "primary": "#322819",
+          "secondary": "#F9E6DC",
+          "label": "#030201"
+        },
+        "mimeType": "image/png"
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/a7a6a0a55a187fa72b2f7b1359c7a29b5610e56a.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "HEARTSTEEL Live My Life",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=hKH5TZo74Hg",
+        "youtubeId": "hKH5TZo74Hg",
+        "videoLengthInSeconds": 84
+      }
+    },
+    "analytics": {
+      "contentId": "8e759769-58bb-4cdf-b7e4-ca972a5bc603.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "c9aphJ7gu0gtGlUFM8M390",
+      "publishDate": "2026-09-22T15:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "announcements",
+      "title": "Annonces",
+      "description": "Les dernières actualités de l'équipe du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Rien de mieux que traîner avec ses potes. Découvrez HEARTSTEEL Live My Life dans le patch 26.20"
+    },
+    "publishedAt": "2026-09-22T15:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/786791b0293bc5a1f3b1ce46bb38d106f5f25cb5-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -1104,87 +1298,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2d780fd1120ad3962a70cbf5f01894a6af2fe87d-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2F305F",
-        "secondary": "#E7DCF9",
-        "label": "#0E0F39"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2d780fd1120ad3962a70cbf5f01894a6af2fe87d-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2F305F",
-        "secondary": "#E7DCF9",
-        "label": "#0E0F39"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Hall of Legends 2026 - Caps | Panthéon de League of Legends",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://halloflegends.leagueoflegends.com/fr-fr/",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "0ab4f9fc-716d-4a6d-a590-1b093a1ec419.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "OaUfzy2DT15srQJotjnSZk",
-      "publishDate": "2026-08-24T15:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "E-sport",
-      "description": "La scène professionnelle de League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "Bienvenue dans le Panthéon de League of Legends. Participez à l'événement LoL Hall of Legends 2026 du 10 septembre (20 h CEST) au 21 octobre (8 h 59 CEST)."
-    },
-    "publishedAt": "2026-08-24T15:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/079d9872816ff168ba5d49439ba5b830d14bdde0-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -1254,6 +1367,87 @@
       "body": "Véritable symbole d'espoir, Caps entre dans le Hall of Legends."
     },
     "publishedAt": "2026-08-24T15:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2d780fd1120ad3962a70cbf5f01894a6af2fe87d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2F305F",
+        "secondary": "#E7DCF9",
+        "label": "#0E0F39"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2d780fd1120ad3962a70cbf5f01894a6af2fe87d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2F305F",
+        "secondary": "#E7DCF9",
+        "label": "#0E0F39"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Hall of Legends 2026 - Caps | Panthéon de League of Legends",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://halloflegends.leagueoflegends.com/fr-fr/",
+        "isExternal": true
+      }
+    },
+    "analytics": {
+      "contentId": "0ab4f9fc-716d-4a6d-a590-1b093a1ec419.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "OaUfzy2DT15srQJotjnSZk",
+      "publishDate": "2026-08-24T15:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "E-sport",
+      "description": "La scène professionnelle de League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Bienvenue dans le Panthéon de League of Legends. Participez à l'événement LoL Hall of Legends 2026 du 10 septembre (20 h CEST) au 21 octobre (8 h 59 CEST)."
+    },
+    "publishedAt": "2026-08-24T15:00:00.000Z",
+    "promoCardSize": "small",
     "product": {
       "title": "League of Legends (fr-fr)",
       "machineName": "league_of_legends",
@@ -2289,86 +2483,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e1d04cab2a2b81e540057a989b88afe275ca434c-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8A997",
-        "secondary": "#292A33",
-        "label": "#594730"
-      },
-      "mimeType": "image/png"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e1d04cab2a2b81e540057a989b88afe275ca434c-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8A997",
-        "secondary": "#292A33",
-        "label": "#594730"
-      },
-      "mimeType": "image/png"
-    },
-    "title": "T-shirt Album League Classic",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://merch.riotgames.com/collection/league-classic/?utm_source=riot&utm_medium=client&utm_campaign=leagueclassic",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "article.a0e45f01-9bca-44cc-81cc-29aeffc71cc9.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "t4m8O0YA8j87gL6teQu9ux",
-      "publishDate": "2026-07-29T18:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "merch",
-      "title": "Produits dérivés",
-      "description": "Découvrez les produits dérivés officiels et parcourez les dernières collections de la boutique."
-    },
-    "description": {
-      "type": "html",
-      "body": "Rafraîchissez vos pages de runes avec le t-shirt Album League of Legends Classic !"
-    },
-    "publishedAt": "2026-07-29T18:00:00.000Z",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/acc631fc7524b818ddc97dbdac18e01d4de730d4-1920x1080.png?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -2421,6 +2535,86 @@
     "description": {
       "type": "html",
       "body": "Retrouvez la Faille de l'invocateur d'avant avec ce pull à capuche League of Legends Classic !"
+    },
+    "publishedAt": "2026-07-29T18:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e1d04cab2a2b81e540057a989b88afe275ca434c-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B8A997",
+        "secondary": "#292A33",
+        "label": "#594730"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e1d04cab2a2b81e540057a989b88afe275ca434c-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B8A997",
+        "secondary": "#292A33",
+        "label": "#594730"
+      },
+      "mimeType": "image/png"
+    },
+    "title": "T-shirt Album League Classic",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://merch.riotgames.com/collection/league-classic/?utm_source=riot&utm_medium=client&utm_campaign=leagueclassic",
+        "isExternal": true
+      }
+    },
+    "analytics": {
+      "contentId": "article.a0e45f01-9bca-44cc-81cc-29aeffc71cc9.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "t4m8O0YA8j87gL6teQu9ux",
+      "publishDate": "2026-07-29T18:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "merch",
+      "title": "Produits dérivés",
+      "description": "Découvrez les produits dérivés officiels et parcourez les dernières collections de la boutique."
+    },
+    "description": {
+      "type": "html",
+      "body": "Rafraîchissez vos pages de runes avec le t-shirt Album League of Legends Classic !"
     },
     "publishedAt": "2026-07-29T18:00:00.000Z",
     "product": {
@@ -3139,6 +3333,97 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8290591d703920534342f613893a70fecff80f42-3840x2160.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#17100B",
+        "secondary": "#FFFAD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8290591d703920534342f613893a70fecff80f42-3840x2160.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#17100B",
+        "secondary": "#FFFAD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Dev Update : Classic, ARAM du chaos et plus",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=VZa17KHhY8E",
+        "youtubeId": "VZa17KHhY8E",
+        "videoLengthInSeconds": 432
+      }
+    },
+    "analytics": {
+      "contentId": "d614149d-f16c-4c85-b250-3bb7b4d960cd.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "OaUfzy2DT15srQJotd5XcK",
+      "publishDate": "2026-07-14T15:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Pabro, Meddler, FeralPony et Phreak parlent de Classic, ARAM du chaos, Hall of Legends, et plus."
+    },
+    "publishedAt": "2026-07-14T15:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      },
+      {
+        "machineName": "classic",
+        "title": "Classic"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6d25b3c5dc494a30f6ef9cdfcf3b515bcc9bce83-7000x4124.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 7000,
@@ -3283,97 +3568,6 @@
     },
     "publishedAt": "2026-07-14T15:00:00.000Z",
     "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "dev",
-        "title": "/dev"
-      },
-      {
-        "machineName": "classic",
-        "title": "Classic"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8290591d703920534342f613893a70fecff80f42-3840x2160.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 3840,
-        "height": 2160,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#17100B",
-        "secondary": "#FFFAD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8290591d703920534342f613893a70fecff80f42-3840x2160.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 3840,
-        "height": 2160,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#17100B",
-        "secondary": "#FFFAD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Dev Update : Classic, ARAM du chaos et plus",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=VZa17KHhY8E",
-        "youtubeId": "VZa17KHhY8E",
-        "videoLengthInSeconds": 432
-      }
-    },
-    "analytics": {
-      "contentId": "d614149d-f16c-4c85-b250-3bb7b4d960cd.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "OaUfzy2DT15srQJotd5XcK",
-      "publishDate": "2026-07-14T15:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "Pabro, Meddler, FeralPony et Phreak parlent de Classic, ARAM du chaos, Hall of Legends, et plus."
-    },
-    "publishedAt": "2026-07-14T15:00:00.000Z",
     "product": {
       "title": "League of Legends (fr-fr)",
       "machineName": "league_of_legends",
@@ -5726,6 +5920,86 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#222211",
+        "secondary": "#FFD6FA",
+        "label": "#070707"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#222211",
+        "secondary": "#FFD6FA",
+        "label": "#070707"
+      },
+      "mimeType": "image/png"
+    },
+    "title": "Résumé Dev Update",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/tldw-mayhem-ranked-5s-more-dev-update"
+      }
+    },
+    "analytics": {
+      "contentId": "2f9622c8-c2a9-45dc-a7df-e8fe48ee52b7.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "OaUfzy2DT15srQJotd0fZ6",
+      "publishDate": "2026-05-27T20:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
+    },
+    "publishedAt": "2026-05-27T20:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76d840770029a2145ec9b702060cc1f3ef24b5b8-1280x720.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1280,
@@ -5814,166 +6088,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/38c3240034d266bc9dc85a1497ebab7e4b9682c2-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#11080C",
-        "secondary": "#FFF2D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/38c3240034d266bc9dc85a1497ebab7e4b9682c2-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#11080C",
-        "secondary": "#FFF2D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "/dev : Le retour du mode Classé 5c5",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/dev-the-return-of-ranked-5s"
-      }
-    },
-    "analytics": {
-      "contentId": "1480c10a-768f-4913-b24b-5c0744a1839e.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "CwTeWlL4J3e1jBCzpiuY9w",
-      "publishDate": "2026-05-27T20:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "Nous essayons une nouvelle file classée."
-    },
-    "publishedAt": "2026-05-27T20:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#222211",
-        "secondary": "#FFD6FA",
-        "label": "#070707"
-      },
-      "mimeType": "image/png"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#222211",
-        "secondary": "#FFD6FA",
-        "label": "#070707"
-      },
-      "mimeType": "image/png"
-    },
-    "title": "Résumé Dev Update",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/dev/tldw-mayhem-ranked-5s-more-dev-update"
-      }
-    },
-    "analytics": {
-      "contentId": "2f9622c8-c2a9-45dc-a7df-e8fe48ee52b7.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "OaUfzy2DT15srQJotd0fZ6",
-      "publishDate": "2026-05-27T20:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "Un petit résumé des changements discutés dans le Dev Update du jour."
-    },
-    "publishedAt": "2026-05-27T20:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a1f4109a2de1ca2f40486976348602594bb4fbc2-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -6025,6 +6139,86 @@
     "description": {
       "type": "html",
       "body": "Encore plus de chaos vous attend à partir de la 26.12 !"
+    },
+    "publishedAt": "2026-05-27T20:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/38c3240034d266bc9dc85a1497ebab7e4b9682c2-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#11080C",
+        "secondary": "#FFF2D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/38c3240034d266bc9dc85a1497ebab7e4b9682c2-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#11080C",
+        "secondary": "#FFF2D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "/dev : Le retour du mode Classé 5c5",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/dev-the-return-of-ranked-5s"
+      }
+    },
+    "analytics": {
+      "contentId": "1480c10a-768f-4913-b24b-5c0744a1839e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "CwTeWlL4J3e1jBCzpiuY9w",
+      "publishDate": "2026-05-27T20:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Nous essayons une nouvelle file classée."
     },
     "publishedAt": "2026-05-27T20:00:00.000Z",
     "promoCardSize": "medium",
@@ -7065,91 +7259,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#9F91B8",
-        "secondary": "#292B33",
-        "label": "#342749"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#9F91B8",
-        "secondary": "#292B33",
-        "label": "#342749"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Notes de patch 26.8 de League of Legends",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/league-of-legends-patch-26-8-notes"
-      }
-    },
-    "analytics": {
-      "contentId": "bb975801-0f5d-44b2-87f0-9f96fa0837bf.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "YcA5WSLAmTmULVpZA48kHP",
-      "publishDate": "2026-04-14T18:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "On se met dans l’ambiance avec le patch 26.8 !"
-    },
-    "publishedAt": "2026-04-14T18:00:00.000Z",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "patch_notes",
-        "title": "Notes de patch"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9315d030b2008695555719b5cd494106766da691-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -7413,62 +7522,59 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/700a26e353717c03d458c0facb94c0fafe6fea2b-1280x720.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
-        "width": 1280,
-        "height": 720,
+        "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#140E0A",
-        "secondary": "#FFE7D6",
-        "label": "#000000"
+        "primary": "#9F91B8",
+        "secondary": "#292B33",
+        "label": "#342749"
       },
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/700a26e353717c03d458c0facb94c0fafe6fea2b-1280x720.jpg?accountingTag=LoL",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0925832fd385df3f5e442886d2450e209ffb8846-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
-        "width": 1280,
-        "height": 720,
+        "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#140E0A",
-        "secondary": "#FFE7D6",
-        "label": "#000000"
+        "primary": "#9F91B8",
+        "secondary": "#292B33",
+        "label": "#342749"
       },
       "mimeType": "image/jpeg"
     },
-    "title": "Dev Update : mises à jour d'Arena & cie",
+    "title": "Notes de patch 26.8 de League of Legends",
     "action": {
-      "type": "youtube_video",
+      "type": "weblink",
       "payload": {
-        "url": "https://www.youtube.com/watch?v=eeYFL7Y0hJ4",
-        "youtubeId": "eeYFL7Y0hJ4",
-        "videoLengthInSeconds": 890
+        "url": "/fr-fr/news/game-updates/league-of-legends-patch-26-8-notes"
       }
     },
     "analytics": {
-      "contentId": "e0c135e1-fe2b-44ac-aa5a-35c31307ba7e.fr-fr",
+      "contentId": "bb975801-0f5d-44b2-87f0-9f96fa0837bf.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "YcA5WSLAmTmULVpZA4AX38",
-      "publishDate": "2026-04-14T17:00:00.000Z",
+      "rev": "YcA5WSLAmTmULVpZA48kHP",
+      "publishDate": "2026-04-14T18:00:00.000Z",
       "placementSourcing": "listed"
     },
     "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "Les coulisses de League of Legends."
+      "machineName": "game-updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
     },
     "description": {
       "type": "html",
-      "body": "Pabro et Meddler parlent de la saison 2 Pandémonium, des changements de gameplay, d'Arena et plus !"
+      "body": "On se met dans l’ambiance avec le patch 26.8 !"
     },
-    "publishedAt": "2026-04-14T17:00:00.000Z",
-    "promoCardSize": "small",
+    "publishedAt": "2026-04-14T18:00:00.000Z",
     "product": {
       "title": "League of Legends (fr-fr)",
       "machineName": "league_of_legends",
@@ -7492,8 +7598,8 @@
     },
     "tags": [
       {
-        "machineName": "dev",
-        "title": "/dev"
+        "machineName": "patch_notes",
+        "title": "Notes de patch"
       }
     ]
   },
@@ -7554,6 +7660,94 @@
       "body": "Un aperçu de tous les changements apportés à Arena lors de la saison 2."
     },
     "publishedAt": "2026-04-14T17:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/700a26e353717c03d458c0facb94c0fafe6fea2b-1280x720.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#140E0A",
+        "secondary": "#FFE7D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/700a26e353717c03d458c0facb94c0fafe6fea2b-1280x720.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#140E0A",
+        "secondary": "#FFE7D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Dev Update : mises à jour d'Arena & cie",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=eeYFL7Y0hJ4",
+        "youtubeId": "eeYFL7Y0hJ4",
+        "videoLengthInSeconds": 890
+      }
+    },
+    "analytics": {
+      "contentId": "e0c135e1-fe2b-44ac-aa5a-35c31307ba7e.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "YcA5WSLAmTmULVpZA4AX38",
+      "publishDate": "2026-04-14T17:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "Pabro et Meddler parlent de la saison 2 Pandémonium, des changements de gameplay, d'Arena et plus !"
+    },
+    "publishedAt": "2026-04-14T17:00:00.000Z",
+    "promoCardSize": "small",
     "product": {
       "title": "League of Legends (fr-fr)",
       "machineName": "league_of_legends",
@@ -8098,6 +8292,91 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/13375a6633f09dee4e4397083ca37fc294592203-1920x1133.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1133,
+        "aspectRatio": 1.6946160635481025
+      },
+      "colors": {
+        "primary": "#B8866E",
+        "secondary": "#33292A",
+        "label": "#3E2B21"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/13375a6633f09dee4e4397083ca37fc294592203-1920x1133.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1133,
+        "aspectRatio": 1.6946160635481025
+      },
+      "colors": {
+        "primary": "#B8866E",
+        "secondary": "#33292A",
+        "label": "#3E2B21"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Notes de patch 26.7 de League of Legends",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/league-of-legends-patch-26-7-notes"
+      }
+    },
+    "analytics": {
+      "contentId": "53eca9e5-b038-427a-bf7f-956ace4a2881.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "xCAnvxyRtQHtdJVDMt5FUh",
+      "publishDate": "2026-03-31T18:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Des tonnes de fun et de poulet frit vous attendent !"
+    },
+    "publishedAt": "2026-03-31T18:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Notes de patch"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/476a1f886402e3c55e77a759f0c9466ca6b58b07-3233x1916.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 3233,
@@ -8181,91 +8460,6 @@
       {
         "machineName": "teamfight_tactics_new_content",
         "title": "Nouveau contenu de Teamfight Tactics"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/13375a6633f09dee4e4397083ca37fc294592203-1920x1133.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1133,
-        "aspectRatio": 1.6946160635481025
-      },
-      "colors": {
-        "primary": "#B8866E",
-        "secondary": "#33292A",
-        "label": "#3E2B21"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/13375a6633f09dee4e4397083ca37fc294592203-1920x1133.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1133,
-        "aspectRatio": 1.6946160635481025
-      },
-      "colors": {
-        "primary": "#B8866E",
-        "secondary": "#33292A",
-        "label": "#3E2B21"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Notes de patch 26.7 de League of Legends",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/league-of-legends-patch-26-7-notes"
-      }
-    },
-    "analytics": {
-      "contentId": "53eca9e5-b038-427a-bf7f-956ace4a2881.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "xCAnvxyRtQHtdJVDMt5FUh",
-      "publishDate": "2026-03-31T18:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Des tonnes de fun et de poulet frit vous attendent !"
-    },
-    "publishedAt": "2026-03-31T18:00:00.000Z",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "patch_notes",
-        "title": "Notes de patch"
       }
     ]
   },
@@ -10196,87 +10390,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/30eb7d9aea63c56222310d19ff021ed42a5f5595-5760x3399.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 5760,
-        "height": 3399,
-        "aspectRatio": 1.6946160635481025
-      },
-      "colors": {
-        "primary": "#0B0E16",
-        "secondary": "#FFDAD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/30eb7d9aea63c56222310d19ff021ed42a5f5595-5760x3399.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 5760,
-        "height": 3399,
-        "aspectRatio": 1.6946160635481025
-      },
-      "colors": {
-        "primary": "#0B0E16",
-        "secondary": "#FFDAD6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Notes de patch 16.6 de TFT",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-16-6/",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "b92d561b-f0b1-4fe4-be02-f00e0da643cf.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "YcA5WSLAmTmULVpZA48e1k",
-      "publishDate": "2026-03-03T19:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Les champions à déverrouiller se dérouillent ! La version 16.6 apporte des changements majeurs à l’accès aux Déblocages."
-    },
-    "publishedAt": "2026-03-03T19:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1c6e3c541e7dbfc4759097a24f350b7b2dfb13a3-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -10357,6 +10470,87 @@
         "title": "Notes de patch"
       }
     ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/30eb7d9aea63c56222310d19ff021ed42a5f5595-5760x3399.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 5760,
+        "height": 3399,
+        "aspectRatio": 1.6946160635481025
+      },
+      "colors": {
+        "primary": "#0B0E16",
+        "secondary": "#FFDAD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/30eb7d9aea63c56222310d19ff021ed42a5f5595-5760x3399.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 5760,
+        "height": 3399,
+        "aspectRatio": 1.6946160635481025
+      },
+      "colors": {
+        "primary": "#0B0E16",
+        "secondary": "#FFDAD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Notes de patch 16.6 de TFT",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://teamfighttactics.leagueoflegends.com/fr-fr/news/game-updates/teamfight-tactics-patch-16-6/",
+        "isExternal": true
+      }
+    },
+    "analytics": {
+      "contentId": "b92d561b-f0b1-4fe4-be02-f00e0da643cf.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "YcA5WSLAmTmULVpZA48e1k",
+      "publishDate": "2026-03-03T19:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Les champions à déverrouiller se dérouillent ! La version 16.6 apporte des changements majeurs à l’accès aux Déblocages."
+    },
+    "publishedAt": "2026-03-03T19:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
   },
   {
     "media": {
@@ -16878,172 +17072,5 @@
         "mimeType": "image/svg+xml"
       }
     }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8448a688f63d753739ccb74a6f592ecbf3e41c41-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B84C56",
-        "secondary": "#332E29",
-        "label": "#381E21"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8448a688f63d753739ccb74a6f592ecbf3e41c41-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B84C56",
-        "secondary": "#332E29",
-        "label": "#381E21"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Votez maintenant, choisissez votre association",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://charityvote.riotgames.com/fr-fr/",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "f779dea6-04a9-4cc0-8858-7b915fe9032c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "YcA5WSLAmTmULVpZA4B4cG",
-      "publishDate": "2025-11-13T18:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "announcements",
-      "title": "Annonces",
-      "description": "Les dernières actualités de l'équipe du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Vous vous êtes déjà demandé où vont les dons récoltés par le Riot Games Social Impact Fund ? Sachez que vous pouvez voter pour choisir la cause qui sera soutenue !"
-    },
-    "publishedAt": "2025-11-13T18:00:00.000Z",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c39ecc764988a58f14e6758c6283cdfb8eb260b5-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#180E0C",
-        "secondary": "#FFE4D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c39ecc764988a58f14e6758c6283cdfb8eb260b5-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#180E0C",
-        "secondary": "#FFE4D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Veste Viktor et Jayce d'Arcane",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://merch.riotgames.com/product/arcane-jayce-viktor-anomaly-bomber-jacket/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-arcane-anniversary",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "3e1f56e5-f54b-4d6a-89c3-54337ea24c65.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "i703pIZMmns4nYupSrRUrW",
-      "publishDate": "2025-11-11T22:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "merch",
-      "title": "Produits dérivés",
-      "description": "Découvrez les produits dérivés officiels et parcourez les dernières collections de la boutique."
-    },
-    "description": {
-      "type": "html",
-      "body": "Célébrez l'anniversaire d'Arcane avec la veste Anomalie : Jayce et Viktor, une pièce audacieuse."
-    },
-    "publishedAt": "2025-11-11T22:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "arcane",
-        "title": "Arcane"
-      }
-    ]
   }
 ]
