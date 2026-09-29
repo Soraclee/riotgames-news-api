@@ -3,6 +3,87 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5f6170c8842549a99f4c937b9d5db73a4173ddcb-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#0A1412",
+        "secondary": "#FFF3D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5f6170c8842549a99f4c937b9d5db73a4173ddcb-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#0A1412",
+        "secondary": "#FFF3D6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Fortune Favors the Bold in League Classic",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=udUzJKwxCDs",
+        "youtubeId": "udUzJKwxCDs",
+        "videoLengthInSeconds": 52
+      }
+    },
+    "analytics": {
+      "contentId": "069658f2-a463-4390-905b-927069d2c719.en-us",
+      "contentLocale": "en-us",
+      "rev": "qmRrd40BhaZGTrOnLgbuqb",
+      "publishDate": "2026-09-28T16:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Fizz, Nami, Nautilus, and Graves are now available in League Classic."
+    },
+    "publishedAt": "2026-09-28T16:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7a5529aaceba551974e0997ea45878ea04f4e1f9-1920x1080.png?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -539,86 +620,6 @@
       "body": "Inspired by Ezreal’s signature necklace, bring his color, charm, and energy to your look."
     },
     "publishedAt": "2026-09-23T19:00:00.000Z",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a84e70231af925dd3707495742697f5dfea0fb56-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#0A1412",
-        "secondary": "#FFF4D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/png"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a84e70231af925dd3707495742697f5dfea0fb56-1920x1080.png?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#0A1412",
-        "secondary": "#FFF4D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/png"
-    },
-    "title": "Brave the Seas of Bilgewater",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://www.leagueoflegends.com/news/game-updates/league-of-legends-patch-26-19-notes/#patch-classic",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "e7510c32-a0fb-49b5-bfe6-edfcf1323bde.en-us",
-      "contentLocale": "en-us",
-      "rev": "P5onBbS35AGGS3wBeceJKa",
-      "publishDate": "2026-09-23T18:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Ride the waves into battle with the original versions of Fizz, Nami, Nautilus, and Graves, now available in League Classic."
-    },
-    "publishedAt": "2026-09-23T18:00:00.000Z",
     "product": {
       "title": "League of Legends (en-us)",
       "machineName": "league_of_legends",
