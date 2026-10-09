@@ -3,6 +3,111 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4ff15ecf542cc15ec8caa4cbdf0b64070d68388d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#331A24",
+        "secondary": "#0f127a",
+        "label": "#040102"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4ff15ecf542cc15ec8caa4cbdf0b64070d68388d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#331A24",
+        "secondary": "#0f127a",
+        "label": "#040102"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/8650c519acc5b35e7ffd5c8a893a0dd8fbef423a.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "Clip musical du Worlds 2026",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=mlFxxNsExJc",
+        "youtubeId": "mlFxxNsExJc",
+        "videoLengthInSeconds": 257
+      }
+    },
+    "analytics": {
+      "contentId": "f66af711-fcc3-45d2-b143-0807ad521234.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "66wEnJlWzQVI5sGL9lyqhv",
+      "publishDate": "2026-10-09T01:00:00.000Z"
+    },
+    "category": {
+      "machineName": "media",
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore."
+    },
+    "description": {
+      "type": "html",
+      "body": "La détermination de devenir légendaire."
+    },
+    "publishedAt": "2026-10-09T01:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "cinematic",
+        "title": "Cinématique"
+      },
+      {
+        "machineName": "music",
+        "title": "Musique"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c01cbdc773cf9f4ba588e738a26a0850e17e79df-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -17627,97 +17732,6 @@
       {
         "machineName": "cinematic",
         "title": "Cinématique"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fcb343efd28abf796dfd419c4f1e47acaac5a57d-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#33653F",
-        "secondary": "#DCF9F1",
-        "label": "#10401C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fcb343efd28abf796dfd419c4f1e47acaac5a57d-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#33653F",
-        "secondary": "#DCF9F1",
-        "label": "#10401C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Récapitulatif du Chapitre III - L'Aube des Sentinelles",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=LqXNVAGehFY",
-        "youtubeId": "LqXNVAGehFY",
-        "videoLengthInSeconds": 0
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blta1219284d8d0964c.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "wcF0J7hsRskGUKiR1SvyD7",
-      "publishDate": "2021-07-29T20:00:00.000Z"
-    },
-    "category": {
-      "machineName": "media",
-      "title": "Médias",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore."
-    },
-    "description": {
-      "type": "html",
-      "body": "Alliés étranges, crapules et secrets : voici ce que vous avez raté dans le Chapitre III de l'Aube des Sentinelles."
-    },
-    "publishedAt": "2021-07-29T20:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "sentinels_of_light",
-        "title": "Sentinels of Light"
-      },
-      {
-        "machineName": "akshan",
-        "title": "Akshan"
       }
     ]
   }
