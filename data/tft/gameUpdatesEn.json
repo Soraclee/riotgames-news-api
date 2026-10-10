@@ -3,86 +3,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a59780812d9b80ceba03d288718a38aa1b3202ca-960x540.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 960,
-        "height": 540,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#AAB8A0",
-        "secondary": "#2A2933",
-        "label": "#7FA85D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a59780812d9b80ceba03d288718a38aa1b3202ca-960x540.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 960,
-        "height": 540,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#AAB8A0",
-        "secondary": "#2A2933",
-        "label": "#7FA85D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "TFT Patch 18.4 Rundown",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=w1DiTReZLzk",
-        "youtubeId": "w1DiTReZLzk",
-        "videoLengthInSeconds": 2151
-      }
-    },
-    "analytics": {
-      "contentId": "ea773644-0bf7-466a-b8df-985667465ce4.en-us",
-      "contentLocale": "en-us",
-      "rev": "0wTGOHdF3u4bmKC2Z6SVXu",
-      "publishDate": "2026-10-06T18:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Everything you need to know about patch 18.4 with Riot Truexy"
-    },
-    "publishedAt": "2026-10-06T18:00:00.000Z",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e4f3c7aabe54c5b17506e386a8e9a05e96daac47-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -162,6 +82,86 @@
         "title": "Patch Notes"
       }
     ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a59780812d9b80ceba03d288718a38aa1b3202ca-960x540.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 960,
+        "height": 540,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#AAB8A0",
+        "secondary": "#2A2933",
+        "label": "#7FA85D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a59780812d9b80ceba03d288718a38aa1b3202ca-960x540.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 960,
+        "height": 540,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#AAB8A0",
+        "secondary": "#2A2933",
+        "label": "#7FA85D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "TFT Patch 18.4 Rundown",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=w1DiTReZLzk",
+        "youtubeId": "w1DiTReZLzk",
+        "videoLengthInSeconds": 2151
+      }
+    },
+    "analytics": {
+      "contentId": "ea773644-0bf7-466a-b8df-985667465ce4.en-us",
+      "contentLocale": "en-us",
+      "rev": "0wTGOHdF3u4bmKC2Z6SVXu",
+      "publishDate": "2026-10-06T18:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Everything you need to know about patch 18.4 with Riot Truexy"
+    },
+    "publishedAt": "2026-10-06T18:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
   },
   {
     "media": {
