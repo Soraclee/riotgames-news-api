@@ -3,6 +3,86 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/561c2fe972b26b563bf2a0c58c329de7d234082a-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#F6FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/561c2fe972b26b563bf2a0c58c329de7d234082a-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#F6FFD6",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "DERNIER MOT // Teaser de nouvel agent - VALORANT",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=5SxhroFBs0k",
+        "youtubeId": "5SxhroFBs0k",
+        "videoLengthInSeconds": 48
+      }
+    },
+    "analytics": {
+      "contentId": "9c8f5bfe-8849-4ecc-98dc-de00197aae4c.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "GfRSevhjBrGIgsHEaUwljT",
+      "publishDate": "2026-10-15T12:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Bientôt, vous verrez qui aura le dernier mot."
+    },
+    "publishedAt": "2026-10-15T12:00:00.000Z",
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/268cd89fa38e291d3cd389ac950cc03e1c2c4e2f-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -17019,105 +17099,5 @@
         "mimeType": "image/svg+xml"
       }
     }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/556aacae6e29aec903f64794d2e48f15fdeb3337-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#4B262C",
-        "secondary": "#F9ECDC",
-        "label": "#21080D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/556aacae6e29aec903f64794d2e48f15fdeb3337-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#4B262C",
-        "secondary": "#F9ECDC",
-        "label": "#21080D"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Notes de patch 5.01 de VALORANT",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/fr-fr/news/game-updates/valorant-patch-notes-5-01/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.bltfdcc08b18fabc7bd.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "ugA9rRsA0FWcU8w2gwSAe6",
-      "publishDate": "2022-07-12T13:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Phoenix, KAY/O et Yoru reçoivent quelques équilibrages, et nous avons mis à jour notre système de détection des smurfs."
-    },
-    "publishedAt": "2022-07-12T13:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "patch_notes",
-        "title": "Notes de patch"
-      },
-      {
-        "machineName": "yoru",
-        "title": "Yoru",
-        "description": ""
-      },
-      {
-        "machineName": "kay/o",
-        "title": "Kay/o",
-        "description": ""
-      },
-      {
-        "machineName": "phoenix",
-        "title": "Phoenix",
-        "description": ""
-      }
-    ]
   }
 ]
