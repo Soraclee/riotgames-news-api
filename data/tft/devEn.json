@@ -3,91 +3,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fb0c02f6c84f12dd00200afe079d89bec07643e4-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2E171A",
-        "secondary": "#F9EEDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fb0c02f6c84f12dd00200afe079d89bec07643e4-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2E171A",
-        "secondary": "#F9EEDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "TL;DW: Follow The Fix Update",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/tldw-follow-the-fix-update"
-      }
-    },
-    "analytics": {
-      "contentId": "0d717b43-1521-4dd3-a3be-41808a6b29fd.en-us",
-      "contentLocale": "en-us",
-      "rev": "ry10dByU7EEFU2qpX5zKKb",
-      "publishDate": "2026-10-13T17:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of Teamfight Tactics."
-    },
-    "description": {
-      "type": "html",
-      "body": "We’ve got work to do. Follow that work as we get TFT back to the standard you expect."
-    },
-    "publishedAt": "2026-10-13T17:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "dev",
-        "title": "/dev"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/17cf0688958112582998567c6c8849e1685db1a3-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
@@ -140,6 +55,91 @@
     "description": {
       "type": "html",
       "body": "We’ve got work to do. Geoff shares some more detail around where we missed with TFT’s engine migration and what we’re prioritizing in the road ahead."
+    },
+    "publishedAt": "2026-10-13T17:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fb0c02f6c84f12dd00200afe079d89bec07643e4-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2E171A",
+        "secondary": "#F9EEDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fb0c02f6c84f12dd00200afe079d89bec07643e4-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2E171A",
+        "secondary": "#F9EEDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "TL;DW: Follow The Fix Update",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/tldw-follow-the-fix-update"
+      }
+    },
+    "analytics": {
+      "contentId": "0d717b43-1521-4dd3-a3be-41808a6b29fd.en-us",
+      "contentLocale": "en-us",
+      "rev": "ry10dByU7EEFU2qpX5zKKb",
+      "publishDate": "2026-10-13T17:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "We’ve got work to do. Follow that work as we get TFT back to the standard you expect."
     },
     "publishedAt": "2026-10-13T17:00:00.000Z",
     "promoCardSize": "small",
