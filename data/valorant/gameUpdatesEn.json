@@ -3,6 +3,102 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/511ed3c6f31074a8225f6b9597d686f17eeef8d3-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#101421",
+        "secondary": "#F9DCF7",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/511ed3c6f31074a8225f6b9597d686f17eeef8d3-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#101421",
+        "secondary": "#F9DCF7",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/f08dab6817e4e179738599c4e3b5f8180141b79f.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "RISE AND FALL // Hush Agent Trailer - VALORANT",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=AfcCyTsh4ag",
+        "youtubeId": "AfcCyTsh4ag",
+        "videoLengthInSeconds": 163
+      }
+    },
+    "analytics": {
+      "contentId": "b6b30f09-c04a-458e-9a72-b1c9d44f611b.en-us",
+      "contentLocale": "en-us",
+      "rev": "GrakxG9Qh7eeeokszcEXK6",
+      "publishDate": "2026-10-18T06:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "New Duelist Agent available in Season 26 // ACT VI"
+    },
+    "publishedAt": "2026-10-18T06:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/561c2fe972b26b563bf2a0c58c329de7d234082a-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -16990,92 +17086,6 @@
       {
         "machineName": "patch_notes",
         "title": "Patch Notes"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1037749c43b3b9d46f73bdc64f357096050e5162-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#090409",
-        "secondary": "#FFE8D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1037749c43b3b9d46f73bdc64f357096050e5162-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#090409",
-        "secondary": "#FFE8D6",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "What’s New in VALORANT Episode 5 Act II",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/what-s-new-in-valorant-episode-5-act-ii/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt95519f08be8a13a5.en-us",
-      "contentLocale": "en-us",
-      "rev": "fRDoAyFHHVMOzUFd3FzhZJ",
-      "publishDate": "2022-08-23T15:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Join the Champions celebration in and out of the game."
-    },
-    "publishedAt": "2022-08-23T15:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "episode_5",
-        "title": "Episode 5",
-        "description": ""
       }
     ]
   }

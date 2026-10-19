@@ -3,6 +3,102 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/511ed3c6f31074a8225f6b9597d686f17eeef8d3-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#101421",
+        "secondary": "#F9DCF7",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/511ed3c6f31074a8225f6b9597d686f17eeef8d3-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#101421",
+        "secondary": "#F9DCF7",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/f08dab6817e4e179738599c4e3b5f8180141b79f.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "LA CHUTE // Bande-annonce de Hush - VALORANT",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=FLRSETo53xA",
+        "youtubeId": "FLRSETo53xA",
+        "videoLengthInSeconds": 163
+      }
+    },
+    "analytics": {
+      "contentId": "b6b30f09-c04a-458e-9a72-b1c9d44f611b.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "GrakxG9Qh7eeeokszcEXK6",
+      "publishDate": "2026-10-18T06:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Nouvelle duelliste disponible pendant la saison 26 // ACTE VI"
+    },
+    "publishedAt": "2026-10-18T06:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/561c2fe972b26b563bf2a0c58c329de7d234082a-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -17019,85 +17115,5 @@
         "description": ""
       }
     ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0fa83e43ee24dc6c50e522838d48edfbe3659ff5-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#0E1C1B",
-        "secondary": "#DCF9F4",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0fa83e43ee24dc6c50e522838d48edfbe3659ff5-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#0E1C1B",
-        "secondary": "#DCF9F4",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "L'incroyable 1vs5 de juseu",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=t_XBl-SYgzA",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt6161399cf926f9fd.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "x6e5cvzkf14I5RCNbLnIyf",
-      "publishDate": "2022-07-20T12:40:47.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Dans ce tout nouveau format qui dure... 90 secondes, Loupiote revient sur l'incroyable clutch en 1Vs5 de juseu sur Icebox contre Sector One."
-    },
-    "publishedAt": "2022-07-20T12:40:47.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
   }
 ]
