@@ -3,6 +3,101 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/549e358e98eb8249c230b805a493bb11ec65b765-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#26162D",
+        "secondary": "#F9F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/549e358e98eb8249c230b805a493bb11ec65b765-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#26162D",
+        "secondary": "#F9F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/a361dcb988e1a881d106de80a6b0b291d56557bf.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "VOCÊ É BRABA // Clip promotionnel du VALORANT 2026 Game Changers Championship",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=69sKYwsxUM8",
+        "youtubeId": "69sKYwsxUM8",
+        "videoLengthInSeconds": 109
+      }
+    },
+    "analytics": {
+      "contentId": "9d1e51d6-0889-4a0c-abfd-b66ed4cd68e1.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "WK5o6CvqIU2w03cLtxV59j",
+      "publishDate": "2026-10-20T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "E-sport",
+      "description": "La scène professionnelle de VALORANT."
+    },
+    "description": {
+      "type": "html",
+      "body": "Suivez le VCT Game Changers Championship 2026 en direct du 22/10 au 01/11 à São Paulo au Brésil."
+    },
+    "publishedAt": "2026-10-20T15:00:00.000Z",
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/29bb7050b93366ee360377b03061fb62e54264ea-1920x1081.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,

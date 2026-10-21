@@ -3,6 +3,102 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/549e358e98eb8249c230b805a493bb11ec65b765-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#26162D",
+        "secondary": "#F9F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/549e358e98eb8249c230b805a493bb11ec65b765-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#26162D",
+        "secondary": "#F9F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/a361dcb988e1a881d106de80a6b0b291d56557bf.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "VOCÊ É BRABA // VALORANT 2026 Game Changers Championship Hype Film",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=69sKYwsxUM8",
+        "youtubeId": "69sKYwsxUM8",
+        "videoLengthInSeconds": 109
+      }
+    },
+    "analytics": {
+      "contentId": "9d1e51d6-0889-4a0c-abfd-b66ed4cd68e1.en-us",
+      "contentLocale": "en-us",
+      "rev": "WK5o6CvqIU2w03cLtxV59j",
+      "publishDate": "2026-10-20T15:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional VALORANT."
+    },
+    "description": {
+      "type": "html",
+      "body": "Tune in live to the VCT Game Changers Championship 2026, Oct 22-Nov 1 in São Paulo, Brazil."
+    },
+    "publishedAt": "2026-10-20T15:00:00.000Z",
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/511ed3c6f31074a8225f6b9597d686f17eeef8d3-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -42,7 +138,7 @@
       "hasSound": true,
       "sources": [
         {
-          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/f08dab6817e4e179738599c4e3b5f8180141b79f.webm?accountingTag=VAL",
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/6734797c44bba9c23105b2f1c6a573984635975c.webm?accountingTag=VAL",
           "type": "video/webm"
         }
       ]
@@ -59,7 +155,7 @@
     "analytics": {
       "contentId": "b6b30f09-c04a-458e-9a72-b1c9d44f611b.en-us",
       "contentLocale": "en-us",
-      "rev": "waZUAWYy5NbhpbSFT2GnXx",
+      "rev": "XZ7idoHNGFc6ilWchGovZj",
       "publishDate": "2026-10-18T06:00:00.000Z",
       "placementSourcing": "listed"
     },
@@ -16674,100 +16770,6 @@
       "body": "For love. For family. For redemption. For remembrance. For life. This is why we fight."
     },
     "publishedAt": "2025-06-02T13:00:00.000Z",
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/92e7632a9084e46a764aba4b03f41ee19ceec9a4-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#080B11",
-        "secondary": "#D6EEFF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/92e7632a9084e46a764aba4b03f41ee19ceec9a4-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#080B11",
-        "secondary": "#D6EEFF",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "videoMedia": {
-      "type": "video",
-      "provider": "sanity",
-      "dimensions": {
-        "width": 1600,
-        "height": 900
-      },
-      "sources": [
-        {
-          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/bf533bdc626ab91cce703abb907c26259567ce7a.webm?accountingTag=VAL",
-          "type": "video/webm"
-        }
-      ]
-    },
-    "title": "Your VALORANT Stories – Breaking Through",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=NiedTYE_HyA",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "e84ec429-fc92-4803-adef-7a084565a05f.en-us",
-      "contentLocale": "en-us",
-      "rev": "abDHz2fAvwwOn7ufixrcK0",
-      "publishDate": "2025-05-31T00:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "community",
-      "title": "Community",
-      "description": "From featured streamers to community creations, see what's new in the neighborhood."
-    },
-    "description": {
-      "type": "html",
-      "body": "Korean VALORANT pro Gen.G t3xture shares his story of pushing through pressure to reach his ultimate potential."
-    },
-    "publishedAt": "2025-05-31T00:00:00.000Z",
     "product": {
       "title": "Valorant (en-us)",
       "machineName": "valorant",

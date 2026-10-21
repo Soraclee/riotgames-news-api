@@ -3,6 +3,90 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/29aa9c2195ff16981d19d7d9a9e4d681b0ea1e03-1215x717.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1215,
+        "height": 717,
+        "aspectRatio": 1.6945606694560669
+      },
+      "colors": {
+        "primary": "#2D1617",
+        "secondary": "#F9E9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/29aa9c2195ff16981d19d7d9a9e4d681b0ea1e03-1215x717.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1215,
+        "height": 717,
+        "aspectRatio": 1.6945606694560669
+      },
+      "colors": {
+        "primary": "#2D1617",
+        "secondary": "#F9E9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "/dev: Mel Midscope",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/dev/dev-mel-midscope"
+      }
+    },
+    "analytics": {
+      "contentId": "35c1e9e5-822a-47c7-a5c3-6f1a5eb1ecbd.en-us",
+      "contentLocale": "en-us",
+      "rev": "WK5o6CvqIU2w03cLtxV8x5",
+      "publishDate": "2026-10-20T17:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of League of Legends."
+    },
+    "description": {
+      "type": "html",
+      "body": "We’re updating Mel, and here’s the how and why."
+    },
+    "publishedAt": "2026-10-20T17:00:00.000Z",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0882a377f32afc048f0a821b1145fb3cf712c339-1184x698.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1184,
@@ -17196,91 +17280,6 @@
       {
         "machineName": "champion_insights",
         "title": "Champion Insights"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c663699175a26e3d973b890c4ac926bf89dc1070-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#58392C",
-        "secondary": "#F9DCDC",
-        "label": "#30170C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c663699175a26e3d973b890c4ac926bf89dc1070-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#58392C",
-        "secondary": "#F9DCDC",
-        "label": "#30170C"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Nilah: Designing League’s First Melee Bot Laner",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/dev/nilah-designing-league-s-first-melee-bot-laner/"
-      }
-    },
-    "analytics": {
-      "contentId": "articles.bltc386ce5dcde0aebd.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOOZRIA",
-      "publishDate": "2022-06-22T15:00:00.000Z"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of League of Legends."
-    },
-    "description": {
-      "type": "html",
-      "body": "A peak into how Nilah was designed and her post-release balance plan."
-    },
-    "publishedAt": "2022-06-22T15:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "nilah",
-        "title": "Nilah"
       }
     ]
   }

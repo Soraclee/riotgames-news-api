@@ -3,6 +3,178 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/17cf0688958112582998567c6c8849e1685db1a3-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#231212",
+        "secondary": "#E2DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/17cf0688958112582998567c6c8849e1685db1a3-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#231212",
+        "secondary": "#E2DCF9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Follow the Fix | TFT Dev Update",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=uyqBWKt1xkI",
+        "youtubeId": "uyqBWKt1xkI",
+        "videoLengthInSeconds": 302
+      }
+    },
+    "analytics": {
+      "contentId": "cf96cd6e-7fb1-46ce-8763-b5dbf5410e56.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "WK5o6CvqIU2w03cLtxV7rz",
+      "publishDate": "2026-10-20T17:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "On a du travail. Geoff nous explique les ratés de la migration de TFT et nos priorités sur la feuille de route."
+    },
+    "publishedAt": "2026-10-20T17:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fb0c02f6c84f12dd00200afe079d89bec07643e4-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2E171A",
+        "secondary": "#F9EEDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/fb0c02f6c84f12dd00200afe079d89bec07643e4-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#2E171A",
+        "secondary": "#F9EEDC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Résumé : Mise à jour Follow the Fix",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/dev/tldw-follow-the-fix-update"
+      }
+    },
+    "analytics": {
+      "contentId": "0d717b43-1521-4dd3-a3be-41808a6b29fd.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "xTRN3QnHZv7UVJQUGoXS8V",
+      "publishDate": "2026-10-13T17:00:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "Les coulisses de Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "On a du travail. Suivez notre progression pendant que nous ramenons TFT au niveau que vous attendez."
+    },
+    "publishedAt": "2026-10-13T17:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/db99e08b9b518fcb799ea211960857f34aab33c9-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,

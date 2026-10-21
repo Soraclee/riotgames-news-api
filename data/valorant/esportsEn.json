@@ -3,6 +3,101 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/549e358e98eb8249c230b805a493bb11ec65b765-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#26162D",
+        "secondary": "#F9F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/549e358e98eb8249c230b805a493bb11ec65b765-3840x2160.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#26162D",
+        "secondary": "#F9F9DC",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/a361dcb988e1a881d106de80a6b0b291d56557bf.webm?accountingTag=VAL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "VOCÊ É BRABA // VALORANT 2026 Game Changers Championship Hype Film",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=69sKYwsxUM8",
+        "youtubeId": "69sKYwsxUM8",
+        "videoLengthInSeconds": 109
+      }
+    },
+    "analytics": {
+      "contentId": "9d1e51d6-0889-4a0c-abfd-b66ed4cd68e1.en-us",
+      "contentLocale": "en-us",
+      "rev": "WK5o6CvqIU2w03cLtxV59j",
+      "publishDate": "2026-10-20T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional VALORANT."
+    },
+    "description": {
+      "type": "html",
+      "body": "Tune in live to the VCT Game Changers Championship 2026, Oct 22-Nov 1 in São Paulo, Brazil."
+    },
+    "publishedAt": "2026-10-20T15:00:00.000Z",
+    "product": {
+      "title": "Valorant (en-us)",
+      "machineName": "valorant",
+      "id": "product.valorant.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6fad2e48b4bc321180aded74c8fdc3cb2d796721-1920x1081.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -16926,92 +17021,5 @@
         "mimeType": "image/svg+xml"
       }
     }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6333858360c9f09fe0cfb77a7fd65a2891bcd5e5-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#3A1E3D",
-        "secondary": "#DCF0F9",
-        "label": "#0F0410"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/6333858360c9f09fe0cfb77a7fd65a2891bcd5e5-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#3A1E3D",
-        "secondary": "#DCF0F9",
-        "label": "#0F0410"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Master the Moment |VCT Stage 1 Masters",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=qx9bRgl0nKk",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blt53f074bc7af4ccc2.en-us",
-      "contentLocale": "en-us",
-      "rev": "ugA9rRsA0FWcU8w2gwg714",
-      "publishDate": "2021-03-05T20:00:00.000Z"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional VALORANT."
-    },
-    "description": {
-      "type": "html",
-      "body": "Mastery takes many forms, but you know it when you see it."
-    },
-    "publishedAt": "2021-03-05T20:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Valorant (en-us)",
-      "machineName": "valorant",
-      "id": "product.valorant.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "masters",
-        "title": "Masters",
-        "description": ""
-      }
-    ]
   }
 ]
