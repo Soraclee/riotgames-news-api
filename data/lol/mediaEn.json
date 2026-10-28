@@ -3,6 +3,108 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/01d34b649e45e0f2d75eb29a2113fca159258d3d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#161123",
+        "secondary": "#FFD6FE",
+        "label": "#080808"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/01d34b649e45e0f2d75eb29a2113fca159258d3d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#161123",
+        "secondary": "#FFD6FE",
+        "label": "#080808"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/040fbbe8a8887c2170c0ee2ed17e3f4123f72fea.mp4?accountingTag=LoL",
+          "type": "video/mp4"
+        }
+      ]
+    },
+    "title": "K/DA - NEVER GOING BACK - Official Visualizer",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=WZpcuRYP26E",
+        "youtubeId": "WZpcuRYP26E",
+        "videoLengthInSeconds": 200
+      }
+    },
+    "analytics": {
+      "contentId": "e2bb407b-635e-4b1b-b00c-ed4edb3107de.en-us",
+      "contentLocale": "en-us",
+      "rev": "xWRp7q5wcTEYHbQeLQiOgR",
+      "publishDate": "2026-10-28T01:00:00.000Z"
+    },
+    "category": {
+      "machineName": "media",
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more."
+    },
+    "description": {
+      "type": "html",
+      "body": "Eyes forward. K/DA’s “NEVER GOING BACK” is out now."
+    },
+    "publishedAt": "2026-10-28T01:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "League of Legends (en-us)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "music",
+        "title": "Music"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/18a8d8e522499301529886019b57a34af05477a4-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -17989,93 +18091,6 @@
       {
         "machineName": "vi",
         "title": "Vi"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4a972945a38e6ffb11e7eac04a08a2ba01abd81e-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#122524",
-        "secondary": "#D6FFF7",
-        "label": "#0A0A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4a972945a38e6ffb11e7eac04a08a2ba01abd81e-1280x720.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#122524",
-        "secondary": "#D6FFF7",
-        "label": "#0A0A0A"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Fate of Demacia",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=h8X5qzzIc9A",
-        "youtubeId": "h8X5qzzIc9A",
-        "videoLengthInSeconds": 0
-      }
-    },
-    "analytics": {
-      "contentId": "articles.blte08329620e0ee04c.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOObv0o",
-      "publishDate": "2021-06-19T15:00:00.000Z"
-    },
-    "category": {
-      "machineName": "media",
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more."
-    },
-    "description": {
-      "type": "html",
-      "body": "Ruination conquers all."
-    },
-    "publishedAt": "2021-06-19T15:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (en-us)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "music_video",
-        "title": "Music video"
       }
     ]
   }
