@@ -3,6 +3,100 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4fdafcda9b1e823360969b1e69e979ca4ef4303f-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#5A432D",
+        "secondary": "#F9E2DC",
+        "label": "#33200D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4fdafcda9b1e823360969b1e69e979ca4ef4303f-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#5A432D",
+        "secondary": "#F9E2DC",
+        "label": "#33200D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/39c5f9338b3a616266abc2f210ff4f87334f2f29.webm?accountingTag=TFT",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "La magie des terres sauvages vient à la TFT Crown",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=xgyt6AX6yVQ",
+        "youtubeId": "xgyt6AX6yVQ",
+        "videoLengthInSeconds": 27
+      }
+    },
+    "analytics": {
+      "contentId": "57fa46da-f5cf-45d9-aaef-fff5b4066c0b.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "9KcZg3Nfg8SUIrLWqSV094",
+      "publishDate": "2026-10-28T14:00:00.000Z"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "E-sport",
+      "description": "La scène professionnelle de Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "Soutenez les meilleurs à la Tactician's Crown la plus sauvage à ce jour !"
+    },
+    "publishedAt": "2026-10-28T14:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics (fr-fr)",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f47be253d311c49c0d8c7d6ec904c38bb03f4ccd-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,

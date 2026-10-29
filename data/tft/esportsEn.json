@@ -3,6 +3,100 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f615285432950650345d59ecca7c8166eb49bbb5-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#5A432D",
+        "secondary": "#F9E2DC",
+        "label": "#33200D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f615285432950650345d59ecca7c8166eb49bbb5-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#5A432D",
+        "secondary": "#F9E2DC",
+        "label": "#33200D"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/ecddeedc294a8e0f05060512efbb397921621304.webm?accountingTag=TFT",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "Channel the Magic of the Wilds at the TFT Crown",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=fjqdKrKpMVU",
+        "youtubeId": "fjqdKrKpMVU",
+        "videoLengthInSeconds": 27
+      }
+    },
+    "analytics": {
+      "contentId": "57fa46da-f5cf-45d9-aaef-fff5b4066c0b.en-us",
+      "contentLocale": "en-us",
+      "rev": "3MXv8tu6JHWFoc7eM9LmCV",
+      "publishDate": "2026-10-28T14:00:00.000Z"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "Root for the world’s best at the wildest Tactician’s Crown yet!"
+    },
+    "publishedAt": "2026-10-28T14:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f47be253d311c49c0d8c7d6ec904c38bb03f4ccd-1920x1080.jpg?accountingTag=TFT",
       "dimensions": {
         "width": 1920,
