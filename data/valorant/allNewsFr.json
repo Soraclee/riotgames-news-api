@@ -3,87 +3,6 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/de996645fe3142918f0313b0759236be432e9fe8-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#261613",
-        "secondary": "#F9E3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/de996645fe3142918f0313b0759236be432e9fe8-1920x1080.jpg?accountingTag=VAL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#261613",
-        "secondary": "#F9E3DC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "EN DIRECT : Le Game Changers Championship",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://valorantesports.com",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "7a6c3905-565f-4e86-8ca0-25f01f37025a.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "Y6NHj5zI6AOmRSv8VrKIg2",
-      "publishDate": "2026-10-31T18:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "E-sport",
-      "description": "La scène professionnelle de VALORANT."
-    },
-    "description": {
-      "type": "html",
-      "body": "Dix des meilleures équipes des Game Changers au monde s'affrontent pour décrocher le titre de champion du VALORANT Game Changers Championship. Ça se passe EN CE MOMENT !"
-    },
-    "publishedAt": "2026-10-31T18:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Valorant (fr-fr)",
-      "machineName": "valorant",
-      "id": "product.valorant.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ff4655",
-          "secondary": "#FFD6DA",
-          "label": "#060606"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/628997cc82239d474008acdc5e0223f4e578853c-1920x1080.jpg?accountingTag=VAL",
       "dimensions": {
         "width": 1920,
@@ -16892,6 +16811,92 @@
         "machineName": "masters",
         "title": "Masters",
         "description": ""
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/91281d11585af58e5906204140aee4cbdf5a34a0-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B8A6AB",
+        "secondary": "#293333",
+        "label": "#AB6377"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/91281d11585af58e5906204140aee4cbdf5a34a0-1920x1080.jpg?accountingTag=VAL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B8A6AB",
+        "secondary": "#293333",
+        "label": "#AB6377"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Notes de patch 10.05 de VALORANT",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/fr-fr/news/game-updates/valorant-patch-notes-10-05"
+      }
+    },
+    "analytics": {
+      "contentId": "726babc3-1406-4f44-9a1b-2027c0ca42d0.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "x6e5cvzkf14I5RCNbLitJ3",
+      "publishDate": "2025-03-18T13:00:00.000Z",
+      "placementSourcing": "listed"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Les retours en arrière du classement sont là, avec quelques corrections de bugs mineurs."
+    },
+    "publishedAt": "2025-03-18T13:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Valorant (fr-fr)",
+      "machineName": "valorant",
+      "id": "product.valorant.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/e5be4d2bb291c9f399ea1fde8ae2c69dc256733e-24x24.svg?accountingTag=VAL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ff4655",
+          "secondary": "#FFD6DA",
+          "label": "#060606"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Notes de patch"
       }
     ]
   }
