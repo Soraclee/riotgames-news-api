@@ -3,6 +3,85 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/78046d91e10550c0b3ba40b79895f3e84d7d7f7d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B86E71",
+        "secondary": "#33292D",
+        "label": "#412324"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/78046d91e10550c0b3ba40b79895f3e84d7d7f7d-1920x1080.jpg?accountingTag=LoL",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B86E71",
+        "secondary": "#33292D",
+        "label": "#412324"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "26.23 Révélation de Neeko et Zoé Café Chouchous",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://www.instagram.com/p/DfSbBwbFYV6/",
+        "isExternal": true
+      }
+    },
+    "analytics": {
+      "contentId": "aad6d9a9-8301-4e90-ac5a-4aae1914bc05.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "sYxq06V058LuRexg581PTj",
+      "publishDate": "2026-11-04T19:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game-updates",
+      "title": "Mises à jour du jeu",
+      "description": "Toutes les infos officielles à propos du jeu."
+    },
+    "description": {
+      "type": "html",
+      "body": "Il faut voir leurs créations chaotiques pour les croire."
+    },
+    "publishedAt": "2026-11-04T19:00:00.000Z",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/718b573bd914c3a8a334a89f70ff405eee9a6748-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -42,7 +121,7 @@
     "analytics": {
       "contentId": "patchNote.f9b9c125-2f9c-4d0c-b9cf-02b90d051ac6.fr-fr",
       "contentLocale": "fr-fr",
-      "rev": "sYxq06V058LuRexg580iEP",
+      "rev": "XwQu00x8VSJRqtJLR8m4M9",
       "publishDate": "2026-11-03T19:00:00.000Z"
     },
     "category": {
@@ -17212,97 +17291,6 @@
       {
         "machineName": "patch_notes",
         "title": "Notes de patch"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/dc9980aa2c7fec4f7c65a240fd64c02e5337bb0c-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#312D18",
-        "secondary": "#DCF9E2",
-        "label": "#020100"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/dc9980aa2c7fec4f7c65a240fd64c02e5337bb0c-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#312D18",
-        "secondary": "#DCF9E2",
-        "label": "#020100"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Présentation de Jhin démiurge cosmique libéré",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=xwtV_3Xq4yI",
-        "youtubeId": "xwtV_3Xq4yI",
-        "videoLengthInSeconds": 48
-      }
-    },
-    "analytics": {
-      "contentId": "549de4d7-4a89-4edf-912e-a719312d0735.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOCfji",
-      "publishDate": "2025-01-24T19:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game-updates",
-      "title": "Mises à jour du jeu",
-      "description": "Toutes les infos officielles à propos du jeu."
-    },
-    "description": {
-      "type": "html",
-      "body": "Jhin fait son spectacle dans les trésors TFT et la boutique en rotation dans le patch 13.4 de TFT."
-    },
-    "publishedAt": "2025-01-24T19:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_",
-        "title": "Combat tactique"
-      },
-      {
-        "machineName": "teamfight_tactics_new_content",
-        "title": "Nouveau contenu de Teamfight Tactics"
       }
     ]
   }
