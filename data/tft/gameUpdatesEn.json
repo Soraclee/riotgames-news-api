@@ -3,47 +3,49 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7aaebca3079aebd84cd6c257a16beeb8a8ff31fb-1920x1080.jpg?accountingTag=TFT",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/750d19cb359f0ad94a198d739f0a57d068535df4-960x540.jpg?accountingTag=TFT",
       "dimensions": {
-        "width": 1920,
-        "height": 1080,
+        "width": 960,
+        "height": 540,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#0B0E17",
-        "secondary": "#D6DAFF",
-        "label": "#000000"
+        "primary": "#AAB8A0",
+        "secondary": "#2A2933",
+        "label": "#7FA85D"
       },
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7aaebca3079aebd84cd6c257a16beeb8a8ff31fb-1920x1080.jpg?accountingTag=TFT",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/750d19cb359f0ad94a198d739f0a57d068535df4-960x540.jpg?accountingTag=TFT",
       "dimensions": {
-        "width": 1920,
-        "height": 1080,
+        "width": 960,
+        "height": 540,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#0B0E17",
-        "secondary": "#D6DAFF",
-        "label": "#000000"
+        "primary": "#AAB8A0",
+        "secondary": "#2A2933",
+        "label": "#7FA85D"
       },
       "mimeType": "image/jpeg"
     },
-    "title": "Teamfight Tactics patch 18.6",
+    "title": "TFT Patch 18.7 Rundown",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "url": "/en-us/news/game-updates/teamfight-tactics-patch-18-6"
+        "url": "https://www.youtube.com/watch?v=LQsq98PgbBs",
+        "youtubeId": "LQsq98PgbBs",
+        "videoLengthInSeconds": 869
       }
     },
     "analytics": {
-      "contentId": "e3fa9e85-b815-41be-a47a-b49516c73599.en-us",
+      "contentId": "296ae137-6207-4107-bfd5-cbeb93c32c20.en-us",
       "contentLocale": "en-us",
-      "rev": "8fS5GiC5F7poI3AWd5cN3e",
-      "publishDate": "2026-11-03T19:00:00.000Z"
+      "rev": "KkcDhJ9odEJrm0BZCBQtFh",
+      "publishDate": "2026-11-17T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -52,9 +54,88 @@
     },
     "description": {
       "type": "html",
-      "body": "Small buffs & a standalone client that we’ll be iterating on in future patches. 18.6 is a big download!"
+      "body": "Everything you need to know about patch 18.5 with Riot Truexy"
     },
-    "publishedAt": "2026-11-03T19:00:00.000Z",
+    "publishedAt": "2026-11-17T19:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2046b94758c3bd0f1bf5b07f9969e62611002326-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#D6FFFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2046b94758c3bd0f1bf5b07f9969e62611002326-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#D6FFFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Teamfight Tactics patch 18.7",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/teamfight-tactics-patch-18-7"
+      }
+    },
+    "analytics": {
+      "contentId": "10db682f-264e-4353-9bf7-90bf65a0eb45.en-us",
+      "contentLocale": "en-us",
+      "rev": "628zSxFc5A9zpvgy9XxE5R",
+      "publishDate": "2026-11-17T19:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "It’s our final patch of Enchanted Wilds before TFT goes on its Prismatic Tour! We’ve got an especially wild patch this time around bringing meme comps to reality, and returning past powerful comps to their peak-fantasy form."
+    },
+    "publishedAt": "2026-11-17T19:00:00.000Z",
     "product": {
       "title": "Teamfight Tactics",
       "machineName": "teamfight_tactics",
@@ -82,6 +163,183 @@
         "title": "Patch Notes"
       }
     ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/df767559486a2338879ccd96134fea0805423d1c-960x540.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 960,
+        "height": 540,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#322243",
+        "secondary": "#F0DCF9",
+        "label": "#0F0617"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/df767559486a2338879ccd96134fea0805423d1c-960x540.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 960,
+        "height": 540,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#322243",
+        "secondary": "#F0DCF9",
+        "label": "#0F0617"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "TFT Set 19 Prismatic Tour PBE Rundown",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=r3oCjVF9nIc",
+        "youtubeId": "r3oCjVF9nIc",
+        "videoLengthInSeconds": 9798
+      }
+    },
+    "analytics": {
+      "contentId": "article.f884d090-dd13-4176-88bf-fb53f586b9ad.en-us",
+      "contentLocale": "en-us",
+      "rev": "MQRm0Ug4vwC2HSvsWjxVHn",
+      "publishDate": "2026-11-17T14:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Everything you need to know about TFT Set 19 Prismatic Tour with Riot Truexy"
+    },
+    "publishedAt": "2026-11-17T14:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/23d2dfe413f527dcff69c9607e318a6292d8af5e-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#3E2345",
+        "secondary": "#F9DCE4",
+        "label": "#16061A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/23d2dfe413f527dcff69c9607e318a6292d8af5e-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#3E2345",
+        "secondary": "#F9DCE4",
+        "label": "#16061A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/b75fcd054449cb456ca24e78353b93202319eed0.webm?accountingTag=TFT",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "Showstopping Spectacular | Prismatic Tour Set Cinematic",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=W6YRmDZgQCQ",
+        "youtubeId": "W6YRmDZgQCQ",
+        "videoLengthInSeconds": 142
+      }
+    },
+    "analytics": {
+      "contentId": "cbd47038-86ad-497f-83b4-f3d749c5f117.en-us",
+      "contentLocale": "en-us",
+      "rev": "mq05yZyrojCFDAmqU7ewBP",
+      "publishDate": "2026-11-14T20:15:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Steal the spotlight and take center stage with the prismatic performance of a lifetime."
+    },
+    "publishedAt": "2026-11-14T20:15:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
   },
   {
     "media": {
@@ -161,6 +419,90 @@
         "mimeType": "image/svg+xml"
       }
     }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7aaebca3079aebd84cd6c257a16beeb8a8ff31fb-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#0B0E17",
+        "secondary": "#D6DAFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7aaebca3079aebd84cd6c257a16beeb8a8ff31fb-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#0B0E17",
+        "secondary": "#D6DAFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Teamfight Tactics patch 18.6",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/teamfight-tactics-patch-18-6"
+      }
+    },
+    "analytics": {
+      "contentId": "e3fa9e85-b815-41be-a47a-b49516c73599.en-us",
+      "contentLocale": "en-us",
+      "rev": "El9SUR6RDRmKNBwRFHDMP0",
+      "publishDate": "2026-11-03T19:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Small buffs & a standalone client that we’ll be iterating on in future patches. 18.6 is a big download!"
+    },
+    "publishedAt": "2026-11-03T19:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -17491,345 +17833,6 @@
       {
         "machineName": "teamfight_tactics_tag",
         "title": "Teamfight Tactics"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/30a81870f5950eb041266f5ed70f612df709cd16-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B884A2",
-        "secondary": "#2E2933",
-        "label": "#412334"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/30a81870f5950eb041266f5ed70f612df709cd16-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B884A2",
-        "secondary": "#2E2933",
-        "label": "#412334"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Teamfight Tactics: Magic ‘n Mayhem",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://teamfighttactics.leagueoflegends.com/en-us/set-overview/teamfight-tactics-magic-n-mayhem/",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "1b3191d8-ecc8-4465-92a3-afee7e308836",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOH6iZq",
-      "publishDate": "2024-07-31T16:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Conjure up some chaos and master your magic in TFT’s latest set."
-    },
-    "publishedAt": "2024-07-31T16:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/917453144c991816c651a6ab4d3d9d7384cf0aea-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B58BB8",
-        "secondary": "#292C33",
-        "label": "#6E3D71"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/917453144c991816c651a6ab4d3d9d7384cf0aea-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B58BB8",
-        "secondary": "#292C33",
-        "label": "#6E3D71"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Magic n' Mayhem Pass & More",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/magic-n-mayhem-pass-and-more"
-      }
-    },
-    "analytics": {
-      "contentId": "b785b6ca-d6dd-44f5-a5ae-9924fc282341",
-      "contentLocale": "en-us",
-      "rev": "nRCZV2Y0Bz6QumtEy6pxkH",
-      "publishDate": "2024-07-30T17:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "See what cosmetics are taking a portal in with Magic n’ Mayhem!"
-    },
-    "publishedAt": "2024-07-30T17:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_tag",
-        "title": "Teamfight Tactics"
-      },
-      {
-        "machineName": "teamfight_tactics_new_content_",
-        "title": "Teamfight Tactics New Content"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/4e37c9d7d70692efc9ecbc178666d07c68a075a6-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#51293D",
-        "secondary": "#DCF7F9",
-        "label": "#280A19"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/4e37c9d7d70692efc9ecbc178666d07c68a075a6-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#51293D",
-        "secondary": "#DCF7F9",
-        "label": "#280A19"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Magic n' Mayhem Mechanics",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/magic-n-mayhem-mechanics"
-      }
-    },
-    "analytics": {
-      "contentId": "6234f8f9-e9dc-4cd0-85b4-263a85e9e99e",
-      "contentLocale": "en-us",
-      "rev": "nRCZV2Y0Bz6QumtEy6pxkH",
-      "publishDate": "2024-07-18T16:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "A brief summary of the new and returning mechanics in Magic n’ Mayhem"
-    },
-    "publishedAt": "2024-07-18T16:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_tag",
-        "title": "Teamfight Tactics"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/72fb5f55bee7b325d4a951cdedb10c39eb31bda0-1280x720.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#4F2E27",
-        "secondary": "#F9EEDC",
-        "label": "#260E09"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/72fb5f55bee7b325d4a951cdedb10c39eb31bda0-1280x720.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#4F2E27",
-        "secondary": "#F9EEDC",
-        "label": "#260E09"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Teamfight Tactics patch 14.14 notes",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/tft-patch-14-14"
-      }
-    },
-    "analytics": {
-      "contentId": "9f0f2b5e-5be5-433f-80af-ac76db46ec20",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2024-07-16T18:00:00.000Z"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "It’s our last patch of Inkborn Fables before our next set, Magic n’ Mayhem, takes off, so we’ve packed a patch full of surprises that are sure to create some novel comps and wild builds."
-    },
-    "publishedAt": "2024-07-16T18:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "patch_notes",
-        "title": "Patch Notes"
       }
     ]
   }

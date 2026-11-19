@@ -3,6 +3,107 @@
     "media": {
       "type": "image",
       "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b1a1bc771ae92fabc7d9aad98cc70cb4339bf154-1280x720.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B8A5AC",
+        "secondary": "#332930",
+        "label": "#955069"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b1a1bc771ae92fabc7d9aad98cc70cb4339bf154-1280x720.png?accountingTag=LoL",
+      "dimensions": {
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B8A5AC",
+        "secondary": "#332930",
+        "label": "#955069"
+      },
+      "mimeType": "image/png"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/7638dc472aaa01bb905f770cc2b52f2b2d11def3.webm?accountingTag=LoL",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "K/DA, DJ Sona - GIRLS - Clip officiel",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=xl307wZk41E",
+        "isExternal": true
+      }
+    },
+    "analytics": {
+      "contentId": "0b99ad29-18b3-49db-8348-2fdc7dd9b5a2.fr-fr",
+      "contentLocale": "fr-fr",
+      "rev": "jcTncLLNIl37Ln7UYPNtq4",
+      "publishDate": "2026-11-05T16:00:00.000Z"
+    },
+    "category": {
+      "machineName": "media",
+      "title": "Médias",
+      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore."
+    },
+    "description": {
+      "type": "html",
+      "body": "Girls power. K/DA et DJ Sona mettent l'ambiance dans le clip officiel de GIRLS."
+    },
+    "publishedAt": "2026-11-05T16:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "League of Legends (fr-fr)",
+      "machineName": "league_of_legends",
+      "id": "product.league_of_legends.fr-fr",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#c89b3c",
+          "secondary": "#1f1f1f",
+          "label": "#1f1f1f"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "music",
+        "title": "Musique"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
       "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/01d34b649e45e0f2d75eb29a2113fca159258d3d-1920x1080.jpg?accountingTag=LoL",
       "dimensions": {
         "width": 1920,
@@ -17649,86 +17750,5 @@
         "title": "Clip musical"
       }
     ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/58ac0edb78dc80d36c7d044ba75c261926bac826-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#0F1A1E",
-        "secondary": "#DCF4F9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/58ac0edb78dc80d36c7d044ba75c261926bac826-1920x1080.jpg?accountingTag=LoL",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#0F1A1E",
-        "secondary": "#DCF4F9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Oubliés et Cavaliers | Conseils tactiques - Teamfight Tactics",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=vueG5wtvUhA",
-        "youtubeId": "vueG5wtvUhA",
-        "videoLengthInSeconds": 213
-      }
-    },
-    "analytics": {
-      "contentId": "articles.bltc8c36fbfd27078fd.fr-fr",
-      "contentLocale": "fr-fr",
-      "rev": "iuvR1X3un5VQGa5MOOZRIA",
-      "publishDate": "2021-08-19T11:07:34.000Z"
-    },
-    "category": {
-      "machineName": "media",
-      "title": "Médias",
-      "description": "Explorez le côté créatif et les coulisses des cinématiques, musiques et plus encore."
-    },
-    "description": {
-      "type": "html",
-      "body": "Apprenez-en davantage sur cette puissante composition et régnez sur l'ensemble de mi-parcours !"
-    },
-    "publishedAt": "2021-08-19T11:07:34.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "League of Legends (fr-fr)",
-      "machineName": "league_of_legends",
-      "id": "product.league_of_legends.fr-fr",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/7021a2a1723523a99d360ed13520bf0aeb9ef248-24x24.svg?accountingTag=LoL",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#c89b3c",
-          "secondary": "#1f1f1f",
-          "label": "#1f1f1f"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
   }
 ]

@@ -3,48 +3,49 @@
     "media": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7aaebca3079aebd84cd6c257a16beeb8a8ff31fb-1920x1080.jpg?accountingTag=TFT",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/750d19cb359f0ad94a198d739f0a57d068535df4-960x540.jpg?accountingTag=TFT",
       "dimensions": {
-        "width": 1920,
-        "height": 1080,
+        "width": 960,
+        "height": 540,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#0B0E17",
-        "secondary": "#D6DAFF",
-        "label": "#000000"
+        "primary": "#AAB8A0",
+        "secondary": "#2A2933",
+        "label": "#7FA85D"
       },
       "mimeType": "image/jpeg"
     },
     "imageMedia": {
       "type": "image",
       "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7aaebca3079aebd84cd6c257a16beeb8a8ff31fb-1920x1080.jpg?accountingTag=TFT",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/750d19cb359f0ad94a198d739f0a57d068535df4-960x540.jpg?accountingTag=TFT",
       "dimensions": {
-        "width": 1920,
-        "height": 1080,
+        "width": 960,
+        "height": 540,
         "aspectRatio": 1.7777777777777777
       },
       "colors": {
-        "primary": "#0B0E17",
-        "secondary": "#D6DAFF",
-        "label": "#000000"
+        "primary": "#AAB8A0",
+        "secondary": "#2A2933",
+        "label": "#7FA85D"
       },
       "mimeType": "image/jpeg"
     },
-    "title": "Teamfight Tactics patch 18.6",
+    "title": "TFT Patch 18.7 Rundown",
     "action": {
-      "type": "weblink",
+      "type": "youtube_video",
       "payload": {
-        "url": "/en-us/news/game-updates/teamfight-tactics-patch-18-6"
+        "url": "https://www.youtube.com/watch?v=LQsq98PgbBs",
+        "youtubeId": "LQsq98PgbBs",
+        "videoLengthInSeconds": 869
       }
     },
     "analytics": {
-      "contentId": "e3fa9e85-b815-41be-a47a-b49516c73599.en-us",
+      "contentId": "296ae137-6207-4107-bfd5-cbeb93c32c20.en-us",
       "contentLocale": "en-us",
-      "rev": "8fS5GiC5F7poI3AWd5cN3e",
-      "publishDate": "2026-11-03T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "rev": "KkcDhJ9odEJrm0BZCBQtFh",
+      "publishDate": "2026-11-17T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -53,9 +54,88 @@
     },
     "description": {
       "type": "html",
-      "body": "Small buffs & a standalone client that we’ll be iterating on in future patches. 18.6 is a big download!"
+      "body": "Everything you need to know about patch 18.5 with Riot Truexy"
     },
-    "publishedAt": "2026-11-03T19:00:00.000Z",
+    "publishedAt": "2026-11-17T19:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2046b94758c3bd0f1bf5b07f9969e62611002326-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#D6FFFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2046b94758c3bd0f1bf5b07f9969e62611002326-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#D6FFFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Teamfight Tactics patch 18.7",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/teamfight-tactics-patch-18-7"
+      }
+    },
+    "analytics": {
+      "contentId": "10db682f-264e-4353-9bf7-90bf65a0eb45.en-us",
+      "contentLocale": "en-us",
+      "rev": "628zSxFc5A9zpvgy9XxE5R",
+      "publishDate": "2026-11-17T19:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "It’s our final patch of Enchanted Wilds before TFT goes on its Prismatic Tour! We’ve got an especially wild patch this time around bringing meme comps to reality, and returning past powerful comps to their peak-fantasy form."
+    },
+    "publishedAt": "2026-11-17T19:00:00.000Z",
     "product": {
       "title": "Teamfight Tactics",
       "machineName": "teamfight_tactics",
@@ -83,6 +163,704 @@
         "title": "Patch Notes"
       }
     ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c0bbde3a4c8fe3a31d62fd132865ce3d2136f6f3-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#101320",
+        "secondary": "#DCF0F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c0bbde3a4c8fe3a31d62fd132865ce3d2136f6f3-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#101320",
+        "secondary": "#DCF0F9",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Convergence Fest Side Events and The Encore Details!",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/community/convergence-fest-side-events-and-the-encore-details"
+      }
+    },
+    "analytics": {
+      "contentId": "63b8f87c-487e-444a-8210-99d79439eca2.en-us",
+      "contentLocale": "en-us",
+      "rev": "CrUEhxSLLZiAkEjHGAP4cx",
+      "publishDate": "2026-11-17T17:00:00.000Z"
+    },
+    "category": {
+      "machineName": "community",
+      "title": "Community",
+      "description": "From featured streamers to community creations, see what's new in the neighborhood."
+    },
+    "description": {
+      "type": "html",
+      "body": "Take a peek at the weekend’s prismatically radiant lineup."
+    },
+    "publishedAt": "2026-11-17T17:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c31535ee876aaaa636616f9144e49734b34fee82-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#686CB8",
+        "secondary": "#2D2933",
+        "label": "#343761"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/c31535ee876aaaa636616f9144e49734b34fee82-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#686CB8",
+        "secondary": "#2D2933",
+        "label": "#343761"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "TFT Set 19 Prismatic Tour Overview",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/media/tft-set-19-prismatic-tour-overview"
+      }
+    },
+    "analytics": {
+      "contentId": "70fbc035-c9db-41f2-baa8-617d7f83ebef.en-us",
+      "contentLocale": "en-us",
+      "rev": "MQRm0Ug4vwC2HSvsWjxVHn",
+      "publishDate": "2026-11-17T14:00:00.000Z"
+    },
+    "category": {
+      "machineName": "media",
+      "title": "Media",
+      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more."
+    },
+    "description": {
+      "type": "html",
+      "body": "Global music, legendary bands, and prismatic beats! Join the festival and discover traits and unlocks in TFT’s 19th update, Prismatic Tour!"
+    },
+    "publishedAt": "2026-11-17T14:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/df767559486a2338879ccd96134fea0805423d1c-960x540.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 960,
+        "height": 540,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#322243",
+        "secondary": "#F0DCF9",
+        "label": "#0F0617"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/df767559486a2338879ccd96134fea0805423d1c-960x540.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 960,
+        "height": 540,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#322243",
+        "secondary": "#F0DCF9",
+        "label": "#0F0617"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "TFT Set 19 Prismatic Tour PBE Rundown",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=r3oCjVF9nIc",
+        "youtubeId": "r3oCjVF9nIc",
+        "videoLengthInSeconds": 9798
+      }
+    },
+    "analytics": {
+      "contentId": "article.f884d090-dd13-4176-88bf-fb53f586b9ad.en-us",
+      "contentLocale": "en-us",
+      "rev": "MQRm0Ug4vwC2HSvsWjxVHn",
+      "publishDate": "2026-11-17T14:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Everything you need to know about TFT Set 19 Prismatic Tour with Riot Truexy"
+    },
+    "publishedAt": "2026-11-17T14:00:00.000Z",
+    "promoCardSize": "medium",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ab49438d29093c9375bce3f137dc0864f96a7d2c-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#4C2F26",
+        "secondary": "#DCDFF9",
+        "label": "#220E09"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ab49438d29093c9375bce3f137dc0864f96a7d2c-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#4C2F26",
+        "secondary": "#DCDFF9",
+        "label": "#220E09"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "thumbnail": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ab49438d29093c9375bce3f137dc0864f96a7d2c-1920x1080.jpg?accountingTag=TFT",
+        "dimensions": {
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.7777777777777777
+        },
+        "colors": {
+          "primary": "#4C2F26",
+          "secondary": "#DCDFF9",
+          "label": "#220E09"
+        },
+        "mimeType": "image/jpeg"
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/b8225981520e487b7e1a7d3c8de1c06317e12e7a.webm?accountingTag=TFT",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "TFT Dev Drop: Prismatic Tour",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=ehNDT_IYjSQ",
+        "youtubeId": "ehNDT_IYjSQ",
+        "videoLengthInSeconds": 1189
+      }
+    },
+    "analytics": {
+      "contentId": "ea1d3279-81bb-4de8-922b-50bb26767454.en-us",
+      "contentLocale": "en-us",
+      "rev": "MQRm0Ug4vwC2HSvsWjxVHn",
+      "publishDate": "2026-11-15T11:30:00.000Z"
+    },
+    "category": {
+      "machineName": "dev",
+      "title": "Dev",
+      "description": "An inside look at the whats, whys, and hows of Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "Unlocks are back! Mix your own comp with a roster of 94 champions across over 20 genres of music."
+    },
+    "publishedAt": "2026-11-15T11:30:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "dev",
+        "title": "/dev"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/11313893c272063d8228b7cc7e606bb84a50613b-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#12251C",
+        "secondary": "#FFEBD6",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/11313893c272063d8228b7cc7e606bb84a50613b-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#12251C",
+        "secondary": "#FFEBD6",
+        "label": "#0A0A0A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "All Eyes On Vegas: Convergence Fest",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=zHyfu16PSA4",
+        "youtubeId": "zHyfu16PSA4",
+        "videoLengthInSeconds": 61
+      }
+    },
+    "analytics": {
+      "contentId": "bca0d867-8082-4c8b-94bb-2256854b565c.en-us",
+      "contentLocale": "en-us",
+      "rev": "mq05yZyrojCFDAmqU7ewBP",
+      "publishDate": "2026-11-14T20:20:00.000Z"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "Catch all the action virtually through official streams, co-streams, social, and more Dec 11-13."
+    },
+    "publishedAt": "2026-11-14T20:20:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/23d2dfe413f527dcff69c9607e318a6292d8af5e-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#3E2345",
+        "secondary": "#F9DCE4",
+        "label": "#16061A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/23d2dfe413f527dcff69c9607e318a6292d8af5e-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#3E2345",
+        "secondary": "#F9DCE4",
+        "label": "#16061A"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "videoMedia": {
+      "type": "video",
+      "provider": "sanity",
+      "dimensions": {
+        "width": 1600,
+        "height": 900
+      },
+      "hasSound": true,
+      "sources": [
+        {
+          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/b75fcd054449cb456ca24e78353b93202319eed0.webm?accountingTag=TFT",
+          "type": "video/webm"
+        }
+      ]
+    },
+    "title": "Showstopping Spectacular | Prismatic Tour Set Cinematic",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=W6YRmDZgQCQ",
+        "youtubeId": "W6YRmDZgQCQ",
+        "videoLengthInSeconds": 142
+      }
+    },
+    "analytics": {
+      "contentId": "cbd47038-86ad-497f-83b4-f3d749c5f117.en-us",
+      "contentLocale": "en-us",
+      "rev": "mq05yZyrojCFDAmqU7ewBP",
+      "publishDate": "2026-11-14T20:15:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Steal the spotlight and take center stage with the prismatic performance of a lifetime."
+    },
+    "publishedAt": "2026-11-14T20:15:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f76771bb6105e8fe201ec3ba29eb44f09190f8a3-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B0B884",
+        "secondary": "#293331",
+        "label": "#484D29"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f76771bb6105e8fe201ec3ba29eb44f09190f8a3-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#B0B884",
+        "secondary": "#293331",
+        "label": "#484D29"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Enchanted Wilds Tactician’s Crown Primer",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/esports/enchanted-wilds-tacticians-crown-primer"
+      }
+    },
+    "analytics": {
+      "contentId": "6a1a666e-c981-493e-9047-42aa31a16a72.en-us",
+      "contentLocale": "en-us",
+      "rev": "qP54YDdVvjrpYEQryqnXnT",
+      "publishDate": "2026-11-11T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "Everything you need to know - Drops, broadcast schedule, qualified players, and more!"
+    },
+    "publishedAt": "2026-11-11T15:00:00.000Z",
+    "promoCardSize": "small",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "teamfight_tactics_esports",
+        "title": "Teamfight Tactics eSports"
+      }
+    ]
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/223daa346e8f1d0376aaee43d2d9f26118eaa8bc-1920x1080.png?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#A6B8B1",
+        "secondary": "#293133",
+        "label": "#72B39B"
+      },
+      "mimeType": "image/png"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/223daa346e8f1d0376aaee43d2d9f26118eaa8bc-1920x1080.png?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#A6B8B1",
+        "secondary": "#293133",
+        "label": "#72B39B"
+      },
+      "mimeType": "image/png"
+    },
+    "title": "Get into the Crown vibes",
+    "action": {
+      "type": "youtube_video",
+      "payload": {
+        "url": "https://www.youtube.com/watch?v=UnnZH8HSeVg",
+        "youtubeId": "UnnZH8HSeVg",
+        "videoLengthInSeconds": 34
+      }
+    },
+    "analytics": {
+      "contentId": "91820a4a-2e8e-403a-80d3-51aa1439b0a0.en-us",
+      "contentLocale": "en-us",
+      "rev": "UTONRCH86od3lE8MuJDTzt",
+      "publishDate": "2026-11-09T15:00:00.000Z"
+    },
+    "category": {
+      "machineName": "esports",
+      "title": "Esports",
+      "description": "The world stage for professional Teamfight Tactics."
+    },
+    "description": {
+      "type": "html",
+      "body": "Tactician’s Crown explained with a little help from Scuttlecrab vibing."
+    },
+    "publishedAt": "2026-11-09T15:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    }
   },
   {
     "media": {
@@ -129,8 +907,7 @@
       "contentId": "fa8a48d7-2715-4e3e-b762-33e00968f2ee.en-us",
       "contentLocale": "en-us",
       "rev": "MoUhEtOWHNIDVAplxImaMF",
-      "publishDate": "2026-11-03T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-11-03T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -163,6 +940,90 @@
         "mimeType": "image/svg+xml"
       }
     }
+  },
+  {
+    "media": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7aaebca3079aebd84cd6c257a16beeb8a8ff31fb-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#0B0E17",
+        "secondary": "#D6DAFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "imageMedia": {
+      "type": "image",
+      "provider": "sanity",
+      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7aaebca3079aebd84cd6c257a16beeb8a8ff31fb-1920x1080.jpg?accountingTag=TFT",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777
+      },
+      "colors": {
+        "primary": "#0B0E17",
+        "secondary": "#D6DAFF",
+        "label": "#000000"
+      },
+      "mimeType": "image/jpeg"
+    },
+    "title": "Teamfight Tactics patch 18.6",
+    "action": {
+      "type": "weblink",
+      "payload": {
+        "url": "/en-us/news/game-updates/teamfight-tactics-patch-18-6"
+      }
+    },
+    "analytics": {
+      "contentId": "e3fa9e85-b815-41be-a47a-b49516c73599.en-us",
+      "contentLocale": "en-us",
+      "rev": "El9SUR6RDRmKNBwRFHDMP0",
+      "publishDate": "2026-11-03T19:00:00.000Z"
+    },
+    "category": {
+      "machineName": "game_updates",
+      "title": "Game Updates",
+      "description": "The definitive source on all updates coming to the game."
+    },
+    "description": {
+      "type": "html",
+      "body": "Small buffs & a standalone client that we’ll be iterating on in future patches. 18.6 is a big download!"
+    },
+    "publishedAt": "2026-11-03T19:00:00.000Z",
+    "product": {
+      "title": "Teamfight Tactics",
+      "machineName": "teamfight_tactics",
+      "id": "product.teamfight_tactics.en-us",
+      "media": {
+        "type": "image",
+        "provider": "sanity",
+        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
+        "dimensions": {
+          "width": 24,
+          "height": 24,
+          "aspectRatio": 1
+        },
+        "colors": {
+          "primary": "#ffb60d",
+          "secondary": "#F9F6DC",
+          "label": "#241C09"
+        },
+        "mimeType": "image/svg+xml"
+      }
+    },
+    "tags": [
+      {
+        "machineName": "patch_notes",
+        "title": "Patch Notes"
+      }
+    ]
   },
   {
     "media": {
@@ -208,8 +1069,7 @@
       "contentId": "76d99549-0209-4225-aa12-e1ea7fef8ed8.en-us",
       "contentLocale": "en-us",
       "rev": "MoUhEtOWHNIDVAplxImaMF",
-      "publishDate": "2026-11-02T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-11-02T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -310,8 +1170,7 @@
       "contentId": "57fa46da-f5cf-45d9-aaef-fff5b4066c0b.en-us",
       "contentLocale": "en-us",
       "rev": "3MXv8tu6JHWFoc7eM9LmCV",
-      "publishDate": "2026-10-28T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-10-28T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -389,8 +1248,7 @@
       "contentId": "f82eb839-d3ff-4efa-bab9-b31441ff56b1.en-us",
       "contentLocale": "en-us",
       "rev": "jrPzCE6NB9v1VavTjE1TPR",
-      "publishDate": "2026-10-26T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-10-26T17:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -470,8 +1328,7 @@
       "contentId": "ab7fc938-4d2b-492f-80bb-1d709f83d0fe.en-us",
       "contentLocale": "en-us",
       "rev": "ylK7ZWZCFyYgRmlzpThXRK",
-      "publishDate": "2026-10-20T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-10-20T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -549,8 +1406,7 @@
       "contentId": "patchNote.5400495d-f6df-419f-b541-89890aab0b6e.en-us",
       "contentLocale": "en-us",
       "rev": "sdF3RqhuOsemY4WOprgRDh",
-      "publishDate": "2026-10-20T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-10-20T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -634,8 +1490,7 @@
       "contentId": "78ffe0d9-1999-49bd-8afd-9aef4cd36f89.en-us",
       "contentLocale": "en-us",
       "rev": "cm2bS90wckmFWt5dS7F0Re",
-      "publishDate": "2026-10-20T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-10-20T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -713,8 +1568,7 @@
       "contentId": "0d717b43-1521-4dd3-a3be-41808a6b29fd.en-us",
       "contentLocale": "en-us",
       "rev": "ry10dByU7EEFU2qpX5zKKb",
-      "publishDate": "2026-10-13T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-10-13T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -801,8 +1655,7 @@
       "contentId": "cf96cd6e-7fb1-46ce-8763-b5dbf5410e56.en-us",
       "contentLocale": "en-us",
       "rev": "YPpvcR0GUHJTYRYm4xfVFA",
-      "publishDate": "2026-10-13T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-10-13T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -889,8 +1742,7 @@
       "contentId": "ea773644-0bf7-466a-b8df-985667465ce4.en-us",
       "contentLocale": "en-us",
       "rev": "0wTGOHdF3u4bmKC2Z6SVXu",
-      "publishDate": "2026-10-06T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-10-06T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -968,8 +1820,7 @@
       "contentId": "3dbc5558-e6c6-4728-b37b-917b11fd0dce.en-us",
       "contentLocale": "en-us",
       "rev": "b71GGz6IKEXntB73qrVG5d",
-      "publishDate": "2026-10-06T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-10-06T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -1053,8 +1904,7 @@
       "contentId": "873c72a6-bfa9-483e-a4ea-26634fa91832.en-us",
       "contentLocale": "en-us",
       "rev": "naI5i0u5KN2dz1eQ4MpK4E",
-      "publishDate": "2026-09-22T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-09-22T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -1140,8 +1990,7 @@
       "contentId": "01dd5cc7-e806-4cd5-a5f0-8cd901f6e309.en-us",
       "contentLocale": "en-us",
       "rev": "NE4hYzR6hVQJG7MZTsijL4",
-      "publishDate": "2026-09-22T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-09-22T18:00:00.000Z"
     },
     "category": {
       "machineName": "announcements",
@@ -1221,8 +2070,7 @@
       "contentId": "593e2b9b-1cf8-4d1d-9fdf-eee512c54754.en-us",
       "contentLocale": "en-us",
       "rev": "Kfp1FWtA6DIWENU8VD2OQ9",
-      "publishDate": "2026-09-20T20:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-09-20T20:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -1302,8 +2150,7 @@
       "contentId": "0ab9fcbd-bc37-4b1b-b376-20cf8ef8c7e9.en-us",
       "contentLocale": "en-us",
       "rev": "f1RqWNIFDsxbEoF8V5qTyI",
-      "publishDate": "2026-09-14T23:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-09-14T23:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -1384,8 +2231,7 @@
       "contentId": "article.ef5e5d22-0989-4485-9230-bd5e46db36a5.en-us",
       "contentLocale": "en-us",
       "rev": "OvofjO0DxvAEzD4C4EDcVB",
-      "publishDate": "2026-09-09T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-09-09T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -1464,8 +2310,7 @@
       "contentId": "58a2d340-b3c7-41bf-be04-19bc5cef7ad3.en-us",
       "contentLocale": "en-us",
       "rev": "9RYCcuvd5tE1Kov1zFF0W0",
-      "publishDate": "2026-09-09T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-09-09T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -1549,8 +2394,7 @@
       "contentId": "3a18d968-7c2e-4b80-a532-09fa1fac7f51.en-us",
       "contentLocale": "en-us",
       "rev": "cm2bS90wckmFWt5dS7F0Re",
-      "publishDate": "2026-09-02T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-09-02T15:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -1637,8 +2481,7 @@
       "contentId": "54575399-441e-4f21-b61a-3e682926e826.en-us",
       "contentLocale": "en-us",
       "rev": "Z9BeWME1u945Zrm5ymVefJ",
-      "publishDate": "2026-08-27T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-27T19:00:00.000Z"
     },
     "category": {
       "machineName": "media",
@@ -1724,8 +2567,7 @@
       "contentId": "2447dfe3-9097-410d-ab35-1c0658f62f3f.en-us",
       "contentLocale": "en-us",
       "rev": "1H3w8dPSMxzm3Pp6UBMn5h",
-      "publishDate": "2026-08-26T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-26T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -1836,8 +2678,7 @@
       "contentId": "a394c111-b6b6-4ca7-8b51-164b402d6400.en-us",
       "contentLocale": "en-us",
       "rev": "ExoG2LGpYSmX7BhUZEyLbi",
-      "publishDate": "2026-08-26T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-26T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -1916,8 +2757,7 @@
       "contentId": "4dbf7077-21c1-4cc4-85ee-80fc486b5396.en-us",
       "contentLocale": "en-us",
       "rev": "ExoG2LGpYSmX7BhUZJVNiU",
-      "publishDate": "2026-08-26T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-26T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -2004,8 +2844,7 @@
       "contentId": "01130ec9-7c14-41a1-893e-6e10eeb5cf04.en-us",
       "contentLocale": "en-us",
       "rev": "azUrToz0QDT8cMzYN7CEYu",
-      "publishDate": "2026-08-25T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-25T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -2084,8 +2923,7 @@
       "contentId": "patchNote.445108a9-b3c4-419b-84dd-5a1d343aaf31.en-us",
       "contentLocale": "en-us",
       "rev": "igBJ4wrOOF6v9DEo8ocgPr",
-      "publishDate": "2026-08-25T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-25T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -2171,8 +3009,7 @@
       "contentId": "4ac3650a-bbc4-497f-a1b5-72e8590a40ab.en-us",
       "contentLocale": "en-us",
       "rev": "azUrToz0QDT8cMzYN7CEYu",
-      "publishDate": "2026-08-24T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-24T19:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2250,8 +3087,7 @@
       "contentId": "f726c399-41c7-45b5-bd62-3dd97bccd5c3.en-us",
       "contentLocale": "en-us",
       "rev": "ZfrnkoFPwLWc3MbImDekOe",
-      "publishDate": "2026-08-21T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-21T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2369,8 +3205,7 @@
       "contentId": "13273cfb-f4a5-4557-b2f7-4d7c71ee3b31.en-us",
       "contentLocale": "en-us",
       "rev": "yClk0DBJVBOsUSNb1M1xfS",
-      "publishDate": "2026-08-20T02:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-20T02:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -2448,8 +3283,7 @@
       "contentId": "eb55c584-eee4-4857-b825-fe0cdf98b30b.en-us",
       "contentLocale": "en-us",
       "rev": "umT8EvfzerrOaLUKFsawMo",
-      "publishDate": "2026-08-19T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-19T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -2529,8 +3363,7 @@
       "contentId": "035ad6a6-565f-4912-ad63-da0736811421.en-us",
       "contentLocale": "en-us",
       "rev": "gebeW1zYggN3eO9X9ag6lt",
-      "publishDate": "2026-08-13T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-13T19:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2610,8 +3443,7 @@
       "contentId": "article.36c3370a-60fa-4ba4-9546-3d1117ef0514.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQlwJB",
-      "publishDate": "2026-08-11T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-11T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -2689,8 +3521,7 @@
       "contentId": "7c5cd1fe-e182-46d4-a624-a663dd86d660.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotdAReM",
-      "publishDate": "2026-08-11T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-08-11T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -2774,8 +3605,7 @@
       "contentId": "patchNote.4165791d-0b93-4dc1-b815-aa77fc722ef7.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd7j7C",
-      "publishDate": "2026-07-28T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-28T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -2861,8 +3691,7 @@
       "contentId": "e524caa7-8be5-4567-b0e3-90f58d8dec1b.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQo9D7",
-      "publishDate": "2026-07-27T20:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-27T20:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -2942,8 +3771,7 @@
       "contentId": "d42202b2-7f48-4511-9118-81e154b7ede0.en-us",
       "contentLocale": "en-us",
       "rev": "9aULudjoO5D8m1sCUKvzJt",
-      "publishDate": "2026-07-27T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-27T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3022,8 +3850,7 @@
       "contentId": "71a4c680-f33a-4157-b844-67b38c4743b8.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd2WTO",
-      "publishDate": "2026-07-27T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-27T15:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -3104,8 +3931,7 @@
       "contentId": "e4510691-ae33-4cfd-ae6c-6cf155cf3a9e.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQo7gn",
-      "publishDate": "2026-07-23T22:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-23T22:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3184,8 +4010,7 @@
       "contentId": "bb289a18-a032-44c3-8f9a-929bde150188.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd4GU8",
-      "publishDate": "2026-07-20T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-20T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -3263,8 +4088,7 @@
       "contentId": "025a2f69-5855-4d52-8f3b-d95e7bc9a88c.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvKXbF",
-      "publishDate": "2026-07-14T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-14T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -3350,8 +4174,7 @@
       "contentId": "81505a0f-030f-47ea-b874-b307d9fcef21.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd2qFw",
-      "publishDate": "2026-07-13T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-13T17:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -3432,8 +4255,7 @@
       "contentId": "article.18fdf26f-6551-4958-9d8d-59effeb3ba96.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQlwJB",
-      "publishDate": "2026-07-12T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-12T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -3513,8 +4335,7 @@
       "contentId": "b572bbf4-4223-4077-a810-35a87cf859ff.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvTXfR",
-      "publishDate": "2026-07-11T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-11T13:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -3599,8 +4420,7 @@
       "contentId": "56895e4d-5c58-4956-a57b-77da56404fa8.en-us",
       "contentLocale": "en-us",
       "rev": "XwQu00x8VSJRqtJLR8HEkX",
-      "publishDate": "2026-07-11T12:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-11T12:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -3681,8 +4501,7 @@
       "contentId": "11699e56-f1d2-44f2-b452-9aebb497c20a.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQj8d3",
-      "publishDate": "2026-07-10T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-10T13:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -3760,8 +4579,7 @@
       "contentId": "9ccc3d8e-7c6b-4cd5-a92c-d5679b5272a1.en-us",
       "contentLocale": "en-us",
       "rev": "qtQ42E6swcy3kKeX74ofIj",
-      "publishDate": "2026-07-10T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-10T13:00:00.000Z"
     },
     "category": {
       "machineName": "announcements",
@@ -3839,8 +4657,7 @@
       "contentId": "96e24f30-53a7-49a5-aaf3-39eddf813629.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvS5M7",
-      "publishDate": "2026-07-09T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-07-09T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -3927,8 +4744,7 @@
       "contentId": "cbe4c320-fe84-44f9-821f-40e58d2bbcc3.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQmsIP",
-      "publishDate": "2026-06-24T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-24T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -4006,8 +4822,7 @@
       "contentId": "014acd5a-0258-4e13-85c8-039cd17a0711.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQiuiz",
-      "publishDate": "2026-06-24T11:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-24T11:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -4091,8 +4906,7 @@
       "contentId": "49141c33-01da-4383-bb51-c2918fe88e51.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd1bua",
-      "publishDate": "2026-06-23T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-23T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -4178,8 +4992,7 @@
       "contentId": "af24f5ce-38b4-4a99-979f-add6aba4193f.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvT2da",
-      "publishDate": "2026-06-22T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-22T17:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -4259,8 +5072,7 @@
       "contentId": "9981ed18-9d91-4d4a-a69c-e0785412ce71.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQlcWz",
-      "publishDate": "2026-06-22T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-22T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -4345,8 +5157,7 @@
       "contentId": "51aceed3-54b1-43f7-9de8-f34bee743fc5.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvPJOd",
-      "publishDate": "2026-06-22T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-22T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -4431,8 +5242,7 @@
       "contentId": "9f8dc5be-48a0-461a-8c9f-9aab26df5f31.en-us",
       "contentLocale": "en-us",
       "rev": "wVFGYoGgosk0w42Xx6W1Jk",
-      "publishDate": "2026-06-12T19:00:08.387Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-12T19:00:08.387Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -4512,8 +5322,7 @@
       "contentId": "0283fe05-0960-4dd3-8ba9-1797718c2c2c.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvKa5y",
-      "publishDate": "2026-06-12T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-12T19:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -4598,8 +5407,7 @@
       "contentId": "d1d38240-5056-4306-b7b9-7298292aa28c.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd5Sti",
-      "publishDate": "2026-06-09T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-09T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -4685,8 +5493,7 @@
       "contentId": "8f652a62-4a5b-4733-b4ee-90f9433af5e0.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvRplo",
-      "publishDate": "2026-06-08T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-08T17:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -4767,8 +5574,7 @@
       "contentId": "62c4c15c-4467-43be-9ec8-11dbd96b78fc.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd2H4E",
-      "publishDate": "2026-06-02T00:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-06-02T00:00:00.000Z"
     },
     "category": {
       "machineName": "media",
@@ -4847,8 +5653,7 @@
       "contentId": "83287c1e-6f6c-4ee3-b946-0c8ca12cf87c.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd2uGa",
-      "publishDate": "2026-05-28T17:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-28T17:30:00.000Z"
     },
     "category": {
       "machineName": "community",
@@ -4927,8 +5732,7 @@
       "contentId": "204796c5-c000-477c-914a-567f5b2fac35.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd0MoE",
-      "publishDate": "2026-05-27T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-27T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -5012,8 +5816,7 @@
       "contentId": "29de2b9d-f5aa-4cfb-a3e7-040f792fccb3.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQjkf7",
-      "publishDate": "2026-05-27T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-27T17:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -5094,8 +5897,7 @@
       "contentId": "cfefabf7-9288-4556-bb7a-50a1ca07aaf7.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd57QY",
-      "publishDate": "2026-05-27T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-27T13:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -5174,8 +5976,7 @@
       "contentId": "4b1ffb0f-8610-4988-99a2-bc429e945a5c.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvOv9A",
-      "publishDate": "2026-05-26T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-26T17:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -5255,8 +6056,7 @@
       "contentId": "986f44a6-2c92-408f-80b8-eabdc8f01caf.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvSErp",
-      "publishDate": "2026-05-13T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-13T17:00:00.000Z"
     },
     "category": {
       "machineName": "announcements",
@@ -5334,8 +6134,7 @@
       "contentId": "41178517-b648-460c-a18a-ae15834fc195.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQkDxN",
-      "publishDate": "2026-05-12T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-05-12T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -5419,8 +6218,7 @@
       "contentId": "a2fd70d2-1fe5-409d-9d4f-9fec846ab841.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQlnSn",
-      "publishDate": "2026-04-28T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-28T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -5504,8 +6302,7 @@
       "contentId": "3ce7bd8a-729e-4476-a881-90f99dafe10c.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvO0b1",
-      "publishDate": "2026-04-27T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-27T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -5592,8 +6389,7 @@
       "contentId": "article.a8d61eab-7a40-4cbf-9961-d0307f1aa4d6.en-us",
       "contentLocale": "en-us",
       "rev": "o0WBjfw6LmJLEPyuHipnry",
-      "publishDate": "2026-04-16T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-16T16:00:00.000Z"
     },
     "category": {
       "machineName": "media",
@@ -5679,8 +6475,7 @@
       "contentId": "eb87e3db-4f7e-48c5-993e-3fc6ee9d25de.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvYyWV",
-      "publishDate": "2026-04-15T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-15T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -5791,8 +6586,7 @@
       "contentId": "3ba81f4b-1eb8-4171-9459-715e135c7b26.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQk6dJ",
-      "publishDate": "2026-04-15T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-15T15:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -5873,8 +6667,7 @@
       "contentId": "d05340f6-6e9e-4552-8ea3-6ac2ae093b9f.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd5QWe",
-      "publishDate": "2026-04-15T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-15T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -5958,8 +6751,7 @@
       "contentId": "65c07a4e-dc76-4f43-8892-44b905285f4d.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvQ6n2",
-      "publishDate": "2026-04-15T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-15T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -6044,8 +6836,7 @@
       "contentId": "43c09088-09e7-431f-893b-494c0ebbbf61.en-us",
       "contentLocale": "en-us",
       "rev": "rdV3nyP359VYh3GlyR2MOZ",
-      "publishDate": "2026-04-14T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-14T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -6129,8 +6920,7 @@
       "contentId": "1e001955-c127-4e3b-85ae-c0b8d36904d0.en-us",
       "contentLocale": "en-us",
       "rev": "iA3Eg1v50p1NFdwLFeM7eR",
-      "publishDate": "2026-04-14T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-14T17:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -6208,8 +6998,7 @@
       "contentId": "72bff6ee-5314-4d59-b36e-a4308c11a334.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd2YnQ",
-      "publishDate": "2026-04-01T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-04-01T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -6294,8 +7083,7 @@
       "contentId": "128148cd-b5a0-4abc-a77d-5f52c841675d.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvLG62",
-      "publishDate": "2026-03-31T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-31T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -6379,8 +7167,7 @@
       "contentId": "875cf9db-ab49-418d-bd97-26eec6d73766.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd2zBK",
-      "publishDate": "2026-03-30T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-30T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -6467,8 +7254,7 @@
       "contentId": "fee81618-9301-40f3-b2ab-9e5f28a4335d.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd7NBE",
-      "publishDate": "2026-03-28T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-28T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6574,8 +7360,7 @@
       "contentId": "d99f5b74-c895-4850-bfcb-74267402a752.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd5cto",
-      "publishDate": "2026-03-27T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-27T16:00:00.000Z"
     },
     "category": {
       "machineName": "media",
@@ -6656,8 +7441,7 @@
       "contentId": "5f751fb0-d260-4ab1-9571-29433976d915.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd2A68",
-      "publishDate": "2026-03-26T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-26T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -6742,8 +7526,7 @@
       "contentId": "3df8110c-f969-479d-9fb1-e51b137f39c2.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd18WC",
-      "publishDate": "2026-03-19T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-19T13:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -6829,8 +7612,7 @@
       "contentId": "66362c65-b08c-470c-a707-d800701404b8.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQkq9J",
-      "publishDate": "2026-03-19T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-19T13:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -6915,8 +7697,7 @@
       "contentId": "80c13d65-71ce-4dd9-8ad2-5268d94d9bc3.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd2qFw",
-      "publishDate": "2026-03-18T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-18T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -7001,8 +7782,7 @@
       "contentId": "9cebb479-62d1-4a42-b003-d36b8a89e5f8.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvSVaC",
-      "publishDate": "2026-03-17T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-17T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -7086,8 +7866,7 @@
       "contentId": "e307e975-628b-449f-a724-d05e0362891c.en-us",
       "contentLocale": "en-us",
       "rev": "Yc5d02qxUkJNj1r8eWcNB4",
-      "publishDate": "2026-03-05T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-05T15:00:00.000Z"
     },
     "category": {
       "machineName": "announcements",
@@ -7172,8 +7951,7 @@
       "contentId": "8caba30c-7ea5-4d42-8604-733d0526cb9d.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvRiHd",
-      "publishDate": "2026-03-03T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-03-03T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -7257,8 +8035,7 @@
       "contentId": "b23643be-1959-405c-84c9-19195dcd9c53.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQmAJp",
-      "publishDate": "2026-02-26T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-02-26T16:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -7337,8 +8114,7 @@
       "contentId": "bffaebc1-274e-4d5c-9ed4-099cc2ec341a.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQmIBt",
-      "publishDate": "2026-02-18T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-02-18T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -7454,8 +8230,7 @@
       "contentId": "d9b7745b-e738-478f-8e58-4766ad3ecdc9.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd5cto",
-      "publishDate": "2026-02-04T02:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-02-04T02:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -7544,8 +8319,7 @@
       "contentId": "f6634ada-19e9-4b99-a3a1-4632ca144afd.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQoPI5",
-      "publishDate": "2026-02-03T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-02-03T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -7630,8 +8404,7 @@
       "contentId": "305053d0-40d4-45c5-bdab-573728e032bb.en-us",
       "contentLocale": "en-us",
       "rev": "XCTgZQwSGIOEwOvRbvNATI",
-      "publishDate": "2026-01-30T21:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-30T21:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -7726,8 +8499,7 @@
       "contentId": "71d10fcf-a747-4e3e-9a7f-aa0e945823de.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd2XqI",
-      "publishDate": "2026-01-28T02:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-28T02:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -7808,8 +8580,7 @@
       "contentId": "a725370f-f933-4994-ae93-d40eaed69499.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQlqo5",
-      "publishDate": "2026-01-27T17:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-27T17:30:00.000Z"
     },
     "category": {
       "machineName": "media",
@@ -7909,8 +8680,7 @@
       "contentId": "3bba7736-b172-43c5-bf1d-fa073f14c204.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd12ry",
-      "publishDate": "2026-01-22T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-22T17:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -7991,8 +8761,7 @@
       "contentId": "35320354-feab-4b1e-a88a-90cdc817cc2d.en-us",
       "contentLocale": "en-us",
       "rev": "6XA1g2G7fs9w8INyqcJ3jd",
-      "publishDate": "2026-01-22T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-22T16:00:00.000Z"
     },
     "category": {
       "machineName": "media",
@@ -8077,8 +8846,7 @@
       "contentId": "patchNote.3a80aab5-f6f0-45e7-94c7-afeeab1f70d1.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd7j7C",
-      "publishDate": "2026-01-21T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-21T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -8162,8 +8930,7 @@
       "contentId": "0acc4ab5-4602-4abb-aa76-d3348bc56d57.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQj2SH",
-      "publishDate": "2026-01-21T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-21T17:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -8257,8 +9024,7 @@
       "contentId": "f21e0657-0c99-4669-ab1c-eb88ac5a10af.en-us",
       "contentLocale": "en-us",
       "rev": "OaUfzy2DT15srQJotd6wwQ",
-      "publishDate": "2026-01-16T02:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-16T02:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -8338,8 +9104,7 @@
       "contentId": "488348d7-6235-42ff-866a-f6f464bed7a7.en-us",
       "contentLocale": "en-us",
       "rev": "I6kxhdTbzMjOE4Y1tQkPhd",
-      "publishDate": "2026-01-09T21:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-09T21:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -8420,8 +9185,7 @@
       "contentId": "8cd191ef-a557-47e8-8b31-f468c82a9e7f.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2026-01-09T00:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-09T00:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -8500,8 +9264,7 @@
       "contentId": "a217b8ea-816b-4e81-ad89-4b0f9ad7408c.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2026-01-07T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-07T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -8587,8 +9350,7 @@
       "contentId": "64042652-76f6-4a45-ad33-d36a68e6d1d6.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2026-01-07T00:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-07T00:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -8683,8 +9445,7 @@
       "contentId": "f2ecb521-377f-4ec1-9921-572117d38015.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrfec",
-      "publishDate": "2026-01-06T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-06T14:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -8769,8 +9530,7 @@
       "contentId": "c463ea60-6bf4-40b4-af78-5f17a5acd8a5.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q73eh",
-      "publishDate": "2026-01-06T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-06T13:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -8855,8 +9615,7 @@
       "contentId": "6f27e1b1-6b6f-4689-b56c-50591393d3dd.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2026-01-05T08:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2026-01-05T08:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -8935,8 +9694,7 @@
       "contentId": "463899cd-a879-4964-bfd8-b93622eb4f93.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOH8F5C",
-      "publishDate": "2025-12-17T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-17T16:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -9036,8 +9794,7 @@
       "contentId": "4dbfa7d0-eee5-4140-be64-eb0d4dfa6f6f.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixqvlS",
-      "publishDate": "2025-12-17T09:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-17T09:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -9124,8 +9881,7 @@
       "contentId": "f00a3d4c-2ef9-4a96-ad12-06467e1d4968.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-12-15T07:35:05Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-15T07:35:05Z"
     },
     "category": {
       "machineName": "esports",
@@ -9220,8 +9976,7 @@
       "contentId": "c084de14-3e35-4ebd-85b8-3cc9a3da1c90.en-us",
       "contentLocale": "en-us",
       "rev": "QEVRm1pZNxFN4JPIcZyNgc",
-      "publishDate": "2025-12-15T02:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-15T02:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -9322,8 +10077,7 @@
       "contentId": "d8025b09-06b1-4c7e-a272-37db38fe15f2.en-us",
       "contentLocale": "en-us",
       "rev": "QEVRm1pZNxFN4JPIcZySPW",
-      "publishDate": "2025-12-14T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-14T14:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -9404,8 +10158,7 @@
       "contentId": "9e5184d8-a66a-418d-8fd5-728b3a541ec5.en-us",
       "contentLocale": "en-us",
       "rev": "jP9f0Lvfh33UmCHqkL6RH9",
-      "publishDate": "2025-12-14T12:45:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-14T12:45:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -9500,8 +10253,7 @@
       "contentId": "968bfaef-10c8-46cf-bad0-02ec35942578.en-us",
       "contentLocale": "en-us",
       "rev": "QEVRm1pZNxFN4JPIcZyIv8",
-      "publishDate": "2025-12-08T22:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-08T22:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -9596,8 +10348,7 @@
       "contentId": "7e6adbfe-b0e7-4f87-8e07-19fcd9d0ad4c.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixr7Tz",
-      "publishDate": "2025-12-08T13:00:05.756Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-08T13:00:05.756Z"
     },
     "category": {
       "machineName": "esports",
@@ -9676,8 +10427,7 @@
       "contentId": "289cb176-4c8c-4c53-8adc-4eb0bacb18b2.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3Zid",
-      "publishDate": "2025-12-05T16:00:50.376Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-05T16:00:50.376Z"
     },
     "category": {
       "machineName": "esports",
@@ -9777,8 +10527,7 @@
       "contentId": "ddd88ec1-ee91-4d8f-a41f-2402cd0fa53f.en-us",
       "contentLocale": "en-us",
       "rev": "p5IvXxb250vkMJQJifbAdV",
-      "publishDate": "2025-12-04T02:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-04T02:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -9858,8 +10607,7 @@
       "contentId": "3c763bfa-5e86-47b4-9643-646aab748c78.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOH8F5C",
-      "publishDate": "2025-12-03T20:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-03T20:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -9948,8 +10696,7 @@
       "contentId": "e9ee79b0-fa3c-4dbc-a7e6-c860dac28d3a.en-us",
       "contentLocale": "en-us",
       "rev": "rdV3nyP359VYh3GlyQyHF8",
-      "publishDate": "2025-12-02T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-02T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -10033,8 +10780,7 @@
       "contentId": "ef216dcc-f1bd-462c-93a9-96c1181b1500.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-12-02T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-02T17:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -10120,8 +10866,7 @@
       "contentId": "5a0bfeb5-47a8-4f53-bb3f-eb1fe3363698.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOH8F5C",
-      "publishDate": "2025-12-02T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-02T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -10206,8 +10951,7 @@
       "contentId": "3a6c8662-81c6-4e6c-a22f-d9f45fb7efb7.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOH8F5C",
-      "publishDate": "2025-12-02T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-12-02T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -10301,8 +11045,7 @@
       "contentId": "006b59b4-a5f7-4257-8338-d26e3266b965.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixqjV3",
-      "publishDate": "2025-11-30T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-30T14:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -10382,8 +11125,7 @@
       "contentId": "adb17f5a-226d-4658-bb90-0fa3c2389388.en-us",
       "contentLocale": "en-us",
       "rev": "GUa2UfCcVl2fsIlnOP9yYO",
-      "publishDate": "2025-11-27T03:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-27T03:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -10470,8 +11212,7 @@
       "contentId": "83bcb5aa-4704-4cf1-9dac-621d60387c38.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2025-11-26T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-26T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -10572,8 +11313,7 @@
       "contentId": "8f68c066-ccdd-465f-b5a2-c6ee28a3c448.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrASa",
-      "publishDate": "2025-11-24T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-24T14:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -10653,8 +11393,7 @@
       "contentId": "35a7de9b-0b9d-46dc-bbf7-0c97a2e982d6.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3Zid",
-      "publishDate": "2025-11-20T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-20T14:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -10755,8 +11494,7 @@
       "contentId": "a1b85c2a-d4a1-48d9-8c82-fbc6affa71b0.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrDlV",
-      "publishDate": "2025-11-20T02:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-20T02:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -10835,8 +11573,7 @@
       "contentId": "77cd369c-8e8f-4dda-a194-c75df233c0f7.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2025-11-19T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-19T16:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -10921,8 +11658,7 @@
       "contentId": "e4cd337a-f6e8-4e2d-b270-8ec7e63f7fe4.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-11-18T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-18T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -11008,8 +11744,7 @@
       "contentId": "0bef5809-0b8e-4868-9c7f-9b37548a0e68.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOH6iZq",
-      "publishDate": "2025-11-18T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-18T14:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -11088,8 +11823,7 @@
       "contentId": "be52a9b1-e439-4a05-8dd6-a6d152a7b0bc.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q73eh",
-      "publishDate": "2025-11-17T08:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-17T08:00:00.000Z"
     },
     "category": {
       "machineName": "community",
@@ -11177,8 +11911,7 @@
       "contentId": "de5fab88-e27c-41d0-ad43-c6fddb9b2f84.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-11-16T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-16T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -11273,8 +12006,7 @@
       "contentId": "eac39803-68de-4e72-8b71-3dea7eb85076.en-us",
       "contentLocale": "en-us",
       "rev": "QEVRm1pZNxFN4JPIcZybiI",
-      "publishDate": "2025-11-15T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-15T15:00:00.000Z"
     },
     "category": {
       "machineName": "media",
@@ -11354,8 +12086,7 @@
       "contentId": "8fd88dd6-19f8-4d74-8ce5-e8ab63dc4021.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2025-11-14T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-14T14:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -11434,8 +12165,7 @@
       "contentId": "c3223cc6-ff75-4529-9ec4-8197da543ded.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q73eh",
-      "publishDate": "2025-11-13T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-13T18:00:00.000Z"
     },
     "category": {
       "machineName": "announcements",
@@ -11515,8 +12245,7 @@
       "contentId": "84ecb31b-9b40-47f3-96b7-df4e5ac1b414.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2025-11-09T08:45:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-09T08:45:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -11611,8 +12340,7 @@
       "contentId": "bcf3c0de-4e66-430b-81f7-b12efe2cb92b.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrJV9",
-      "publishDate": "2025-11-09T07:45:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-09T07:45:00.000Z"
     },
     "category": {
       "machineName": "media",
@@ -11690,8 +12418,7 @@
       "contentId": "a1d8d749-4bcc-401d-ae10-013b79528494.en-us",
       "contentLocale": "en-us",
       "rev": "ZZdM9pWE18ld6Xq3YPdOhG",
-      "publishDate": "2025-11-05T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-05T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -11778,8 +12505,7 @@
       "contentId": "e2f10fb7-4001-4d1d-acf5-680c46a925c7.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-11-05T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-05T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -11858,8 +12584,7 @@
       "contentId": "d371b202-6ddc-4e66-9b7c-1db61ddbb118.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-11-04T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-11-04T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -11943,8 +12668,7 @@
       "contentId": "dccd579f-bc46-482e-8b12-d7d0dd48db64.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-10-27T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-27T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12031,8 +12755,7 @@
       "contentId": "e0c9c4d9-614a-431d-968a-fb27d3f55f6f.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-10-23T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-23T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -12133,8 +12856,7 @@
       "contentId": "84cf2a04-dfbb-484e-a3cd-86d9599cfad2.en-us",
       "contentLocale": "en-us",
       "rev": "QEVRm1pZNxFN4JPIcZyGfm",
-      "publishDate": "2025-10-23T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-23T13:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -12220,8 +12942,7 @@
       "contentId": "26467c07-7328-4170-9117-a9984399e2de.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3Zid",
-      "publishDate": "2025-10-22T23:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-22T23:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -12308,8 +13029,7 @@
       "contentId": "989d7cfc-9e96-4e6f-8020-377bb13f01e9.en-us",
       "contentLocale": "en-us",
       "rev": "jQpCf8Pp9opSYjtkpv2tsF",
-      "publishDate": "2025-10-22T14:00:10.380Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-22T14:00:10.380Z"
     },
     "category": {
       "machineName": "esports",
@@ -12388,8 +13108,7 @@
       "contentId": "2686ea62-3653-4970-bbfd-61286632c014.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-10-21T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-21T18:00:00.000Z"
     },
     "category": {
       "machineName": "game-updates",
@@ -12474,8 +13193,7 @@
       "contentId": "dfab5beb-8303-4e27-85b9-89f5c72fa028.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-10-17T18:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-17T18:30:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -12570,8 +13288,7 @@
       "contentId": "e768d6a6-b797-41a6-9e1c-01bf0ecdfadd.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrcK0",
-      "publishDate": "2025-10-17T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-17T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -12651,8 +13368,7 @@
       "contentId": "2a49fd37-c883-4662-8a0e-8a51da0bfeeb.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3Zid",
-      "publishDate": "2025-10-14T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-14T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -12747,8 +13463,7 @@
       "contentId": "3e4d0007-3f5a-4720-8f4c-7f9c91b70336.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixqslA",
-      "publishDate": "2025-10-13T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-13T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -12849,8 +13564,7 @@
       "contentId": "6ac31c50-d629-4525-8815-a17ad2880a4c.en-us",
       "contentLocale": "en-us",
       "rev": "p5IvXxb250vkMJQJifb0Xp",
-      "publishDate": "2025-10-13T01:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-13T01:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -12951,8 +13665,7 @@
       "contentId": "ed999ccd-3b44-42de-bb23-de5bf50c107b.en-us",
       "contentLocale": "en-us",
       "rev": "QEVRm1pZNxFN4JPIcZybiI",
-      "publishDate": "2025-10-10T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-10T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -13053,8 +13766,7 @@
       "contentId": "a1cb5629-50d6-40b5-b13b-3fd0f9d48f13.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrDlV",
-      "publishDate": "2025-10-08T01:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-08T01:30:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -13133,8 +13845,7 @@
       "contentId": "41ba2b33-666f-436a-a2dc-ae2c77320921.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-10-07T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-07T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -13218,8 +13929,7 @@
       "contentId": "e020b9d6-d121-433e-85ba-d2036bb0229b.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-10-07T00:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-07T00:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -13299,8 +14009,7 @@
       "contentId": "eef689ff-38b2-4c2f-8dd3-331a8854bf03.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-10-02T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-10-02T16:00:00.000Z"
     },
     "category": {
       "machineName": "community",
@@ -13385,8 +14094,7 @@
       "contentId": "31f1d84d-12ba-4428-a17d-fb6f3332cdc7.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3Zid",
-      "publishDate": "2025-09-30T14:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-30T14:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -13481,8 +14189,7 @@
       "contentId": "f4932f69-4a29-42f1-a82b-ab5405f915e0.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrfec",
-      "publishDate": "2025-09-29T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-29T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -13582,8 +14289,7 @@
       "contentId": "a4e6684e-5c4e-44aa-b7e3-34bc84147ef9.en-us",
       "contentLocale": "en-us",
       "rev": "p5IvXxb250vkMJQJifb40X",
-      "publishDate": "2025-09-26T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-26T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -13661,8 +14367,7 @@
       "contentId": "e59b6d27-56e9-405f-8cb7-4c921b850a58.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-09-23T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-23T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -13746,8 +14451,7 @@
       "contentId": "2cb8a17f-52f4-480e-8d23-637fcffe93ab.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3Zid",
-      "publishDate": "2025-09-23T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-23T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -13842,8 +14546,7 @@
       "contentId": "bddbcca4-16e7-4a93-bbef-9c2a3dbe357d.en-us",
       "contentLocale": "en-us",
       "rev": "QEVRm1pZNxFN4JPIcZyNgc",
-      "publishDate": "2025-09-17T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-17T16:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -13932,8 +14635,7 @@
       "contentId": "839cba48-a1b2-4bc1-86b4-7e3106a7564a.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-09-09T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-09T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -14019,8 +14721,7 @@
       "contentId": "f9ae103d-0d61-4bc4-a6d9-686031fd6866.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-09-09T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-09T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -14107,8 +14808,7 @@
       "contentId": "d31be93f-faa7-4df3-9d8d-4f2cd266c5b3.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q73eh",
-      "publishDate": "2025-09-08T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-08T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -14189,8 +14889,7 @@
       "contentId": "634ea526-c114-4af1-b090-414f9ded4d6f.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOH8F5C",
-      "publishDate": "2025-09-06T14:15:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-06T14:15:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -14271,8 +14970,7 @@
       "contentId": "ae735660-ca6e-408e-8115-dc943ca95895.en-us",
       "contentLocale": "en-us",
       "rev": "KDO1mZjw0URCxxxFd0uxYV",
-      "publishDate": "2025-09-05T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-05T17:00:00.000Z"
     },
     "category": {
       "machineName": "dev",
@@ -14373,8 +15071,7 @@
       "contentId": "05eb1308-4fea-4da7-a758-8f5d6f647f6b.en-us",
       "contentLocale": "en-us",
       "rev": "p5IvXxb250vkMJQJifatj7",
-      "publishDate": "2025-09-01T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-09-01T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -14469,8 +15166,7 @@
       "contentId": "e48bbe78-7305-4c97-b0f7-626a57bde2d6.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixrcK0",
-      "publishDate": "2025-08-29T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-29T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -14549,8 +15245,7 @@
       "contentId": "855e9227-8468-4af8-b86a-1e6f7ec31675.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2025-08-27T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-27T17:00:00.000Z"
     },
     "category": {
       "machineName": "community",
@@ -14639,8 +15334,7 @@
       "contentId": "ccc015cc-a535-4a38-87fe-62f516fd88d6.en-us",
       "contentLocale": "en-us",
       "rev": "JrdCdTB43ZIe9jtTvgejV1",
-      "publishDate": "2025-08-26T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-26T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -14724,8 +15418,7 @@
       "contentId": "0c2d9d97-a8a5-43e2-aba3-ad31ff7d9769.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOH6iZq",
-      "publishDate": "2025-08-22T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-22T15:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -14810,8 +15503,7 @@
       "contentId": "46736cb7-0ea7-452e-a4e8-98030439ac80.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOH8F5C",
-      "publishDate": "2025-08-20T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-20T18:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -14896,8 +15588,7 @@
       "contentId": "ca7c0135-5db7-4f0d-83f8-fcb36db43a5d.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q73eh",
-      "publishDate": "2025-08-20T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-20T15:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -14978,8 +15669,7 @@
       "contentId": "6f44587b-6c35-456d-b809-396d169aea71.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2025-08-20T12:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-20T12:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -15084,8 +15774,7 @@
       "contentId": "c2ed0ff3-11f7-42d0-8511-a2589834ed74.en-us",
       "contentLocale": "en-us",
       "rev": "QEVRm1pZNxFN4JPIcZyPxG",
-      "publishDate": "2025-08-18T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-18T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -15170,8 +15859,7 @@
       "contentId": "7a95d073-4e4d-4641-9c43-f3924f4c1c2c.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-08-12T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-12T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -15257,8 +15945,7 @@
       "contentId": "0720d076-2c0a-4591-98cb-41f0956ea06c.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOH6iZq",
-      "publishDate": "2025-08-05T17:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-05T17:30:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -15358,8 +16045,7 @@
       "contentId": "bcfa9d34-73a7-4456-8e32-d725b36d169d.en-us",
       "contentLocale": "en-us",
       "rev": "QEVRm1pZNxFN4JPIcZyNgc",
-      "publishDate": "2025-08-05T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-05T13:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -15446,8 +16132,7 @@
       "contentId": "8656eaaa-9a07-4989-9151-2a497f4de53c.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2025-08-04T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-04T16:00:00.000Z"
     },
     "category": {
       "machineName": "media",
@@ -15548,8 +16233,7 @@
       "contentId": "5ae6e7c3-4132-40ea-bef9-f7f02ef5e22b.en-us",
       "contentLocale": "en-us",
       "rev": "abDHz2fAvwwOn7ufixr1Wn",
-      "publishDate": "2025-08-04T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-04T13:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -15650,8 +16334,7 @@
       "contentId": "64749f6c-8a3a-429c-9584-8af79a66031f.en-us",
       "contentLocale": "en-us",
       "rev": "p5IvXxb250vkMJQJifb0Xp",
-      "publishDate": "2025-08-01T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-08-01T13:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -15752,8 +16435,7 @@
       "contentId": "6fb3f2e7-7a0f-4be0-8ad0-7efa37c95367.en-us",
       "contentLocale": "en-us",
       "rev": "p5IvXxb250vkMJQJifb0Xp",
-      "publishDate": "2025-07-31T16:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-31T16:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -15834,8 +16516,7 @@
       "contentId": "dce47b6d-f60f-42d6-af7d-c19fc82b8988.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q7TjT",
-      "publishDate": "2025-07-31T15:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-31T15:30:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -15915,8 +16596,7 @@
       "contentId": "33507674-1652-4173-b848-cad982af7217.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q3Zid",
-      "publishDate": "2025-07-30T19:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-30T19:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -16016,8 +16696,7 @@
       "contentId": "bd87f592-3c2d-48b8-a0e6-2e5bf030e3bb.en-us",
       "contentLocale": "en-us",
       "rev": "QEVRm1pZNxFN4JPIcZyNgc",
-      "publishDate": "2025-07-30T15:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-30T15:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -16095,8 +16774,7 @@
       "contentId": "71425069-96b8-4286-836c-ce712542534f.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-07-29T18:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-29T18:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -16181,8 +16859,7 @@
       "contentId": "ca7ae42f-5f5b-4f21-9fa9-359a7017d95d.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q73eh",
-      "publishDate": "2025-07-29T17:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-29T17:00:00.000Z"
     },
     "category": {
       "machineName": "game_updates",
@@ -16271,8 +16948,7 @@
       "contentId": "b5fb9b5d-bf9a-48ac-99c2-117b8b1f4efb.en-us",
       "contentLocale": "en-us",
       "rev": "wcF0J7hsRskGUKiR1Q73eh",
-      "publishDate": "2025-07-29T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-29T13:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -16358,8 +17034,7 @@
       "contentId": "aeafd9db-dd1e-4a8b-a583-47da15f8e002.en-us",
       "contentLocale": "en-us",
       "rev": "zZnyOGt25TdOcjQJda02I6",
-      "publishDate": "2025-07-28T15:34:24Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-28T15:34:24Z"
     },
     "category": {
       "machineName": "esports",
@@ -16446,8 +17121,7 @@
       "contentId": "4639a0ea-e016-4e95-a3dd-a298db870d6d.en-us",
       "contentLocale": "en-us",
       "rev": "iuvR1X3un5VQGa5MOH8F5C",
-      "publishDate": "2025-07-25T13:00:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-25T13:00:00.000Z"
     },
     "category": {
       "machineName": "esports",
@@ -16532,8 +17206,7 @@
       "contentId": "9558805a-96ac-453d-980b-c172fceaaa74.en-us",
       "contentLocale": "en-us",
       "rev": "ads3VO3GIhDTuio3rTitfl",
-      "publishDate": "2025-07-24T15:30:00.000Z",
-      "placementSourcing": "listed"
+      "publishDate": "2025-07-24T15:30:00.000Z"
     },
     "category": {
       "machineName": "media",
@@ -16571,876 +17244,6 @@
       {
         "machineName": "community",
         "title": "Community"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95d4a20e83ac87f9eddcbae7db1eb189bb96cb46-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#302B18",
-        "secondary": "#DCF2F9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/95d4a20e83ac87f9eddcbae7db1eb189bb96cb46-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#302B18",
-        "secondary": "#DCF2F9",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "iBlitzcrank Chibi Champion Showcase",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=XEE3nHM3YUo",
-        "youtubeId": "XEE3nHM3YUo",
-        "videoLengthInSeconds": 32
-      }
-    },
-    "analytics": {
-      "contentId": "3305b8ff-2786-4ff1-b314-b26a57543d11.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1Q3Zid",
-      "publishDate": "2025-07-17T13:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "All protocols are set to party! Ha ha ha! Activate maximum efficiency and fun with Chibi iBlitzcrank, now available in TFT."
-    },
-    "publishedAt": "2025-07-17T13:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_new_content_",
-        "title": "Teamfight Tactics New Content"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cb4ef25f33c236dd8537bc2a469a64eeaaea62c2-1599x901.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1599,
-        "height": 901,
-        "aspectRatio": 1.774694783573807
-      },
-      "colors": {
-        "primary": "#1A110D",
-        "secondary": "#F9EDDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cb4ef25f33c236dd8537bc2a469a64eeaaea62c2-1599x901.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1599,
-        "height": 901,
-        "aspectRatio": 1.774694783573807
-      },
-      "colors": {
-        "primary": "#1A110D",
-        "secondary": "#F9EDDC",
-        "label": "#000000"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "ZETA summertimer Wins the Tactician’s Crown!",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/esports/zeta-summertimer-wins-the-tacticians-crown"
-      }
-    },
-    "analytics": {
-      "contentId": "0ea74639-d7d7-47d6-b80f-737fcc25a074.en-us",
-      "contentLocale": "en-us",
-      "rev": "iuvR1X3un5VQGa5MOH6iZq",
-      "publishDate": "2025-07-16T15:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional Teamfight Tactics."
-    },
-    "description": {
-      "type": "html",
-      "body": "Cyber City Crowns the Ultimate Boss."
-    },
-    "publishedAt": "2025-07-16T15:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_esports",
-        "title": "Teamfight Tactics eSports"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/537e8317f6cc10c6e5907e81de6dadf6d49370de-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#323864",
-        "secondary": "#DCF9F4",
-        "label": "#10153F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/537e8317f6cc10c6e5907e81de6dadf6d49370de-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#323864",
-        "secondary": "#DCF9F4",
-        "label": "#10153F"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Teamfight Tactics patch 14.8 notes (2025)",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/teamfight-tactics-patch-14-8-notes-2025"
-      }
-    },
-    "analytics": {
-      "contentId": "31623fc8-de83-4dec-b148-9574300d28b9.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1QCezr",
-      "publishDate": "2025-07-15T18:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Changes for Cyber City, Remix Rumble, and a patch of Choncc’s Treasures—let’s go!"
-    },
-    "publishedAt": "2025-07-15T18:00:00.000Z",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "patch_notes",
-        "title": "Patch Notes"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b8ea5b3350d56f413acb5de07586ca1fd3b89968-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#9135B8",
-        "secondary": "#293333",
-        "label": "#1A101E"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b8ea5b3350d56f413acb5de07586ca1fd3b89968-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#9135B8",
-        "secondary": "#293333",
-        "label": "#1A101E"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Roles Revamped and Item Changes",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/roles-revamped-and-item-changes"
-      }
-    },
-    "analytics": {
-      "contentId": "6bd29933-01d6-4486-a546-c2609570da25.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2025-07-15T15:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "We’re changing up Roles in TFT! And some item changes that are coming with it."
-    },
-    "publishedAt": "2025-07-15T15:00:00.000Z",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1505e2b6c09974ff7b19137bf595e233cfafc3df-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8817F",
-        "secondary": "#2C2933",
-        "label": "#5A3230"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1505e2b6c09974ff7b19137bf595e233cfafc3df-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#B8817F",
-        "secondary": "#2C2933",
-        "label": "#5A3230"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "TFT | K.O. Coliseum Overview",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "/en-us/news/game-updates/tft-ko-coliseum-overview"
-      }
-    },
-    "analytics": {
-      "contentId": "c3a9416c-b857-4508-832a-1dd5dfb028f7.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1Q73eh",
-      "publishDate": "2025-07-14T15:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "game_updates",
-      "title": "Game Updates",
-      "description": "The definitive source on all updates coming to the game."
-    },
-    "description": {
-      "type": "html",
-      "body": "Get the hot scoop on this summer’s most epic anime battles!"
-    },
-    "publishedAt": "2025-07-14T15:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_new_content_",
-        "title": "Teamfight Tactics New Content"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f2b062cc0b73bdb616cd250ae57b6c18c5a4a2ff-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#4038B8",
-        "secondary": "#332A29",
-        "label": "#282646"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f2b062cc0b73bdb616cd250ae57b6c18c5a4a2ff-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#4038B8",
-        "secondary": "#332A29",
-        "label": "#282646"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "TFT Pro Circuit Explainer",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=XFtog-M50Hs",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "c802b549-9141-43d7-ac19-3f8e7d881dd7.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1Q73eh",
-      "publishDate": "2025-07-12T13:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional Teamfight Tactics."
-    },
-    "description": {
-      "type": "html",
-      "body": "Competition is leveling up. Learn all about the Pro Circuit coming to TFT."
-    },
-    "publishedAt": "2025-07-12T13:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    }
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/907255af63786377dbc621bd6f7ccd5e7b18eda1-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#4E4327",
-        "secondary": "#E9F9DC",
-        "label": "#241C09"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/907255af63786377dbc621bd6f7ccd5e7b18eda1-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#4E4327",
-        "secondary": "#E9F9DC",
-        "label": "#241C09"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "TFT Dev Drop: K.O. Coliseum",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=FKf0wrMEbz4",
-        "youtubeId": "FKf0wrMEbz4",
-        "videoLengthInSeconds": 0
-      }
-    },
-    "analytics": {
-      "contentId": "c4be0bb0-0712-462b-a481-61e33eb14d15.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1Q73eh",
-      "publishDate": "2025-07-11T17:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "dev",
-      "title": "Dev",
-      "description": "An inside look at the whats, whys, and hows of Teamfight Tactics."
-    },
-    "description": {
-      "type": "html",
-      "body": "Rally your squad, power up, and battle your way to Top 4 glory."
-    },
-    "publishedAt": "2025-07-11T17:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "dev",
-        "title": "/dev"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7231178f210a94cdce0f7c6258851ee5edb81da3-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#AE9EB8",
-        "secondary": "#2C2933",
-        "label": "#573969"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7231178f210a94cdce0f7c6258851ee5edb81da3-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#AE9EB8",
-        "secondary": "#2C2933",
-        "label": "#573969"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "videoMedia": {
-      "type": "video",
-      "provider": "sanity",
-      "dimensions": {
-        "width": 1600,
-        "height": 900
-      },
-      "sources": [
-        {
-          "src": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/7fe435a049ef8b5779b55eeb2d5503892993b277.mp4?accountingTag=TFT",
-          "type": "video/mp4"
-        }
-      ]
-    },
-    "title": "K.O. Coliseum OP | Set Cinematic",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=DD3GGy2B_lw",
-        "youtubeId": "DD3GGy2B_lw",
-        "videoLengthInSeconds": 0
-      }
-    },
-    "analytics": {
-      "contentId": "8a410699-496c-4e19-8991-1f52f3518447.en-us",
-      "contentLocale": "en-us",
-      "rev": "QEVRm1pZNxFN4JPIcZyGfm",
-      "publishDate": "2025-07-11T13:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "media",
-      "title": "Media",
-      "description": "Explore the creative and behind-the-scenes for cinematics, music, and more."
-    },
-    "description": {
-      "type": "html",
-      "body": "Watch Fighter!! now"
-    },
-    "publishedAt": "2025-07-11T13:00:00.000Z",
-    "promoCardSize": "medium",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_new_content_",
-        "title": "Teamfight Tactics New Content"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8d79d1fcce91d8c1d0b49451b3fab06e5443edb0-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2F575F",
-        "secondary": "#F9DCEE",
-        "label": "#0E3239"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/8d79d1fcce91d8c1d0b49451b3fab06e5443edb0-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#2F575F",
-        "secondary": "#F9DCEE",
-        "label": "#0E3239"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "Live Now: #TFTCrown",
-    "action": {
-      "type": "weblink",
-      "payload": {
-        "url": "https://riot.com/TACTICIANSCROWN",
-        "isExternal": true
-      }
-    },
-    "analytics": {
-      "contentId": "692b749c-ef27-48bb-8b5d-13237e6e9444.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2025-07-11T11:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional Teamfight Tactics."
-    },
-    "description": {
-      "type": "html",
-      "body": "The world’s best TFT players are here. Who’s taking over Cyber City?"
-    },
-    "publishedAt": "2025-07-11T11:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_esports",
-        "title": "Teamfight Tactics eSports"
-      }
-    ]
-  },
-  {
-    "media": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/aebf3ee8d239aec60319730f8edfb305bc886e30-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#478EB8",
-        "secondary": "#292933",
-        "label": "#2C4351"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "imageMedia": {
-      "type": "image",
-      "provider": "sanity",
-      "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/aebf3ee8d239aec60319730f8edfb305bc886e30-1920x1080.jpg?accountingTag=TFT",
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777
-      },
-      "colors": {
-        "primary": "#478EB8",
-        "secondary": "#292933",
-        "label": "#2C4351"
-      },
-      "mimeType": "image/jpeg"
-    },
-    "title": "TFT Cyber City Regional Highlights",
-    "action": {
-      "type": "youtube_video",
-      "payload": {
-        "url": "https://www.youtube.com/watch?v=5X7T870eusQ",
-        "youtubeId": "5X7T870eusQ",
-        "videoLengthInSeconds": 61
-      }
-    },
-    "analytics": {
-      "contentId": "77683c6d-37b0-4e7b-9f7d-8ba73555925a.en-us",
-      "contentLocale": "en-us",
-      "rev": "wcF0J7hsRskGUKiR1Q3yL5",
-      "publishDate": "2025-07-10T14:00:00.000Z",
-      "placementSourcing": "listed"
-    },
-    "category": {
-      "machineName": "esports",
-      "title": "Esports",
-      "description": "The world stage for professional Teamfight Tactics."
-    },
-    "description": {
-      "type": "html",
-      "body": "Watch the biggest plays from each region's kingpins before the #TFTCrown Big Boss takes over!"
-    },
-    "publishedAt": "2025-07-10T14:00:00.000Z",
-    "promoCardSize": "small",
-    "product": {
-      "title": "Teamfight Tactics",
-      "machineName": "teamfight_tactics",
-      "id": "product.teamfight_tactics.en-us",
-      "media": {
-        "type": "image",
-        "provider": "sanity",
-        "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/99f44365b1293979d094be183adfc57ee1d8f529-24x24.svg?accountingTag=TFT",
-        "dimensions": {
-          "width": 24,
-          "height": 24,
-          "aspectRatio": 1
-        },
-        "colors": {
-          "primary": "#ffb60d",
-          "secondary": "#F9F6DC",
-          "label": "#241C09"
-        },
-        "mimeType": "image/svg+xml"
-      }
-    },
-    "tags": [
-      {
-        "machineName": "teamfight_tactics_esports",
-        "title": "Teamfight Tactics eSports"
       }
     ]
   }
